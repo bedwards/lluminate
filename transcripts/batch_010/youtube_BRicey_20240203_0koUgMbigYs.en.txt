@@ -1,0 +1,187 @@
+what is a normal Vector because often
+times when you're dealing with raycast
+or maybe some other 3D stuff in Roblox
+and in other domains you will have to
+use a normal they're incredibly useful
+but they're also kind of confusing
+especially since the name doesn't really
+mean much and in linear algebra and
+other mathematical domains you have
+Norms normal and normalized which all
+mean different things even though
+they're the like the same word but we're
+going to talk about normal vectors today
+so what is a normal Vector let's say you
+have a plane in 3D space this is like
+all the three axes so this is your plane
+and the plane has a normal Vector its
+normal would be kind of like this so
+This drawing kind of sucks because I'm a
+bad drawer but the whole idea here is a
+normal Vector is a vector that is
+perpendicular to the plane now we draw
+it like an arrow like here because it it
+points the direction but a normal is
+nothing more than a direction if you
+were to like actually plot the normal on
+three axes on its own it would literally
+just be a a vector could be here could
+be there could be wherever but we draw
+it on top of the plane to make it like
+so that like that's the plane's
+Direction and use normals to define a
+plane because there's
+only like three vectors that you can
+like deal with in in 3D space to like
+make things relative to other things you
+have like the normal vector and then you
+have like the two other vectors on the
+plane actually let's draw this in
+different color so you have like the two
+other vectors on the plane like this but
+it's easier to define a plane using this
+one normal Vector as opposed to the two
+other vectors because they have to be
+orthonormal meaning like they're
+perpendicular and they have to be like
+unit vectors yeah a normal Vector
+doesn't really have to be unit Vector
+although in Roblox it is just for
+convenience a lot of situations but
+essentially it's just a vector
+perpendicular to the plane now let's hop
+into Roblox and see what exactly that
+means so here in robloxs I have a little
+setup I have a part which this part is
+going to cast a ray onto this other part
+which is a plane they're all anchored
+all kind of like default Parts I just
+kind of colored them so the the goal for
+us is to kind of experiment with the
+normal stuff and in this you know Ray
+casting part I have a script the script
+basically what it
+does is it don't don't don't disregard
+that part uh the script what it does is
+it has a part and you make a ray cast in
+The Look Vector so we're casting just
+100 Subs forward at the part toop
+position towards like where it's looking
+and make sure if you're trying to bucate
+what I'm doing make sure that the front
+face so right click show Ori orientation
+indicator this little f is pointing at
+the plane that you want to hit and then
+for now I guess let's just print the
+cast. normal can't really hurt um so
+what we can do is we can run
+it and you print cast.
+normal you get a normal down here yippy
+and I also have this part here well
+going to make a new one just so I can
+show you it it's going to be a kind of
+indicator so we want to make a little
+indicator part for our normal Vector so
+I'm going
+to um show orientation indicator make
+sure I'm making the front face kind of
+like the the narrow skinny one so I'm
+going to kind of narrow that down we're
+going to make it
+0.1.1 one so it's just kind of small
+make it
+red and then neon so this part is going
+to be kind of like a indicator of where
+our normal is so I'm going to edit the
+pivot I'm going to drag the pivot to the
+back of the part away from the front
+phas make sure it's centered like that
+just so we can like make it look like a
+a vector like with
+Direction and then I'm going to Anchor
+it and we're going to call this
+part the normal part and then in the
+script we're going to get the normal
+part I'm going to say local normal part
+equals workspace do normal part and then
+we're going
+to set the normal part dot or going to
+Pivot to normal part pivot 2 cframe
+dolal so we're going to start at a
+position and look along a direction
+Vector which in this case is a normal
+because a normal is nothing more than a
+Direction that's perpendicular to the
+plane and to start we're going to make
+it at zero so we're going to make Vector
+3.0 so that's 0 0 0 so it's going to
+start the origin and just kind of
+point it's going to point towards the
+cast. normal so let's see what this
+does so if you kind of look the parts
+over here kind of pointing this way and
+then the plane is over here and you can
+see sort of similar but like this is
+what a normal Vector is the normal
+Vector is just a normal Vector
+so that was a very bad statement the
+normal Vector is a regular Vector sorry
+it's a regular Vector that's just like
+sitting at the origin it doesn't it's
+just it's a direction it doesn't have
+position it's not anywhere if you want
+to visualize the normal Vector on the
+actual
+plane you
+can you can actually set
+the position to the cast stop position
+so that'll put it where the cast
+actually hits well I stop it and we
+rerun it so it put it where the cast
+actually
+hits so you see how this this normal
+Vector is you know more or less exactly
+perpendicular to the plane and if we are
+to if we were to like rotate the
+plane like like so just kind of like
+angle it about you know doesn't really
+matter just to see something else we run
+it again the normal Vector is now in a
+different spot facing a different
+direction but you'll notice if I were to
+move like this this part here really the
+position should change but the normal
+Vector
+shouldn't and the normal Vector is still
+in like the same position so again all
+the normal Vector is is a vector
+perpendicular to the plane that it sits
+on so I'm using a big part for this but
+like for example if you have like a
+wedge and you cast it like this
+direction normal Vector will still just
+like you know be facing out and up and
+I'm just using this plane for
+demonstration
+purposes but that's really it for
+normals they're not scary they're not
+hard to use and once you have this
+direction you're able to do pretty cool
+things like order or like order
+something or move something to like the
+plane and like make it sit on the plane
+as if it were the ground and stuff like
+that like just depending on rast like
+for I use this for the um like the laser
+bouncing video to like kind of Bounce
+the lasers across like mirrors so that
+that looks pretty cool so this is the
+same exact idea so I really hope you
+enjoyed this quick little informational
+video let me know if you want any more
+little quickies like this to get some
+info out but with that like And
+subscribe if you enjoyed hope you have a
+nice day and
+goodbye
+[Music]

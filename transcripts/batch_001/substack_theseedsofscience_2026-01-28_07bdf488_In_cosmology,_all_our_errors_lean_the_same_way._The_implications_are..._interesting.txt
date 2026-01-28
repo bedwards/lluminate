@@ -1,0 +1,233 @@
+Title: In cosmology, all our errors lean the same way. The implications are... interesting
+Source: theseedsofscience
+URL: https://www.theseedsofscience.pub/p/in-cosmology-all-our-errors-lean
+Date: Wed, 28 Jan 2026 16:35:11 GMT
+Word Count: 4606
+Estimated Read Time: 23 minutes
+
+================================================================================
+
+Probably best known for
+writing the ending to the video game Minecraft
+,
+Julian Gough
+is an award-winning Irish writer whose books, published in 36 languages, span serious literary novels, satire, science fiction, children’s books, and more recently cosmology. These essays are part of his experimental online non-fiction project
+The Egg and the Rock
+, which explores and extends the work of physicist Lee Smolin (and others), by applying the principles of Darwinian evolution to universes.
+OK, if I’m going to kick cosmology around the room in this post, I should probably define what it is first, and separate it out from astronomy as a whole.
+ASTRONOMY VERSUS COSMOLOGY
+Astronomy
+studies the objects we can see in our universe. (So: stars, planets, galaxies, etc…).
+Cosmology
+, however, is that subsection of astronomy which studies the origin of our universe, how it has developed so far, what its structure is, what lies in its future, and so on. (So: the big bang, the cosmic microwave background radiation,
+where the heck all the chemical elements come from
+, the ultimate heat death of the universe, etc…)
+Obviously there is a great deal of overlap between the two; but, as a general rule, astronomy is largely observational: it piles up data.
+Cosmology, however, is largely theoretical: building on that data, it theorises about the structure, origin, and development of the universe as a whole.
+SUBTLE EVIDENCE OF SOMETHING STRANGE…
+Which brings me to a subtle, but important, piece of evidence favouring the idea of an evolved universe (the idea we’re exploring in The Egg and the Rock) over a random and arbitrary one-shot universe (the mainstream assumption).
+Favouring, that is, the idea that our universe behaves like an egg (a complex evolved entity undergoing a highly structured process of development), rather than a rock (dead matter, slowly and randomly losing order over time).
+Which means favouring the idea that evolution, over countless earlier generations of universe, has fine-tuned the basic parameters of matter to not just allow for, but to actively encourage, enable, and enact, the stable, dynamic, out-of-equilibrium complexity we see all around us; from spiral galaxies, with their steadily glowing multi-billion-year-old stars, to a biosphere like Earth’s, with its complex, ever-evolving menagerie of interdependent creatures.
+That subtle piece of evidence is the fact that, in cosmology, over many centuries now,
+all our errors of prediction have leaned the same way
+.
+We have been consistently wrong about the complexity of the universe, and the efficiency of its processes; and consistently wrong in the same direction.
+The universe has always turned out to be larger than we expected; but more importantly, and more profoundly…
+Our universe has always turned out to be more complex in structure (at both large and small scales).
+Its energy production has always turned out to be more efficient than we had assumed.
+And, remarkably often, energy production that looked at first glance explosive and randomly-aimed, when looked at more closely turned out to be generating (and protecting) complexity in specific regions (such as Earth’s biosphere).
+That is, the flow of energy through the universe is such that, step by step, it builds out and protects complexity, rather than blowing all existing complexity apart.
+LET’S GO BACK
+Let’s go back to the very beginnings of science – what the hell, let’s go back
+before
+science – and just deal with scale. How big did we think the universe was?
+For an extremely long time, we thought there was only one planet, Earth.
+Then, as we begin to develop modern science, and tools like the telescope, we realised there were
+several
+planets (some with their own moons!), but thought that was an end to it: our sun, and those planets, formed the only solar system.
+Then we realised – again through closer observation – that the stars weren’t small lights close by, but were distant suns – and that we were, in fact, embedded in a swirling galaxy of such suns.
+Naturally we then assumed that our galaxy, the Milky Way, was the only galaxy.
+So wedded were we to the idea that there could only be one galaxy that we continued to assume this even after we’d begun
+looking at other galaxies through powerful telescopes
+. We called many of them “spiral nebulae” for years (“nebula” meaning fog or cloud in Latin), and assumed right up until the 1920s that they were small clouds of gas, close by, rather than (as so many of them turned out to be) large clouds of stars, far away.
+THROWING CATS INTO BLACK HOLES
+Even more dramatic (and recent) is the error we made with
+quasars
+. A quasar is the blazing consequence of gas circling the drain of a supermassive black hole at the centre of a galaxy; gas that is accelerated to close to the speed of light as it falls, potentially converting up to 42% of its rest mass into energy in the process.
+A NON-SCIENTIST SPEAKS:
+I have no idea what that means. Is that… a lot?
+Yes! For comparison, atomic fusion – the marvellously efficient energy source for stars, and hydrogen bombs – only converts maaaaybe 0.7% of an atom’s mass into energy; so the conversion process driving quasars is sixty times more efficient than
+fusion
+.
+A NON-SCIENTIST SPEAKS:
+Not to be a bore, but could you say that again in language I can actually see in my head?
+Sure! Let’s borrow an example
+from this excellent video by Henry Reich of Minutephysics
+: how-much-energy-does-it-take-to-power-Norway, a large country with a population of 5 million (and some very cold winters).
+If Norway got all its energy from coal, it would need to burn roughly sixty million tons of the stuff to power it for a year.
+To power Norway by fission would take roughly 375 tons of uranium fuel.
+Fusion would require only fifty or so tons of fuel.
+But you could power Norway for a year by throwing just two and a half cats into a rapidly rotating black hole. (
+A link well worth clicking on
+, if you want to get how astonishing all this is.) And yes, the cat has, for some reason, become the standard unit of fuel for black hole energy production. I blame
+Erwin Schrödinger
+.
+A NON-SCIENTIST SPEAKS:
+Thank you.
+You’re welcome. Where were we? Oh yes.
+SAME OLD THING, IN BRAND NEW DRAG
+Most of the stars in a galaxy are relatively small (because the bigger stars live fast and die young). These small stars eke out their hydrogen fuel supply with (again) a startling level of precise steady-state control, making it last many billions of years. But the supermassive black hole at the centre of a galaxy is busy doing something very different, and a really big one
+can gulp down the mass of the earth in gas every second.
+With so much gas getting converted into energy with such rapidity and efficiency, the blazing donut of circling gas (called the accretion disc) can shine dozens, hundreds, or even thousands of times brighter than all the actual stars of its galaxy added together – and it can therefore be seen from the far side of the universe.
+But when we first detected quasars, in the early 1950s, we yet
+again
+assumed they were small bright objects nearby, not colossally large, astoundingly bright objects very far away indeed. We assumed – of course! – that they were inside our own galaxy (which is only a hundred thousand light years across); in fact they were often several
+billion
+lightyears away. That’s tens of thousands of times further away than we had expected. And yet again, it took us years to understand what we were seeing.
+This is a human heuristic, a consistent problem with the way we think: We do not extrapolate out from our
+repeated, identical
+errors, and assume the universe is bigger and more complicated than we can see; even though we have repeatedly underestimated the size and complexity (and energy efficiency) of the universe.
+Right now, we are up several more layers of complexity. We have discovered (each time to our surprise) galactic clusters, galactic superclusters, megastructures like voids and filaments… and, yet again, we have stopped, and said OK, that is it. There is just one universe, and we have mapped it.
+We have reached the edge of all that is; and now we know it all.
+But why would we be right this time? We never have been before…
+And bear in mind, all of these colossal expansions of the universe were forced on us by observation (by better and better and better telescopes and spectrographs and probes); none of them were predicted in advance by the mainstream cosmological theories of the day.
+Even the Big Bang itself was forced on us by the observation that all of the more distant galaxies were moving away from us (and the further away they were, the faster they were moving away), and so the universe must be expanding from some original point in space and time; but this wasn’t
+predicted
+, it was discovered, through observation, by Edwin Hubble in 1929. And it came as an astonishing surprise.
+IF IT CAN EVEN FOOL EINSTEIN…
+For an
+extremely
+clear example of this bad heuristic at work, throwing even the greatest of scientific minds off course, just look at Einstein.
+When Einstein was working out his theory of general relativity (which he published in 1917), he was alarmed to discover that the theory was screaming into his face: “THE UNIVERSE IS EXPANDING!” Expanding? GROWING? (Like an
+egg?
+) Well, that was crazy talk. Everyone knew that the universe was eternal, static, and unchanging. He assumed his theory must, therefore, somehow, be wrong – and so he went back and fudged it, before publication, adding in an extra, and unnecessary, term (which he called
+the cosmological constant
+), just to force the theory to give a static, eternal, unchanging universe. (A rock.) Twelve years later (when Hubble showed the universe was indeed expanding), Einstein called this “my greatest blunder”, but he shouldn’t have been so hard on himself; it was precisely the same blunder that all mainstream cosmological theories had always made.
+Everything that indicates growth, everything that indicates expansion, everything that indicates development – everything that indicates the rapid, orderly, complex, fine-tuned, directional, developmental process of an evolved universe – has always come as a huge surprise to those theories and their theorists.
+That’s because all such mainstream cosmological theories have been, and still are, based on an underlying unexamined paradigm. Now, “paradigm” is one of those tricky words that can get used a bunch of different ways. By paradigm, here, I basically mean a way of looking at something. (A way of looking that is itself largely unexamined.)
+That paradigm assumes our universe is an isolated one-off, made of matter with arbitrary properties, under the influence of arbitrary laws, interacting randomly.
+The paradigm used to assume (as in Einstein’s day) that this one-off universe was eternal, static, and essentially unchanging. After Hubble, it had to adjust a little, but it still assumed this was a one-off universe made of matter with arbitrary properties, under the influence of arbitrary laws, interacting randomly… that now, somehow, had recently come into being out of nothing, with no explanation for that, and no history. (Yes, the paradigm was now pretty incoherent, but that’s the problem with unexamined paradigms – being unexamined, new data can force them into total incoherence without anyone noticing.)
+INTO THE MULTIVERSE
+Theories based on such a paradigm have always had to run hard to catch up with observation. A few brave figures have predicted a larger, stranger universe at each point, but usually as outsiders, and usually in the face of indifference or derision from the mainstream. (And of course the first person to claim that the stars might be suns like our own, complete with exoplanets, and alien forms of life,
+was burned at the stake
+– which put that particular theory back a few hundred years…)
+A SMALL IRRITATING CHILD INTERRUPTS:
+But sir, sir, sir! Don’t many top scientists now predict the existence of infinite numbers of universes in a vast multiverse? Surely THEY are predicting a larger universe of universes, and lots more stuff that you can’t see? Huh? Huh? Huh?
+Thank you, Small Irritating Child, for that irritating but excellent question.
+In fact the multiverse theories you cite provide evidence
+for
+my case, not against. Because all of them are recent attempts to explain the extreme unlikeliness of our own universe; but without the evolutionary mechanism to (blindly, but effectively) guide and direct the process of generating new universes, these theories are all doomed to just give you a larger and larger pile of arbitrary universes, with no
+explanation
+for our own universe’s complexity, and no mechanism for achieving it: just a claim that, if you rummage in a large enough random pile of universes for long enough, you will probably, eventually, find a complicated one. That’s not a theory; that’s the magical thinking of mathematicians with no real understanding of the limitations, and possibilities, of material reality under the constraints of evolution.
+But non-evolutionary multiverse theories (and string theories, and super symmetries, and other doomed attempts at explaining the emergence of complexity from simplicity without evolution) are rich subjects with complex histories, and deserve to be kicked around the room respectfully and at length in their own posts. I can’t do justice to them in an aside. And I want to stay focused here, and actually get a fecking post finished and published. So let’s just say, point noted, and crudely dismissed. More thoughtful dismissal to follow.
+Now, let’s get back to
+this
+post.
+A BALL OF HOT DIRT
+The same problem – of our errors all leaning in the same direction – happens at smaller scales, too: at the level of individual stars, rather than galaxies or universes. Until relatively recently, we assumed our sun was a simple, crude, ball of hot gas. Indeed, in the final decades of the 19
+th
+century, one of the greatest physicists of the age, Lord Kelvin, thought the sun might be made of burning coal, or simple dirt, heated only by its own gravitational collapse. (Yes, this is the same process that produces quasars… but a ball of dirt the size of the sun has a far, far less dramatic gravity well than a supermassive black hole the mass of a billion suns rotating at nearly the speed of light, and so it produces far, far less energy.) And remember, Lord Kelvin – originally William Thompson, until he was elevated to the peerage for his many scientific breakthroughs – was the guy who formulated the second law of thermodynamics, and established the absolute temperature scale, later named the Kelvin scale in his honour: nobody knew more about heat and energy than this guy!
+Indeed, this was one of the great arguments made against Darwin and his theory of evolution, by the mainstream scientists of his day; the sun, being made of coal, or burning gas, or perhaps just dirt, heated by its own gravitational collapse, could not be more than a few thousand years old (if it relied on the burning of chemicals), or at the most twenty million years old (if it was heated by its own gravitational collapse), or it would have burnt out by now – and therefore Darwin’s claim that some fossils were hundreds of millions of years old had to be false.
+Effortless and automatic nuclear fusion occurring deep in the heart of every star, and fusion’s parsimonious efficiency in releasing incalculable quantities of energy slowly and steadily over vast periods of time; this all came as a huge surprise.
+But eventually – through direct observation, spectrum analysis, and so on – we discovered that the sun was mostly made of hydrogen (and helium); that it was in fact a plasma, not a gas (and certainly not coal); that it had
+a complex internal structure
+, in which multiple layers of plasma rotated at different speeds to generate an extremely stable and reliable (over billions of years)
+self-exciting dynamo
+, which then powered a vast electromagnetic field, which mysteriously supported a
+solar corona
+hundreds of times hotter than the surface of the sun, a corona that somehow accelerated charged particles to a significant fraction of the speed of light, causing the
+solar wind
+, and thus creating the
+heliosphere
+, a protective electromagnetic bubble around the entire solar system (keeping out the lethal rain of high-energy
+cosmic rays
+that would otherwise sterilise the planets), thus allowing fragile DNA life to develop on the protected planetary surface of our Earth (doubly protected by the electromagnetic field generated by Earth’s OWN stable, reliable, internal,
+liquid nickel-iron dynamo
+); and of course we eventually discovered that our sun generated the heat and light which powered Earth’s DNA life, not through chemical reactions, but through nuclear fusion – a process nearly four million times more energy-efficient than burning coal.
+Lord Kelvin was so sure he was right that he attacked Darwin for years, forcing Darwin to take out some of his (accurate) claims about the age of the earth in subsequent editions of
+On the Origin of Species
+. (Darwin
+wrote to William Wallace in 1869
+,
+“Thomson
+[later Lord Kelvin]
+’s views of the recent age of the world have been for some time one of my sorest troubles.”
+) But Lord Kelvin was, fairly spectacularly, wrong. And he was wrong because of an unexamined paradigm that underlay his thinking.
+DOGMA BITES MAN
+There is a word for an underlying, unexamined paradigm, a paradigm that you are mocked (or punished) for questioning. A shorter word, a punchier word. That word is “dogma”.
+And there are a number of other words for an underlying, unexamined dogma that consistently causes you to make mistakes that all lean in the same direction.
+Many
+shorter, punchier words. One is “wrong”.
+A FIERCE REVOLUTIONARY YOUTH:
+Another is “bullshit”.
+Er, you might very well think that; I couldn’t possibly comment.
+A FIERCE REVOLUTIONARY YOUTH:
+But why doesn’t anyone notice this cascade of identical errors, and do something about it?
+Well, partly because the history of cosmology, like the history of any science, is full of errors of all kinds, pointing in all sorts of directions. It is rare for anyone to stand back and look for a consistent underlying pattern in the errors, a signal in the noise.
+And that is partly because the history of cosmology, and of astronomy more generally, tends to downplay just how many of these mistakes were made, and how much the truth was resisted at the time.
+As Bill Bryson dryly put it, in
+A Short History of Nearly Everything
+,
+“There are three stages of scientific discovery: first, people deny it is true, then they deny it is important. Finally, they credit the wrong person.”
+MAN BITES WOMAN
+Even the now-uncontroversial observation that the sun is in fact made of hydrogen was fiercely resisted by the mainstream, in its day, thanks to that bullshit. Sorry, dogma. Sorry, unexamined paradigm (or way of looking at things). Back at the start of the 20
+th
+century, the sun and the earth were assumed to be made of the same stuff, in the same proportion, because (unexamined paradigm!) everybody in the sciences simply
+knew
+that the entire universe should behave like a rock, not an egg. One stuff, broken up into lumps of different sizes. That was the totally accepted, mainstream argument, made by distinguished men of science (because women, up until this point, had never even been allowed to get degrees from universities, let alone hold senior positions in the sciences); men such as the President of the American Physical Society (and first occupant of the chair of physics at Johns Hopkins University),
+Henry Augustus Rowland
+.
+As the equally distinguished American astronomer, and Henry,
+Henry Norris Russell
+put it, in 1914:
+“The agreement of the solar and terrestrial lists is such as to confirm very strongly Rowland’s opinion that, if the Earth’s crust should be raised to the temperature of the Sun’s atmosphere, it would give a very similar absorption spectrum. The spectra of the Sun and other stars were similar, so it appeared that the relative abundance of elements in the universe was like that in Earth’s crust.”
+But, even as he was speaking, a young Englishwoman,
+Cecilia Payne
+, was battling her way into the university system, against tremendous odds.
+Cambridge (the English one) let her study astronomy, but wouldn’t give her a degree (because she was a woman), so she moved to the US. In 1925, she got the first PhD in astronomy to be granted by
+Radcliffe College
+, the “female coordinate institution” for the all-male Harvard College. (Harvard’s treasurer, on the idea of females receiving actual Harvard degrees:
+“I have no prejudice in the matter of education of women and am quite willing to see Yale or Columbia take any risks they like, but I feel bound to protect Harvard College from what seems to me a risky experiment.”
+In the process, she proved, in her thesis, that hydrogen was a million times more plentiful in the sun than it was on earth.
+And if the sun was made of hydrogen, then all stars were presumably made of hydrogen.
+She had discovered what the universe was made out of.
+Many many years later (in 1960), the great astronomer
+Otto Struve
+called it “the most brilliant PhD thesis ever written in astronomy.”
+But that wasn’t how it landed at the time.
+Because the dogma of the time was that the universe can’t have dedicated, specialist, differentiated parts, like an organism. No, everything everywhere is the same; metaphorically speaking, the entire universe is all just one shattered but undifferentiated rock. Granted, some of it seems to be so hot it’s a gas, and some of it seems to be colder, so it is solid, but that’s all that’s different about it… And so she was bullied out of telling the truth by her PhD supervisor, who happened to be… Henry Norris Russell.
+Now, Russell was a great astronomer (he’s the Russell behind
+the Hertzsprung-Russell diagram
+, still an extremely useful tool in astronomy), and I’m sure he genuinely, at the time, felt he was saving her from making a fool of herself. But but but… well, he was a brilliant insider, trapped inside an unexamined paradigm, and Cecelia Payne was a brilliant outsider who was not trapped by the paradigm and who could therefore see reality more clearly. Russell was wrong, and when given the right answer, he blocked it, and delayed the breakthrough for years.
+Forced to remove from her thesis one of the most momentous astronomical breakthroughs of the 20
+th
+century – and maybe the most momentous breakthrough that there had
+ever been
+, up until that point in history, in our understanding of stars, and thus the universe – Cecelia ended up sadly describing her own results as “spurious”.
+What’s infuriating is that Russell eventually, a few years later, realized that Cecilia Payne was correct, when he tried a different approach, and ended up with the same results as her. He, of course, believed himself, the insider, where he had failed to believe her, the outsider, and, in 1929, published his findings. His paper made a passing mention of Payne’s earlier work (
+“…the most important previous determination of the abundance of the elements by astrophysical means is that by Miss Payne…”
+), but he still frequently gets credit for the discovery.
+But that’s an aside that probably deserves a post of its own.
+IT’S NOT JUST A FLAW IN THE THEORY
+Let’s return to the problem that these breakthroughs alway point in the same direction: the universe is larger than we expected; the universe is more complicated than we expected; the universe is more energy-efficient than we expected; that energy is more meaningfully directed than we expected.
+The fact that these repeated errors all point in the same direction is a sign that there is a major flaw in our entire approach. And that the flaw is likely to be an unexamined assumption
+underlying
+the whole theory, rather than an explicit and visible part of the theory itself.
+If there were merely a flaw in the theory – a mathematical error of some kind, say – then those repeated identical errors should, by now, have given us the necessary information, the necessary feedback, to find the flaw in the theory, and fix it. Our errors should no longer all lean the same way. But with a flawed underlying assumption
+that isn’t explicitly articulated inside the theory
+, you can go wrong in the same way again and again and again, without getting useful feedback.
+PHYSICS IS PHYSICS; BUT…
+Of course, there is a sense in which it shouldn’t matter whether you are studying an egg or a rock; physics is physics, and the same rules apply. But there is another sense in which it matters a lot; the way physics plays out in an egg is different to the way physics plays out in a rock of roughly the same size and chemical composition. Same physics; very different outcomes.
+And so my argument is that until the mainstream scientific community change from a universe-as-rock paradigm to a universe-as-egg paradigm, they will
+continue to be blindsided
+by the unanticipated complexity of our universe’s structure, by the startling efficiency of its processes, by the unexpected discovery of new, dynamic, out-of-equilibrium systems at all levels, by the surprising intricacy of its interlocking parts… In other words, by the many unanticipated ways in which the basic parameters of matter
+have been fine-tuned by evolution
+to interact, under specific developmental conditions, so as to generate structure, complexity, order, and efficiency, so as to ensure reproductive success.
+And, above all, until they start using egg physics rather than rock physics, they will be blindsided
+particularly badly
+in the early universe; particularly in the first billion years – the last refuge of randomness – where they thought they would, finally, find random matter blindly obeying arbitrary laws – and where instead, again and again
+(as I predicted)
+, they are finding the structure, and order, of an evolved organism efficiently and rapidly proceeding along a clear developmental path.
+OK, that’s it for now! Feedback, whether positive or negative, very welcome. Add a comment, or simply hit like (or refuse to hit like! That’s feedback too!) below. Talk again soon…
+(PS: Yes, I am trying to force a paradigm shift in how we think about the universe, and our place in it. Such revolutions happen one mind at a time. I suspect this post would make a pretty good, easy starting point for anyone wishing to engage with the idea of an evolved universe, so if you enjoyed it, please do pass it on to a friend you think would also enjoy it. These tiny actions will make a huge difference over time. We don’t have to be passive in the face of a bad paradigm. It’s our universe too. Also, we need to save the next generation of brilliant cosmologists, astronomers, and astrophysicists from laboriously climbing a ladder that is currently up against the wrong wall. So please, take a minute, now, to think about who you know who might find this fascinating; and pass it on. Thanks!)
+This Substack is reader-supported. To receive new posts and support my work, consider becoming a free or paid subscriber.

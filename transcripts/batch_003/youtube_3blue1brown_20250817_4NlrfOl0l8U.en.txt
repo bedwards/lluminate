@@ -1,0 +1,351 @@
+In January 2024, Google DeepMind
+released an AI model called Alpha
+Geometry, which could solve geometry
+problems from the International
+Mathematical Olympiad or the IMO. The
+IMO is the highest level of competitive
+math contest at the high school level.
+Every year, more than 100 countries send
+six teenagers to represent them at the
+competition. Each country has its own
+elaborate system of contests leading to
+their choice of six representatives.
+When alpha geometry was tested on a
+database of 30 geometry problems, it
+solved 25 of them. This is better than
+the performance of a silver medalist.
+This quite understandably generated a
+lot of buzz. But here's what nobody
+talks about. The most surprising part
+for me is not that AI managed to solve
+these problems, but it's what happened
+even before the AI showed up. A
+25-year-old technique with no AI at all,
+just using logic and pure equation
+solving, was already able to solve 18
+out of 25 problems. That's already a
+bronze medal at the IMO. And then the
+model hit a wall. There were problems
+that even this ingenious logical model
+wasn't able to solve. And that's where
+AI comes in. But instead of leaving
+everything to AI, the DeepMind team very
+cleverly integrated the logical model
+with an AI component in order to reach
+their spectacular result of 25 out of 30
+problems. So in this video, yes, I do
+want to talk about AI and geometry. But
+before that, I also want to talk about
+how a nonAI model was already better at
+geometry than the vast majority of
+humans. So with that, let's begin. Our
+task today is simple. Build a bot that
+can solve IMO geometry problems. But I'm
+going to make a caveat to make our
+problem a little bit harder. Write a bot
+that solves IMO problems with no AI. To
+begin attacking this, we're going to use
+a well-kept secret about geometry
+problems. A few key facts can get you
+very far. For example, here are two
+important facts from geometry. One, when
+two lines cross, the opposite angles are
+equal. And two, if these two horizontal
+lines are parallel and you look at the Z
+over here in blue, the angles on the
+inside of the Z are equal. With these
+two facts alone, we can already prove a
+non-trivial theorem. In this diagram,
+the two orange angles alpha are equal.
+If you apply our two facts one after
+another,
+[Music]
+it proves our theorem. Now, this is how
+far we could get starting with two
+facts. Now imagine how far we could get
+if we started off with 10 facts or 50
+facts or 100 facts. The space of
+theorems we could prove would get larger
+and larger. In October 2000, the
+researchers Chu Gao and Jang released a
+paper that did precisely this. In their
+paper, they made a database of 75
+geometry rules. Applying these facts in
+various combinations, the researchers
+could solve some very hard geometry
+problems. These rules start out simple
+like the ones I've written on screen.
+But as you go on, the rules get more
+complicated like the rule at the bottom
+of the screen. But how do you feed all
+these diagrams into a computer? Well,
+the naive way to do it would be to plot
+everything on Desmos using explicit
+equations. But I think we can both agree
+that that's far too clunky. Another
+alternative is using a language that's
+specifically designed for theorem
+proving. The predominant language in
+this regard is called lean. While lean
+is really great for things like algebra
+and inequalities, at the moment it's not
+very well suited for uklitian geometry.
+To get around this, the authors used a
+more niche language that's specifically
+designed for geometry. Now, to the best
+of my knowledge, this language doesn't
+yet have an official name and is only
+described in research papers. Here's
+what it looks like. Say we want to
+represent this problem over here to a
+computer, which says that a triangle
+with two equal sides has two equal
+angles. In the specialized machine
+language, you'd write it like this. ABC
+points, which means that there are three
+points ABC.
+AB equals AC, which means that the sides
+AB and AC have the same length. Goal
+angle ABC equals angle BCA, which means
+that the goal is to show that these two
+angles are equal. The researchers called
+this method deductive database or DD for
+short. The word database suggests that
+you're starting with a database of key
+facts and deductive means that you're
+deducing new theorems from those key
+facts. So, how did it perform? Well, out
+of 30 geometry IMO problems, it solved
+seven of them. Now, there are two ways
+to look at this. On one hand, 7 out of
+30 isn't very much. It's not even an
+honorable mention at the IMO. On the
+other hand, the fact that brute force
+can solve even one of the IMO problems
+is incredibly impressive. IMO problems
+are very hard. So, how do we bring the
+score up? On one hand, we could just
+throw hands in the air and say, "Okay,
+we need AI to make it better." But
+that's not quite true because DD has a
+fundamental limitation that we haven't
+addressed yet. DD can't solve equations.
+This is a problem. To see why, I'm going
+to tell you about a theorem called
+Thail's theorem. The angle in a
+semicircle here is always a right angle.
+Here's a short proof using equations.
+Draw a third line connecting the third
+point to the center. Then the three
+lines I'm marking over here are all radi
+of the circle. So they have the same
+length. Therefore, the two smaller
+triangles are both. Their opposite
+angles are equal. Since the angles of
+the big triangle ABC sum to 180°, we
+have 2 alpha + 2 beta = 180°. Dividing
+both sides by two, alpha plus beta
+equals 90°. But alpha plus beta is the
+angle ABC. So we're done the theorem.
+Solving linear equations is something
+that computers can do very well just
+using linear algebra. So the deep mind
+researchers implemented this in their
+model and called it algebraic reasoning
+or AR for short. So to recap, we have
+two modules so far. Deductive database
+or DD is a hard-coded list of geometric
+rules. Algebraic reasoning or AR is the
+ability to solve systems of linear
+equations. The Deep Mind team used these
+two models alternatingly. So they first
+ran DD until it stopped and then they
+ran AR until that stopped and then DD
+and then AR and they kept doing this
+until either the problem was solved or
+the time ran out. Together they called
+this procedure DD plus AR. This works
+really well. For example, given this
+problem below from their paper, the DD
+module deduced the first two lines. The
+AR module then took the resulting system
+of equations and solved them.
+Now, here are the results on the IMO
+geometry problems. DD alone solved seven
+out of 30 problems. DD plus AR solved 14
+out of 30 problems. The deep mind
+researchers pushed it even further to 18
+out of 30 problems by adding in what
+they call human coded huristics. This is
+nearly a bronze medal at the IMO. To me,
+it's really surprising that DD plus AR
+does so well because IMO geometry
+problems are really, really hard. So,
+the fact that a brute force approach can
+get you this far at all is very
+surprising. And given that we've gotten
+this far with no AI at all, it's worth
+asking why bother adding AI in the very
+first place? Because our model has a
+fundamental weakness. It struggles to
+make so-called auxiliary constructions.
+To solve many hard geometry problems,
+you have to draw in extra lines or
+shapes that aren't in the diagram
+already. For example, suppose you want
+to show that the sum of the angles in a
+triangle is 180°. Here's a very slick
+way to do it. Draw two parallel lines at
+the top and the bottom of the triangle.
+This is the auxiliary construction. The
+angles labeled alpha on the inside of
+the Z are equal. Likewise for the angles
+over here labeled beta. Now call the
+remaining angle of the triangle gamma.
+And now you just solve equations. We
+know that alpha plus gamma plus beta is
+180° because the top purple line is a
+straight line. But alpha beta gamma are
+also the angles of the triangle. So they
+sum to 180°. We're now done. Now the key
+step was to draw the two lines at the
+top and bottom. Once we had that, we
+could deduce the theorem from facts that
+we already knew. In a sense, this is
+what makes geometry problems so fun. The
+true gems in the field always feel like
+adding in the right idea seemingly came
+out of left field. In IMO geometry
+problems, you typically need to add not
+just one but several auxiliary
+constructions to the diagram, which is
+bad news for machines cuz it means that
+there's an infinite search space at
+every step. This is where AI comes in.
+The DeepMind team built a language model
+whose one and only job was to produce
+auxiliary constructions. The input to
+the language model was the problem
+statement and the steps in the proof
+that had been produced so far. Now I'm
+writing it in English, but keep in mind
+that it has to be inputed using the
+geometry coding language that we talked
+about before. The output of the language
+model would be an auxiliary
+construction. So an extra point or
+figure on the diagram. So given this,
+here's how alpha geometry works in
+total. First, input the problem
+statement into the language model. It
+will return an auxiliary construction.
+Second, give this new diagram to DD plus
+AR. It will output a bunch of steps
+until it terminates. Feed this output
+back into the language model. It will
+produce yet another auxiliary
+construction. Feed this new output back
+into DD plus AR. Repeat this procedure
+until either the problem is solved or
+the time runs out. Put simply, the
+language model is the creative brain
+thinking of clever auxiliary
+constructions. On the other hand, DD
+plus AR is the logical brain using pure
+logic to deduce new facts from known
+ones. So, the creative brain thinks of a
+clever idea and the logical brain
+deduces things from that. The creative
+brain thinks of yet another idea and the
+logical brain deduces even more things
+from that and so on and so forth. So,
+we've been talking about this language
+model, and that's all fine and good, but
+there's one thing we haven't discussed.
+Where are they getting their training
+data? Because there aren't that many IMO
+geometry problems with solutions
+available online. So, you need to do
+something else. The Alpha Geometry team
+circumvented this issue by doing
+something quite interesting. They
+generated their own training data.
+Here's how you can generate a sample
+problem and solution for your training
+data. Randomly plot a bunch of points
+and lines on the plane. Then using DD
+plus A R deduce everything you can like
+various angles are equal, various lines
+are parallel. It'll conclude for example
+that the sum of the three angles in the
+triangle is 180°. Now go backwards erase
+some portions of the diagram. Now we can
+state a problem. Given this triangle
+show that the sum of the angles is 180°.
+To solve it, we would need to draw back
+the lines that we'd erased, but those
+would be auxiliary constructions. So
+just like that, alpha geometry generated
+some new training data. They randomly
+plotted a bunch of lines and points on
+the plane. They used DD plus AR to
+deduce a bunch of known theorems from
+that. And then they erased some portions
+of the diagram so that if you want to
+arrive at that theorem yourself, you
+would need to draw those portions back
+in using an auxiliary construction. In
+fact, they generated a hundreds of
+millions of synthetic proof examples. A
+total of 9 million of them required at
+least one auxiliary construction. Here
+are some examples of the very
+complicated diagrams that this process
+produced. The most complex synthetic
+proof had an impressive length of 247
+steps with two auxiliary constructions.
+With all this data, they were able to
+train their language model. So, how did
+this whole model perform? Well, recall
+that DD solved seven out of 30 problems.
+DD plus AR solved 14 out of 30 problems.
+DD plus AR plus human coded heruristics
+solved 18 out of 30. If you combine DD
+plus AR with the language model with
+some fine-tuning, it was able to solve
+25 out of 30 problems. So why is this so
+exciting? Well, to me, alpha geometry
+isn't just about solving triangles. It's
+really about something much deeper,
+about machines being able to think and
+reason like human beings. Alpha geometry
+can think creatively, but also very
+logically. This is exciting because this
+general strategy using creativity and
+logic together is by no means specific
+to geometry. It's used in problem
+solving in any kind of domain. For
+example, science, medicine, engineering,
+you name it. Of course, alpha geometry
+wasn't built to solve problems in those
+other domains, but it can give us a
+glimpse into how machines might try to
+tackle those problems. And that's a
+future I'm really excited for. That's
+all for this video. Thanks so much for
+watching. Bye.
+This video was the second in a series of
+guest videos that I'm doing this summer.
+Um, this one comes from Adita
+Chakravarti, who runs the channel Alf.
+It's a really nice channel. If you're
+not familiar with it, he does a great
+job taking various higher level math
+topics and then distilling them into a
+bite-sized but nevertheless very
+substantive summary. There are three
+more guest videos coming your way, and
+I'll be back with my own content in the
+fall. See you then.
+[Music]
+[Music]

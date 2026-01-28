@@ -1,0 +1,268 @@
+Title: Against "If Anyone Builds It Everyone Dies"
+Source: benthams
+URL: https://benthams.substack.com/p/against-if-anyone-builds-it-everyone
+Date: Tue, 20 Jan 2026 16:37:46 GMT
+Word Count: 8156
+Estimated Read Time: 40 minutes
+
+================================================================================
+
+1 Introduction
+Unlike most books, the thesis of
+If Anyone Builds It Everyone Dies
+is the title (a parallel case is that the thesis of
+What We Owe The Future
+is “What?? We owe the future?).  IABIED, by Yudkowsky and Soares (Y&S), argues that if anyone builds AI, everyone everywhere, will die.  And this isn’t, like, a metaphor for it causing mass unemployment or making people sad—no, they think that everyone everywhere on Earth will stop breathing.  (I’m thinking of writing a rebuttal book called “If Anyone Builds It, Low Odds Anyone Dies, But Probably The World Will Face A Range of Serious Challenges That Merit Serious Global Cooperation,” but somehow, my guess is editors would like that title less).
+The core argument of the book is this: as things get really smart, they get lots of new options which make early attempts to control them pretty limited.  Evolution tried to get us to have a bunch of kids.  Yet as we got smarter, we got more unmoored from that core directive.
+The best way to maximize inclusive genetic fitness would be to give your sperm to sperm banks and sleep around all the time without protection, but most people don’t do that.  Instead people spend their time hanging out—but mostly not sleeping with—friends, scrolling on social media, and going to college.  Some of us are such degenerate reprobates that we try to improve shrimp welfare!  Evolution spent 4 billion years trying to get us to reproduce all the time, and we proceeded to ignore that directive, preferring to spend time watching nine-second TikTok videos.
+Evolution didn’t aim for any of these things.  They were all unpredictable side-effects. The best way to achieve evolution’s aims was to give us weird sorts of drives and desires.  However, once we got smart, we figured out other ways to achieve those drives and  desires.  IABIED argues that something similar will happen with AI.  We’ll train the AI to have sort of random aims picked up from our wildly imperfect optimization method.
+Then the AI will get super smart, realize that a better way of achieving those aims is to do something else.  Specifically, for most aims, the best way to achieve them wouldn’t involve keeping pesky humans around, who can stop them.  So the AI will come up with some clever scheme by which it can kill or disempower us, implement it so we can’t stop them, and then turn to their true love: making paperclips, predicting text, or some other random thing.
+Some things you might wonder: why’d the AIs try to kill us?  The answer is that almost no matter what goal you might have, the best way to achieve it wouldn’t involve keeping humans around because humans can interfere with their plans and use resources that the AIs would want.
+Now, could the AIs really kill us?  Y&S claim the answer is a clear obvious yes.  Because the AIs are so smart, they’ll be able to come up with ideas that humans could never fathom and come up with a bunch of clever schemes for killing everyone.
+Y&S think the thesis of their book is pretty obvious.  If the AIs get built, they claim, it’s approximately a guarantee that everyone dies.  They think this is about as obvious as that a human would lose in chess to Stockfish.  For this reason, their strategy for dealing with superintelligent AI is basically “ban or bust.”  Either we get a global ban or we all die, probably soon.
+I disagree with this thesis.  I agreed with
+when he
+summarized his core view as
+:
+AI takeover x-risk is high, but not extremely high (e.g. 1%-40%). The right response is an “everything and the kitchen sink” approach — there are loads of things we can do that all help a bit in expectation (both technical and governance, including mechanisms to slow the intelligence explosion), many of which are easy wins, and right now we should be pushing on most of them.
+There are a lot of other existential-level challenges, too (including human coups / concentration of power), and ideally the best strategies for reducing AI takeover risk shouldn’t aggravate these other risks.
+My p(doom)—which is to say, the odds I give to misaligned AI killing or disempowering everyone—is 2.6%.  My credence that AI will be used to cause human extinction or permanent disempowerment in other ways in the near future is higher but below 10%—maybe about 8%.  Though I think
+most value loss doesn’t come from AIs causing extinction
+and that the more pressing threat is value loss from suboptimal futures.
+For this reason, I thought I’d review IABIED and explain why I disagree with their near certainty in AI-driven extinction.  If you want a high-level review of the book, read
+Will’s
+.   My basic takes on the book are as follows:
+It was mostly well-written and vivid.  Yudkowsky and Soares go well together, because Yudkowsky is often a bit too long-winded.  Soares was a nice corrective.
+If you want a high-level picture of what the AI doom view is, the book is good.  If you want rigorous objections to counterarguments, look elsewhere.  One better place to look is the
+IABIED website
+.  Most of what I discuss comes from the IABED website.
+The book had an annoying habit of giving metaphors and parables instead of arguments.  For example, instead of providing detailed arguments for why the AI would get weird and unpredictable goals, they largely relied on the analogy that evolution did.  This is fine as an intuition pump, but it’s not a decisive argument unless one addresses the disanalogies between evolution and reinforcement learning.  They mostly didn’t do that.
+I found the argumentation in this book higher quality than in some of the areas where I’ve
+criticized Eliezer before
+.  Overall reading it and watching his interviews about it improved my opinion of Eliezer somewhat.
+I don’t want this to get too bogged down so I’ll often have a longer response to objections in a footnote.  Prepare for very long and mostly optional footnotes!
+2 My core takes about why we’re not definitely all going to die
+There are a number of ways we might not all die.  For us to die, none of the things that would block doom can happen.  I think there are a number of things that plausibly block doom including:
+I think there’s a low but non-zero chance that we won’t build artificial superintelligent agents.  (10% chance we don’t build them).
+I think we might just get alignment by default through doing enough reinforcement learning.  (70% no catastrophic misalignment by default).
+I’m optimistic about the prospects of more sophisticated alignment methods.  (70% we’re able to solve alignment even if we don’t get it by default).
+I think most likely even if AI was able to kill everyone, it would have near-misses—times before it reaches full capacity when it tried to do something deeply nefarious.  I think in this “near miss” scenario, it’s decently likely we’d shut it down.  (60% we shut it down given misalignment from other steps).
+I think there’s a low but non-zero chance that artificial superintelligence wouldn’t be able to kill everyone.  (20% chance it couldn’t kill/otherwise disempower everyone).
+(Note: each of these probabilities are conditioned on the others not working out.  So, e.g., I think AI killing everyone has 80% odds given we build superintelligence, don’t get alignment, and no decisive near-misses).
+Even if you think there’s a 90% chance that things go wrong in each stage, the odds of them all going wrong is only 59%.  If they each have an 80% chance, then the odds of them all happening is just about one in three.  Overall with my probabilities you end up with a credence in extinction from misalignment of 2.6%.
+1
+Which, I want to make clear, is
+totally fucking insane
+.  I am, by the standards of people who have looked into the topic, a rosy optimist.  And yet even on my view, I think odds are
+one in fifty that AI will kill you and everyone you love
+, or leave the world no longer in humanity’s hands.  I think that you are much likelier to die from a misaligned superintelligence
+killing everyone on the planet
+than in a car accident.  I don’t know the exact risks, but my guess is that if you were loaded into a car driven by a ten-year-old with no driving experience, your risk of death would be about 3%.  The world has basically all been loaded in a car driven by a ten year old.
+So I want to say: while I disagree with Yudkowsky and Soares on their near-certainty of doom, I agree with them that the situation is very dire.  I think the world should be doing a lot more to stop AI catastrophe.  I’d encourage many of you to try to get jobs working in AI alignment, if you can.
+Part of what I found concerning about the book was that I think you get the wrong strategic picture if you think we’re all going to die.  You’re left with the picture “just try to ban it, everything else is futile,” rather than the picture I think is right which is “alignment research is hugely important, and the world should be taking more actions to reduce AI risk.”
+Before looking into the specific arguments, I want to give some high-level reasons to be doubtful of extreme pessimism:
+Median AI expert p(dooms) are about 5%
+(as of 2023, but they may have gone up since then).  Superforecasters tend to be much lower, usually
+below 1%
+.  Lots of
+incredibly brilliant people
+who have spent years reading about the subject have much lower p(dooms).  Now, it’s true
+superforecasters hugely underestimated
+AI progress and that some groups of superforecasters have higher p(dooms)
+nearer to 28%
+.  Eli Lifland, a guy I respect a lot who is one of the best forecasters in the world, has a p(doom) around one in three.  But still, this is enough uncertainty around the experts to make—in my view—near-certainty of doom unwarranted.
+2
+Lots of people have predicted human extinction before and they’ve all been wrong.  This gives us some reason for skepticism.  Now, that’s not decisive—we really are in different times.  But this provides some evidence that it’s easy to proliferate plausible-sounding extinction scenarios that are hard to refute and yet don’t come to fruition.  We should expect AI risk to be the same.
+3
+The future is pretty hard to predict.  It’s genuinely hard to know how AI will go.  This is an argument against extreme confidence in either direction—either of doom or non-doom.  Note: this is one of the main doubts I have about my position.  Some risk I’m overconfident.  But given that the argument for doom has many stages, uncertainty across a number of them leaves one with a low risk of doom.
+4
+The AI doom argument has a number of controversial steps.  You have to think: 1) we’ll build artificial agents; 2) we won’t be able to align them; 3) we won’t ban them even after potential warning shots; 4) AI will be able to kill everyone.  Seems you shouldn’t be certain in all of those.  And the uncertainty compounds.
+5
+Some high-level things that make me more worried about doom:
+A lot of ridiculously smart people have high p(dooms)—at least, much higher than mine.  Ord is at about 10%.  Eli Lifland is at 1/3.  So is Scott Alexander.  Carl Shulman is at 20%.  Am I really confident at 10:1 odds that Shulman’s p(doom) is unreasonable?  And note: high and low p(dooms) are asymmetric with respect to probabilities.  If you’re currently at 1%, and then you start thinking that there’s a 90% chance that 1% is right, a 2% chance that 30% is right, and an 8% chance that 0% is right, your p(doom) will go up.
+My response to this is that if we take the outside view on each step, there is considerable uncertainty about many steps in the doom argument.  So we’ll still probably end up with some p(doom) near to mine.  I’m also a bit wary about just deferring to people in this way when I think your track record would have been pretty bad if you’d done that on other existential risks.  Lastly, when I consider the credences of the people with high p(dooms) they seem to have outlier credences across a number of areas.  Overall, however, given how much uncertainty there is, I don’t find having a p(doom) nearer to 30% totally insane.
+I think there’s a bias towards normalcy—it’s hard to imagine the actual world, with your real friends, family, and coworkers, going crazy.  If we imagine that rather than the events occurring in the real world, they were occurring in some fictional world, then a high doom might seem more reasonable. If you just think abstractly about the questions “do worlds where organisms build things way smarter than them that can think much faster and easily outcompete them almost all survive,” seems like the answer might plausibly be no.
+The people who have been predicting that AI will be a big deal have a pretty good track record, so that’s a reason to update in favor of “AI will be a big deal views.”
+3 Alignment by default
+I think there’s about a
+70% chance that we get no catastrophic misalignment by default
+.  I think that if we just do RLHF hard enough on AI, odds are not terrible that this avoids catastrophic misalignment.  Y&S think there’s about a 0% chance of avoiding catastrophic misalignment by default.  This is a difference of around 70%.
+I realize it’s a bit blurry what exactly counts as alignment by default.  Buck Shlegeris’s
+alignment plan
+looks pretty good, for instance, but it’s arguably not too distant from an “alignment by default,” scenario.  I’m thinking of the following definitions: you get catastrophic misalignment by default if building a superintelligence with roughly the methods we’re currently using (RLHF) would kill or disempower everyone.
+Why do I think this?  Well, RLHF nudges the AI in some direction.  It seems the natural result of simply training the AI on a bunch of text and then prompting it when it does stuff we like is: it becomes a creature we like.  This is also what we’ve observed.  The AI models that exist to date are nice and friendly.
+And we can look into the AIs current chain of thought which is basically its thinking process before it writes anything and which isn’t monitored—nor is RLHF done to modify it.  Its thought process looks pretty nice and aligned.
+I think a good analogy for reinforcement learning with AI is a rat.  Imagine that you fed a rat every time it did some behavior, and shocked it every time it did a different behavior.  It learns, over time, to do the first behavior and not the second.  I think this can work for AI.  As we prompt it in more and more environments, my guess is that we get AI doing the stuff we like by default.
+This piece
+makes the case in more detail.
+Now, one objection that you might have to alignment by default is: doesn’t the AI already try to blackmail and scheme nefariously?  A paper by Anthropic found that leading AI models were
+willing to blackmail
+and even bring about a death in order to prevent themselves from getting shutdown.  Doesn’t this disprove alignment by default?
+No.
+Google DeepMind found
+that this kind of blackmailing was driven by the   models just getting confused and not understanding what sort of behavior they were supposed to carry out.  If you just ask them nicely not to try to resist shutdown, then they don’t (and a
+drive towards self-preservation
+isn’t causally responsible for its behavior).  So with superintelligence, this wouldn’t be a threat.
+The big objection of Y&S: maybe this holds when the AIs aren’t super smart, like the current ones.  But when the AIs get superintelligent, we should expect them to be less compliant and friendly.  I heard Eliezer in a podcast give the analogy that as people get smarter, they seem like they’d get more willing to—instead of passing on their genes directly—create a higher-welfare child with greater capabilities.  As one gets smarter, they get less “aligned” from the standpoint of evolution.
+Y&S write
+:
+If you’ve trained an AI to paint your barn red, that AI doesn’t necessarily care deeply about red barns. Perhaps the AI winds up with some preference for moving its arm in smooth, regular patterns. Perhaps it develops some preference for getting approving looks from you. Perhaps it develops some preference for seeing bright colors. Most likely, it winds up with a whole plethora of preferences. There are many motivations that could wind up inside the AI, and that would result in it painting your barn red in this context.
+If that AI got a lot smarter, what ends would it pursue? Who knows! Many different collections of drives can add up to “paint the barn red” in training, and the behavior of the AI in other environments depends on what specific drives turn out to animate it. See the end of Chapter 4 for more exploration of this point.
+I don’t buy this for a few reasons:
+Evolution is importantly different
+from reinforcement learning in that reinforcement learning is being used to try to get good behavior in off-distribution environments.  Evolution wasn’t trying to get humans to avoid birth control, for example.  But humans will be actively aiming to give the AI friendly drives, and we’ll train them in a number of environments.  If evolution had pushed harder in less on-distribution environments, then it would have gotten us aligned by default.
+6
+The way that evolution encouraged passing on genes was by giving humans strong drives towards things that correlated passing on genes.  For example, from what I’ve heard, people tend to like sex a lot.  And yet this doesn’t seem that similar to how we’re training AIs.  AIs aren’t agents interfacing with their environment in the same way, and they don’t have the sorts of drives to engage in particular kinds of behavior.  They’re just directly being optimized for some aim.  Which bits of AI’s observed behaviors are the analogue of liking sex?  (Funny sentence out of context).
+7
+Evolution, unlike RL, can’t execute long-term plans.  What gets selected for is whichever mutations are immediately beneficial.  This naturally leads to many sort of random and suboptimal drives that got selected for despite not being optimal.  But RL prompting doesn’t work that way.  A plan is being executed!
+The most critical disanalogy is that evolution was selecting for fitness, not for
+organisms that explicitly care about fitness
+.  If there had been strong selection pressures for organisms with the explicit belief that fitness was what mattered, presumably we’d have gotten that belief!
+RL has seemed to get a lot greater alignment in sample environments than evolution.  Evolution, even in sample environments, doesn’t get organisms consistently taking actions that are genuinely fitness maximizing.  RL, in contrast, has gotten very aligned agents in training that only slip up rarely.
+Even if this gets you some misalignment, it probably won’t get you catastrophic misalignment.  You will still get very strong selection against trying to kill or disempower humanity through reinforcement learning.  If you directly punish some behavior, weighted more than other stuff, you should expect to not really get that behavior.
+8
+If you would get catastrophic misalignment by default, you should expect AIs now, in their chain of thought, to have seriously considered takeover.  But they haven’t.  The alignment by default essay
+put it well
+:
+The biggest objection I can see to this story is that the AIs aren’t smart enough yet to actually take over, so they don’t behave this way. But they’re also not smart enough to hide their scheming in the chain of thought (unless you train them not to) and we have never observed them scheming to take over the world. Why would they suddenly start having thoughts of taking over, if they never have yet, even if it is in the training data?
+Overall, I still think there’s some chance of misalignment by default as models get smarter and in more alien environments.  But overall I lean towards alignment by default.  This is the first stop where I get off the doom train.
+The other important reason I don’t expect catastrophic misalignment by default: to get it, it seems you need unbounded maximization goals.  Where does this unbounded utility maximizing set of goals come from?  Why is this the default scenario?  As far as I can tell, the answers to this are:
+Most goals, taken to infinity, get destruction of the world.  But this is assuming the goal in question is some kind of unbounded utility maximization goal.  If instead the goal is, say, one more like the ones humans tend to have, it doesn’t imply taking over the world.  Most people’s life aims don’t imply that they ought to conquer Earth.  And there’s no convincing reason to think the AIs will be expected utility maximizers, when, right now, they’re more like a set of conditioned reflexers that sort of plan sometimes.  Also, we shouldn’t expect RL to give AIs a random goal, but instead what goal comes from the optimization process of trying to make the AIs nice and friendly.
+Yudkowsky has claimed elsewhere—though not in the book—that there are coherence theorems that show that unless you are an expected utility maximizer, you’re liable to be money-pumped.  But these money pump arguments make some substantive claims about rationality—for them to get off the ground, you need a
+range of assumptions
+.  Denying those assumptions is perfectly coherent.  There are a range of philosophers aware of the money-pump arguments who still deny expected utility maximization.  Additionally, as
+Rohin Shah notes,
+there aren’t any coherence arguments that say you have to have goal directed behavior or preferences over world states.  Thinking about coherence theorems won’t automatically wake you from your conditioned reflex-like slumber and cause you to become an agent trying to maximize for some state in the world.
+4 Will we build artificial superintelligent agenty things?
+Will we build artificial superintelligence?  I think there’s about a 90% chance we will.  But even that puts me below Y&S’s near 100% chance of doom.  The reason I think it’s high is that:
+AI progress has been rapid and there are no signs of stopping.
+They’re already building AIs to execute plans and aim for stuff.  Extrapolate that out and you get an agent.
+Trillions are going into it.
+Even if AI isn’t conscious, it can still plan and aim for things.  So I don’t see what’s to stop agenty things that perform long-term plans.
+Even if things slow significantly, still we get artificial agents eventually.
+Why am I not more confident in this?  A few reasons:
+Seems possible that building artificial agents won’t work well.  Instead, we’d just get basically Chat-GPT indefinitely.
+Maybe there’s some subtle reason you need consciousness for agents of the right kind.
+Odds aren’t zero AI crashes and the product just turns out not to be viable at higher scales.
+There
+might be a global ban
+.
+Again, I don’t think any of this stuff is that likely.  But 10% strikes me as a reasonable estimate.  Y&S basically give the arguments I gave above, but none of them strike me as so strong as to give above 90% confidence that we’ll build AI agents.  My sense is they also think that the coherence theorems give some reason for why the AI will, when superintelligent, become an agent with a utility function—see section 3 for why I don’t buy that.
+5 70% that we can solve alignment
+Even if we don’t get alignment by default, I think there’s about a 70% chance that we can solve alignment.  Overall, I think alignment is plausibly difficult but not impossible.  There are a number of reasons for optimism:
+We can repeat AI models in the same environment and observe their behavior.  We can see which things reliably nudge it.
+We can direct their drives through reinforcement learning.
+Once AI gets smarter, my guess is it can be used for a lot of the alignment research.  I expect us to have years where the AI can help us work on alignment.  Crucially, Eliezer thinks if humans were superintelligent through genetic engineering, odds aren’t bad we could solve alignment.  But I think we’ll have analogous entities in AIs that can work on alignment.  Especially because agents—the kinds of AIs with goals and plans, that pose danger—seem to lag behind non-agent AIs like Chat-GPT.  If you gave Chat-GPT the ability to execute some plan that allowed it to take over the world credibly, it wouldn’t do that, because there isn’t really some aim that it’s optimizing for.
+9
+We can use interpretability to see what the AI is thinking.
+We can give the AI various drives that push it away from misalignment.  These include: we can make it risk averse + averse to harming humans + non-ambitious.
+We can train the AI in many different environments to make sure that its friendliness generalizes.
+We can
+honeypot
+where the AI thinks it is interfaced with the real world to see if it is misaligned.
+We can scan the AIs chain of thought to see what it’s thinking.  We can avoid doing RL on the chain of thought, so that the chain of thought has no incentive to be biased.  Then we’d be able to see if the AI is planning something, unless it can—even before generating the first token—plan to take over the world.  That’s not impossible but it makes things more difficult.
+We can plausibly build an AI lie detector.  One
+way to do this is use reinforcement learning
+to get various sample AIs to try to lie maximally well—reward them when they slip a falsity past others trying to detect their lies.  Then, we could pick up on the patterns—both behavioral and mental—that arise when they’re trying to lie, and use this to detect scheming.
+Y&S give some reasons why they think alignment will be basically impossible on a short time frame.
+First, they suggest that difficult problems are hard to solve unless you can tinker.  For example, space probes sometimes blow up because we can’t do a ton of space probe trial and error.  My reply: but they also often don’t blow up!  Also, I think we can do experimentation with pre-superintelligence AI, and that this will, in large part, carry over.
+Second—and this is their more important response—they say that the schemes that will work out when the AI is dumb enough that you can tinker with it won’t necessarily carry over to misalignment.  As an analogy, imagine that your pet dog Fluffy was going to take a pill that would make it 10,000 times smarter than the smartest person who ever lived.  Your attempt to get it to do what you want by prompting it with treats before-hand wouldn’t necessarily carry over to how it behaves afterward.
+I agree that there’s some concern about failure to generalize.  But if we work out all sorts of sophisticated techniques to get a being to do what we want, then I’d expect these would hold decently well even with smarter beings.  If you could directly reach in and modify Fluffy’s brain, read his thoughts, etc, use the intermediate intelligence Fluffy to modify that smarter one, and keep modifying him as he gets smarter, then I don’t expect inevitable catastrophic Fluffy misalignment.  He may still, by the end, like belly-rubs and bones!
+Now, Yudkowsky has argued that you can’t really use AI for alignment because if the AI is smart enough to come up with schemes for alignment, there’s already serious risk it’s misaligned.  And if it’s not, then it isn’t much use for alignment.  However:
+I don’t see why this would be.  Couldn’t the intelligence threshold at which AI could help with alignment be below the point at which it becomes misaligned?
+Even serious risk isn’t the same as near-certain doom.
+Even if the AI was misaligned, humans could check over its work.  I don’t expect the ideal alignment scheme to be totally impenetrable.
+You could get superintelligent oracle AIs—that don’t plan but are just like scaled up Chat-GPTs—long before you get superintelligent AI  agents.  The oracles could help with alignment.
+Eliezer seemed to think that if the AI is smart enough to solve alignment then its schemes would be pretty much inscrutable to us.  But why think that?  It could be that it was able to come up with schemes that work for reasons we can see.  Eliezer’s response in the Dwarkesh podcast was to say that people already can’t see whether he or Paul Christiano is right, so why would they be able to see if an alignment scheme would work.  This doesn’t seem like a very serious response.  Why think seeing whether an alignment scheme works is like the difficulty of forecasting takeoff speeds?
+Also, even if we couldn’t check that alignment would work, if the AI could explain the basic scheme, and we could verify that it was aligned, we could implement the basic scheme—trusting our benevolent AI overlords.
+I think the most serious objection to the AI doom case is that we might get aligned AI.  I was thus disappointed that the book didn’t discuss this objection in very much detail.
+6 Warning shots
+Suppose that AI is on track to take over the world.  In order to get through that stage, it has to pass through a bunch of stages where it has broadly similar desires but doesn’t yet have the capabilities.  My guess is that in such a scenario we’d get “warning shots.”  I think, in other words, that before the AI takes over the world, it would go rogue in some high-stakes way.  Some examples:
+It might make a failed bid to take over the world.
+It might try to take over the world in some honey potted scenario where it’s not connected to the world.
+It might carry out some nefarious scheme that kills a bunch of people.
+We might through interpretability figure out that the AI is trying to kill everyone.
+I would be very surprised if the AI’s trajectory is: low-level non-threatening capabilities—>destroying the world, without any in-between.  My guess is that if there were high-level warning shots, where AI tried credibly to take over the world, people would shut it down.  There’s precedent for this—when there was a high-profile disaster with Chernobyl, nuclear energy was shutdown, despite very low risks.  If AI took over a city, I’d bet it would be shut down too.
+Now, I think there could be some low-level warning shots—a bit like the current ones with blackmailing of the kind discussed in the anthropic paper—without any major shutdown.  But sufficiently dramatic ones, I’d guess, would lead to a ban.
+Y&S say on their website,
+asked whether there will be warning shots
+, “Maybe. If we wish to make use of them, we must prepare now.”  They note that there have already  been some warning shots, like blackmailing and AI driving people to suicide.  But these small errors are very different from the kinds of warning shots I expect which come way before the AI takes over the world.  I expect intermediate warning shots larger than Chernobyl before world-taking over AI.  It just seems super unlikely that this kind of global scheming abilities would go from 0 to 100 with no intermediate stages.
+Again, I’m not totally certain of this.  And some warning shots wouldn’t lead to a ban.  But I give it around coinflip odds, which is, by itself, enough to defuse near certainty of doom.  Y&S say “The sort of AI that can become superintelligent and kill every human is not the sort of AI that makes clumsy mistakes and leaves an opportunity for a plucky band of heroes to shut it down at the last second.”  This is of course right, but that doesn’t mean that the AI that precedes it wouldn’t be!  They then say:
+The sort of AI disaster that
+could
+serve as a warning shot, then, is almost necessarily the sort of disaster that comes from a much dumber AI. Thus, there’s a good chance that such a warning shot doesn’t lead to humans taking measures against superintelligence.
+They give the example that AI being used for bioweapons development by a terrorist might be used by the labs to justify further restrictions on private development.  But they could still rush ahead with lab-development.  I find this implausible:
+I suspect warning shots with misaligned AI, not just AI doing what people want.
+I think
+obviously if AI was used to make a bioweapons attack that killed millions, it would be shut down
+.
+They further note that humanity isn’t good at responding to risks, citing that COVID wasn’t used to amp up lab safety regulations.  This is right, but “amping up regulations on old technology that obviously must exist,” is very different from “ban new technology that just—uncontroversially, and everyone can see—killed millions of people.”
+Y&S seem to spend a lot of their response arguing “we shouldn’t feel safe just relying on warning shots, and should prepare now,” which is right.  But that’s a far cry from “warning shots give us virtually no reason to think we won’t all die, so that imminent death is still near-certain.”  That is the thesis of their book.
+7 Could AI kill everyone?
+Would AI be able to kill everyone?  The argument in its favor is that the AI would be superintelligent, and so it would be able to cook up clever new technologies.  The authors write:
+Our best guess is that a superintelligence will come at us with weird technology that we didn’t even think was possible, that we didn’t understand was allowed by the rules. That is what has usually happened when groups with different levels of technological capabilities meet. It’d be like the Aztecs facing down guns. It’d be like a cavalry regiment from 1825 facing down the firepower of a modern military.
+I do think this is pretty plausible.  Nonetheless, it isn’t anything like certain.  It could either be:
+In order to design the technology to kill everyone, the AI would need to run lots of experiments of a kind they couldn’t run discretely.
+There just isn’t technology that could be cheaply produced and kill everyone on the planet.  There’s no guarantee that there is such a thing.
+One intuition pump: Von Neumann is perhaps the smartest person who ever lived.  Yet he would not have had any ability to take over the world—least of all if he was hooked up to a computer and had no physical body.  Now, ASI will be a lot smarter than Von Neumann, but there’s just no guarantee that intelligence alone is enough.
+And in most of the analogous scenarios, it wasn’t just intelligence that enabled domination.  Civilizations that dominated other civilizations didn’t do it through intelligence alone.  They had a big army and the ability to run huge numbers of scientific experiments.
+No number of parables and metaphors about how technology often offers huge advances rules out either of these possibilities.  Repeating that AI can beat humans in chess doesn’t rule them out.  Real life is not chess.  In chess, mating with a horse is good.  In my view, the authors give no very strong arguments against these scenarios.  For this reason, I’m giving only 80% chance that the AI would be able to kill everyone.  See
+here
+for more discussion.
+Edit: I had thought advanced AI models weights couldn’t be run on a PC but required a data center.  This is wrong—
+plausibly they’ll be able to be run on a PC soon
+.  Data centers are needed for training not for storing their weighs.  So for this reason I’ve gone from 70% on this step to 80%.
+8 Conclusion
+I think of people’s worldview on AI risk as falling into one of the following four categories:
+Basically no risk: AI doom is well below 1%.  We don’t really need to worry about AI existential risk, and can pretty much ignore it.
+Reasonable risk: AI doom is a serious risk but not very likely (maybe .2%-10%).  The world should be doing a lot more to prepare, but odds are quite good that misaligned AI won’t kill everyone.
+High-risk: AI doom is a serious possibility without any very convincing ways of ruling it out (maybe 10% to 75%).  This should be by far the leading global priority.  It is vastly more significant than all other existential risks combined.  Still, it’s far from a guarantee.  It wouldn’t be surprising if we made it.
+Near-certain doom: AI doom is almost guaranteed.  Unless we ban it, the world will be destroyed.  Our best hope is shutting it down.
+I’m in camp 2, but I can see a reasonable case for being in camp 3.  I find camps 1 and 4 pretty unreasonable—I just don’t think the evidence is anywhere good enough to justify the kind of near-certainty needed for either camp.  Y&S’s book is mostly about arguing for camp 4.
+Yet I found their arguments weak at critical junctures.  They did not deal adequately with counterarguments.  Often they’d present a parable, metaphor, or analogy, and then act like their conclusion was certain.  I often felt like their arguments were fine for establishing that some scenario was possible.  But if you tell a story where something happens, your takeaway should be “this thing isn’t logically impossible,” rather than “I am 99.9% sure that it will happen.”
+I think there are a number of stops on the doom train where one can get off.  There are not knockdown arguments against getting off at many of these stops, but there also aren’t totally knockdown arguments
+for
+getting off at any of them.  This leaves open a number of possible scenarios: maybe we get alignment by default, maybe we get alignment through hard work and not by default, maybe the AI can’t figure out a way to kill everyone.  But if a few critical things go wrong, everyone dies.  So while Y&S are wrong in their extreme confidence, they are right that this is a serious risk, and that the world is sleepwalking into potential oblivion.
+1
+I was thinking of adding in some other number as odds that we don’t get doomed for some other reason I haven’t thought of.  But I didn’t do this for two reasons:
+There could also be opposite extra ways of being doomed from misaligned AI that I haven’t thought of.
+The steps seem pretty airtight as the places to get off the doom boat.  You get doom if the following conditions are met: 1) there are artificial agents; 2) they are misaligned and want to kill everyone; and 3) they have the ability to kill everyone.  So every anti-doom argument will be an objection to one of those three.  Now, in theory there could be other objections to the particular steps, but probably major objections will be at least roughly like one of the ones I give.
+2
+There is some serious question about how much to trust them.  Superforecasters seem to mostly apply fairly general heuristics like “most things don’t turn out that badly.”  These work pretty well, but can be overridden by more specific arguments.  And as mentioned before, they’ve underestimated AI progress.  I am a lot more pessimistic than the superforecasters, and unlike them, I predict AI having hugely transformative impacts on the world pretty soon.  But still, given the range of disagreement, it strikes me as unreasonable to be near certain that there won’t be any doom.
+There’s a common response that people give to these outside view arguments where they point out that the superforecasters haven’t considered the doom arguments in extreme detail.  This is true to some degree—they know about them, but they’re not familiar with every line of the dialectic.  However, there’s still reason to take the outside view somewhat seriously.  I can imagine climate doomers similarly noting that the superforecasters probably haven’t read their latest doom report.  Which might be right.  But often expertise can inform whether you need to look at the inside view.
+This also doesn’t address the more central point which isn’t just about superforecasters.  Lots of smart people—Ord, MacAskill, Carlsmith, Neil Nanda, etc—have way lower p(dooms) than Y&S.  Even people who broadly agree with their picture of how AI will play out, like Eli Lifland and Scott Alexander, have much lower p(dooms).  I would feel pretty unsure being astronomically certain that I’m right and Neil Nanda is wrong.
+Now, you might object: doesn’t this make my p(doom) pretty unreasonable?  If we shouldn’t be near-certain in a domain this complex, given peer disagreement, why am I more than 97% confident that things will go well?  This is one of the things that pushes me towards a higher p(doom).  Still, the people who I find most sensible on the topic tend to have low p(dooms).  Most experts still seem to have low p(dooms) not too far from mine.  And because the doom argument has a number of steps, if you have uncertainty from higher-order evidence about each of them, you’d still end up with a p(doom) that was pretty low.  Also, my guess is people who followed this protocol consistently historically would have gotten lots wrong.  Von Neumann—famously pretty smart—predicted nuclear war would cause human extinction.  If you’d overindexed on that, you’d have been mislead.
+For example, I could imagine someone saying “look, inside views are just too hard here, I’ll go 50% on each of these steps.”  If so, they’d end up with a p(doom) of 1/32=3.125%.
+3
+A common response to this is that it’s the so-called anthropic shadow.  You can never observe yourself going extinct.  For this reason, every single person who is around late in history will always be able to say “huh, we’ve never gone extinct, so extinction is unlikely.”  This is right but irrelevant.  The odds that we’d reach late history at all are a lot higher given non-extinction than extinction.
+As an analogy, suppose every day you think maybe your food is poisoned.  You think this consistently, every day, for 27 years.  One could similarly say: “well, you can’t observe yourself dying from the poisoned food, so there’s an anthropic shadow.”  But this is wrong.  The odds you’d be alive today are just a lot higher if threats generally aren’t dangerous than if they are.  This also follows on every leading view of anthropics, though I’ll leave proving that as an exercise for the reader.
+A more serious objection is that we should be wary about these kinds of inductive inferences.  Do predictions about, say, whether climate change would be existential from 1975 give us much evidence about AI doom?  And one can make other, opposite inductive arguments like “every time in the past a species with significant and vastly greater intelligence has existed, it’s taken over and dominated the fate of the future.”
+I think these give some evidence but there’s reason for caution.  The takeaway from these should be “it’s easy to come up with a plausible sounding scenario for doom, but these plans often don’t take root in reality.”  That should make us more skeptical of doom, but it shouldn’t lead us to write doom off entirely.  AI is different enough from other stuff that other stuff doesn’t give us no evidence concerning its safety—but neither does it give us total assurance.
+The other argument that previous intelligence booms have led to displacement is a bit misleading.  There’s only one example: human evolution.  And there are many crucial disanalogies: chimps weren’t working on human alignment, for example.  So while I think it is a nice analogy for communicating a pretty high-level conclusion, it’s not any sort of air-tight argument.
+4
+Eliezer’s response to this on podcasts has been that while there might be model errors, model errors tend to make things worse not better.  It’s hard to design a rocket.  But if your model that says the rocket doesn’t work is wrong, it’s unlikely to be wrong in a way that makes the rocket work exactly right.  But if your model is “X won’t work out for largely a priori reasons,” rather than based on highly-specific calculations, then you should have some serious uncertainty about that.  If you had an argument for why you were nearly certain that humans wouldn’t be able to invent space flight,
+you should have a lot more uncertainty about whether your argument is right than about whether we would be able to invent space flight given your argument being right
+.
+5
+Eliezer often claims that this is the
+multiple stage fallacy
+, which one commits by improperly reasoning about the multiple stages in an argument.  Usually it involves underestimating the conditional probability of each fact given the others.  For example, Nate Silver arguably committed it in the following event:
+In August 2015, renowned statistician and predictor Nate Silver wrote “
+Trump’s Six Stages of Doom
+“ in which he gave Donald Trump a 2% chance of getting the Republican
+nomination
+(not the presidency). Silver reasoned that Trump would need to pass through six stages to get the nomination, “Free-for-all”, “Heightened scrutiny”, “Iowa and New Hampshire”, “Winnowing”, “Delegate accumulation”, and “Endgame.” Nate Silver argued that Trump had at best a 50% chance of passing each stage, implying a final nomination probability of at most 2%.
+I certainly agree that this is an error that people can make.  By decomposing things into enough stages, combined with faux modesty about each stage, they can make almost any event sound improbable.  But still, this doesn’t
+automatically disqualify every single attempt to reason probabilistically across multiple stages
+.  People often commit the conjunction fallacy, where they fail to multiply together the many probabilities needed for an argument to be right.  Errors are possible in both directions.
+I don’t think I’m committing it here.  I’m explicitly conditioning on the failure of the other stages.  Even if, say, there aren’t warning shots, we build artificial agents, and they’re misaligned, it doesn’t seem anything like a guarantee that we all die.  Even if we get misalignment by default, alignment still seems reasonably likely.  So all-in-all, I think it’s reasonable to treat the fact that the doom scenario has a number of controversial steps as a reason for skepticism. Contrast that with the Silver argument—if Trump passed through the first three stages, seems very likely that he’d pass through them all.
+6
+Now, you might object that scenarios once the AI gets superintelligent will inevitably be off-distribution.  But we’ll be able to do RLHF as we place it in more and more environments.  So we can still monitor its behavior and ensure it’s not behaving nefariously.  If the patterns it holds generalize across the training data, it would be odd if they radically broke down in new environments.  It would be weird, for instance, if the AI was aligned until it set foot on Mars, and then started behaving totally differently.
+7
+Now, you could argue that predictively generating text is the relevant analogue.  Writing the sorts of sentences it writes is analogous to the drives that lead humans to perform actions that enhance their reproductive success.  But the natural generalization of the heuristics that lead it to behave in morally scrupulous and aligned ways in text generalization wouldn’t randomly lead to some other goal in a different setting.
+8
+The reply is that the patterns you pick up in training might not carry over.   For example, you might, in training, pick up the pattern “do the thing that gets me the most reward.”  Then, in the real world, that implies rewiring yourself to rack up arbitrarily high reward.  But this doesn’t strike me as that plausible.  We haven’t observed such behavior being contemplated in existing AIs.  If we go by the evolution analogy, evolution gave us heuristics that tended to promote fitness.  It didn’t just get us maximizing for some single metric that was behind evolutionary optimization.  So my guess is that at the very least we’d get partial alignment, rather than AI values being totally unmoored from what they were trained to be.
+9
+If you believe in the Yudkowsky Foom scenario, according to which there will be large discontinuous jumps in progress, AI being used for alignment is less likely.  But I think Foom is pretty unlikely—
+AI is likely to accelerate capabilities progress, but not to the degree of Foom
+.  I generally think LLM-specific projections are a lot more useful than trying to e.g. extrapolate from chess algorithms and human evolution.

@@ -1,0 +1,120 @@
+Title: Update on Metascience-Related Language in the NIH Budget
+Source: goodscience
+URL: https://goodscience.substack.com/p/update-on-metascience-related-language
+Date: Sat, 24 Jan 2026 02:39:50 GMT
+Word Count: 2060
+Estimated Read Time: 10 minutes
+
+================================================================================
+
+Update on Metascience-Related Language in the NIH Budget
+The Good Science Project
+Subscribe
+Sign in
+Update on Metascience-Related Language in the NIH Budget
+Stuart Buck
+Jan 24, 2026
+15
+1
+6
+Share
+Earlier this week, the House and Senate appropriations committees released a
+bipartisan bill
+on
+NIH funding
+, along with a
+Joint Explanatory Statement
+that has a few paragraphs of metascience interest. Note as well that the
+House
+and
+Senate
+both had already released language re: NIH that is still in place unless specifically overridden by the Joint Explanatory Statement.
+Let’s dig in:
+Indirect Costs
+The Joint Explanatory Statement has some stern language dictating that neither NIH
+nor any other federal agency
+can change how indirect costs are calculated, or are they even allowed to issue a notice of proposed rulemaking that would attempt to do so.
+This is the most stringent language on indirect costs that I’ve ever seen
+:
+Indirect Cost Rates.-The agreement recognizes that indirect cost recovery has been essential for supporting research at universities, nonprofit laboratories, medical centers and other entities eligible for Federal research awards and is key to sustaining U.S. leadership in scientific research and technological innovation. The agreement acknowledges that there is room for improvement in the system used to identify and recover indirect cost rates under the Uniform Grant Guidance, particularly with respect to the need for greater transparency into these costs. Various models have been suggested to achieve these improvements, including the Financial Accountability in Research (FAIR) model advanced by the Joint Associations Group on Indirect Costs (JAG), which the Committees believe merit further consideration. Therefore, the agreement directs the departments and agencies funded in the Act to engage in discussions with the Committees on proposals to achieve these improvements, including onthe FAIR model.
+Under this agreement, neither NIH, nor any other department or agency, may develop or implement any policy, guidance, or rule, including publication of a notice of proposed rulemaking, that would alter the manner in which negotiated indirect cost rates have been implemented and applied under NIH regulations, as those regulations were in effect during the third quarter of fiscal year 2017.
+I assume that
+NSF
+,
+DOE
+,
+DOD
+, etc. are listening . . .
+Fund the Person, Not the Project
+The House report had this language, which remains in place:
+Experimental Research.--The Committee recognizes the success of the NIGMS Maximizing Investigators’ Research Award program [R35 grants] and encourages the NIH to continue expanding similar experimental research opportunities to other institutes.
+As well, the Senate report had this language about the same program:
+Fund the Person, Not the Project.—While many labs are funded by R01-equivalent grants, the R35 mechanism arguably allows scientists more flexibility and freedom to pursue the most meritorious science. The Committee looks forward to reviewing NIH’s plans for expanding the R35 along with its plans for evaluating the impact on scientific progress, as directed in the Consolidated Appropriations Act, 2024 (Public Law 118–122).
+Hopefully NIH can make some progress in this area. The R35/MIRA program is a great way to fund creative scientists with more flexibility to follow new ideas. The NIH should be using this program more widely.
+Replication
+As discussed
+here
+earlier, the House report had some ambitious language plus a budget of $100 million for replication at NIH. The new Joint Explanatory Statement rejects that House language in favor of the Senate language:
+Replication Experiments and/or Fraud Detection.-In lieu of the amount and directive under this heading in House Report 119-271, the agreement supports NIH efforts to fund replication experiments on significant lines of research and continues the briefing directive under the heading "Replication and Reproducibility Experiments" under Senate Report 119-55.
+The Senate language, unfortunately, is less ambitious:
+Replication and Reproducibility Experiments.—The Reproducibility Project in Cancer Biology showed the difficulty in replicating cancer biology studies published in top journals. Given the importance of reproducibility in scientific research, the Committee encourages NIH to establish a program to fund replication experiments on significant lines of research. The Committee directs NIH to brief the Committee within 180 days of enactment on the reproducibility efforts NIH will undertake in fiscal years 2026 and 2027.
+No more $100m. Also, the Committee merely “encourages” NIH to act, which is language that agencies routinely treat as optional, although I doubt that will happen in this case (Jay Bhattacharya is very much in favor of replication).
+Restructuring NIH
+There have been various proposals to reorganized and streamline NIH’s many components, but the Senate report basically rejects those ideas unless the proper statutory process is followed:
+Restructuring NIH.—The Committee notes that Congress established 24 NIH ICs in statute through section 401 of the Public Health Service Act (Public Law 106–525). The Committee further notes that section 401 of the Public Health Service Act (Public Law 106–525) requires that the Secretary provide the HELP Committee and the Committee on Energy and Commerce of the House of Representatives 180 days written notice of any determination to restructure or reorganize the functions of NIH’s ICs, which the Committees have not received. The Committee commends NIH for reconvening the Scientific Management Review Board [SMRB], as directed in the fiscal year 2024 appropriations Act, to review the overall research portfolio of the agency and advise on the use of organizational authorities, including eliminating ICs, creating new ones, and reorganizing existing structures. NIH is directed to provide a report to the Committee no later than 30 days after enactment on SMRB activities, and an annual report on SMRB plans and activities thereafter.
+The Burden of Bureaucracy
+The Senate report reiterates earlier language on this point:
+Reducing the Administrative Burden on Researchers.—The Committee remains concerned about the status of NIH’s implementation plans following a 2019 final report on administrative burden. The Committee reiterates the directives described in the Consolidated Appropriations Act, 2024 (Public Law 118–122).
+The Good Science Project has been working on this issue for years. Imagine if DOGE had focused on improving government efficiency as to NIH-funded scientists rather than on increasing INefficiency to literally unheard-of levels.
+Alternatives to Animal Research
+The Senate report commends NIH for seeking alternatives to animal research:
+New Approach Methodologies.—The Committee supports NIH Common Fund’s Complement Animal Research In Experimentation [Complement-ARIE] Program, intended to spur the development, standardization, validation, and use of new approach methodologies [NAMs] to more accurately model human biology. The Committee also encourages NIH, in new Announcements and other indications of funding opportunities, to continue consideration of NAMs as an option for areas of preclinical research when it is not appropriate to use human participants and where the use of NAMs has been demonstrated to support biomedical discoveries. The Committee further encourages NIH to collect and make publicly available a report that outlines how the use of vertebrate animal models in agency research contributes to the mission of NIH as well as efforts by the agency to encourage the use of new approach methods or strategies. This report should include examples of how other methods have been used in NIH research to reduce, replace, and refine the number of vertebrate animals used in research.
+While we clearly can’t dispense with animal research entirely, there are many examples of such research that is basically useless in predicting what will work in humans. As one of many examples, Malcolm MacLeod once reviewed some 400 stroke treatments that purportedly worked in mice, but only ONE (tissue plasminogen activator, or TPA) worked in humans. We should actively look for alternatives.
+Funding Younger Scientists
+The Senate report says:
+Expanding Support for Young Investigators.—NIH has been criticized for funding too many late career scientists while funding too few early career scientists with new ideas. The Committee is concerned that the average age of first-time R01 funded investigators remains 42 years old. More than twice as many R01 grants are awarded to investigators over 65 than to those under 36 years old. The Committee appreciates NIH’s efforts to provide support for early-career researchers through several dedicated initiatives, including the NIH Director’s New Innovator Award, Next Generation Researchers Initiative, Stephen Katz award, and the NIH Pathway to Independence Award. The Committee encourages NIH to continue supporting these important initiatives and to expand support for early career researchers by increasing the number of award recipients for these programs in future years. The Consolidated Appropriations Act, 2024 (Public Law 118–122) directed NIH to provide a ‘‘professional judgement’’ budget to the Committee to grow and retain the early career investigator pool, accelerate earlier research independence, and ensure the long term sustainability of the biomedical research enterprise. Building off of these efforts, the Committee directs NIH to provide an update on the activities to grow and retain early career investigators.
+This all seems like a great idea. Middle-aged and elderly scientists have no monopoly on great ideas, and the opposite often seems to be the case (for example, the most innovative physics ideas in 1905 came from Einstein at age 26 or so).
+Open Access to Scientific Papers
+The Senate report says:
+Article Processing Charges for NIH–Funded Research.—The Committee commends NIH for building on prior public access and datasharing reforms to initiate a process to address rising Article Processing Charges [APCs] that scientific journal publishers often charge NIH-supported scientists to publish the findings of their federally-funded research. NIH, and the scientists it funds, must be good stewards of taxpayer dollars and obtain as much research value as possible from limited resources. The Committee directs NIH to work with the scientific community to inform development of an APC allowable charge limit and, as part of that process, to: account for different publishing models, particularly U.S.based publishers focused on rigorous peer review and quality checks; support a robust American scientific research and publishing enterprise amid unprecedented global competition; and support the aims of gold standard science by establishing parameters to guard against potential abuses, including payment of APCs to journals that don’t prioritize research quality and integrity. Within 90 days of enactment, NIH is directed to brief the Committee on these efforts and its work to engage scientific journals on reasonable, sustainable APCs moving forward.
+This is going to be interesting. Ever since people started demanding open access to published articles, journals (particularly the ones run by for-profit enterprises) have started to demand higher and higher fees for making articles openly available to read. The fee at
+Nature
+currently is
+around $12.6k
+! It is quite reasonable to ask whether NIH (or any scientific funder) should pay over $10k per article to make that article available to read.
+Foreign Research Partners
+The Senate report says:
+Advancing Clinical Trials Through Subawards.—The Committee is concerned about the impact of the Administration’s policy to prohibit scientists from directing any funding to international research partners and the impact on clinical trials and human subjects research. Pediatric cancer, rare disease, HIV and infectious disease research rely on clinical trial participants and biospecimens from foreign countries in order to aggregate enough samples or patients for robust research. The Committee directs NIH to allow reimbursements and other funding arrangements with research partners abroad to foster pediatric cancer, rare disease, HIV and infectious disease research.
+The Senate report seems unambiguously correct here. There are many cases where clinical trials simply can’t recruit enough participants in any single country.
+15
+1
+6
+Share
+Discussion about this post
+Comments
+Restacks
+Mickey Schafer
+4d
+I wonder how the young researcher awards will work vis-a-vis actual employment in either universities or industry. Part of the reason that more established researchers are considered valuable is because their track record implies greater stability in terms of return on investment. They're more likely to bring in more money, hence the university or industry resources for that research are better spent. In academics, more funding in a particular project means the academic ecosystem of human resources (postdocs, graduate students, undergraduates, lab managers, etc) are more fully served, which benefits the university. What will the incentives be for hiring new researchers? I can see how post docs might be encouraged to launch PI-adjacent projects, but wonder about how this policy shift will really operate on the ground.
+Reply
+Share
+Top
+Latest
+Discussions
+No posts
+Ready for more?
+Subscribe
+© 2026 Stuart Buck
+·
+Privacy
+∙
+Terms
+∙
+Collection notice
+Start your Substack
+Get the app
+Substack
+is the home for great culture
+This site requires JavaScript to run correctly. Please
+turn on JavaScript
+or unblock scripts

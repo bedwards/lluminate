@@ -1,0 +1,184 @@
+Title: Unbundling the University, Part 4
+Source: goodscience
+URL: https://goodscience.substack.com/p/unbundling-the-university-part-4
+Date: Mon, 07 Jul 2025 11:19:18 GMT
+Word Count: 3482
+Estimated Read Time: 17 minutes
+
+================================================================================
+
+This is the fourth and final installment of Ben Reinhardt’s monograph on Unbundling the University. For the first three parts, see
+here
+,
+here
+, and
+here
+. For more of Ben’s work, check out the
+Speculative Technologies site
+.
+***
+3. Universities need to be unbundled
+It’s clear that universities have multiple conflicting missions. It’s fairly uncontroversial to suggest that universities are no longer balancing these missions well. The more contentious question is “how do we fix the university?”
+Some people (who care primarily about its cultural role) say “decolonize it” others (who also care about that same cultural role) say “eliminate DEI.” People who care about the role as job training say “eliminate useless majors” or “focus on marketable skills.” Those who care about discovering the secrets of the universe say “more replication,” “change how we do grants,”“reform journals,” or “increase rigor.” For technology: “fund more applied work” “increase industry partnerships” “reform tech transfer offices.” The list goes on: “Pay student athletes better” “unionize grad students” “change admissions criteria” “tax the endowments.” Suggestions on the more intense end of the spectrum include “reduce the number of scientists” or “fewer people should go to college, period.”
+“The situation with universities” resembles the
+theory of epicycles.
+When planetary motion was locked to a theory that planets needed to move along perfect circles, natural philosophers needed to create more and more complicated solutions to new observations of planetary movements. The solution wasn’t adding more circles to address the observations, it was Newton popping up one level to propose a new paradigm of physics where planetary motion is driven by gravity. We need to do the same thing here: popping up one level to propose a new paradigm where universities don’t have all of these societal roles.
+The meta-solution to “the situation with universities” is to unbundle the university.
+“Unbundling” is a concept from the Tech world around the phenomenon of businesses offering individual services eating the market share of businesses that once offered all of those services together. The classic example is the transition from cable to streaming services, unbundling the different channels, or the observation that
+almost every software-as-a-service business is just a specialized excel spreadsheet.
+In our case, unbundling means peeling societal roles away from the university and creating new institutions (and revitalizing old ones) to take them on. It’s pruning back a giant tree so that a thousand flowers can bloom. Ideally, this would lead to a whole ecosystem of institutions all experimenting with different ways of doing things better, from credentialing to moral instruction to building technology to discovering the secrets of the universe.
+Without the university’s monopoly, institutions can actually compete. Imagine a world where there are multiple
+kinds
+of institutions all trying to discover the secrets of the universe: one rewards the wackiest ideas, one prioritizes just trying stuff really fast, and one is set up to do work that only has
+external milestones every 100 or more years.
+From
+A Vision of Metascience:
+Many experiments won’t work, but some might unlock the future and right now we have no ways of giving them a fair shot and finding out which are which.
+Competition is necessary but not sufficient for a flourishing ecosystem to replace the university monopoly. A flourishing ecosystem also needs mechanisms that direct that competition towards “good” outcomes. Markets are a tried and true way to reward effective institutions, but I’m not convinced that all university roles (perhaps credentialing or sports) are well-served by market logic. Roles that create public goods, are extremely high uncertainty, or have incredibly long timescales require something beyond feedback loops of profit and loss.
+This isn’t a call to burn everything down: the university should be one of those competing institutions!
+Academia is uniquely good at some things.
+More institutional competition would put pressure on academia to be the best that it can be, playing to its strengths and shedding its accumulated encrustations.
+Arguments for emergent solutions are particularly unsatisfying — I’m not offering a silver bullet, nor even a concrete solution to the particular issue that concerns
+you
+the most. It’s easy to explain how adding more things will solve a problem, but much harder to explain how taking them away will make things better. There is certainly faith involved that good things will fill a vacuum, but we forget how much faith is involved that more concrete institutional interventions will work. It’s an especially large leap of faith to believe that adding more rules will fix a problem caused by an already-too-big pile. The added bonus of emergent solutions is that they encourage building and experimenting instead of bitter zero-sum power struggles over a single leverage point like government rules or regulations.
+Counterarguments
+The university’s bundle of roles isn’t arbitrary.
+Many roles co-evolved to support each other: for many years, teaching funded research, which in turn taught skills that are hard to find elsewhere; massive endowments fund startup packages that give professors slack to do work that can’t yet be justified to grant committees; there’s a lot of value to a self-propagating intergenerational culture that pulls very different people together for different reasons.
+There are many examples of beneficial bundling.
+Bell Labs declined precipitously when AT&T was broken up. One of the reasons Apple products can deliver the experience they do or SpaceX can reduce launch costs is because vertical integration bundles many functions together. The state of streaming content in early 2025 where content is balkanized across a dozen different services makes it clear that unbundling is not an unmitigated good.
+Actually-existing university unbundling has mixed results.
+There are a number of examples of places where research
+has
+been unbundled from the rest of the university and yet hasn’t produced particularly outstanding results.
+The Perimeter Institute
+and
+the Institute for Advanced Study
+come to mind. This isn’t to disparage them as organizations, only to illustrate the point that unbundling alone is not sufficient!
+Bundling enables cross-subsidization.
+Revenue is a strong argument
+for
+bundling. A university’s profitable roles can fund important but unprofitable ones: the university’s hedge fund, sports teams, and professional schools subsidize basic science, scholarships, and english departments.
+Universities are lindy.
+Chesterton’s Fence
+is the final argument against unbundling the university. Universities have evolved over hundreds of years to get where they are today. Some of them, like Oxford and Cambridge, have unbroken lineages to when what we call universities became a thing. Harvard predates the United States and I will bet money that it will outlast the Nation in its current form. While there are many problems with universities, they have also been a huge civilizational boon. There are surely hundreds of hidden load-bearing dependencies within the bundle that we’ll only discover when we attempt to separate two roles.
+That all being said, the bundling pendulum has swung so far to one side that the marginal return to doing some unbundling is too high not to attempt it. But these arguments should impress on us that doing unbundling well will be hard and shouldn’t be undertaken lightly.
+Concrete steps towards unbundling
+It’s fine and good to say “unbundle the university” but
+what does that mean concretely?
+There’s a whole laundry list of things
+you
+can do in many different institutions: from private companies to foundations to governments to your capacity as an agentic individual. Here are some, but nowhere near all of them:
+Stop requiring university affiliations for grants.
+Judge people on portfolios, not degrees.
+Reduce cycle times for funding research.
+Simply stop expecting universities to be the solution to society’s ills.
+Experiment with how universities are run.
+Focus on the effectiveness of an organization for achieving its stated goals.
+Celebrate institutions and individuals who support and fund weird institutional experiments.
+Create ways for people to learn about culture and the humanities.
+If you have access to spare physical resources like lab spaces or machine shops, make it possible for unaffiliated people to use them.
+Give people shit for getting unnecessary degrees.
+And more broadly, think about better ways to do the role that you in particular care about than just saying “universities should just …”
+To illustrate what new institutions might look like, I’ll describe two ideas (that are secretly two ways of looking at the same thing). These ideas are focused on the pieces of the university bundle that I particularly care about: pre-commercial technology research
+(especially in materials and manufacturing)
+and creating the most hardcore scientists and technologists the world has ever seen. (If you want to help make either of these happen,
+you know where to find me.
+)
+A hardcore institute of technology
+The quality of technical education in the US is abysmal. (Not in small part thanks to overloading university roles.) Elite technical institutions have fallen prey to broader trends in higher education: lower standards, A’s becoming the dominant grades, becoming more of a certification than skills generating. You can graduate from an Ivy League school with a degree in chemistry without ever having taken a class in linear algebra. Even the quality of Caltech students (once a bar for brutally hard technical training)
+has fallen off a cliff.
+From personal experience, there are almost no schools that carry the signal that “this person is a technical badass.”
+If we’re going to build the future, we need to change this. If we (both the US and globally) are going to make it, we need obscenely hardcore technologists. The US has lost the ability to systematically produce extremely hardcore scientists and technologists.
+Counterintuitively, the way to train hardcore scientists and technologists is not to build yet another school. Instead, you start by building a research lab for experienced misfits that is working on real, serious problems. Serious technical training needs to happen in a serious context of use. Smart technical managers know this: portfolios are starting to matter far more than credentials. Working on specific teams at certain companies is now a far better indicator of quality than any degree – a successful tour of duty at SpaceX has more signal than going to MIT.
+Once the lab is running, you start bringing in “journeymen” who have some training or experience, but are not yet masters of their craft. These folks would be the equivalent of grad students but with the explicit understanding that they are not students and this is not a degree-granting program: the deal is that they will get some slack for not knowing everything up front, they will work their butts off, and will become the most hardcore scientists and technologists the world has ever seen. This would be like the navy seals of technical training – you know that anybody who comes out of this place is the best of the best.
+A bit later you bring in “apprentices.” These are high-school graduates or younger who love science, building, and are ready for a trial by fire. Again — no grades, no degree, and no accreditation; just experience and an incredible portfolio.
+It’s worth reemphasizing that
+this needs to primarily be a place devoted to doing serious work
+— when most people think about education, they think about schools and toy projects. Learning in the context of serious work was part of Humboldt’s original idea behind the German University model, but has been lost in translation over time and between places. From personal experience, the thing that made the Caltech undergraduate education so unique was that it felt bolted on to a place primarily devoted to scientific research, not the main purpose of the organization. We *knew* we weren’t the most important thing — we were there to learn from the people who were doing the important thing. Classes are still important for learning, but they would be directly in service of making journeymen and apprentices as amazing as they can be at doing science and technology, not as an end in and of themselves.
+What kind of research would the Hardcore Institute of Technology do? Well, there are no better contexts for people to learn how to manipulate atoms, scale technologies, and do consequential work than materials and manufacturing …
+America’s Manufacturing Research Center
+Everybody knows that the US industrial base has been hollowed out. And, even outside of geopolitics, we are not going to expand to the stars manufacturing things effectively the same way we have since the 1930s. If we’re going to succeed, both as a nation and a species, we need to create entirely new
+paradigms
+for manufacturing; to do that, we need to build an organization focused on pre-commercial manufacturing research to unlock those new paradigms.
+A lot of current reindustrialization discourse and work focuses on building up (particularly high-margin) military manufacturing capabilities. But
+military manufacturing capabilities are in large part just general manufacturing capabilities
+. The reason the US was able to outproduce everyone else in WWII was because places like General Motors and General Electric transitioned their existing capabilities from making cars and toasters to making tanks and airplane engines. This general capacity looks like the ability to
+economically
+manufacture several kinds of
+low-margin
+outputs:
+Precise basic components like bolts
+Multi-material components like electric motors
+Assemblies like toasters
+We’re not going to build this capacity and manufacture things cost-effectively in the US by putting up tariffs and otherwise trying to out-China China. Even ignoring their heavy government subsidies, they’ve gone too far down the
+learning curves
+of conventional ways of manufacturing things.
+The way that we’re going to rebuild manufacturing capacity in the US is the same way you disrupt an entrenched player: by changing the game and creating a new paradigm. Changing the game enabled
+minimills to displace big steel factories
+as dominant steel producers, cell phones to displace desktops as the most prevalent computing devices, and submarines and aircraft carriers to displace battleships as the most dangerous things on the ocean.
+It’s tempting to try to create new paradigms by bolting new technology onto old systems. Navies first tried to incorporate airplanes by towing seaplanes or retrofitting battleships with small runways. In retrospect, the correct solution was aircraft carriers. New paradigms require rethinking entire systems around new capabilities. The new systems look strange or even silly through the lens of an old system — “so you’re telling me you’re going to create a gigantic ship that just has a big ol’ flat runway on top of it?” Successful American manufacturing in the 21st century won’t look like American manufacturing in the 20th; it will be based on entirely new paradigms.
+These paradigm shifts aren’t going to happen solely through startups or modernizing existing shops (the two existing approaches to industrialization). VC-funded startups excel at high-margin work, point solutions, and scaling products. Existing shops don’t have the margins to do expensive, high risk experiments. Creating new manufacturing paradigms requires a lot of expensive experiments to create low-margin products.
+Creating new manufacturing paradigms needs a network built around an
+ambitious industrial research lab
+laser-focused on
+building useful, general-purpose technologies
+and getting them into the world. This is how we can do systems-level research happening in tight communication with existing industry. Analogies to past orgs are fraught, but a good analogy might be “the Xerox PARC of manufacturing”: skilled practitioners building new paradigms by “dogfooding” — using their own tools to do serious work.
+Manufacturing’s low-margin nature and the positive externalities from paradigm-shifting research means that the lab itself will not be a great financial investment. Creating entirely new systems is hard to do, but straightforward to emulate. That’s why it looks obvious in retrospect. It’s hard to capture the value of new paradigms directly and trying to do so can ultimately hamstring their impact. Instead, the value will be captured by wherever the lab is physically located, the nation, and eventually the world.
+These are just two of the hundreds or thousands of other things that need to be built
+. We need to try…
+Experimentation with state universities
+Industry schools/skill factories
+Science houses
+Focused research organizations
+Alternative credentialing
+And so many other things that people have proposed and I don’t know about or haven’t even been thought of yet.
+Beyond Monopoly
+Our current university system – where a single type of institution dominates everything from job training to moral instruction to technology creation – is a historical anomaly. Until shockingly recently, these roles were distributed across diverse institutions: technical skills came from apprenticeships and technical schools, cultural education happened through libraries and cultural societies, technology was created by industrial labs and independent inventors.
+This institutional diversity wasn’t just about research – it reflected a fundamental reality about human knowledge and development: different kinds of learning, discovery, and creation thrive under different constraints and incentives. A system optimized for teaching philosophy makes a poor environment for training mechanics. An institution focused on scholarly publishing will naturally conflict with one trying to build useful technologies. A bureaucracy designed to shelter young adults and avoid lawsuits is rarely good at fostering breakthrough innovations.
+We’ve spent a century trying to solve problems by adding more requirements, oversight, and complexity onto universities. It hasn’t worked. Instead of trying to reform a single overburdened system, we need to create space for new institutional diversity:
+If you’re in a position to make hiring decisions:
+evaluate candidates based on demonstrated capabilities and portfolios, not degrees. Create apprenticeship programs that focus on real skills rather than credentials.
+If you control physical resources like lab spaces, machine shops, or meeting spaces:
+find ways to make them available to independent researchers, builders, and learners. The next breakthrough might come from someone who just needs access to basic tools.
+If you’re involved in funding:
+question requirements that force everything that isn’t a good investment through universities. Create parallel paths for independent researchers, teams, and new institutional forms.
+If you’re a student or parent:
+think critically about what you actually want to learn or achieve. There might be better paths than a traditional degree.
+If you’re a builder:
+create focused alternatives that do specific things well. The world needs new forms of credentialing, new approaches to cultural education, new ways of organizing research.
+This transition won’t be neat or predictable. Many experiments will fail. But the alternative – continuing to overload a single institutional form until it breaks under its own weight – is far worse.
+The university will remain an important part of any new ecosystem. The university has been around since before the nation-state; it will likely outlast it. But universities should be one institutional form among many, not a monopoly provider of every high-status form of learning and knowledge creation.
+The question isn’t whether this transition will happen - it’s already beginning as the strains on the current system become unbearable. The question is whether we’ll shape it thoughtfully and intentionally, or let it happen chaotically and destructively. The future we want - of breakthrough technologies, deep learning, and expanding human capabilities - depends on our answer.
+Gratitude
+Thank you to the people who gave feedback on drafts of this piece: Jessica Alfoldi, Adam Mastroianni, Josh Greenberg, Andy Matuschak. And thank you to so many others whose wisdom and ideas contributed to this piece.
+References
+I primarily tried to link to relevant resources in the body of this piece. There have been far too many things written about this topic to possibly list them all. This bibliography is meant to be an evolving collection of interesting related work that doesn’t have a direct connection in the text.
+The DDOS Attack of Academic Bullshit
+Caltech Faculty Letter on the State of the Undergrads
+(
+Archived version)
+A Vision of Metascience
+A Thread on Experimenting with State Universities
+Arnold Kling’s How to Fix Higher Education
+Two Essays on Boston University’s Decision to Pause PhD Admissions
+A History of the University in Europe Volume III
+Creating the Market University
+An Interview with the Stanford President,
+in particular this bit:
+Dropping College Enrollment
+Data on R&D Expenditures in the US
+An article on professors leaving academia to do biomedical research
+Footnotes
+Some fields have a custom of using an asterisk to denote “co-first authors,” but everybody knows most of the time one person gets most of the credit and physically, one name will always be first.
+↩︎
+This is a thing that China figured out centuries earlier.
+↩︎
+While Humboldt’s ideas were formative to the Prussian University system (and our entire modern university system), some of his ideas (like complete academic freedom) were conveniently left out of the implementation.
+↩︎
+Imagine if people so explicitly chalked national loss or victory up to education systems today!
+↩︎
+Anecdotally, the most common response to “I’m a professor” is “oh, what do you teach?”
+↩︎
+Frustratingly there is little actual hard data on the breakdown of university revenues and funding sources for research before 1950: a project for an enterprising metascientist!
+↩︎
+Large academic labs can have upwards of 40 or 50 people

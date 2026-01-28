@@ -1,0 +1,275 @@
+this is my portfolio website and
+although it doesn't look like a typical
+website it still shows the projects that
+I've done shows my resume like here's my
+resume has all my links and you can even
+click on this up here to get all of my
+Java
+projects you can click on a book over
+here to get some Dynamic page flipping
+with some information about stuff like
+for example my YouTube
+channel and much much more so if you're
+interested in visiting it it's hosted at
+Bryce hannahdev and yes that is my name
+and you can check it out I'm very proud
+of this project but I do sort of regret
+it so if you want to figure out my
+creative process for creating this
+entire project and why I sorted for
+Reddit watch this video and if you enjoy
+it like the video make sure to subscribe
+and who who knows maybe this will even
+give me a job I have a ton of projects
+and that's made evident by my GitHub
+where I have 47 repositories each with
+some sort of different idea or goal
+everything from some toy like Tic tactoe
+projects to a python neuro Evolution
+simulation to a backend web server to
+frontend react web app all of my Roblox
+stuff all of my really old Java stuff
+and more and I need a way to present
+this to Employers in such a way that
+they'll want to hire me now for any
+developer my first solution was to take
+the simplest route without any obstacles
+and that was using the built-in like
+GitHub read me so I set up this you know
+cute little page with all my pinned
+repositories little stat menu about my
+YouTube channel and then all of my
+GitHub stat which still kind of suck and
+I was like okay cool that that got me
+through like all of last year but last
+spring I was thinking about getting
+internships in the next summer so summer
+of 2025 and I wanted to prepare by
+making a banger portfolio website now
+what most people do with their website
+is they create something simple
+something minimalist just gets the job
+John gets all of their projects out and
+demonstrates that I can actually host a
+website with a custom domain name but I
+wanted to go a little further because
+I'm an overachiever and a perfectionist
+now my options were limited that I could
+either make learn all the CSS learn all
+the design make something beautiful
+pretty has great ux or do something a
+little more unique and since my history
+is in game development and 3D Graphics I
+thought I could find a way to
+incorporate that into a browser website
+I didn't really know this was possible
+until I saw Bruno Simone's portfolio
+website so he is a creator of a
+3js uh tutorial series and his website
+literally as you can see here is just
+riding around a car and you can drive
+through this project phic each
+one and there's a lot of physical
+simulation there's a lot of stuff going
+on it looks beautiful even though it has
+a minim graphic and I thought this was
+the coolest
+thing so I want to do find a way where I
+can incorporate something that I like
+one of my side Hobbies into a 3D
+environment to present my programming
+content so over time I just kind of
+collected a list of things I was
+interested in or like my hobbies just to
+kind of see what would be a good fit to
+incorporate
+into a portfolio website and what I
+eventually decided on was doing
+something in regards to books or like
+journaling because I read a lot of books
+I Journal a lot and I think books are
+pretty cool and it's something different
+that you know most CS kids can't really
+like flaunt or show off and I thought I
+could turn it into a cool looking
+portfolio website my first idea
+regarding this was creating a book
+basically a single book where each page
+was an entry with some sort of project
+maybe like the words would be on the
+page and like you had a cool little page
+flip animation I thought that would be
+really really
+cool so I got started now what did that
+mean so I started using using 3js which
+is a JavaScript library well I was using
+typescript because dude you could not
+make use JavaScript that language is
+terrible but typescript typescript on
+the other hand is a little bit more
+bearable so I was using typescript in
+3js to make 3D Graphics in the web 3js
+is just a very thin wrapper on top of
+like webg I think it is to just draw you
+know shapes and Primitives and
+models and then I don't really have a
+lot of the footage for the development
+process just because I did this all last
+spring and I didn't really feel like
+recording everything I did because I
+didn't really know if I was going to
+turn this into video I don't really know
+if I was going to get this done because
+I kind of set my goal around like to
+finish this around May so I could just
+forget about it so I'm just going have
+to kind of explain it to you so I first
+started off with like just a
+book and this book could like flip pages
+and getting that to work using blender
+was an absolute nightmare but the final
+product can be shown in my actual web
+with the page flipping that you can see
+on some of the pages or on some of the
+little booklets that you can pick up so
+this like page flip animation alone took
+like two months to get right because you
+had to deal with exporting and
+converting from blender to a file that
+could be compatible with 3js and not
+take up a lot of room and you had to get
+the animation and the key frame working
+and all the Pages working it was a it
+was a freaking mess but it looks really
+cool it looks really really really cool
+and is exactly what I wanted but around
+like Midway through all that page
+dilemma book stuff I started thinking
+about other ways I could incorporate
+this book idea into a larger portfolio
+website and I briefly toyed with the
+idea of physics and I realized physics
+are really inconsistent and making that
+for your portfolio site is a terrible
+idea and then I was like okay let's just
+make this an entire desk where each item
+on the desk represents a project and
+that sounded really good to me so I got
+to work I modeled everything using
+blender and all of the models are my own
+I really enjoy modeling um and I used a
+lot of I use an infen tutorial I think
+that's the name of the YouTuber um to
+get my low modeling or low poly modeling
+technique to where I needed it to make
+these models and I think think they all
+turned out pretty good and then as the
+project scaled I Incorporated react for
+State Management so to make things a
+little better there's a really good
+Library called react 3 fiber that
+Blended the state management and
+expressiveness of declarative react with
+3D Graphics in
+3js and you can check out all the code
+on the repository for the portfolio site
+I'm not going to go into it because it's
+formatted relatively well but but it's
+still kind of A Rat's Nest and I don't
+want to look that code based if I don't
+have to and so around May or I guess
+early June when I was making some final
+changes I finished my portfolio works at
+least how it stands
+today but that was kind of a Bittersweet
+moment that's because I looked back on
+the time I spent working on this project
+all of the struggles the triumphs the
+pains and I kind of realized like I kind
+of regretted it because one of my
+friends he kept on telling me Oh like
+it's not really a good idea like the
+project a portfolio will be kind of hard
+to navigate and difficult to work with
+it won't really work well on mobile it
+won't work for you know accessibility
+reasons and I was like no no no like I'm
+already too far deep I got to finish
+this and I finished it and I kind of
+realized like he was right this is a
+really cool project I don't get me wrong
+this is a great project
+but doing stuff like for example
+updating my resume I have to go and
+Export the PNG then recompile the entire
+project and then I had another feature
+where you could like click on elements
+of the resume to go to their respective
+project points and I had to get rid of
+that because every time I'd update my
+resume I'd have to update all of that
+too and stuff like adding new projects
+that's pretty difficult because I got to
+make a new model I got to you know do
+stuff like that and you can use this on
+mobile although difficult and really
+clunky and then you definitely can't use
+this if you know you have accessibility
+issues with your browser or like this
+might not be compatible with all
+browsers I don't know it should work on
+most things and then overall there's
+just a lot of risk that goes into it
+like I do have tutorial kind of
+onboarding when you first you know load
+into the site but what if you like don't
+really know how to get around 3D
+environments what if you never played a
+3D video game navigating this is going
+to be very difficult there are certain
+features I added to help like the
+glowing yellow outlines around items you
+haven't picked up but most of the people
+I tested with said they never even
+noticed it so at the end of the day like
+I could have been spending this time
+that I worked on this website to you
+know work on my Elite code my like
+competitive programming my job interview
+skills because at the end of the day
+those skills are probably more important
+than a really cool website
+but then again for me for myself this
+was an amazing experience it tested my
+Dev cap capabilities to their greatest
+extent I learned a tremendous amount
+about typescript and react and 3js which
+I'll probably almost certainly Ed down
+the line and it was honestly really fun
+all of those other things that could
+have been bettering my career might not
+have been as fun even though they could
+have been more beneficial but at the end
+of the day this was a great project
+is it a great portfolio website no not
+really but I have it on my resume so I
+can tell people about it I can tell
+people I use react and 3js so I'll say
+you know it was almost worth it even
+though I do sort of regret it but I hope
+you go check it out just to play around
+with it check out my code if you want to
+build something similar because I know
+there's a couple people on the internet
+who do stuff like this and all of them
+are really cool and all of them look a
+lot than mine and they've been a great
+inspiration to me but I hope you enjoyed
+hearing about my portfolio website
+Journey make sure to like And subscribe
+if you enjoy the video and if any
+employers are watching and want to hire
+me for the next summer please reach out
+to me that would be great because job
+searching is terrible but with that I
+hope you have a nice day and goodbye

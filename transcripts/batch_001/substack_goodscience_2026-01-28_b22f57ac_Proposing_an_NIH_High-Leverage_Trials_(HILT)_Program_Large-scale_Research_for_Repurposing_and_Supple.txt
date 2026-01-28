@@ -1,0 +1,365 @@
+Title: Proposing an NIH High-Leverage Trials (HILT) Program: Large-scale Research for Repurposing and Supplements
+Source: goodscience
+URL: https://goodscience.substack.com/p/proposing-an-nih-high-leverage-trials
+Date: Wed, 28 Jan 2026 16:16:27 GMT
+Word Count: 4705
+Estimated Read Time: 23 minutes
+
+================================================================================
+
+This is a guest article from Nicholas Reville, the Executive Director and cofounder of the
+Center for Addiction Science, Policy, and Research
+. He authored the
+Innovation Agenda for Addiction
+and speaks internationally on addiction and health policy. CASPR advances research on breakthrough therapeutics and develops novel policy interventions to reduce addiction at a population level. For more, see
+CASPR.org
+and Nicholas’ Substack,
+Recursive Adaptation
+.
+Introduction: An Opportunity in Plain Sight
+While the US pharmaceutical industry excels at developing novel, patentable compounds, world-class trials of low-exclusivity treatments, such as dietary supplements and off-patent medications, are pursued neither by industry nor the NIH. In addition to missing opportunities to improve health for all Americans, this trial gap costs the public and the federal government hundreds of billions of dollars a year.
+Because supplements and off-patent medications do not have economic mechanisms that lead pharmaceutical companies to run Phase III trials, there is an urgent need to develop reliable, large-scale evidence so that patients and providers can access these treatments.
+Americans currently spend
+~$70 billion
+annually on supplements, often acting on fragmented or inconclusive data. Simultaneously, hundreds of off-patent medications with known safety profiles sit on the shelf, untested for new indications because manufacturers do not have the legal exclusivity needed to justify the cost of large, conclusive Phase III trials, even in areas of very high unmet need.
+In Senate testimony in 2020, Jay Bhattacharya
+addressed this ‘market failure’ directly
+:
+“For drugs and therapies on patent, a patent holder has a strong interest in running randomized evaluations and navigating the drug through the FDA’s approval process. By contrast, for drugs and therapies with no patent holder, no one has much interest in funding expensive randomized trials or working assiduously to move through the FDA regulatory process for rapid approval (or even slow approval).”
+To solve this gap and open up new treatments and dramatic cost savings, we propose the creation of an NIH High-Leverage Trials (HILT) Program for off-patent drug repurposing and supplements. HILT would fund and run definitive large scale trials and, when appropriate, advance regulatory approvals to ensure broad patient access.
+Cutting Waste
+There are already scattered examples that demonstrate the cost-saving potential of NIH running trials that industry players will not study.
+In 2008, the National Eye Institute (NEI) funded the
+Comparison of AMD Treatments Trials (CATT)
+to compare Lucentis (macular degeneration treatment costing ~$2,000 per dose) vs Avastin (a structurally similar treatment, also under patent, but costing ~$50 per dose for this use). This is the type of head-to-head comparison that no commercial player had an incentive to run. The trial showed both drugs were
+equally effective
+, which transformed prescribing practices toward bevacizumab and OCT-guided therapy, and resulted in cumulative savings for Medicare Part B estimated at
+$40 billion
+(for context, NIH’s entire annual budget is ~$50B).
+By selecting trials with similar potential for high economic impact, HILT could generate savings for the general public, private payers, and public payers that would pay for itself many times over.
+Improving Safety
+Supplements are lightly regulated, which has both benefits and risks for patients. Access is generally good but high quality research is thin. A
+2015 study
+showed that adverse events related to dietary supplements cause approximately 23,000 emergency department visits annually. Large-scale safety and efficacy trials on supplements will help guide the public towards safer and more effective supplements and clarify effective dose levels.
+HILT would not promote supplements or repurposed drugs, but rather generate transparent and high-quality evidence, whether that evidence is positive, negative, or safety related. In high‑risk contexts (such as probiotics in preterm infants), regulators have raised concerns about product quality and potential infectious complications, even though there are also potential indications of benefits. Well designed, large-scale trials can resolve safety and efficacy questions while offering clarity on dosing and quality.
+Better Treatments
+When a prescription medication approaches the end of its patent and exclusivity life, research investment vanishes, even if the drug has lots of promise for additional uses.
+Budish, Durvasula, et al.
+recently quantified this repurposing gap, demonstrating that the loss of exclusivity for a medicine leads to a near-total cessation of clinical trials for new indications, due to the collapse of private incentives (other research
+concurs
+).
+The market fails because these trials are very expensive, and even if the trial is successful and the company gets a 3-year indication-specific labelling exclusivity from the FDA (505(b)(2)), they cannot prevent other generic versions of the drug from being prescribed off-label for this new indication, which kills their potential profits. Therefore no private companies invest in these trials.
+Their modeling of the repurposing cliff estimates that loss of exclusivity has resulted in 200-800 missing new uses for existing drugs.
+The authors calculate that the social cost of these lost opportunities is on the order of several trillion dollars. This market failure leaves patients with higher-risk or lower-efficacy products while potentially superior low-cost treatments are never tested and therefore never available or covered for patients. Solving this gap would bring new treatments to patients with dramatically lower costs and increased safety.
+Creating a Solution
+HILT will function as a funding, research, and regulatory advancement body, modeled in part on the successful Best Pharmaceuticals for Children Act (
+BPCA
+), in which NIH (via NICHD/PTN) identifies off‑patent drugs, funds or sponsors trials, and submits findings to FDA for label changes. HILT would be an adult‑population analog for supplements and off‑patent therapeutics. HILT would build on and coordinate with existing NIH efforts (e.g., ODS and NCATS) while adding standing Phase III operations and end-to-end translation capacity (FDA + payer alignment).
+HILT will:
+● Generate “gold standard” evidence by moving promising unpatented compounds through large, well-designed Phase III trials.
+● Define and study dosing and reference standards for supplements in trials, to provide clear consumer guidance and ensure that trial results are actionable.
+● Validate low-cost alternatives to expensive therapeutics, providing the data necessary for CMS and private payers to reimburse cost-effective treatments.
+● Serve as the non-commercial IND holder as needed, navigating regulatory pathways to enable access and coverage for patients.
+Crucially, HILT would not increase or alter regulatory burdens on the private sector. Instead, it fills a void that the industry is not able to address, providing cost savings and better treatments to all Americans.
+Mission and Operations
+To accomplish its mission, HILT would:
+● Develop staff and organizational expertise in the identification of supplements and off-patent medicines with a high expected-ROI from advancing large scale trials.
+● Take advantage of extensive real-world safety data for many supplements and repurposed medications to design and fund or co-fund clinical trials with dramatically lower cost structures (e.g., telehealth-based designs).
+● Create internal research programs and develop expertise in the unique economic and IP dynamics of supplements and off-patent therapeutics.
+● Provide grant funding to non-commercial efforts to run trials with the ability to operate in the role of a program ‘sponsor’ in advancing trials and navigating existing regulatory pathways at the FDA.
+● Establish partnership programs with industry to provide strategic or complementary funding that enables privately run large-scale trials.
+● Collaborate with other NIH Institutes and programs to draw on disease-specific expertise when evaluating opportunities.
+● Identify opportunities to run large-scale head-to-head trials (e.g., comparing multiple generic SSRIs or different forms of Vitamin D) that industry is often disincentivized from running. Precedents here include BPCA, Pediatric Trials Network, and PCORI.
+● Launch research and develop expertise in quality testing and contaminants. Fund and publish methods, partner with established third‑party certifiers (USP, NSF) and standards bodies, and create data standards.
+● Align evidence generation with payer coverage to ensure patient access and availability.
+Creation of HILT would likely build on and coordinate with existing programs at NIH’s Office of Dietary Supplements (ODS) and NCATS’s repurposing programs. These existing efforts provide benefits to patients but are not positioned to advance research through large scale trials and ensure that scientific, patient, consumer, manufacturer, prescriber, and payer incentives are aligned end-to-end.
+Program Scale and Economics
+HILT’s goal is to minimize cost per decisive answer by focusing on compounds with extensive human safety history and by using pragmatic, embedded, and decentralized trial designs when possible. Compared with traditional pivotal drug development, which requires expensive infrastructure to evaluate the safety of novel compounds, this enables definitive trials to be run at substantially lower costs while preserving rigor.
+HILT will be evaluated on output and outcomes: trials launched, cost per answer, downstream changes in coverage/labeling, new indications approved, impacts on consumer supplement spending patterns, and measured payer savings where utilization shifts to lower‑cost generic options.
+Establishing Legislation and Positioning for HILT
+To be successful, the capabilities of HILT program should include:
+● A permanent program office with staff aligned towards ROI and cost-per-decisive-answer (rather than a more traditional disease-area publication focus).
+● Capacity to run Phase III pivotal trials with an orientation towards innovation on cost and approach, taking advantage of the advantageous safety data available for most of these candidates. This will require standing trial-operations capacity along with flexibility for external grantmaking, as appropriate.
+● Regulatory capacity to act as a drug sponsor, including FDA engagement and submission. For successful therapeutics, the goal should be to achieve patient access and coverage, not simply publish evidence. The program should coordinate with CMS and private payers so evidence generation is aligned to eventual coverage decisions.
+There are several ways that this program could be created and positioned for success within NIH.
+These include:
+●
+Expand BPCA:
+Expand BPCA authorities beyond pediatrics to a) cover repurposing research at all ages and b) add a focus on supplements. Potentially a straightforward political path that builds on the success of BPCA.
+●
+New Institute:
+Create a new NIH institute, perhaps a National Institute of Supplements and Repurposing (NISAR). This would be a strong home for the program, enabling institutional capacity and expertise to develop and would potentially absorb some existing NIH programs. However, it may be a bigger lift politically.
+●
+New NIH Center:
+Establish a joint Center for Supplements and Repurposed Therapeutics within NIH co‑led by ODS and NCATS, with a dedicated budget line and explicit authority to a) act as non‑commercial sponsor / IND holder, and b) submit data to FDA to support label changes or qualified claims.
+Other pathways to establishing and situating this program are also possible.
+Opportunities for dramatically cheaper clinical trials
+Supplements and off-patent medications often have decades of public use and well understood safety profiles. This is a massive advantage relative to new drugs following the typical biotech and pharma approval pathway. Because extensive real-world safety history and/or previous pivotal trials reduce safety uncertainty, clinical trials for new indications have multiple opportunities to succeed at lower costs.
+In collaboration with the FDA, HILT can develop experience and expertise in novel trial design models that are rare in traditional drug development. This will increase the speed and cost efficiency of HILT’s programs and, as importantly, will create models for running Phase III trials more efficiently. Pharmaceutical development is a highly risk-averse industry and avoids innovation in pivotal trials to reduce regulatory complexity and risks of failure. Pharma is much more likely to pursue lower cost trial innovations at Phase III if precedents are demonstrated. HILT would be perfectly positioned to play this role.
+Strategies for cost efficient clinical trials may include:
+Embedded EHR-based randomized trials (RRCTs).
+This approach runs a trial “inside” routine health care. Patients are randomized within large health systems or networks, and most outcomes are pulled automatically from existing electronic health records and insurance claims (like hospitalizations or medication changes), rather than collecting lots of additional study-specific data for each patient at each site. This approach can help test repurposed drugs or supplements in real-world care. NIH’s Collaboratory already has
+practical guides
+that show how to design and run these trials.
+Decentralized telehealth trials.
+Patients interact remotely with trial staff and receive study medicines by mail or at local pharmacies. This avoids the massive per-patient costs charged by clinical research facilities– costs that often make up the majority of a clinical trial program budget. Several large decentralized trials demonstrated feasibility of this model
+during the pandemic lockdowns
+, but pharma has been hesitant to pursue this model due to high risk-aversion. Approaches like video consent, home delivery of standardized product, ePROs, wearables, use of local commercial blood labs, and mail-in tests when applicable can all enable cost savings. NIH Collaboratory guidance supports these methods.
+Multi‑arm, multi‑stage (MAMS) or platform trials with shared controls.
+Compare several generic medications within an indication in one platform, drop futility arms early (for example, head-to-head SSRI or supplement trials). A single master protocol lets you reuse the same operational setup and monitoring for many comparisons.
+A Practical Review of Adaptive Platform Trials
+.
+Factorial designs to disentangle combos.
+2×2 or 2×2×2 designs can test components and interactions without dramatically scaling participant numbers, for example, in migraine or metabolic supplement combinations.
+Cluster/stepped‑wedge trials.
+Trials where the unit is a setting rather than a participant. For example, to study artificial food dyes in schools, randomize schools or districts, rotate implementation (stepped‑wedge), and use validated classroom behavior metrics. Can be much cheaper than typical site‑based RCTs.
+Coverage‑with‑Evidence Development (CED).
+For candidates with plausible payer coverage, co‑design outcomes with CMS/private payers so positive trials can flow into CED or coverage updates.
+Create a BPCA-style priority list.
+Formalize a “HILT priority list” for adult therapeutics (mirroring BPCA §409I), publish targets annually, and collaborate with FDA on trial and evidence pathways.
+EveryCure
+is a non-profit leader in therapeutic repurposing and has a multi-year contract with ARPA-H. They may be in a position to advise on trial opportunities and priority decision making.
+HILT is distinct from existing agencies and programs
+HILT’s role of bringing supplements and off-patent medications through Phase III trials and potentially regulatory approval is not accomplished by existing programs.
+●
+BPCA (Best Pharmaceuticals for Children Act, NIH/NICHD & Pediatric Trials Network):
+an important pediatric-only precedent in which NIH identifies priority off‑patent drugs, sponsors or funds studies, and supports FDA label updates. BPCA is limited to children and repurposed therapeutics, whereas the goal of HILT is to expand these mechanisms to adults, include supplements, and pursue larger trials for novel indications.
+●
+ODS (NIH):
+coordinates supplement research, funds methods/standards (AMRM), databases (DSLD/DSID), and co‑funds grants, but it’s not set up to run or sponsor phase‑3‑scale trials nor to pursue label changes. Without these functions, it has limited impact for patients. (
+Office of Dietary Supplements
+)
+●
+FDA exclusivity programs:
+existing FDA incentive mechanisms which apply to non-patented drugs, such as the 3-year exclusivity for new clinical investigations, and 7-year orphan exclusivity, are insufficient and, as empirical studies clearly show, have not been able to address the repurposing gap. Even with marketing exclusivity, off-label use and substitution undermines the value capture for private sponsors. Incentive-only approaches also underproduce studies with high public ROI, like head‑to‑head comparisons.
+●
+NCCIH & the NIH Pragmatic Trials Collaboratory:
+this work focuses on pragmatic trial methods and embedded trials across health systems, not a vertical mission to take supplements/off‑patents through labeling or payer alignment. (
+NIH Pragmatic Trials Collaboratory
+)
+●
+NCATS:
+has repurposing programs (e.g.,
+New Therapeutic Uses
+) and convened an FDA workshop on off‑patent repurposing that highlighted the lack of ROI for off‑patents, but NCATS does not run a standing program to sponsor and complete large scale trials for generics or supplements.
+●
+PCORI:
+comparative‑effectiveness mission is complementary, but its scope is not designed to sponsor pivotal efficacy trials intended to establish new indications. (
+pcori.org
+)
+●
+AHRQ:
+generates evidence via systematic reviews and methods for comparative effectiveness, not by sponsoring interventional trials to labeling. See
+Effective Health Care (EHC) Program
+.
+●
+VA Cooperative Studies Program (CSP)
+runs large multicenter trials, but its remit is Veteran‑focused and not organized around supplements/off‑patent therapeutics or market‑access alignment for the general US population. (
+VA CSP
+)
+●
+CMS
+can tie coverage to studies via
+Coverage with Evidence Development
+(CED), but CMS does not fund or sponsor those trials.
+Questions and Answers
+Is HILT a new regulator?
+No, HILT would not regulate products. It funds and sponsors trials, develops methods and standards, and can hold an IND when needed to enable studies. Regulatory decisions remain with FDA and coverage decisions remain with payers/CMS.
+Are there precedents for this approach?
+Best Pharmaceuticals for Children Act (BPCA) at NIH (NICHD/PTN) identifies off‑patent priorities, funds/sponsors trials, and submits to FDA for label changes. HILT would be similar but for the adult‑population, covering both supplements and off‑patents. HILT’s scope and budget would need to be substantially larger than the NIH BPCA program (which is ~$25M/year), because BPCA’s off-patent pathway is generally oriented toward pediatric labeling gaps for drugs already approved for adults in the same or similar indications. This means BPCA trials have relatively small patient numbers and focus on dosing/PK and more narrow safety and effectiveness questions, rather than large, adult-style pivotal efficacy trials.
+How will HILT choose what to study?
+HILT would develop a BPCA‑style priority list, based on factors like:
+● Public‑health ROI, including disease burden, affordability, and access.
+● Potential cost savings to the government and public.
+● Safety profile, such as years of real‑world use or existing pivotal trial data.
+● Biological plausibility and early‑phase or observational signals.
+● Readiness for large, pragmatic RCTs and coverage alignment.
+● Collaboration potential with disease‑specific NIH Institutes and payers.
+Will HILT “pick winners” or crowd out private investment?
+HILT would fill the market gaps where private ROI is too low to fund definitive trials. It would co‑fund and partner with industry when practical (e.g., shared controls, platform trials). It would not take on trials that industry is incentivized to pursue. And for the public, but not for industry, negative or null trials are very valuable: they reduce waste and protect patients.
+How will evidence move into labels and coverage?
+Like a drug sponsor, HILT will engage with the FDA on trial design and operations, including guidance supporting decentralized trial elements and other cost-savings approaches where appropriate. It will co‑design with payers/CMS for Coverage with Evidence Development (CED) or routine coverage if results are definitive. For labeling on generics, legislation creating HILT could direct FDA to establish a pathway for “harmonized label updates” based on HILT-sponsored evidence, allowing the agency to update the reference label and have generic manufacturers adopt those changes without incurring new product-liability risk. Alternatively, HILT could serve as the holder of a public-health label that generic manufacturers may reference, similar to how they currently reference the original approved drug.
+How will HILT build public trust?
+It will be essential for HILT to select projects that have clear ROI for the public and run transparent, gold-standard trials. Because HILT will be a public agency rather than a private drug company, there is an opportunity for far more transparency of process and data than is typical in drug development. Public protocols and SAPs, trial registration, data‑sharing plans, and rapid results reporting, including negative trials will all be publicly available. Controls like COI firewalls for advisory panels and multisector input with scientific independence in decisions will be put in place.
+What will HILT not do?
+HILT will not create new regulations, set marketing policy, or police the retail market. Nor will it serve as a channel for proprietary promotion of drugs or supplements.
+How would HILT support understudied issues related to food additives, nutrition, and toxin exposure?
+HILT will be in a position to run rigorous trials on issues such as artificial food dyes and behavior, prenatal nutrition, or environmental‑exposure‑adjacent questions where product quality and safety are central. Publishing transparent methods and results will be essential to counter confusion and reduce misinformation, as will staying nonpartisan and science‑first, focused on outcomes not industry.
+How will success be measured?
+Because HILT has an ROI orientation, both for health and cost impacts, it will be relatively easy to review the success of the program over time. Indicators will include:
+● Regulatory outcomes, such as FDA label or qualified claim change.
+● Economic outcomes, such as cost per answer, budgetary or public savings, and improved adherence to low‑cost therapies.
+● Coverage outcomes, such as CMS/private coverage decisions.
+● Clinical/health outcomes (fewer hospitalizations, improved function, maternal‑infant metrics).
+How can HILT generate economic value?
+Compared with NME development, HILT’s focus on known‑safety drug and supplement candidates plus pragmatic trial designs can deliver decisive answers at lower cost per decision. Even a few high‑impact wins could generate substantial public ROI by improving access to low‑cost, safe options and curbing public spending on ineffective ones.
+EXAMPLE TRIALS HILT COULD PURSUE
+●
+Low-dose lithium orotate for Alzheimer’s disease and prevention (elevated biomarkers / MCI / early AD)
+Lithium orotate shows encouraging signals mechanistically, from recent animal studies, and from small human trials. HILT could define a dose range and run large pragmatic RCTs in high risk patients / MCI / early AD with safety labs and cognition/biomarker endpoints. Relevant evidence:
+Nature 2025 study & NIH summary
+,
+MCI RCT overview (Forlenza et al.)
+.
+●
+Melatonin for Insomnia (long‑term safety, efficacy, dosing/timing)
+Melatonin is widely used but doses vary by orders of magnitude. A recent
+American Heart Association 2025 abstract
+raised a possible, and contested, heart-failure signal from prolonged use. HILT could run a 12–24 month RCT comparing dose levels, immediate vs extended release, and safety. Relevant evidence:
+AASM adult insomnia guideline (2017)
+,
+PR melatonin 2 mg RCTs in adults ≥55
+,
+JAMA melatonin-gummy mislabeling study
+,
+AHA 2025 retrospective
+.
+●
+Low-dose naltrexone (LDN) for Long COVID (fatigue, pain, neurocognitive symptoms)
+LDN is widely used off-label with a well-understood safety profile, but no completed, definitive RCTs exist yet in Long COVID. HILT could study a standard formulation, phenotype responders, and run multi-site RCTs with patient-relevant outcomes. Relevant evidence:
+Systematic review (no completed RCTs yet)
+,
+Ongoing randomized trial protocol
+.
+●
+Ivabradine for POTS (including post-viral POTS)
+Ivabradine, which goes off-patent in 2026-27, improved heart rate and quality of life in a randomized crossover trial for hyperadrenergic POTS, but broader, pragmatic data are needed. HILT could fund confirmatory trials (including non-hyperadrenergic phenotypes) and generate coverage guidance. Relevant evidence:
+JACC randomized crossover trial summary
+,
+Full trial article
+.
+●
+Metformin (early treatment) to prevent Long COVID
+An outpatient RCT found that starting metformin early in acute COVID reduced subsequent Long COVID incidence, replication and implementation evidence are needed. HILT could sponsor broader, real-world trials and translate results into labeling/coverage updates. Relevant evidence:
+Lancet Infectious Diseases RCT (COVID-OUT)
+,
+JAMA Intern Med follow-up on acute recovery
+.
+●
+Sulforaphane for Autism (core/behavioral symptoms)
+Several RCTs signal improvements in behavior and function, but products vary widely in active content. HILT could run a large Phase III with long-term follow-up. Relevant evidence:
+PNAS RCT (2014)
+,
+Molecular Autism RCT (2021)
+.
+●
+N-acetylcysteine (NAC) for Autism (irritability/behavior)
+Multiple small RCTs suggest benefit for irritability with good tolerability, but dosing and product quality are inconsistent. HILT could select a dose/formulation and run a confirmatory Phase III. Relevant evidence:
+Hardan et al. RCT (Biol Psychiatry)
+,
+RCT in youth with ASD (Molecular Autism)
+.
+●
+Artificial food dye impact on child behavior (hyperactivity/inattention)
+Meta-analyses support effects in susceptible children, yet policy and practice vary. HILT could run cluster-randomized school trials of dye removal with validated behavior measures and standardized natural colorants. Relevant evidence:
+Child & Adolescent Psychiatry, 2012 meta-analysis
+,
+Schab & Trinh 2004 meta-analysis
+.
+●
+Berberine for dysglycemia/metabolic health (including PCOS and T2D)
+Berberine shows glucose and lipid improvements across RCTs but comparative data vs metformin are limited. HILT could study standardized actives (and contaminants) and run large head-to-head trials in metformin-intolerant or high-risk groups. Relevant evidence:
+Meta-analysis of RCTs in T2D
+,
+Randomized trial of berberine-ursodeoxycholate in T2D
+.
+●
+Choline in pregnancy (maternal–infant cognition)
+Randomized feeding studies show higher-dose choline in late pregnancy improves infant information-processing speed, but optimal dosing has not been studied at scale. HILT could fund large, stratified trials that would support product standards and coverage pathways. Relevant evidence:
+FASEB Journal RCT (Caudill et al.)
+,
+Follow-up on sustained attention
+.
+●
+Iodine in pregnancy (neurodevelopment in mild–moderate deficiency)
+Iodine sufficiency is essential for development but effects of supplementation in mildly deficient populations are not sufficiently understood. HILT could run large trials with cognitive outcomes. Relevant evidence:
+WHO commentary & evidence review
+,
+ATA pregnancy thyroid guideline synopsis
+.
+●
+Low-dose naltrexone for centralized chronic pain (e.g., fibromyalgia)
+Results from existing studies have been mixed. HILT could do dose-ranging and responder-enriched trials. Relevant evidence:
+Lancet Rheumatology FINAL trial (6 mg)
+,
+Younger et al. randomized crossover pilot
+.
+●
+Pharmaceutical-grade chondroitin sulfate for knee osteoarthritis
+Efficacy appears to depend on prescription-grade CS, robust RCTs show non-inferiority vs celecoxib, while lower-grade products yield inconsistent results. HILT could propose quality specs and run coverage-oriented trials. Relevant evidence:
+CONCEPT RCT (CS vs celecoxib vs placebo)
+,
+MOVES non-inferiority trial (CS+glucosamine vs celecoxib)
+.
+●
+Omega-3 (EPA-focused) adjunct for depression
+Americans spend ~$2.5B per year on fish oil supplements. Evidence and international practice guidance support high EPA omega-3s as an adjunct in MDD, but dose/formulation quality vary. HILT could study EPA content effects and fund pragmatic adjunctive trials with biomarker stratification. Relevant evidence:
+ISNPR practice guideline (2019)
+,
+EPA-focused meta-analysis
+.
+●
+Saffron (Crocus sativus) adjunct for mild–moderate depression
+Multiple RCTs/meta-analyses suggest saffron may be comparable to SSRIs for mild–moderate depression with favorable tolerability. US-grade trials are sparse. Relevant evidence:
+Nutrition Reviews 2024 meta-analysis vs SSRIs
+,
+Umbrella/meta-analysis
+.
+●
+Myo-inositol for Polycystic Ovary Syndrome (PCOS), ovulation/insulin resistance
+Myo-inositol is widely used with signals of benefit for metabolic and reproductive outcomes, but products/doses vary and head-to-head data vs metformin or MI+DCI ratios are inconsistent, HILT could select dosing (e.g., MI vs MI+DCI ratios), and run large head-to-head trials vs metformin with live-birth endpoints. Relevant evidence:
+Journal of Clinical Endocrinology & Metabolism (2024)
+,
+Reproductive Biology and Endocrinology (2023)
+●
+Psyllium (soluble fiber) for LDL lowering and cardiometabolic risk
+Psyllium lowers LDL modestly, but product quality and dosing vary, HILT could test dose–response RCTs against ezetimibe/low-dose statin backbones. Relevant evidence:
+eCFR (2025)
+,
+American Journal of Preventive Cardiology (2020)
+●
+Coenzyme Q10 for statin-associated muscle symptoms (SAMS)
+CoQ10 is widely tried for SAMS with mixed RCT meta-analyses, HILT could harmonize endpoint definitions (pain, CK, adherence) and run large, pre-specified trials in statin-intolerant cohorts. Relevant evidence:
+Atherosclerosis (2020)
+,
+DOAJ (2025)
+●
+Magnesium/riboflavin/CoQ10 for migraine prevention
+These nutraceuticals have “possibly/probably effective” signals but heterogeneous formulations and small trials, HILT could compare forms (e.g., magnesium citrate vs oxide), doses, and run head-to-head vs topiramate/candesartan with uniform outcomes. Relevant evidence:
+Neurology (2012)
+,
+American Migraine Foundation (2024)
+●
+Taurine for metabolic syndrome/cardiometabolic risk
+Meta-analyses suggest improvements in BP, glucose, and lipids but long-term outcomes unknown. HILT could study standardized taurine and test cardiometabolic endpoints and safety. Relevant evidence:
+Nature Portfolio (2024)
+,
+Nutrients (2025)
+●
+Glycine for sleep quality
+Small crossover RCTs show improved sleep quality with bedtime glycine. HILT could validate dose–response, safety, and compare vs melatonin and CBT-I. Relevant evidence:
+Sleep and Biological Rhythms (2007)
+,
+Pharmacology Biochemistry and Behavior (2012)
+●
+Vitamin D for fracture prevention in community-dwelling adults
+Large RCTs show no fracture benefit of routine vitamin D supplementation in generally replete adults, HILT could fund targeted trials by deficiency status/age/falls risk and harmonized dosing. Relevant evidence:
+New England Journal of Medicine (2022)
+●
+Saw palmetto for BPH/LUTS
+Escalating-dose RCT showed no benefit vs placebo. HILT could definitively test standardized extracts or help retire ineffective products via negative Phase IIIs. Relevant evidence:
+New England Journal of Medicine (2012)
+●
+Ginkgo biloba for dementia prevention
+GEMS found no prevention benefit. HILT could run conclusive negative trials (or targeted biomarker subsets) using standardized extracts. Relevant evidence:
+JAMA (2008)
+●
+D-mannose for recurrent UTI prevention
+A recent multicenter RCT found no benefit vs placebo. HILT could settle dosing/subgroup questions (e.g., post-coital prophylaxis) or help deprecate use. Relevant evidence:
+JAMA Internal Medicine (2024)
+●
+Ashwagandha for stress/anxiety
+Meta-analyses suggest reduced perceived stress/anxiety, but hepatotoxicity case reports exist. HILT could study standardized withanolide content, investigate dose/leaf-vs-root extracts, and run safety-focused RCTs. Relevant evidence:
+BJPsych Open (2021)
+,
+Pharmaceuticals (2023)

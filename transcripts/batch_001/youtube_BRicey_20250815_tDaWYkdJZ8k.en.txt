@@ -1,0 +1,879 @@
+Trees are pretty hard to build in my
+opinion. So why not why not get code to
+do it for you.
+In addition, this is a pretty good
+exercise in C frames and their
+transforms and recursion. So stay tuned
+if you want to learn how to make these
+procedurally generated trees and like
+and subscribe if you enjoy.
+So, this video is going to be a hybrid
+of my
+shotgun video and recursion video, but
+the way that we go about creating this
+procedurally generated tree going to be
+a little bit different. We're going to
+do iterative iteratively. So, we're
+going to start by getting one simple
+feature done and kind of iterate on it
+so you guys can develop intuition for
+how the system should work and how you
+should develop this algorithm so you can
+eventually extend it on your own. So,
+I'm here in a blank base plate going to
+create my new base part. And I want this
+to be wood colored and shaped. So, we're
+going to make it look like wood. And the
+first thing we want to note, this is a
+very like pedantic thing, but I think
+it's pretty important is um notice how
+that the wood grain, so like the lines
+of the wood are going, you know, left to
+right here, like left to right here. Um
+also here, and then these are like going
+like the this direction or like I don't
+know Z in the Z-axis. And they don't
+really have a matching like top. So the
+tree should sort of be shaped
+like
+like this. This should be like a branch.
+And rotate the branch a little bit too.
+Um, so this should sort of be our like
+initial tree branch because the grain is
+going in the right direction. And I
+don't know why the wood texture works
+like this, but this is what we have to
+work with. And to make it a little bit
+easier on ourselves, we're going to show
+the orientation indicator here. Um and
+that just shows us which direction this
+wood block is facing so that we can
+better you know analyze it. So the
+forward direction is this way. The top
+direction is that way. So we want
+we want or we know that the tree should
+grow in the positive xaxis because the
+forward is the z-axis. So this little
+blue line is the z-axis. this local
+Z-axis of this wooden block. And it just
+so happens that it's more or less
+aligned with the Z-axis of the world
+right now. Now, the X-axis, on the other
+hand, is going to be a little bit
+different because we rotated it a little
+bit. So, because we rotated it, the
+X-axis is going to be to the right of
+the forward and up. So, forward is this
+way. Up is going left of my screen right
+now. So, then X would be going up. You
+see this red little dot? This red means
+X. So X is in this direction. So that's
+where we want our tree to grow. So the
+first thing I'm going to do is I want to
+just make a simple little script to grow
+the tree upward. So basically going to
+create a bunch of different branches
+that stack on top of each other in the
+upward direction. Should be pretty
+simple, but that will be a good starting
+point. So first of all, I'm going to
+make sure this block is anchored.
+Anchored. Cool. Then I'm going to group
+it using control G or I guess command G
+because I'm I'm on a Mac now which is
+kind of weird. Um and then I'm going to
+just I don't know rename this to
+three. And then this part is going to be
+our root.
+Call it root. So it's like the base of
+the tree. And I'm just going to add a
+script in my tree.
+And we're going to get a reference to
+the tree
+which is just equal to script.
+And then we're going to get a reference
+to the root which is tree.root.
+And this is not very um expandable I
+guess to like you know a bunch of
+different trees whatever because we're
+parenting the script here. If you really
+wanted to make like a good robust random
+tree system, you either make a plug-in
+or put a script into server script
+service that you could then use tags or
+something to autogenerate. But for now,
+since this the focus of this video is
+more on the algorithm development and
+the C frame transforms, we're just going
+to parent the script to the model just
+because it's the simplest the like least
+theoretical overhead. So that's what
+we're going to go with.
+So now I'm going to create a function
+local function generate tree and then
+this function is going to take in two
+parameters. The parent branch which is
+going to be of type
+base part or part and honestly it
+doesn't really matter for this case. And
+then we're going to do it which is like
+the number of iterations is going to be
+a number.
+So this is going to be our recursive
+function. So recursive, if you guys
+don't know or I don't remember, please
+watch my video if you haven't. It's
+pretty good as well. It basically means
+you're calling the function in itself.
+So we're going to call any number of
+generate tree calls inside of the
+generate tree recursive function. Now
+you could do this using a for loop. It's
+just in this case a lot easier to use
+recursively. Also, trees sort of have a
+recursive structure because each branch
+has another branch and that branch may
+have two branches. It kind of grows like
+recursively. It grows like a tree. I
+mean in computer science we literally
+have a data structure called trees that
+have sort of a recursive structure and
+they're called trees because they look
+like trees. So yeah and basically what
+we want to do at least initially is
+initially call generate tree. So this is
+the first generate tree call outside of
+the function definition. This is what's
+going to kick off everything. And our
+parent branch our initial parent branch
+should be the root and the number of
+iterations should be zero.
+So we start with zero iterations and
+then we need to in order to keep this
+function from running forever because
+unlike a loop a recursive function I
+guess will just run forever unless you
+stop it. You have to explicitly stop it.
+So we're going to start and we're going
+to create a variable called
+max
+iterations.
+it's going to be equal to I don't know
+let's just say
+five
+and in here we're going to check if it
+is greater than max iterations then
+we're going to oh sorry I'm used to
+writing Python so you don't put any
+colon there then we're just going to
+return so this is going to prevent our
+function from running infinitely because
+if the function ran infinitely it would
+you know freeze your Roblox it would be
+kind of annoying so we definitely do not
+want that. And now we need to actually
+do the generation. So before we actually
+get to the scripting, let's first set
+our pivot in our wood block because
+right now you can see the little blue
+dot. It's in the middle of our block.
+And honestly, it's just fine in the
+middle. But personally, conceptually,
+it's easier for me to move the pivot to
+the bottom of the block. That way when
+we're positioning subsequent blocks, we
+can kind of just put the next pivot on
+top of the block. I think it just makes
+a little bit more sense conceptually.
+And it might be easier to work in C
+frame, might not. I don't know. It's
+just what I like. You can do what you
+want. It might be a good exercise to try
+to put the pivot at a different spot and
+see if you can get the same behavior
+because at the end of the day, it
+doesn't really matter that much. So,
+first thing we're going to do inside of
+here is get the pivot. So, and we're
+going to do this above the
+uh base case. By the way, this little if
+and then return is a base case when
+you're done because we're going to need
+to put the leaf in the base case. So,
+we're going to need this pivot
+information later. So, I'm going to say
+local pivot equals
+parent branch
+get pivot then local origin equals
+Cframe new. We're going to say so the
+pivot is just getting the pivot C frame.
+So it's going to be like this thing at
+the bottom. And then we need to get the
+origin of the next block. So this is the
+current pivot of the parent and this is
+the origin of the like new branch. So
+this origin needs to be transformed. So
+we're here and we need to get all the
+way up here.
+Now the naive solution here would be add
+you know the size. So let's just see.
+It's going to be the X size. So the X
+size is
+where where is the here? Go down here.
+So the X size is where is the size?
+Okay, here's size. X size is like four.
+So this is like how tall it is. So you
+take the pivot and you just add four.
+Oh, I just realized I made the pivot of
+the model. We don't really care about
+the pivot of the model. You need to go
+to the root block and then set the pivot
+down here. That's my bad. So uh recap
+root part needs the pivot to be at the
+bottom at least for my example and this
+part has size four. So the naive
+solution would be to add four on the y
+ais
+um to get blocks that stack on top of
+each other. The only issue with that is
+once we eventually start doing rotations
+and you know different scales whatever
+that's not really going to work out too
+well because it's just going to go
+upwards regardless of where the
+orientation of this branch is. So we
+need to stick in the local space of this
+block. Local space meaning that you know
+for example if I move this block to the
+side I can like scale it. And you see
+how the scale handles stay aligned with
+the long axis of the wood. So this is
+the X like the local X axis of this
+block. So we want to stick to that. And
+using C frames it's not that bad. So
+we're going to make a C frame like
+origin.
+It's going to be in this is just a
+arbitrary coordinate. It's not going to
+be in global or local space initially I
+guess. And this is going to be negative
+or positive actually in this case vector
+3 doxis
+times parent branch dos size.x.
+So basically we get the x-axis. So in
+this case, it's going to be, you know,
+up and down, like the long axis of our
+wood grain. And then we're multiplying
+it. So this x-axis is just a synonym for
+um 1 0 0, like vector 3 new 1 0 0. Then
+we're multiplying it by the size. So
+we're basically creating a new vector
+with everything zero except for the
+x-axis. So it'll start at the bottom and
+then go all the way to the top, which
+exactly what we want. But right now,
+it's not really doing anything. So, we
+need to
+make our new branch and then move it to
+that new origin. And since the pivot is
+at the base, we don't have to offset
+where it moves. We just move it to this
+new origin position just random. It
+should be perfectly good. So, we're
+going to create a new branch. So, local
+new branch
+equals
+parent branch clone. So, we need to
+clone the parent
+and then we're going to set before we
+parent the new branch to the tree, we
+need to just set all of its properties.
+So, in our case, the only property that
+we need to do is pivot it. So, we're
+going to call the pivot to method. And
+this takes in a C frame, our new C
+frame. So, what we're going to do is
+we're going to pivot
+times origin. Now, pivot times origin is
+the literally exact same thing as doing
+pivot to uh or to world space origin.
+Same exact thing. If you look at the
+docs ins frame, it literally tells you
+that. Only reason I'm using a
+multiplication sign here is because
+we're already in a method call and it
+just looks a little prettier to do that.
+And if you um think about it, we're
+basically taking the pivot. So the pivot
+like coordinate space like local to our
+root or local to our parent branch and
+then we're transforming the origin into
+this space. So whatever's to the right
+is going to be put into whatever's to
+the left and kind of transformed to that
+local space. So that should that should
+work fine.
+I can explain more once we actually run
+it and verify that it works. And then
+we're going to set the new branch.parent
+equal to the uh tree. You could do it to
+the root. You could do it to the parent
+branch. Doesn't really care. I'm just
+going to do the tree. They're all within
+the model.
+And that should be perfectly fine. Then
+after that, we need to do generate tree.
+We're going to do parent and we're going
+to pass in the new branch. So this is
+where the recursion starts. This is the
+recursive step. So we take our new
+branch that we just created. We make
+that the parent branch and then we add
+one to it. So this is very important
+too. Make sure to add one to it. So we
+add one to iter. And that basically
+means that eventually we'll reach our
+base case and we will terminate. But
+before that we'll run I don't know five
+six times. So I'm going to do I'm going
+to run. You can play if you want. I'm
+just going to run. This is all you need
+to see. And then look at that. We have
+our post. And just to double check that
+the C frames are good. I'm going to hold
+alt to hover over the
+individual blocks instead of the entire
+model. So alt. You see this one? These
+two these two roots don't really
+intersect. They're literally right on
+top of each other. Like there's no space
+between them. They're exactly right on
+top of each other. And that's great.
+That's exactly what we want. So, just to
+recap, basically, we get the pivot. So,
+we get this position. We offset it, or I
+guess we we get this little blue
+position here. We offset it by the
+length of the block. So, we get to the
+top of the block. And since the new
+block will have its pivot at the bottom,
+we can just pivot it to that position.
+And then what we also have to do is
+multiply it by the or we have to
+multiply the origin by the pivot which
+transforms this world space object.
+I guess this this vector I mean it's in
+world space I guess because it's just
+you know a normal vector but you can
+think of it as just like a raw vector.
+It's not really in any space. So this
+this uh this vector here gets
+transformed into the world space
+relative to this other C frame. I keep
+on saying vector and C frame. They're
+all just transforms. Um, in this case,
+we're dealing a C frame, so sorry for my
+ambiguity, but yeah. So, and this will
+make more sense once we add some
+rotations to actually make it, you know,
+rotate like a tree, and we'll get to
+that. Now, let's move on to rotation.
+So,
+above the new branch, let's do some
+calculations to get the rotation. First,
+we're going to start out by just making
+a kind of naive just curving rotation
+that doesn't actually randomize and
+doesn't really go around. So, we can
+start by creating like local rotation
+equals C frame
+Whoops. Cframe.
+So, C frame.
+As it says in the docs right here, very
+helpfully to oiler angles XYZ. So, it
+applies the X first, then the Y, then
+the Z. This is important for what we're
+doing because we want X to apply first
+because if we look at our block again, X
+goes through the long axis of the wood.
+So, we want the X, which is like the
+rotation about the axis to go first and
+then we want to rotate it to the left or
+to the right. So, it kind of curves off
+to the side. And we can actually show
+each one of those rotations now. So, one
+important note, keep in mind this is in
+radians.
+So, let's just do a
+can't even remember my radians. Let's
+just do like a 30° angle, which going to
+be math.
+/ 6. So, um 30° is math pi / 6. 45° is
+math.<unk>
+2 I believe. And then 60° is math. 3
+just for some simple numbers. There's
+also this function math.rad a rad that
+converts any angle in degrees into
+radians. And we'll use that in a little
+bit. But for testing, this will work
+fine. And I'm also going to make
+everything on a new line just so it's
+easier to understand. So it's going to
+apply the x first, then the y, then the
+z. And right now, we're just applying
+like one rotation.
+You know, if you wanted to, you can
+multiply this by it or something. So it
+would just, you know, rotate around.
+Oh, but obviously I didn't apply the
+rotation to anything. So, in order to
+apply the rotation, it's literally as
+easy as multiplying by rotation. So, you
+can experiment with switching these
+values around, but this is the order
+that worked out for me. And I would say
+some like crazy mathematical theoretical
+explanation of how I got this. I just
+kind of swap things around. In
+hindsight, it kind of makes sense. You
+have the rotation first and then you put
+the rotation into you offset the
+rotation by the origin. So this you know
+just C frame with zero position gets
+offset by this C frame with zero
+rotation just uh position and so
+basically the rotation gets moved up to
+where the wherever this this value is
+and then that all gets converted into
+world space but yeah if you don't know
+what's going on here just play around
+with the values see how it goes but this
+is just applications of transforms going
+from so the right one happened right to
+left so it happens rotation happens
+first then origin then pit
+And we can run this.
+Uh you can see you get some rotations
+because we're doing um like multiplying
+by it. It probably go it goes like two
+by like too quickly. But you can see
+that the x-axis, the one that goes
+through the wood, that's the one getting
+rotated. So that's great. So now what we
+can do is let's go randomize it. So
+radians goes from zero all the way to
+um
+2 pi. So what we can do is we can do
+math.random
+which gives us a value from 0 to 1 and
+we can multiply that by 2 times math.py.
+So this will give us a random rotation
+from anywhere from 0 to math.py because
+we're basically scaling whatever
+math.random random gives us two zero
+math.pot. This works great. And you
+could also do this by saying math.random
+between 0 and 360 and then converting
+that to radians. But this works well. I
+don't care. So here we go. So you have
+we have random rotation on the x-axis.
+That works wonderfully.
+And now since it applies x first, so
+since we rotate it first on the x-axis,
+we can just apply either Y or Z
+rotation. Honestly, it doesn't really
+matter because if you think about it, Y
+rotation would be rotation like this.
+You see my mouse moving like kind of
+left to right here. And then Z rotation
+would be like this. I actually I think I
+mix those up. But again, it doesn't
+really matter since our blocks are
+symmetrical AC like radally radially it
+doesn't really matter that much. So what
+we can do is we can create our
+angle at which it will rotate. So I
+guess first thing we can do is again for
+demonstration purposes just do a fixed
+angle. Do that. And yeah, look at that.
+So we actually are getting kind of like
+a tree shape now. So it's rotating
+a fixed angle, but since our X rotation
+is random, it actually gives us a random
+rotation like entirely. It kind of looks
+like a spiral. Let's see if we get the
+same one again.
+Oh, I spawned it. Yeah. So it's a little
+bit different. And that's because the X
+rotation is random. So it actually, you
+know, sort of works pretty well already
+even though we haven't really randomized
+this value. And we can randomize this
+value now. So this is the part at which
+you have some creative freedom at least
+for the randomization. I don't really
+know like a very good formula for this.
+This is the one I kind of came up with.
+I also got Chad to help me a little bit
+because I could not be bothered to make
+a realistic like tree rotation algorithm
+thing. But um what we're going to do is
+we're going to take the input of the
+progress which is going to be the it
+over the max iteration. So basically how
+far how far are we in the tree and then
+what we're going to do is we need like
+some sort of base angle. So okay local
+base angle
+and a value that I found that worked
+well enough for me good enough for me is
+45°.
+And then we're going to make our base
+angle here. Local base angle
+is going to be equal to math.lurp. So
+it's going to go between we're going to
+go between
+zero
+and then base angle. So and the t value
+is going to be progress. So math.lurp
+basically when progress is zero we're
+going to give you zero. When progress is
+one we'll give you base angle. Anything
+in between, anything in between 0 and
+one, we give you a linear like inter
+interpolation between zero and base
+angle. So let's say progress is at 50%,
+so we're at iteration, I don't know,
+two. I guess there's no real 50%
+progress. You get what I mean? So
+iteration two, for example, it would be,
+I don't know, like 20°. So the taller
+you get in the tree, the more extreme
+the base angle is going to get. And then
+what we're going to do is we're going to
+add some randomization to this base
+angle. Say local variation
+equals
+20 *
+1 minus progress
+time 0.5.
+So
+basically the more we go up the less
+variation there is because we're doing
+one minus progress. So when progress is
+like one there's going to be like zero
+variation but lower it is it's going to
+be a little bit more variation. Again
+this is kind of arbitary. I don't really
+know what I'm doing, but it works well
+enough. Then we're going to do our local
+droop angle. That's my scientific name
+for the angle at which the branches
+droop down. I know it's great. Do base
+angle and then we're going to multip or
+we're going to add that to math.random
+negative variation to variation. So this
+just gives us a negative value between
+like the two angles and degrees. But
+since we're dealing with angles and
+degrees, we're going to do math.rad
+droop angle. This converts it into a
+radian value. And so again, if it's
+easier for you to work into degrees,
+just always convert it to math. But all
+these C frame functions, they all take
+angles in radians. So just remember to
+do that. So let's test that out. See how
+it looks.
+This is looking kind of like a tree. You
+see the droopage? It looks It looks
+pretty good. I'm not going to lie. I
+kind of like that. So again, I encourage
+you play around with these I to get a
+more treel like shape and if you find
+something cool, comment it down below. I
+will check it out because I am not an
+artist. I'm a programmer and this is my
+tree and I love it. It's beautiful.
+Don't judge. Okay, so we're like we're
+getting there. We do need a little bit
+more and that's in the department of
+actually generating multiple branches.
+This is another one of those things that
+I will say totally up to you and how you
+structure this. My logic is we want to
+generate a branch like we want to
+generate at least one branch every
+single time. That is non-negotiable.
+We'll do one generation, but otherwise
+we might want to like branch off
+multiple times. So I'm going to create a
+local chance variable. And this is again
+pretty arbitrary, but works well enough.
+So it's going to be math.max 0.1
+and then 1.2 2 minus progress
+time 0.8.
+So basically the farther we did I spell
+progress wrong? Yeah, I did. Um the
+farther we get up the tree, so the
+higher progress we get, the less of a
+chance there is to spawn new branches.
+But then we still give us like a chance
+of 0.1 if it's like low enough. This
+math domax probably isn't really
+necessary. And then we're going to say
+roll math.random
+is less than the chance.
+What am I pressing? My bad. Well, it's
+less than the chance.
+We need to generate the tree with the
+new branch and then it plus one. And
+again, we don't have to add any more to
+it because we're still at the same like
+tree height. We're just branching off in
+a different direction. Then what we're
+going to do is we're going to half the
+chance. So I'm going to do chance times
+equals 0.5. So every single time we go
+around it becomes half as likely to get
+a new branch. This just makes it so that
+we don't get like, you know, a bunch of
+like arbitrary branches. It just it's
+harder to get new branches, but it's
+possible it's harder. Again, this chance
+variable is arbitrary. This just means
+the higher you go up, the less chance
+there is for more branches. But we run
+this and there we go. This actually sort
+of looks like a tree. But as you might
+notice, these branches are chunky.
+They're very, very chunky. That's not
+that's not that's less than ideal. We
+want to have tree branches that kind of
+taper out as they go up. And that's
+pretty simple. Since we have the parent
+branch, we have the child branch, we can
+we're able to edit the size on the fly.
+and you know figure that out. So
+let's create our local new width. This
+is going to be the kind of like radial
+width of the tree. It's going to be new
+branch sizey.
+And then you can multiply this by
+whatever you want. I'm going to say 0
+0.7. So it's going to be 70% of its
+parents width. Now we're going to do new
+length.
+And this one is going to be the size.x.
+And that's because, as we showed
+earlier, the X size is the length size,
+the lengthwise of the tree. Now, usually
+in Roblox Z is the forward direction Z,
+it would be like the Z size. But since
+the wood grain and the material kind of
+goes this way, we we're kind of limited
+to that. If you use your own custom
+materials, whatever, it'd be fine. But
+we're dealing with arbitrary
+constraints, but it honestly doesn't
+matter. Just trial and error will get
+you there. For this one, I'm going to do
+0.9. So it's going to be 90% of its
+parent. So it's going to get 10% smaller
+every single iteration, which that works
+great. And so now we can set our new
+branch size equal to a vector 3
+vector 3 new. And we're going to say new
+length for the x and then new width for
+the y and then new width for the z
+because we need to decrease it and both
+the like both widths so it still
+maintains its square shape. Now, you'd
+think you'd be done, but if you run it,
+you get this odd issue. Like, why are
+there gaps in between the bottom branch
+and the middle branch? It looks kind of
+odd, doesn't it? That's because if we
+were to inspect one of these branches
+and we go to the pivot, well, doesn't
+show you the pivot, but the pivot, its
+position is still -2. So, the pivot
+didn't actually move. So the pivot's
+floating in space somewhere out here and
+and it didn't move. So yeah. So look
+here. You can see you can see where the
+handles are. This is where the pivot is
+relative to this block up here. That's
+not right. We need to edit the pivot
+offset to match the new width. So what
+we're going to do is we're going to do
+new branch.pivot
+offset equals
+C frame. And then we just have to make
+this a C frame because the pivot offset
+is a C frame. But really, we're just
+changing the position. There's no
+rotation. We're going to do a new vector
+3.
+And we're going to do new length / two.
+Or you can do times.5. Doesn't really
+matter. Um because if you notice, let's
+go. Actually, let's take this one as an
+example. This is honestly exactly how I
+did it just by trial and error, just by
+looking at things. So, this is this
+block is four units tall, four studs
+tall. Its pivot offset is negative.
+two. So, it's 12 of 4. So, we're going
+to divide it by two. We're going to make
+it negative.
+Boom. And then we're just going to set
+the other vectors to zero. You could
+also accomplish this by using, you know,
+the other uh like vector 3.xaxis. Up to
+you. Doesn't matter. Whatever floats
+your boat. So,
+this should get us to where we want.
+Cool. There we go. So, now it actually
+looks again more treelike. And again,
+the the branches like some of them leave
+a lot to be desired, but I think it
+looks good enough. It's good enough for
+me. Like, you know, could be better,
+could be worse. I don't know. Good
+enough for me. So, we are actually, you
+know, basically all the way there. We
+have a tree shape. We have everything
+that that looks good. The only thing we
+need to do is add leaves. So, let's go
+create our leaf block.
+I'm going to do a sphere. You can do a
+cube. I don't care. Up to you. We're
+going to make this a green color. That
+looks good. Do some leaf action. I use
+leafy grass. Do whatever you want. Up to
+you. Make sure that is anchored.
+I'm going to name this leaf. I'm going
+to put this in server storage because
+this is one of those things where you
+don't really need to see it. It can just
+live in server storage. It'll be fine.
+And then I'm going to reference it up
+here. So,
+let's go get server storage.
+So, game get service server storage.
+Then our local leaf complete
+equals server storage.af. Cool. We got
+our leaf. And then what we're going to
+do is we're not going to spawn the leaf
+with the branch. I mean, you could if
+you wanted to add some like special
+leaves, like whatever. I don't really
+care about that. We're only going to
+spawn the leaf at the tip of the branch.
+Sort of like how a normal tree works.
+It's more nuanced, but we're
+approximating a tree. We're in We're in
+Roblox anyway. So, we're going to do it
+in the base case. So if you remember the
+base case is where the like leaf or like
+where like the tree stops. So it's going
+to be at the tips up here and that's
+exactly what we want. So we're before
+this return statement we need to
+actually do our leaf creation process.
+So I'm going to say local leaf equals
+leaf template clone. And now you're
+going to notice why we have the pivot
+and origin here because the leaf
+actually needs the pivot and origin to
+know where it should go. So we're going
+to do leaf pivot 2
+pivot times origin
+and then
+leaf size. We're going to randomize it.
+So it's going to be equal to leaf size
+times math domax
+0.3. And then we're going to do
+math.random. random
+times
+1.5. So basically um this is I don't
+think there's a good way I might be
+mistaken math at rand random might have
+an override for this.
+Yeah it probably I don't know in my
+experience math at random is good good
+for integers leaves some to be desired
+floats. So we're doing our little old
+like bespoke math.random. So this
+returns a value between 0 and one. We
+scale that to 1.5. So it returns a value
+between 0 and 1.5 now. And then we take
+the max of that. So basically if it's
+too low, we just clamp it to being 0.3.
+Works fine. There's better ways to do
+this. It's another way to do it. Works
+fine. I don't really care enough. So now
+we're going to set the leaf. equal to
+the parent branch. You could also set it
+to the tree. Doesn't matter. Just easier
+for bookkeeping purposes. And since the
+pivot is initially at the center of the
+sphere, this should just pivot it to the
+tip of the branch. And let's try it out.
+Wow, look at that. We get a tree. It's
+kind of ugly tree. Let's do it again. I
+want I want a better roll. Give me a
+better roll.
+That's a little better. This is a pretty
+good tree. So you can see this is not
+great, but it looks like a tree and it's
+randomly generated. And if you guys,
+this is exercise left up to the reader.
+If you guys want to, you can expand on
+this, make sure it's better. So just
+just to recap, the parts that you want
+to edit are the droop angle calculation
+and the random branch generation
+calculation. And if you really want to
+get into it, you could make, you know,
+different tracking for the trunk versus
+branches. You can make branches spin off
+the trunk and then get to like twigs and
+have like different levels. And then you
+can even use like meshes to make uh
+seamless like branch transitions as
+well. There's a lot you can do with this
+to make it look a lot better. In
+addition, you can make the leaves look
+better. The leaves are like really low
+effort. I'm not going to lie. Um, and
+you also know this is a fun little
+thing. Since we have this random branch
+generation here, there might be multiple
+leaves on the same branch, but you won't
+be able to see it because they're all on
+top of each other. So, that's also
+something to note, which is pretty
+funny, but pretty pretty cool. And yeah,
+so that is about it for this video. I
+hope you enjoyed my return to YouTube,
+at least for one video. And I hope you
+enjoyed me being on a Mac because I'm
+finally using my school laptop instead
+of my computer because I realized that
+my laptop for school is actually a lot
+better than my computer these days. So,
+it works out well. But yeah, I hope you
+guys enjoy this kind of like interesting
+tutorial style where it's more iterative
+like you don't get to the end goal, it's
+kind of teaching you how to get to the
+end end goal. Um, but yeah, let me know
+what other videos you want to see in the
+comments. Let me know what algorithms
+that you use to make this look prettier
+because my ugly tree leaves a lot to be
+desired. But I hope you enjoyed. And
+that's about it. I'll see you later.
+[Music]

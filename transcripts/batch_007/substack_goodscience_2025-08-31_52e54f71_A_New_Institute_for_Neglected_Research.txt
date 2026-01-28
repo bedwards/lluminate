@@ -1,0 +1,141 @@
+Title: A New Institute for Neglected Research
+Source: goodscience
+URL: https://goodscience.substack.com/p/a-new-institute-for-neglected-research
+Date: Sun, 31 Aug 2025 00:30:17 GMT
+Word Count: 2018
+Estimated Read Time: 10 minutes
+
+================================================================================
+
+A New Institute for Neglected Research - by Stuart Buck
+The Good Science Project
+Subscribe
+Sign in
+A New Institute for Neglected Research
+Stuart Buck
+Aug 31, 2025
+25
+6
+2
+Share
+The policy discourse about high-risk, high-reward research has been too narrow. When that term is used, people are usually talking about DARPA-style moonshot initiatives with extremely ambitious goals. Given the overly conservative nature of most scientific funding, there’s a fair appetite (and deservedly so) for creating new agencies like
+ARPA-H
+, and other governmental and private analogues.
+The “moonshot” definition, however, omits other types of high-risk, high-reward research that are just as important for the government to fund—perhaps even more so, because they are harder for anyone else to support or even to recognize in the first place.
+Far too many scientific breakthroughs and even Nobel-winning discoveries had trouble getting funded at the outset. The main reason at the time was NOT that the researcher’s idea was too ambitious, but that it seemed irrelevant or fanciful. For example, CRISPR was originally thought to be nothing more than a curiosity about ancient bacterial defense mechanisms, with no possible relevance to human health.
+Perhaps ironically, the highest rewards in science often come from the unlikeliest places. Some of our “high reward” funding should therefore be focused on projects, fields, ideas, theories, etc. that are thought to be irrelevant, including ideas that have gotten turned down elsewhere because they are unlikely to “work.”
+Traditional funders are unlikely to create funding lines specifically for research that they themselves thought was irrelevant.
+Thus, we need a new agency that specializes in uncovering funding opportunities that were overlooked elsewhere.
+Judging from the history of scientific breakthroughs, the benefits could be quite substantial.
+Challenge and Opportunity
+There are far too many cases where brilliant scientists
+had trouble getting their ideas funded
+or even
+faced significant opposition
+at the time. For just a few examples (there are many others):
+The team that discovered how to manufacture human insulin applied for an NIH grant for an early stage of their work. The
+rejection notice said
+that the project looked “extremely complex and time-consuming,” and “appears as an academic exercise.”
+Katalin Karikó’s early work on mRNA was a key contributor to multiple Covid vaccines, and ultimately won the Nobel Prize. But she repeatedly
+got demoted
+at the University of Pennsylvania because she couldn’t get NIH funding.
+Carol Grieder’s work on telomerase was
+rejected
+by an NIH panel on literally the same day that she won the Nobel Prize, on the grounds that she didn’t have enough preliminary data about telomerase.
+Francisco Mojica (who identified CRISPR while studying archaebacteria in the 1990s)
+has said
+, “When we didn’t have any idea about the role these systems played, we applied for financial support from the Spanish government for our research. The government received complaints about the application and, subsequently, I was unable to get any financial support for many years.”
+Peyton Rous’s early 20th century studies on transplanting tumors between purebred chickens was
+ridiculed at the time
+, but his work won the Nobel Prize over 50 years later, and provided the basis for
+other breakthroughs
+involving reverse transcription, retroviruses, oncogenes, and more.
+One could fill an entire book with nothing but these kinds of stories.
+Why do so many brilliant scientists struggle to get funding and support for their groundbreaking ideas? In many cases, it’s not because of any reason that a typical “high risk, high reward” research program would address. Those programs almost always look for people with ambitious goals that can be clearly described and that would have obviously huge effects (if successful).
+But the paradox is much of the highest impact research doesn’t
+look
+high-impact in advance — instead, it looks irrelevant, too far removed from any practical application, or too contrary to whatever is currently trendy.
+To make matters worse, the temptation for government funders is to opt for large-scale initiatives with a lofty goal like “curing cancer” or some goal that is equally ambitious but also equally unlikely to be accomplished by a top-down mandate. For example, the U.S. government announced a National Plan to Address Alzheimer’s Disease in 2012, and the
+original webpage
+promised to “prevent and effectively treat Alzheimer’s by 2025.” Billions have been spent over the past decade on this objective, but U.S. scientists are nowhere near preventing or treating Alzheimer’s yet. (Around October 2024, the
+webpage was updated
+and now the aim is to “address Alzheimer’s and related dementias through 2035.”)
+One of our greatest scientific challenges is whether quirky, creative, seemingly irrelevant, contrarian science—where some of the most significant scientific breakthroughs originated—can survive in a world dominated by large bureaucracies whose procedures discourage that type of science, and by politicians eager to proclaim that they have launched an ambitious goal-driven initiative.
+My proposal: Create an agency whose sole
+raison d’etre
+is to fund scientific research that other agencies
+won’t
+fund—not for reasons of basic competence, of course, but because the research isn’t fashionable or relevant.
+The benefits of such an approach wouldn’t be seen immediately. The whole point is to allocate money to a
+broad portfolio
+of scientific projects, some of which would fail miserably but some of which would have the potential to create the kind of breakthroughs that, by definition, are unpredictable in advance. This plan would therefore require some patience on the part of policymakers. But over the longer term, it would likely lead to a number of unforeseeable breakthroughs that would make the rest of the program worth it.
+Plan of Action
+The federal government needs to establish a new
+National Institute for High-Reward Research (NIHRR)
+as a stand-alone agency, not tied to the National Institutes of Health or the National Science Foundation. The NIHRR would be empowered to fund the potentially high-reward research that goes overlooked elsewhere. More specifically, the aim would be to cast a wide net for:
+Researchers (akin to Katalin Karikó or Francisco Mojica) who are perfectly well-qualified but have trouble getting funding elsewhere;
+Research projects or larger initiatives that are seen as contrary to whatever is trendy in a given field;
+Research projects or larger initiatives that are seen as irrelevant (e.g., bacterial or animal research that is seen as unrelated to human health).
+NIHRR should be funded at, say, $100m per year ($1 billion would be better). This is an admittedly ambitious proposal. It would mean increasing the scientific and R&D expenditure by that amount, or else reassigning existing funding (which would be politically unpopular). But it is a worthy objective, and indeed, should be seen as a starting point.
+Significant stakeholders with an interest in a new NIHRR would obviously include universities and scholars who currently struggle for scientific funding. In a way, that stacks the deck against the idea, because the most politically powerful institutions and individuals might oppose anything that tampers with the status quo of how research funding is allocated. Nonetheless, there may be a number of high-status individuals (e.g., current Nobel winners) who would be willing to support this idea as something that would have aided their earlier work.
+A new fund like this would also provide fertile ground for
+metascience experiments and other types of studies
+. Consider the striking fact that as yet, there is virtually no rigorous empirical evidence as to the relative strengths and weaknesses of top-down, strategically-driven scientific funding versus funding that is more open to seemingly irrelevant, curiosity-driven research. With a new program for the latter, we could start to derive comparisons between the results of that funding as compared to equally situated researchers funded through the regular pathways.
+Moreover, a common metascience proposal in recent years is to use a
+limited lottery
+to distribute funding, on the grounds that some funding is fairly random anyway and we might as well make it official. One possibility would be for part of the new program to be disbursed by lottery amongst researchers who met a minimum bar of quality and respectability, and who had got a high enough score on “scientific novelty.” One could imagine developing an algorithm to make an initial assessment as well. Then we could compare the results of lottery-based funding versus decisions made by program officers versus algorithmic recommendations.
+Conclusion
+A new line of funding for a
+National Institute for High-Reward Research (NIHRR)
+could drive innovation and exploration by funding the potentially high-reward research that goes overlooked elsewhere. This would elevate worthy projects with unknown outcomes so that unfashionable or unpopular ideas can be explored. Funding these projects would have the added benefit of offering many opportunities to build in metascience studies from the outset, which is easier than retrofitting projects later.
+***
+Frequently Asked Questions (FAQ)
+Won’t this type of program end up funding a lot of scientific projects that fizzle out and don’t work?
+Absolutely, but that is also true for the current top-down approach of announcing lofty initiatives to “cure Alzheimer’s” and the like. Beyond that, the whole point of a true “high-risk, high-reward” research program should be to fund a large number of ideas that don’t pan out. If most research projects succeed, then it wasn’t a “high-risk” program after all.
+What if the program funds research projects that are easily mocked by politicians as irrelevant or silly?
+Again, that would be a sign of potential success. Many of history’s greatest breakthroughs were mocked for those exact reasons at the time. And yes, some of the research will indeed be irrelevant or silly. That’s part of the bargain here. You can’t optimize both Type I and Type II errors at the same time (that is, false positives and false negatives). If we want to open the door to more research that would have been previously rejected on overly stringent grounds, then we also open the door to research that would have been
+correctly
+rejected on those grounds. That’s the price of being open to unpredictable breakthroughs.
+How will we evaluate the success of such a research program?
+How to evaluate success is a sticking point here, as it is for most of science. The traditional metrics (citations, patents, etc.) would likely be misleading, at least in the short-term. Indeed, as discussed above, there are cases where enormous breakthroughs took a few decades to be fully appreciated.
+That said, one simple metric in the shorter term would be something like this: “How often do researchers send in progress reports saying that they have been tackling a difficult question, and that they haven’t yet found the answer?” Instead of constantly promising and delivering success (which is often achieved by studying marginal questions and/or exaggerating results), scientists should be incentivized to honestly report on their failures and struggles.
+25
+6
+2
+Share
+Discussion about this post
+Comments
+Restacks
+Josef M. Klein
+Sep 6
+You ONLY mention biochemistry examples, where they explore the basic mechanisms of nature and suddenly find it much more applicable. And yes, there is a treasure trove of complex wonders in biochemistry that will not show it's bottom in quite some time, but that's really not normal for most other sciences.
+E.g.  Physics, has a lot of huge subfields, like optics, where discovery by creativity is still possible but other areas like particle physics or cosmology are incomparable with their slow progress to biochemistry.
+An erroneus idea you provoke is to diamiss the validity of what you state by generalize this scheme to all diaciplines. Sociology or Psychology or political science or economica never went much further by funding the neglected. Likewise areas in physics will not.
+Reply
+Share
+Stane Pejovnik
+Sep 1
+My skeptical view: such an institute is justified only if it has a radically different funding and governance model from existing academies and agencies. Otherwise, it risks becoming another bureaucracy with a bold name.
+Reply
+Share
+4 more comments...
+Top
+Latest
+Discussions
+No posts
+Ready for more?
+Subscribe
+© 2026 Stuart Buck
+·
+Privacy
+∙
+Terms
+∙
+Collection notice
+Start your Substack
+Get the app
+Substack
+is the home for great culture
+This site requires JavaScript to run correctly. Please
+turn on JavaScript
+or unblock scripts

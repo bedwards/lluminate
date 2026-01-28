@@ -1,0 +1,116 @@
+Title: The Economy of Knowing
+Source: goodscience
+URL: https://goodscience.substack.com/p/the-economy-of-knowing
+Date: Tue, 23 Dec 2025 00:29:46 GMT
+Word Count: 2353
+Estimated Read Time: 11 minutes
+
+================================================================================
+
+by
+Aishwarya Khanduja (
+Analogue Group
+) and Stuart Buck (
+Good Science Project
+)
+For more than 80 years, economics has distinguished between microeconomics (how individual actors make decisions) and macroeconomics (how those decisions aggregate into large-scale patterns).
+1
+This distinction has proven so valuable that we’ve forgotten how confusing economics was before it.
+This micro/macro distinction enabled different methodologies, different types of evidence, and different policy levers. It revealed that what happens at the individual level can look very different when aggregated up to emergent, large-scale, societal patterns. Microeconomics and macroeconomics require different tools, ask different questions, and often reveal different truths.
+Metascience needs the same clarity. Just as economics is about how incentives work in the marketplace for goods and services, metascience is about how incentives work in the marketplace for ideas and truth-seeking. And these incentives play out at the same micro- and macro-levels.
+The Problem: Everything Is “Metascience”
+Up to this point, “metascience” has been a broad and diffuse category, embracing everything from efforts to improve journal policies on preregistration, to large-scale analyses of citation patterns, to thought pieces on how NIH should change its grantmaking, to fraud detection and reproducibility studies, to ethnographies of labs, to launching new scientific organizations like Convergent Research or Speculative Technologies.
+All of the above (and more!) has been lumped under one umbrella. This creates confusion about what metascience actually is, what methods it should use, and how different metascience efforts relate to each other. We’re trying to repair an epistemic economy without naming the fact that there is an economy, and that economies have both large-scale markets and individual minds.
+Like financial economies, epistemic systems involve resource allocation (attention, funding, prestige), exchange mechanisms that create incentives (citations, collaborations), and trust (peer review, replication).
+And like financial economies, individual rationality can produce collective irrationality. A scientist making the individually rational choice to avoid risky projects can contribute to a collectively irrational system where no one pursues breakthrough ideas.
+To help clarify things, we should think of metascience at multiple levels, just like economics. If metascience were software, we’ve been trying to fix bugs in the user interface while ignoring the operating system—or vice versa. We need full-stack development.
+The Distinction
+Macro-metascience
+is about the political economy of funding, conducting, and publishing science at scale: the incentives, governance, institutions, funding mechanisms, and publication systems that make progress possible (or, in many cases, more difficult at present). This is the
+domain
+of the Good Science Project and other aligned organizations (such as the Institute for Progress or the Federation of American Scientists): reforming federal agencies, redesigning grant mechanisms, proposing journal reforms. Macro-metascience asks questions like:
+How should NIH structure peer review
+? What funding mechanisms best support high-risk research? How do citation patterns reveal biases in knowledge production?
+Micro-metascience
+, by contrast, is about individual scientists and the phenomenology of discovery: how researchers actually experience reasoning, who they trust or doubt (and why), the mimetic pressures inside research groups, the ways in which they form conviction about evidence, and how they generate creative ideas. This is where
+Inês Hipólito
+’s work on
+cognitive and social epistemology
+and
+Omar Shehata
+’s work on
+mimetic engineering
+can shed light on how individual scientists navigate their intellectual environments.
+Consider a concrete example of micro-metascience in action. If you’ve ever hung out at the hotel bar at a scientific conference, you will often hear some unvarnished thoughts along the following lines: “Don’t quote me publicly, but no one really trusts the Beyoncé-style superstar in my field. We just can’t get that lab’s work to replicate.”
+This gap between what scientists know privately and what they can say publicly is itself a
+micro
+phenomenon with
+macro
+consequences. If trust is created primarily through whisper networks rather than formal channels, entire fields can persist with unreliable methods because no individual scientist can safely speak up to say that the emperor has no clothes. The macro-level system appears functional (with lots of papers, citations, and grants), while the micro-level reality is
+epistemic dysfunction
+that everyone privately acknowledges but no one can formally address.
+Why the Distinction Matters
+This distinction reveals why so many well-intentioned metascience reforms can fail: they operate at only one level while assuming the other will automatically align.
+As in economics, the two subfields of metascience obviously interact in many ways, yet large-scale initiatives and reforms often ignore the cultural and psychological effects on individual scientists. You can redesign a national grant program, but if the researchers inside the system are operating out of a mindset of fear, scarcity, or reputational risk, the reform may not work or could even backfire.
+2
+Conversely, you can encourage individual scientists to follow their curiosity, but if the larger institutions reject early-stage exploration, then the individual scientists will respond accordingly.
+Take preregistration as an example. At the macro level, preregistration seems like an obvious solution to publication bias and p-hacking: require researchers to commit to hypotheses and analysis plans before seeing their data. Many journals and funding agencies have implemented preregistration requirements, expecting this structural change to improve research quality.
+But the micro level tells a different story. If individual scientists are afraid that preregistration might lower their chance of publication, they may instead try to game the system by preregistering every potential hypothesis and outcome.
+Indeed, this is arguably what has happened in some fields: researchers submit vague preregistrations that allow maximum flexibility, or they preregister multiple analysis strategies and then selectively report the ones that “worked.” The macro-level intervention is less effective than anticipated because it didn’t account for how individual scientists would actually experience and respond to the new requirement.
+3
+Similarly, consider national initiatives to sponsor so-called “high-risk, high-reward” research.
+4
+At the macro level, agencies like NIH or NSF create special funding programs with modified review criteria. But at the micro level, if these programs are viewed cynically by individual researchers who submit work they have already completed (because that’s the only way to make it seem “safe” enough to get funded), then the initiative may not have its intended impact.
+After all, researchers will respond rationally to their perception that “high-risk” is actually code for “we’ll still only fund things that look exciting but also highly likely to succeed.” We are aware of one scientist who took a close look at the NIH’s
+Pioneer awards
+(intended to sponsor ambitious scientists to take a “
+new
+scientific research direction”), and who found that most or all grantees were actually continuing the same research direction as before.
+Perhaps the most powerful example is Katalin Karikó’s decades-long struggle to develop mRNA therapeutics. At the macro level, institutions repeatedly rejected her work: she was demoted and was told her research had no future. The macro-level system—with its emphasis on immediate results, conventional approaches, and established paradigms—couldn’t recognize the value of her exploration.
+But at the micro level, Karikó’s individual persistence ultimately led to one of the most important medical breakthroughs of the 21st century (and a Nobel Prize). The interaction between these levels is crucial: institutional tolerance for uncertainty will affect an individual scientist;s willingness to persist with unpopular ideas. How many
+potential Karikós gave up
+because they lacked her combination of stubbornness, self-belief, and tolerance for professional marginalization?
+The superstar economist Raj Chetty
+has written
+about “Lost Einsteins,” as in people who had the potential to be a scientific genius but never got the necessary education. Perhaps we also need to focus on “Lost Karikós,” as in scientific geniuses who did get the right education but were failed by the system.
+Another example of how the two domains interact: A micro-metascientist might work with individual scientists to determine how disagreement affects someone’s willingness to undertake outside-the-box research: measuring things like psychological safety, trust formation, and willingness to share pre-formal ideas. A macro-metascientist might redesign the NIH process to fund more outside-the-box research by changing how peer review ratings are scored—perhaps implementing variance-based selection where proposals with both very high and very low scores get funded.
+These are not separate domains addressing separate questions. They are a stack. And they must be studied together, because the feedback loops between levels determine whether interventions actually work.
+Full-Stack Metascience: What It Means
+A full-stack theory of metascience would recognize that:
+High-level policy, governance, and funding set the boundary conditions for what scientific explorations occur, and even what counts as “science” in the first place.
+For example, the NIH’s emphasis on “significance” and “impact” forces researchers to frame exploratory work as if it already has clear applications. This requirement asks scientists to justify rather than explore, and to talk about supposed real-world applications before they are even able to understand the basic mechanisms at issue. The macro-level requirement shapes the micro-level phenomenology of how scientists conceive of their own work.
+Epistemic culture determines how individual scientists react to those boundaries, and in turn, whether their day-to-day behaviour is likely to lead to breakthroughs.
+When researchers internalize the message that only positive results are publishable, they unconsciously avoid research designs that might yield null results, even when those would be more informative. This is how questionable research practices (sometimes rising to the level of fraud) can arise from the micro-level adaptation to macro-level incentives. Scientists stop asking certain types of questions because the epistemic culture has made those questions feel pointless or naive.
+The interaction between levels creates emergent dynamics that can’t be predicted from either level alone.
+A scientist who is devoted to epistemic humility (a micro-level virtue) and the pursuit of breakthrough ideas might be employed by an institution that punishes negative results (a macro constraint). They will experience cognitive dissonance that can resolve in unpredictable ways: maybe they leave science, maybe they compartmentalize, maybe they become cynical, or maybe they find ways to pursue their curiosity within the cracks of the system. We can’t understand the outcome by studying either level in isolation.
+This piece—“The Economy of Knowing”—is an attempt to sketch that structure. If economics needed micro and macro to understand markets, science needs micro and macro to understand itself.
+What This Means in Practice
+Recognizing the micro/macro distinction has immediate practical implications for anyone trying to improve science.
+First, we are trying to make explicit a gap that has caused many failures:
+nearly every metascience intervention operates at only one level.
+Reformers either redesign incentive structures from the top down while assuming scientists will automatically respond as intended, or they train scientists in better practices while assuming institutions will reward those practices. The micro/macro distinction makes this gap explicit, and demands that interventions address both levels simultaneously.
+Second, we provide a
+diagnostic framework for understanding why reforms fail.
+When a well-designed macro-level intervention doesn’t produce expected results, we should ask: What is the micro-level experience of the scientists in the system? What are their fears, their incentive calculations, their trust networks, their phenomenology of epistemic risk? Often the failure point becomes immediately visible.
+Third, we suggest that
+effective interventions must answer three questions:
+1. What are the macro-level constraints? 2. How will individual scientists experience these constraints? 3. Which feedback loops connect the two levels? Only when we can answer all three questions do we understand the system we’re trying to change.
+This means, for instance, that designing a new funding mechanism requires both macro-level analysis (how does this change incentives? how does it interact with other funding sources? what behaviours does it reward?) and micro-level understanding (how will scientists perceive this mechanism? what will it feel like to apply? who will feel comfortable using it versus who will self-select out? how will it affect scientists’ willingness to take risks?).
+Conclusion: Designing for Both Levels
+A new economy of science is possible. But we need to remember that good science doesn’t arise merely from having the best top-down systems. The most perfectly designed funding mechanism can’t overcome an epistemic culture of fear. The most sophisticated peer review process can’t substitute for individual scientists who trust their own judgment and are willing to pursue unpopular ideas.
+Ultimately, good science is produced by the individual people and the small teams within larger systems. And if we want better science, we have to design for both levels: the micro and the macro. We need to understand how policy shapes phenomenology, and how phenomenology shapes which policies are feasible. We need to track the feedback loops between institutional constraints and individual experiences, between large-scale incentives and the felt sense of what it means to do good work.
+The micro/macro distinction gives us the language to do this. It’s time metascience became as sophisticated about its own structure as economics has been about markets. We have the macro tools: policy reform, institutional redesign, new funding mechanisms, and more. We’re developing the micro tools: understanding trust formation, measuring psychological safety, studying how creative ideas emerge. We need to integrate the two levels. Only then can we build the epistemic economy we need: one that produces not just
+more
+science, but
+better
+science, breakthrough science, science that actually helps us understand the world.
+1
+The terms were first defined in
+a 1941 article
+as analyzing economic concepts “for a single person and family” versus “for a large group of persons or families (social strata, nations, etc.).”
+2
+Stuart was told privately by a top Alzheimer’s researcher that the Alzheimer’s field was probably more robust before Congress started allocating so many billions of dollars to it. In his words, “Now every neuroscientist puts the word ‘Alzheimer’s’ in their grant proposal no matter what they are actually studying.”
+3
+A researcher at a top university told Stuart privately that in his experience, graduate students started writing 100+ page analysis plans that were so boring and tedious that no one would ever read them, thus allowing the students to later engage in whatever analysis they wanted.
+4
+We dislike the “high risk, high reward” terminology. Almost no research is actually “high risk” to anyone but the individual scientist, who is at risk of losing salary, publications, and even a job if they try to tackle an ambitious problem.

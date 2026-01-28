@@ -1,0 +1,522 @@
+We solved the wrong problem. For 2
+years, we've been optimizing for
+capability in our AI usage. It made
+sense at the time. It still makes sense.
+It remains a foundational toolkit. It's
+like learning how to use hand tools,
+better prompting, smarter tool
+selection. We treated AI fluency as a
+skill pack we all needed to acquire. And
+it worked. The capability ceiling has
+lifted. The average engineer can now
+produce a lot more code. And AI is
+taking over non-technical disciplines
+like crazy because people are learning
+how to prompt better, learning how to
+use tools like Claude Co-work. And yet,
+and yet we still feel like we are
+behind. We still feel like the AI
+revolution is catching up with everyone
+else faster than it's catching up with
+us. And that is me saying that after
+talking to workers and after talking to
+leaders, everyone thinks if they look
+over the shoulder of the person next to
+them, they're going to see a secret hint
+they've missed. This is the secret,
+guys. The models are getting smarter.
+And we now have to learn a new way to
+think sensibly about how to use these 10
+and 100x capable models. And we don't
+have the mental tools to do it. And the
+conventional assumptions around prompt
+better are necessary, but they're not
+sufficient. The shift is that the
+bottleneck has moved and we're all
+really frustrated by it because we there
+you don't have an easy quick band-aid
+fix. There is not a magic prompt for
+this one. But you can understand where
+the bottleneck moved and you can learn
+to engage with it. you can get the
+mental equipment you need, the software
+upgrade for your brain that you need to
+improve how you work with agents because
+I am convinced that the bottleneck in
+AI, the thing that is making us
+frustrated even though we've developed
+so many of these basic skills is it's
+happening because the bottleneck has
+shifted from our ability to learn a
+skill like a capability like I need to
+learn how claude code works or gosh I
+got to learn how notebook LM works. Now
+it's shifted toward something that is
+harder to grasp. It's shifted toward our
+cognitive architecture, systems
+thinking. The people who distinguish
+themselves often in 2026 have the same
+core tool set as the people who don't.
+Uh they use Cloud Code, they use Claude
+Co-work, they use Gemini Nano Banana,
+they use Notebook LM. It's not a
+different tool set anymore. It's not
+even necessarily incredibly better
+prompting skills.
+The bottleneck is moving from capability
+to systems thinking and cognitive
+architecture. That is what distinguishes
+people who are able to make the most of
+the AI systems. And almost nobody has
+thought this one through and really
+articulated. And I want to lay it out
+for you as honestly as I can. These are
+the practices that I am seeing top 1%
+builders take who are able to take their
+foundation skills and I am not
+denigrating prompting here. Prompting is
+a critical baseline skill. I talk about
+it a lot. I'm going to keep talking
+about it in 2026. You got to have it.
+But it's not enough. It's not
+sufficient. You also have to upgrade
+your thinking. Practice number one.
+people who are 100x builders who can
+take advantage of where these systems
+actually are in 2026, they are adopting
+the mindset of an engineering manager.
+Not metaphorically, operationally. And
+so when you think about what an
+engineering manager does, think about it
+as I am responsible for the overall
+quality of what is coming out of my
+team. I'm responsible for their ability
+to ship. I'm responsible for their
+well-being and their ability to
+successfully coordinate. That's not just
+word games. That is how you start to
+allocate your attention when you work
+with teams of agents. In this sense,
+you're responsible for defining a team
+environment for agents that is actually
+successful. You're responsible for
+understanding that you have to give an
+agent a very clear set of guard rails, a
+very clear endpoint, a very clear
+mission to accomplish, and a clear
+definition of done. And you have to be
+able to replicate that. And I have
+different videos that talk about how you
+do that in much more detail. But in this
+situation, what I want you to focus on
+is that instead of managing a team of
+humans who have their own judgment,
+their own context, their own memory,
+you're managing agents. They are
+tireless. They are prone to confident
+incorrectness. You have to have a
+different discipline. And even though
+the discipline is different because
+you're managing agents, not people, the
+analogy holds. You're still responsible
+for throughput. You're responsible for
+setting direction. You're responsible
+for output. And I think the hardest part
+is letting go of our identity about how
+you get there. If you have built your
+career as being the person who writes
+the code or the person who writes the
+perfect product requirement document as
+a PM, the person who is able to do the
+individual work at a high craft level,
+this is a moment of grief because the
+transition feels like a loss and it is a
+loss. Something is changing here, but
+it's also leverage. You are gaining
+leverage to get an unprecedented amount
+of work done if you are willing to
+change your mindset. And so I'm sharing
+the engineering manager analogy because
+I think it's accessible, but I want you
+to not hear that and think, oh, that's
+for engineers. It's for everybody at all
+levels. And so is practice number two.
+Kill the contribution badge. This is a
+legacy behavior that is just costing all
+of us. We have this instinct to bring
+something comprehensive before we engage
+with AI. And I've seen it in myself.
+I've seen it in others. We want to feel
+like we made a contribution to the
+process. So we feel a degree of
+ownership in the outcome. And so we want
+to say, "Let me do some pre-thinking.
+Let me get really organized and then let
+me go to AI." This runs against a lot of
+our professional instincts. But with AI,
+this is often backwards, especially if
+you are working with a model like Claude
+that works well with progressive intent
+discovery. The models are often better
+at handling unstructured input than you
+might expect. And so your comprehensive
+effort to think is often just premature
+structure and noise. And there's a
+little bit of a technical reason here
+for this. This useful pre-thinking was
+something that we legitimately valued in
+the first half of 2025 because models
+weren't there yet. But part of the whole
+lesson of this is we need to change the
+way we think because models keep getting
+better and they have gotten better and
+so they our habits didn't update and so
+many of us still think we need to do
+that pre-work. Now, if you are working
+on a complex technical task and you're
+working with a tool like Codeex that
+values a very clear spec, sure you need
+to take the time to develop that spec
+before kicking off a longunning Agentic
+build pattern. But that's not most of us
+and that's not most of the time. And so
+the larger pattern here is that builders
+that succeed are not married to their
+own personal sense of how much pre-work
+they did for AI to make it valuable.
+They are willing to roll with the fact
+that the models are getting better and
+they're willing to bring less structured
+information to the table so that the
+model can work more productively off an
+earlier starting point and they can get
+overall velocity gains. Practice number
+three, develop strategic deep diving
+capabilities. This is what distinguishes
+the best builders from the people who
+are wasting tokens. You have to have the
+ability to deliberately change your
+altitude. So the discourse around AI
+coding has been stuck in sort of a
+binary. Either you understand every
+single line like traditional development
+or you accept code you don't understand
+like vibe coding. And neither one is
+necessarily productive because one of
+the things that distinguishes good
+builders is that they understand they
+have a fingertippy feel on what matters
+about the product they're building and
+where it goes in front of customers. And
+so they can ladder down and they can say
+look this particular checkout experience
+is broken and I'm going to ladder into
+the code and dig in as far as I need to
+go to understand why it's broken. But
+then they can ladder back out into a
+higher abstraction and say what is the
+agentic prompting pattern that is
+producing this issue. Think of it like
+flying a plane, right? Cruising altitude
+has been really efficient for most
+builders for most of the time. If you
+were a product manager, one of the
+distinguishing features is you were able
+to cruise at a higher altitude.
+Frontline engineers cruised at a lower
+altitude. Everyone pretty much kept to
+their lane. Now we've got turbulence in
+the air. You have to be able to descend
+to see the terrain and the specific
+pieces of the code. You have to be able
+to ascend to a much higher level of
+abstraction because you're now thinking
+about the correct abstractions for like
+running dozens of agents which we've
+never had to do. And so we just have to
+have the ability to pull that plane up
+and down to pull our mental model up and
+down. And that is one of the hardest
+things for us to learn because it's it's
+literally training our brain to think
+different. And the worst vibe coders
+stay permanently high level, right?
+They'll ship features. They'll never
+understand what they built and they will
+create what Adi Osmani calls
+archaeological programming, something
+future developers will have to excavate.
+And it creates experiential debt because
+at the end of the day, they don't really
+know deeply the experience that they are
+creating because they vibe coded it so
+fast. I love that we can go faster with
+vibe coding. I've t courses on it. I'm
+not against it at all. Lighting is
+great, but you have to understand what
+experience you're creating to do a good
+job with that tool. It's like a
+blowtorrch. You can use it badly or you
+can use it well. Either way, it lights
+things on fire fast. Now, the worst
+traditional developers have different
+weaknesses. They stay permanently really
+low level. They insist on understanding
+every line and their throughput has hit
+a ceiling and it's not going anywhere.
+The best builders these days and they're
+not just named engineers, guys. The best
+builders move fluidly. And I would
+challenge you that this is not just an
+engineering thing. The best
+non-technical people who are using AI to
+produce artifacts like proposals, like
+spreadsheets also move fluidly. They
+also translate from low-level work where
+they get hands-on in the spreadsheet to
+highle work where they think about what
+are the data patterns I need to present
+so that this particular task goes more
+smoothly next time. This pattern scales.
+It's not just for engineers. You have to
+let agents handle initial implementation
+and you have to be able to examine
+critical paths. Both of those are true
+in 2026. Cal Newport's analysis of why
+agents work is really interesting here.
+The terminal is a constrained and
+textbased environment where feedback is
+immediate and unambiguous. That is part
+of why coding has been so fast for AI
+agents. Your deep dive should target
+that level of clarity. If you drop down
+in a in a non-technical role,
+spreadsheets or or reports or what have
+you, you should seek to verify reality
+against your expectation. You should
+check that it really works the way you
+think. All right, practice number four.
+Take some time. You can call it create
+temporal separation if you want, but
+just take some time. It sounds like
+productivity advice. It's actually
+advice for cognitive architecture and
+handling AI agents. And so I want you to
+think about it as if you are building a
+system and you have a tremendous amount
+of firepower at your disposal to deploy
+that system and it will go very fast.
+Your primary job is actually
+correctness. It's to deploy it well. You
+need to be in both a flow state which
+you should be if you're building with
+agents where things scroll by, features
+ship, you're building and switching
+context. People describe this when
+they're managing multiple agents where
+they're just going back. And I've seen
+it with myself in Claude Code or Claude
+Co-work where you're just going back and
+there's always an update and hours slip
+by quickly and you're just cycling
+between tabs.
+That's only one part of it. As much as
+you need that to be productive in
+execution mode, [cough]
+you need to take time
+to go back and review the work in a more
+meditative state of mind. Your brain is
+a really high quality asset in 2026 and
+it needs both modes. It needs both the
+build mode where you're like
+coordinating all those agents and it
+needs the reflect mode. It needs the
+step back mode because otherwise you're
+not going to really have genuine
+leverage because you won't get to
+reflect and say, "Well, what kinds of
+prompts did work well this week? Which
+agents got stuck and why? Where did I
+waste time on problems I could have
+caught earlier?" If you can't answer
+those questions, you're not learning
+from all of that building. You need the
+distance. You need literally different
+brain chemistry. You need to reflect.
+It's not overhead. It's the difference
+between getting faster and getting
+better. Practice five. Look at the two
+different kinds of architecture. So,
+there's a conversation that keeps
+surfacing between builders about two
+different kinds of architecture and how
+we build. The first kind is sort of a a
+civil engineering pattern, right? the
+stuff you would put in a cloud markdown
+file or an agents markdown file and you
+write about like this is how problems
+should be solved consistently across my
+codebase. It's my special rule. This is
+my code standard etc. The second kind is
+what Christopher Alexander called
+quality without a name. It's the thing
+that makes some towns feel better than
+others. Some products feel more coherent
+than others. Why we go on vacation to
+Paris and not to Cincinnati. It's not
+just the food. It's a philosophy of
+living embedded in the design. And this
+is there's something here around scaling
+taste that is an unsolved challenge in
+2026. And the distinction really matters
+because most of the discourse around AI
+development and how we should scale
+ourselves in the age of AI just puts
+these two architectures together. People
+assume that if you can get agents to
+follow your conventions and you write
+down your rules, they're going to just
+magically produce coherent products.
+They don't. Not yet. Now, you absolutely
+need the first architecture. I'm not
+trying to make you judge between the
+two. You need good patterns where agents
+excel. And guess what, non-technical
+folks, that goes for you, too. You have
+to have the ability to write down rules
+that measure what best practice looks
+like. And it's even harder for all of us
+on the non-technical side because those
+rules are not as crystal clear as the
+engineers have got. But the second
+architecture remains human work. The
+idea of taste of coherence of vision of
+quality without a name of what Steve
+Jobs had when he looked at the iPhone
+that remains human work. And this is
+where cognitive architecture has a real
+bottleneck because you can delegate the
+technical patterns. It is hard to
+delegate the judgment about what makes
+something intuitively feel right. When
+it's the quality without a name, it's
+your job. And that is part of why I'm
+advocating that you take time to
+reflect, that you take time to go down
+and look in the details of what you're
+building because we are desperate for
+that kind of coherent product in the AI
+building world. We don't have a lot of
+it. We have a lot of go fast practice
+number six. Accept that your experience
+is not compressible. This is a really
+counterintuitive insight that a lot of
+vibe coding discords keep missing. You
+cannot immediately
+speedrun experience. You can speedrun
+software development now. And the
+standard critique of vibe coding is that
+that doesn't work well because of
+technical data and bugs and so on. But
+you can vibe code really well now. you
+have minimal bugs if you do it right and
+set it up against evals and you can set
+multi- aent systems going. That's not
+the real issue. The real issue is that
+you need to be deeply familiar with what
+you're working on and recognize that
+that experience takes a degree of time
+and that that matters more than most of
+us would like to admit because the
+vision you have for your product has to
+be stable. It has to be long-term vision
+that expresses how you want things to
+work differently. And by the way, we're
+all in the product business now. So if
+you're looking at this and saying, "I'm
+not a product manager. I'm not an
+engineer. I don't have to do this." No,
+you do. Because if we're building with
+agents in marketing, in creative, in
+customer success, we're all in the
+product business. I'm sorry. These are
+products we are constructing because we
+have agents that are building stuff for
+us. And you have to have the larger
+vision of what it means and why it
+matters and the experience the the
+knowledge of the thing that you need to
+do that well. You cannot speedrun at the
+speed at which you can build stuff. And
+the builders I know who are genuinely
+thriving find ways to preserve an
+experiential loop while still capturing
+the benefits of AI. You can call this
+talking to customers. That's a part of
+it. You can still ship really fast. Good
+teams still do that. But you have to let
+your understanding develop through
+iteration and be in touch with reality
+and your customers. You cannot just
+iterate through prompting. One of the
+bigger underlying shifts that all of
+this is sort of building around is that
+we are moving from a world where
+prompting was a one-way street and we
+were giving the agent stuff to do and it
+was our capability that was holding
+things back to a world where it's a
+two-way street. The system sometimes
+invites us to level up our
+conversational intent and our prompts.
+Have you ever been at a point where your
+AI asks you a question? I have. It
+happens out of the blue and it's usually
+a really good question. It asks even
+better questions if you invite it to.
+And so, yes, you still need to craft
+good prompts, but your job isn't just
+prompting at this point. It's actually
+to understand at a deep human level what
+really matters about what you're doing
+at work and to be open to unfolding that
+thing that matters as you go into the
+process of building with AI. And that
+sounds really woo woo, but there's a
+very practical edge to it because the
+stable altitude of abstraction that
+allowed us to do our jobs in the same
+way that we've already done for a long
+time, as I've said, that's been
+disrupted. And so because that altitude
+is disrupted, we need to double down on
+partnership and commitment with the AI
+to building what really matters.
+basically the only thing that is going
+to hold in 2026 for us if we want to
+work with AI, if we want to scale
+ourselves, which we're going to have to
+do because that's the forcing function
+in the system right now. AI is coming
+whether we like it or not. The only
+thing that's going to hold is
+understanding what matters about our
+work, why we're building something at a
+deep level and insisting on that coming
+through. Even as Agentic systems keep
+getting better, even as the AI we work
+with gets 10 or 100 times smarter, we
+won't get lost if we know what we want
+to build. And that is the thing that's
+underneath all of this is that you can
+get into a space where you have much
+more of a partner dynamic with AI in
+2026 than you did in 2025. But you
+cannot yield the sense of what matters
+about what you're building. And the best
+builders, whether they are building with
+literal code or building with
+spreadsheets or building with their
+customer service agents, understand
+that. And that is the 2026 builder
+operating

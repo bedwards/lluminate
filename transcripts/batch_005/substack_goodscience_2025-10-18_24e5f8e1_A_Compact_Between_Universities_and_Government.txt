@@ -1,0 +1,162 @@
+Title: A Compact Between Universities and Government?
+Source: goodscience
+URL: https://goodscience.substack.com/p/a-compact-between-universities-and
+Date: Sat, 18 Oct 2025 06:03:54 GMT
+Word Count: 3070
+Estimated Read Time: 15 minutes
+
+================================================================================
+
+Recently, the federal government released a proposed “
+Compact for Academic Excellence in Higher Education
+,” based on
+a proposal
+from investor Marc Rowan.
+Colleges and universities are asked to sign on, unless they “elect to forego federal benefits,” including federal research grants, tax benefits, approval of student visas, and access to student loans.
+The stakes are high: The agreement would be enforced by the Department of Justice, and any violations could mean that the university has to return all money from the past year and offer to return private donations as well.
+One could question a few of the provisions on First Amendment grounds (see
+this piece
+from my old friend Eugene Volokh,
+this piece
+from Walter Olson, and
+this piece
+from FIRE, the main non-partisan defender of free speech). But as there’s no need to rehash the free speech concerns, there are two additional issues:
+The Compact aims to regulate many aspects of universities (from tuition levels, to admissions standards, to systemic discrimination against conservatives) that are problematic, but aren’t really within the federal government’s authority or even ability to regulate; and,
+The Compact contains many conditions that are vague and ambiguous, and would be impossible to enforce without tons of future litigation.
+As Danielle Allen of Harvard
+has argued
+, it’s long past time to renegotiate the relationship between American universities and the rest of society, and the Compact could be seen as the first step towards that end. The Compact does contain a lot of ideas that are well-intentioned, but that need far more definition and clarity, as well as congressional approval.
+Standardized Tests
+The Compact says that all universities should require undergraduates to “take a widely-used standardized test (i.e. [sic] SAT, ACT, or CLT) or program-specific measures of accomplishment in the case of music art, and other specialized programs of study.”
+Remember that at least four categories of federal benefits are at play here. So,
+which
+federal agencies have the authority to demand a particular standardized test for undergraduate admissions in order for the university to receive federal tax benefits (IRS), student loans (Education), research grants (NIH and many others), or approval of student visas (State)?
+Is NIH actually empowered to say, “This college didn’t use the right standardized test for undergraduate admissions; therefore, a cancer researcher is categorically ineligible for funding to do their research”? I don’t see that anywhere in federal law. Same for the other agencies.
+Moreover, what is the federal government’s interest here? There is no federal law requiring universities to use any particular standards for admissions, and it’s hard to see how that would be workable.
+It’s easy to forget that while the top universities like Harvard and Stanford make all applicants take standardized tests (for the most part), some 80% of universities and colleges do not.
+Are all of these less-elite institutions now supposed to be ineligible for grants? What would that requirement meant for state institutions in places like Alabama, where even the
+leading state university
+doesn’t require the ACT or SAT?
+Institutional Neutrality
+The Compact states: “Signatories shall maintain institutional neutrality at all levels of their administration. This requires policies that all university employees, in their capacity as university representatives, will abstain from actions or speech relating to societal and political events except in cases in which external events have a direct impact upon the university.”
+It would be great if universities focused on their core mission, not on putting out public statements on extraneous issues. If anyone in a university communications department has time to craft a statement on Israel vs. Gaza, they probably need to downsize.
+Still, what’s the federal interest in a mandate here? Moreover, a lawyer would want a precise definition of “external events” and “direct impact.” Otherwise, who knows what any of this means?
+When Harvard
+issued a statement
+in 2005 that it was saddened over Hurricane Katrina (1,500 miles away), should that have jeopardized Harvard’s tax exemption and research grants? When a Georgetown center
+put out a statement
+this year about the Los Angeles wildfires (2,600 miles away), was that a reason for the federal government to cancel all support?
+Or do those issues count as having a “direct impact upon the university” if
+X
+number of students or faculty came from New Orleans or Los Angeles? And if so, what number is
+X? 1,
+5, 50, 100, or what?
+This sort of thing is hard to define precisely, but that’s why it is all the more important to at least
+try
+to be more specific up front, or else a contract/compact would end up being tied down in endless litigation over just this one point.
+Grade Integrity
+The Compact requires signatories to “commit to grade integrity” and to “acknowledge that a grade must not be inflated, or deflated, for any non-academic reason, but only rigorously reflect the demonstrated mastery of a subject that the grade purports to represent.”
+Again, nearly everyone would agree that grade inflation is a bad phenomenon. But which exact federal agency (IRS, NIH, State, etc.) has the authority to regulate grade inflation? Indeed, why should the federal government care about this issue at all? If we want to fund the best cancer researchers in order to make progress towards curing cancer, why would we put a halt to cancer research because, elsewhere within the university, there’s a history professor who gave everyone an A?
+Moreover, how are we defining and measuring “grade inflation”? What if, given rising admissions standards over the past generation, some universities give mostly As and Bs because their students have indeed “demonstrated mastery of a subject”? How is the Department of Justice supposed to determine (for every course?) whether the grade of A reflects grade inflation or actual mastery? Are they going to retest every student?
+Tuition Issues
+The Compact asks universities to “commit to freezing the effective tuition rates charged to American students for the next five years.”
+I agree with the impulse here, but it is unclear whether any federal agency has the right to dictate tuition rates in this way. In any other industry, conservatives and libertarians have always been opposed to price controls.
+If the Department of Education even arguably has such authority, it would have to follow the usual procedures for issuing a new rule (and even then, it probably couldn’t regulate rates directly, but could only say which rates were eligible for student loans).
+The Compact also says that any “university with an endowment exceeding $2 million per undergraduate student will not charge tuition for admitted students pursuing hard science programs (with exceptions, as desired, for families of substantial means).”
+As elsewhere, it isn’t clear how there’s any federal authority to create such a requirement. It is even more unclear how to apply this requirement: which exact programs count as “hard science,” which “exceptions” are allowed, what does it mean for an exception to be “as desired” (desired by who?), and what counts as a family of “substantial means”?
+Applying Bank Regulation to Universities
+This is the most baffling requirement, and one that I haven’t seen anyone else discuss.
+The Compact says that “all universities must comply with anti-money laundering, Know-Your-Customer (“KYC”), and foreign gift disclosure obligations imposed by the federal government and the rules and regulations overseen by the United States Treasury Department’s Office of Foreign Assets Control and Financial Crimes Enforcement Network (“FinCen”), the U.S. Department of Justice (“DOJ”), and the Department of Education (“ED”).” Moreover, universities must “agree to maintain an anti-money laundering and KYC program in accordance with the Bank Secrecy Act, as amended by the USA PATRIOT Act.” As well, “all students, staff, and faculty must comply with KYC and anti-money laundering laws.”
+Hardly anyone outside of the banking sector would know what the above means. Basically, it’s referring to a set of laws and regulations that require banks (and other financial institutions) to check the identities of their customers, and take a bunch of measures to prevent the likes of terrorists and drug traffickers from laundering money through the banking system.
+This is just a guess, but the motivation for this requirement is probably the looming issue of
+student fraud rings
+, which are apparently more common since Covid. Criminal gangs use borrowed or stolen student identities, apply for student loans or Pell Grants, and then “attend” classes online while just pocketing the balance that was meant for housing, books, etc.
+It makes total sense that we would want to have some assurance that the “students” getting federal aid are legitimate students attending a legitimate institution.
+But there has to be a much simpler way to get there. Bringing in the Bank Secrecy Act and all of its rules regarding customer identity and money laundering makes no sense.
+An expert on these issues told me that he had “never heard of AML/KYC being extended outside the financial industry before.” He added that the Compact’s requirement that “[a]ll students, staff, and faculty must comply with KYC and anti-money laundering laws” is “
+not how someone super familiar with AML/KYC would phrase it
+,” since those laws/regulations apply to financial firms rather than to customers.
+Indeed. These laws are all designed for
+institutions
+that handle
+other people’s money
+. A student receiving a stipend or paying tuition is not such an institution, and it makes no sense to suggest that they might be required to file
+suspicious activity reports
+or perform
+sanctions screening
+on their peers.
+Let’s take
+one of hundreds of possible examples
+from the
+Bank Secrecy Act
+and the accompanying regulations:
+Here’s a question a lawyer would have asked: What does it mean to say that universities, plus all students and faculty, have to obey the requirement that “insured depository institutions” have to create “microfilm or other reproduction of each check” drawn on that institution?
+This is like saying, “Universities and their students must comply with the
+Clean Air Act’s regulation
+of sulfur dioxide emissions at combustion sources.”
+Universities and their students are not banks, any more than they are coal-burning power plants.
+You can’t just import an entire area of complex regulation without figuring out how any of this would work, and then laying out the exact requirements (
+and no more
+) that you wish to translate into the educational context.
+Even if there were zero other issues with the Compact,
+this requirement alone
+would make any university lawyer reject the Compact. No lawyer is going to allow a university to sign up for such sweeping and mostly inapplicable regulations with no idea what any of it actually means (while waiting for the Department of Justice to enforce it, based on who-knows-what criteria).
+Foreign Enrollment
+The Compact stipulates that no more than 15 percent of any university’s undergraduates should be from foreign countries, and no more than 5 percent can be from any one country.
+Once again, it’s not clear how any federal agency has the authority to demand any particular percentage of foreign undergraduate admissions this way. It’s also not clear what this policy would actually accomplish. If the
+US News statistics are correct
+, this policy would only affect a literal handful of American universities. Why exactly do we care about getting the percentage of foreign undergraduate students at the University of Chicago to drop from 18% to 15%?
+The Compact goes on to say, “Signatories pledge to select those foreign students on the basis of demonstrably extraordinary talent, rather than on the basis of financial advantage to the university; to screen out students who demonstrate hostility to the United States, its allies, or its values; and to provide instruction in American civics to all foreign students.”
+Sure, if there are foreign students chanting “death to America,” then we have no obligation to give them the privilege of a student visa.
+But what does it mean to express “hostility,” and who counts as our “allies”? The Trump Administration recently issued an
+Executive Order
+promising to “guarantee the security and territorial integrity of the State of Qatar against external attack.” What if a conservative student critiques that policy by quoting
+Trump’s 2017 statements
+that Qatar “has historically been a funder of terorism” and “extremist ideology”? Much more clarity would be needed here.
+And providing instruction in American civics to all foreign students is an admirable aspiration, but what counts as “instruction in American civics”? Anyway, as Rick Hess and Andy Rotherham
+point out
+, any requirement like this is flatly illegal under a federal law that has been around for several decades — absolutely no one in the US government is allowed to have any say in the curriculum or program of instruction at any educational institution:
+20 U.S. Code § 1232a - Prohibition against Federal control of education
+No provision of any
+applicable program
+shall be construed to authorize any
+department,
+agency, officer, or employee of the United States to exercise any direction, supervision, or control over the curriculum, program of instruction, administration, or personnel of any educational institution, school, or school system . . . .
+No Belittling of Conservative Ideas
+The Compact requires universities to commit to “transforming or abolishing institutional units that purposefully punish, belittle, and even spark violence against conservative ideas.”
+I agree with the underlying motivation here, but this is highly underspecified: it needs a definition of “institutional unit,” “transform,” “punish,” “belittle,” “spark violence,” and “conservative idea.”
+To take the latter term, what even counts as a “conservative idea”? Are high tariffs a “conservative idea”? Until about yesterday, no conservative (including certain economists currently working in the White House!) would have said that high tariffs are a good idea. Is it a “conservative idea” for the federal government to take ownership stakes in major corporations, or is it actually a socialist idea (as Tyler Cowen
+points out
+)?
+Moreover, what does it mean to “punish” or to “belittle” an idea? To disagree with it? To use a passive-aggressive tone of voice? To give an essay a lower grade?
+Ironically, the
+very next sentence in the Compact
+says that “given the importance of academic freedom to the marketplace of ideas, signatories shall adopt a policy protecting academic freedom in classrooms, teaching, research, and scholarship.” But if academic freedom means anything, it means the ability to put forward ideas that someone might feel are belittling a different idea.
+Viewpoint Diversity
+The Compact states: “Signatories commit to rigorous, good faith, empirical assessment of a broad spectrum of viewpoints among faculty, students, and staff at all levels and to sharing the results of such assessments with the public; and to seek such a broad spectrum of viewpoints not just in the university as a whole, but within every field, department, school, and teaching unit.”
+Again, a great idea that I agree with in theory. But it would be nearly impossible to define or enforce. Any lawyer would say you need to define “broad,” “spectrum,” and “viewpoint,” and then say how this applies to every field, department, school, and even teaching unit (whatever that means).
+After all, what does a “broad spectrum of viewpoints” even mean as to chemical engineering, archaeology, astronomy, neuroscience, oncology, mathematics, paleontology, geology, botany, quantum mechanics, statistics, and many other fields/subjects?
+And how would the
+Department of Justice
+be able to enforce this requirement? Are we to imagine that DOJ is going to police the physics department to see whether they have the right proportion of string theorists, or the math department to see if they have too many specialists in Riemannian geometry compared to algebraic theory?
+Enforcement and Penalties
+This may be the most problematic part.
+First, universities are required to conduct a yearly survey of faculty, students, and staff, to see what they think about the university’s performance.
+How is such a survey supposed to be representative? There’s nothing here about random sampling, let alone any other survey techniques to make the results more representative.
+Moreover, why would we think the results (even if representative) would actually be informative? Very few students, for example, have any idea how to report on matters like admissions statistics, or grade inflation, or whether the university has been complying with (mostly irrelevant) banking regulations.
+Second, adherence to the Compact is “subject to review by the Department of Justice.” Wait a minute, adherence based on what — just the anonymous survey? That seems wrong. Anonymous surveys can be driven by a handful of agenda-driven respondents, while everyone else doesn’t bother to respond.
+Or will adherence be based on additional evidence other than the survey? If so, what exactly? How and when would a university submit additional evidence? And to which of the many offices at the Department of Justice?
+None of this is specified.
+Third, there’s the matter of penalties. Universities found to have willfully or negligently violated the Compact will lose access to the benefits (which are what, again?) for one year. A subsequent violation will result in a loss of benefits for 2 years.
+But what is a violation? One official who issued a public statement on an issue that didn’t have “direct impact” on the university? One professor who belittled a conservative idea? One department that engaged in grade inflation? None of this is defined or explained.
+Fourth, upon such a violation, “all monies advanced by the U.S. government during the year of any violation shall be returned to the U.S. government,” and any private donations to the university are subject to return as well (upon request).
+These are far more onerous penalties than have ever existed in all of academia.
+Even in
+outrageous cases of academic fraud
+, the university was not required to repay all of the other
+non
+-fraudulent grants, let alone private donations.
+It’s hard to see why any university counsel would agree to such onerous penalties in a contract, especially when so few of the terms and conditions are actually defined ahead of time.
+Conclusion
+What is the Compact actually meant to achieve? One friend in a groupchat suggested that no one in the administration actually expects universities to sign this version of the Compact. Instead, it’s meant as a starting point for negotiations over an actual contract that would look much different (and more detailed) at some point.
+If so, the whole essay above may have given far more attention to the language than it deserved. Still, the above arguments about governmental authority (and ability) to actually regulate most of these topics would remain mostly intact.

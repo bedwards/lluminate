@@ -1,0 +1,560 @@
+Title: “How Might Current and Emerging Technologies Best Be Mobilized to Secure Perpetual Peace?”
+Source: the_hinternet
+URL: https://www.the-hinternet.com/p/how-might-current-and-emerging-technologies
+Date: Tue, 02 Dec 2025 09:10:55 GMT
+Word Count: 11176
+Estimated Read Time: 55 minutes
+
+================================================================================
+
+Carlyn Zwarenstein is a writer and science journalist based in Toronto, and the author of
+On Opium: Pain, Pleasure, and Other Matters of Substance
+(2021). She is the winner of the 2025 Hinternet Essay Prize Contest.
+Four F-35As, Royal Australian Air Force, 2023 (From Wikipedia).
+1.
+War machines for family fun
+As I write this, typing at my desk in a downtown apartment in my city by the lake, every little while I hear, from outside, an immense noise. It begins more like the feeling of pressure in my ears before resolving into a terrific scream. The sky is then torn by the fighter jets eating the extremely clear blue sky above my building on their way, from one of two international airports, to our annual air show. The longest-running celebration of flying war machines of its kind in North America, for 76 years Toronto’s air show has closed out the summer in my city.
+When I was twelve, I stood with my family near the water at the same event on a similarly clear day and
+watched a pilot plunge to his death
+in Lake Ontario.
+1
+The particularly nasty-looking planes that cause today’s screaming and travel at such infernal speeds are Lockheed Martin’s F-35A stealth fighter jets, piloted by a US demonstration team so we can see and hear what it’s like to be attacked by the latest technology, although in a
+family-friendly, accessible setting inclusive to all
+.
+According to
+Air Combat Command, “The Lightning II is a stealthy, multirole, all weather air-to-air and surface attack fighter. It is designed to enable direct attack against the most heavily defended ground targets.”
+This fighter jet incorporates the latest technology, and was, of course, developed specifically to achieve military ends such as the destruction of hospitals, the burning alive of journalists, and the serial amputation of children. It is also, with the large variety of specific innovations it incorporates, intended to lead the US and its allies in their “migration to the net-centric war fighting force of the future”. It is utterly terrifying to imagine this thing tearing through the darkened sky at 1 am, setting residential apartment buildings ablaze. The F-35 is supplied (purchased for billions of dollars by Israel but
+actually funded by US military aid
+) by the United States to Israel, the only country in the region to boast such advanced technology.
+It has been used in Gaza
+in so-called ‘beast’ mode, carrying several thousand kilograms of combined internal and external weapons, and in stealth mode, with its weapons tucked neatly inside. Among its precision targets: the al-Mawasi refugee camp,
+a designated ‘safe zone’
+. It’s also been modified to be able to get as far as Iran, and has been used by Israel to attack sites, including targeted attacks on civilians, in at least four different countries in the region.
+Nine countries,
+including my own
+, have contributed both research and development and materials to the production of the F-35. The UK, for example, supplies some 15% of its parts by cost. The lasers that are used to target Hezbollah rockets, Iranian nuclear facilities, or the tents of starving, multiply-displaced families, for example, are produced by the company Leonardo in Edinburgh. The cables used to release bombs on the heads of families enduring their fifth or eleventh forced evacuation are made by L3Harris, in Brighton.
+2.
+Rose-colored glasses and racism
+A certain kind of optimism is, these days, largely the preserve of
+thinkers like Pinkers
+. That is to say, we must turn to popular academics like Steven Pinker,
+Sam Harris, Richard Dawkins
+, Jordan Peterson, and their ilk,
+2
+along with a TED-talk embellished passel of very rich men who intend to live forever (Bryan Johnson, Sam Altman, Mark Zuckerberg, and of course Elon Musk), if we seek to bask in the rather smug knowledge that, thanks to the Enlightenment—embodied today, if selectively, in Western Christian governments and their centuries of colonialism and decades of puppet governments and proxy wars—we are living longer, fighting less, brushing our teeth more, and extending the civilizing benefits of colonialism to Mars any day now.
+Technology may cast a pall on many of our lives in ways that leave us uneasy but, we say, helplessly pleasured (an ambivalent, compulsive passion indistinguishable from our colloquial concept of addiction). And yet the idea of continual human progress through technology is a key part of the relentless thesis of pundits who espouse, to various degrees, adherence to rationalism along with their often grim,
+even vampiric
+, techno-optimism.
+Reality is different for the rest of us. Some of us have been glued to social media for 21 months, observing there
+3
+in Gaza and the occupied West Bank
+4
+a collapse of pretences of Western claims to rationalism and science, to humanism, or to being the guardians of democracy or an international regime of human rights that prevents the fall of the world into chaos. Some of us have been watching this utter implosion. Others have been
+experiencing its impact personally
+as the world looks on, or yawns, and looks away. Some of us were disabused decades ago, but for generations that missed out on Vietnam, Iraq, or for that matter Kent State or COINTELPRO, this has been a sickening awakening.
+Others among us are similarly disheartened, depressed, and riven with periodic attacks of solastalgia (
+a strikingly apposite term
+coined by philosopher Glenn Albrecht back in 2003) by our abject failure to take necessary actions to prevent us all being fried, steamed, and fricasseed by climate change. Or by the rather sudden acceleration of the long-predicted decline of the American empire through enhancement of the police state. The technologies of war have long been tested and perfected abroad (the
+bullet-spewing flying robot drone
+, announced and sold to various countries in 2017,
+has been used by Israel
+to neutralize
+terrorist toddlers in Gaza
+as I write this in 2025). But what is used to massacre malnourished fetuses
+in their starving mothers’ wombs
+on the way to hospital or in
+schools-turned-shelters
+in Gaza won’t stay in Gaza, to misquote the expression about Vegas. These technologies are quickly coming home, along with a general sense of
+cheaply gilded
+moral rot not eased by the fact that the daily massacres of human beings, mostly children, in Gaza are being carried out by American weapons, American-funded surveillance technology, and American diplomatic support, if against the will of the majority of American people,
+according to Gallup
+.
+Of course, the international legal regime—the rule of Western law that carves up nations, polices borders, devalues currencies, and doles out infrastructure projects then imposes punishing debt servicing conditions—
+exists
+, we are told, to tame and prevent chaos. That is, the monstrous barbarism we have been led to believe we can expect specifically from immigration, or even from the global prominence and acceptance of ostensibly non-Enlightenment-guided peoples by their supposed betters. Think of Thomas Hobbes’ Leviathan, the state of humans in nature, an anarchic state of war, not against an oppressor, but of all against all.
+Untested assumptions and assumptions that defy evidence, of course, shape such expectations of who is and is not guided by reason and humanistic values. The Leviathan view of immigration and various groups of people (currently often Arabs or a vague idea of radical Islamists as invaders, with China and Iran starring as menacing global powers regardless of what they do or don’t do), has been coherently, though selectively and racistly, expressed by Pinker-associates like Dawkins. And then it’s incoherently but unsurprisingly
+5
+extended by a legion of less educated racists.
+6
+This legal regime, it should be firmly noted in passing, constitutes, or constituted, an extremely successful technology linking laws and economies into one increasingly enmeshed system. It was created post-war but not stimulated by military research itself. And it’s a legal regime that should, as we’ll see, be understood more as a technology of control than a technology of peace, which likely explains in part how it has been so callously and cynically broken over Gaza.
+3.
+Are technology and mass murder like peanut butter and jelly?
+It may seem, via two arguments or assumptions, that technological progress and mass murder are inevitably intertwined, making the idea of perpetual peace through technology appear highly unlikely.
+It may be (A) that we are naturally savage: our innate drive to bash each other with clubs has, true, been tamed by technology and our advanced ability to kill each other without getting our hands dirty,
+7
+and thus to see a world of perpetual peace already on the horizon, shored up with capitalist triumphalism. But following the ‘end of history’ announced triumphantly by Francis Fukuyama upon the triumph of a form of democratic capitalism over Soviet communism, most of us have realized that we are actually in a deeply historical (i.e. violent) moment. And that it represents the continued metastasis of the same forces driving history before and since its supposed end. We are warlike at heart: peace, along with all good things—modern plumbing, legal euthanasia, and the ability
+to drain scarce freshwater supplies so AI
+will show you an image of a cat-pineapple—result from the triumph of a loose blend of Enlightenment values, scientific method, capitalist markets, and democratic governance holding our filthy natural passions in check. Or so we are told.
+But this assertion isn’t just wrong. It’s fraudulent in every way, an argument made in either bad faith or with a really determined avoidance of obvious logical flaws and endless counterexamples. None of the highly selectively-proportioned combination of these four factors
+[8]
+8
+can be genuinely shown to be triumphant. You’d have to cherry-pick positive examples and evade details that specifically point to, for example, corruption in supposedly free markets or in the application of scientific method to problem-solving; to a notable absence of rationality and humanism guiding things; or to glaring flaws in the ostensible democracies that make it unlikely that democratic governance is the cause of this system’s dominance.
+Alternatively, it might be (B) that we are
+not
+naturally war-like—but that we must nevertheless submit to constant pouring of our taxes into military research because technological breakthroughs, or perhaps innovation of any meaningful kind, or perhaps sustained programs of technological advancement, have historically been associated with war, and won’t occur otherwise.
+Again, selectivity must be the rule of engagement if you want to make
+this
+argument. As Davids Graeber and Wengrow argue in
+The Dawn of Everything: A New History of Humanity
+(2021), human societies have taken many forms. They offer examples to show that the prevalent view of progress moving from primitive and low-technology societies with childlike freedom to high technology, sophisticated but hierarchical societies, is false; that there are in fact many examples of complex, technologically-advanced societies that are not built upon unsustainable exploitation of nature and oppression of our fellow human beings.
+Graeber also argued,
+in a 2012 lecture
+, that the reason flying cars and other marvels of technology have not materialized is that the ruling class under capitalism is
+actively withholding resources
+from investment where it might do some good and shifting it towards warlike and oppressive ends. This is again an argument based on an abundance of good evidence.
+Canadian labor historian Alvin Finkel’s
+Humans: the 30,000 year struggle for equality
+(2025), often citing the work of historian Natalie Zemon Davis, likewise provides detailed and persuasive evidence that neither inequity nor conquest form the basis for human advancement. He shows that early societies of humans were largely egalitarian. This was the case not just until the advent of agriculture but in fact through development of numerous food gathering and preparation technologies, literatures, complex cultures, and communications technologies, and acquisition of sophisticated mathematical, scientific, biological and architectural knowledge, all the way up to the era of European conquests which imposed severe hierarchies. Finkel also convincingly cites cultural anthropologist R. Brian Ferguson, who, he writes, “has studied the full archeological record for Europe and the Near East and finds almost no evidence that before about 5,000 years ago that [sic] warfare was anything but infrequent and of low lethality”.
+The argument has been advanced that the cutthroat capitalism of a ‘free’ system where you take your chances, Shark Tank-style, is what motivates innovation, a variant of our type (B) argument. If this were true, nepotism and inherited wealth would never have produced innovation, stifling as they do the necessity of paying one’s rent or student loans or surgery that is, we are to suppose, the mother of invention. Even if this weren’t patently ridiculous, there are human emotions other than pride, desperation, or competition which might be brought forth to motivate development of marketable technologies under a capitalist patent system and could likewise motivate any number of non-military research programs. In fact they already do, as inventions and innovations and new technologies arise in response to dreams, annoyances, curiosity, grief, solidarity and simple desire to do good, among other motivations.
+9
+All this casts doubt on the ideas that we either require war in order to think and apply our thinking, or are just fundamentally war-like beings. Such ideas are endorsed equally by those pundits who believe we’ve entered the Gilded Age of 120 year lifespans and Martian weekend getaways, and those who believe we live in
+dark
+, perhaps Islamic (they say
+darkly
+, admirable rationalism a thin skin over seething, fearful racism and Orientalism) times. They’re sometimes the same person, and their current prominence doesn’t make these ideas any more valid or based on meaningful evidence than if they stuck to mumbling them to themselves.
+We should note one attraction of AI for the élites I’ve described here: by automating decision processes that lead to manifestly unjust decisions, the world’s tech bros and the governments letting them get away with it gain plausible deniability and impose that deadening sense that the increasingly obvious—because increasingly extreme—injustice and omnicidal tendencies we see in every area of life are in fact natural and therefore immovable realities.
+4.
+Hijacked and hostage
+The question of why technological development has not led to a peace-loving, egalitarian society of people feeding each other fairly-traded, pesticide-free, resveratrol-enhanced grapes while lying on comfy stone couches is similar to the question of why technological development has not led to fertile unemployment in which robots work for us while we explore new forms of lyric poetry and finally cure kinds of cancer that haven’t even been invented yet. And the answer, which I’ve already hinted at, should be almost so obvious as to be embarrassing.
+The “we” that comes up repeatedly in discussions of peace or the lack of it is an imaginary collective. In fact, the use or abuse of new and emerging technology—and so, its potential mobilization to secure peace—is strictly governed by who is holding its reins.
+So let us build upon our alphabetical options, adding a third, (C): that, confused about the nature of who “we” is, we accept the fatalistic assertion of (B), resulting in the appearance of (A). If we focus, unfashionably, on material interests served by both (A) and (B), we can see that actions we understand to be the choices of a collective in fact
+use
+the collective—as cannon-fodder; as scientists whose curiosity-driven research is funded by flush departments of national defence
+if
+they can describe potential military applications for it; as consumers; as payers of taxes that enable the dropping of bombs upon distant, real toddlers whose parents loved them more than the entire universe—to enact the will of a far smaller group.
+While (A) may ultimately turn out to be true, a kind of poisonous crud that remains within our variously combined
+Homo sapiens
+,
+Homo neanderthalis
+and
+Denisova hominins
+genome, deep in our hearts of darkness
+[10]
+,
+10
+it seems wise to begin with (C). The group described by option (C) has access to resources to develop technology; access to decision-making power about research programs; access to older technologies needed, in a myriad of ways, in order to develop new technology; and the power to actually make use of it and decide how and by whom that is done, and to what ends.
+Allowing that if we turn out to be wrong about (C) we can always revert back to (A) or (B), there is every reason to proceed from the understanding that
+wars are ultimately perpetrated by small groups or networks of like-minded individuals who materially gain from the existence of warfare
+. Also, that the material interests of the rest of us prevent us from effectively opposing them en masse. Such material interests include paying the rent; not being arrested; getting fast food delivered before you even know you want it or uploading selfies to Instagram in the middle of nowhere
+even if that means paying a company that may be involved in war crimes
+; surviving as part of the ever-growing precariat class
+[11]
+,
+11
+and so on, ad truly nauseum.
+Meanwhile, the power of the majority is diffused, emotionally and also in practical terms, by atomization; confusion about the source of problems and overwhelm at their abundance and their myriad sub-causes; defeatism (lack of belief in self-efficacy, let alone group efficacy); and anomie. Thus a very small group leads us to perpetual war and utter ecological disaster, including mass extinctions and possibly human extinction. They do so even as collective action by the vastly larger peaceful majority is blocked, criminalized, discouraged in countless ways and made impossible by the pressing needs of survival—and a sense of being wedged into this structure we are in such that its contours can barely even be seen, let alone seen beyond.
+5.
+“We” avoid thinking of the children
+Naturally aggressive impulses and channeling of the meaninglessness of late capitalism into ritualistic violence aside,
+12
+the current state of global warfare is the result of real, specific, and elucidable material interests and established relationships that use violence to perpetuate and expand their dominion, the metastasis of capitalism into imperialism that was identified a hundred years ago by Vladimir I. Lenin and celebrated as both triumphant and peace-inducing thirty years ago by Francis Fukuyama, though he did not address or perhaps
+notice
+, or perhaps see as significant, the perpetual war that undergirded the peace, or end of history, that he identified in
+The End of History and The Last Man
+.
+The set of laws, norms, and structures that make possible the capture of vast amounts of public and natural resources for warlike ends are
+the same set of mechanisms
+that more generally support rent-seeking behavior by a small group at the expense of societal well-being. I’m not necessarily saying that the
+same
+wealthy people who sell cigarettes to less regulated communities in the Global South once they are regulated out of doing so in wealthy northern countries are the same as those okay with deceptive marketing of pharmaceuticals to poor communities in the Appalachians. They may be competitors. They may have different religions, or none. They may be vegetarian like Hitler, vegetarian like Gandhi, or they may follow a beef-only diet for reasons.
+13
+They may believe that
+miners who are minors
+are a necessary evil, but not be the same as the people apparently okay with
+the mass amputation of children
+that has resulted from their sale of F-35s.
+Presumably, even if it were the same person, they would mostly try not to think too hard about the children.
+But considered as broad categories of class and material interest, we can say that we, the people (who may or may not be warlike at heart but who have neither emotional
+nor
+material interest in the mass murder of people by machines to advance our leaders’ territorial or resource extraction goals) are held hostage by this small and diverse group. That group is united principally by excessive wealth and power, which have the unique ability to bring together the odd
+Nazi and Jew
+,
+woman and misogynist
+,
+person of color and white supremacist
+, person of
+ostensibly working class origins
+and modern aristocrat like random flowers dotting the field of white, Christian men of obscene privilege. This is all in the interest of enacting an overall fascist, crony capitalist, effectively white supremacist policy program based on extraction of resources from public sectors, entire nations, or the Earth itself,
+14
+and funnelling of the profits, and resulting power, to themselves. The choices of this small group force us to increasingly contemplate the possibility of
+human-induced human extinction
+, among other very bad things,
+some more likely
+than others.
+If that group that materially benefits from war and the technologies of war as well as war-by-other-means (we’ll get to that) were prevented from doing what they are doing, there exists a clear chain of cause and effect that would dismantle existing structures of warfare.
+Finkel, the historian, notes that while throughout history there has been a frequent tendency for individuals to seek to upturn the egalitarianism that characterized early societies by imposing fiefdoms, subordination and ultimately the alienation described by Karl Marx, such actions have faced resistance at every turn. We “cannot understand why elites changed their strategies for expanding or maintaining their prestige and wealth without knowing about the challenges they faced,” he writes in
+Humans: The 300,000-Year Struggle for Equality
+. Enter industrial capitalism, and with it, modern warfare.
+Cory Doctorow has effectively and memorably (if unattractively
+15
+) coined the concept “enshittification” to describe the gradual co-optation of modern computer tech innovation by monopoly owners (not individuals, but a collective of shareholders that together constitute members of a rentier class) bent on extracting the greatest possible profit. Technology is one face of a broader structural problem. Vladimir Ilyich Lenin characterized the same process more generally in
+Imperialism: The Highest Stage of Capitalism
+, while the realist Niccolò Machiavelli
+understood all too well
+by 1513 the eternal dynamics and deceptions by which a leader and associated élites constantly seek to consolidate power, even in a republic.
+Our first step towards perpetual peace, then, must be to undo the tangled skein of corruption and influence that limits human vision and possibility to our ability to choose from 24 different types of toothpaste or to vote on whether the the Large Language Model chosen to oversee us and take our jobs speaks to us with a pleasant, female, Mary Poppins-like British voice or an authoritative yet folksy American male voice; Walter Cronkite’s, say. Then we shall see if we are left holding Fight Clubs in basements and beating each other with clubs because we don’t really want to live without war.
+6.
+Ah …but is peace really worth the price?
+Carl von Clausewitz, in
+On War
+, explained that war is a mere continuation of policy by other means. I mean, sure. But peace is all too often the mere continuation of war by other means as well. We may be disturbed by even the little we know of what Amnesty International calls “
+the digital and automatized state
+”. We may be depressed by the increasing sense that almost anything we do will cause human suffering thanks to the profound exploitation that has been built into global supply chains. Or we may be disheartened by the crushing yet anticlimactic realization that earnest attempts to make the world better, by
+recycling plastics
+, brightening our lives
+in an environmentally-friendly way with LEDs
+, or
+sending our torn T-shirts to foreign countries
+, are in fact only making environmental and social problems worse. Nevertheless we believe that we
+16
+must be at peace (and, as a corollary, we imagine sadly but with resignation that “our” peace depends on “their” war).
+The dreariness we in the capitalist West have long associated with Soviet Communism—valuable ad space is used for propaganda! You can have any kind of toothpaste you like, so long as it’s mint! You have to stand in line to buy things! You are being watched!—has instilled in us the notion that, even as we literally pay money to corporations so they can survey
+our every sleeping breath
+; stand in line to buy things promoted with the
+dozens or even hundreds
+of ads we see daily everywhere we look; must take companies to court to seek the right to repair the things we’ve paid for, have a viable planet, or even exist; and as
+we ruefully post memes
+about burning in hell while drinking coffee and insisting
+this is fine
+, we still, if regrettably, live in Gottfried Wilhelm Leibniz’ best of all possible worlds.
+17
+As we might record in our gratitude journals. Which you can purchase at an unbelievably reasonable price thanks to horrendous labor practices of a company
+that also provides certain
+cloud computing services, which in turn enable the immolation of post-Holocaust international law and displaced families in tattered tents alike.
+But the idea that perpetual peace can only be this Orwellian construct based on an unholy (but natural) combination of surveillance, oppression, and various forms of social eugenics—deadly boring, and also deadly—is a fallacy.
+Though it may have many sources, this notion that peace is ultimately
+not worth the price
+seems largely based upon our unfortunate experiences of the past decades of capitalism and previous decades of Soviet communism, and then on exposure to communist or even vaguely socialist societies cracking under the pressure of sanctions and frantic, corrupt government attempts to hold on. And propaganda about these societies,
+18
+perhaps the worst of it being that they are deadly boring. See, too, the grating dullness of most portrayals of heaven, and the spunky devil-emoji popular concept of Hell as hotter, but also way more fun.
+This turns even the popular image of Hell into a kind of palliative. And so we give up, or keep our heads down and get on with our Amazon orders rather than, say, fighting constant calls to provide our healthcare information to people you wouldn’t trust to so much as
+look
+at your baby. We accept that there’s no way to avoid buying our seventh identical plastic widget, doohickey or thingamajig in two years because “things just aren’t built the way they used to be”, even though we all know about the turtles. It’s much like the soothing opiate of religion itself. Which Marx might have shilled on YouTube if, instead of diagnosing the deceptions practiced upon workers during early Industrial capitalism while Engels paid his bills, he’d been fated to monetize his every lightbulb moment and so chose (from a vast but confining menu of life choices) to entertain his YouTube following or Patreon patrons by advocating self-care for all on our way to the late capitalist morgue.
+19
+When Chuck Palahniuk made the satirical argument in
+Fight Club
+that we are so desperate for a feeling of reality that we’d rather enact self-destructive violence than suffer the glazed-eyed boredom of consumerist peace, it rang true to enough people to become a trope, and not a satirical one. The point Palahniuk was making about the hellish nature of what we are told we should call ‘peace’ gets lost.
+20
+Instead, we incorrectly perceive a dichotomy in which violence—including violent technologies inflicted on humans, animals, and life on this planet—is one alternative, and dying of fucking boredom and loneliness is the other.
+Deprived for generations of inspiring examples of vital, peaceful societies and healthy, cooperative collectives, we sigh and keep going, grudgingly convinced that perpetual war and suffering abroad is the price we pay for perpetual peace, and fun technologies, and our vaguely-defined, panopticonic notion of freedom, here at home.
+7.
+Unhealthy appetites
+But perhaps we are using the word “peace” to refer to something that
+isn’t a state of declared war
+. Is that what we really want, what we really mean when we say we’d like to live, like gambolling lambs, in a state of perpetual peace? Far from it: it must be abundantly clear that what we have called ‘peace’ is, rather, war by other means. In a vision of genuine peace, we wouldn’t be constantly suppressing the restless masses. People wouldn’t suffer and die so we can accumulate junk till we choke on it. Choice would mean something deeper than being allowed to select from multiple brands of fast food, face wash, car or sneaker all owned by the same five companies. A meaningful peace would avoid excessive constraints on human freedom, and on the free range of the human imagination that allows for application of scientific, technical, and other forms of knowledge for every misery-reducing, life-enhancing purpose under the sun. Such constraints as exist would be designed to avoid exhausting the Earth’s resources, perpetuating needless cruelty, or enacting a bizarre chain of exploitation and oppression, this pyramid scheme that implicates us all.
+I mean, really. Are we to consider the period in which scientific research in Germany was, in its developers’ view, rapidly advancing the improvement of humanity through eugenics research—what was ultimately applied via the
+Aktion T4 campaign of mass murder
+of a wide range of people with mental and physical differences—to have been a period of peace, or one of incipient or covert war?
+21
+Should it have taken the sight, in the spring and summer of 2025,
+of officers of the law dressed as if they’re
+dodging al-Qaeda or facing down the Viet Cong; or worse,
+anonymously dressed in plainclothes and masks
+, shoving their vulnerable targets into unmarked cars, to recognize that security technology is not, in fact, making us secure? The issue isn’t simply that technology develops as an outgrowth of the vast funding available for “national defence”, in the form of the dozens of wars the United States have fought abroad, unprovoked. Rather, there is an appetite among people endowed by power and wealth with a sense of separation from the rest of us for control, militarized security, vast resource use, and further extension of power, an appetite that can be satisfied by open warfare, or covert war that masquerades as peace.
+Either way
+this appetite is leading us to disaster.
+8.
+The potential of technology
+The problems with proposing technologies as solutions to the problem of war are both obvious and insidious. When I ask AI for a classic definition of technology,
+22
+I get the pleasantly broad response that it’s the “applications of scientific or technical knowledge for practical purposes, often involving the use of tools, techniques, and processes to solve problems, achieve goals, or improve life.”
+This is roughly consistent with the definitions of every other dictionary or college science breadth requirement course out there, and also confirms that our future overlords support not only this author’s beloved em-dash, but also the Oxford comma. More importantly for our purposes, this general definition of technology easily encompasses social, analog, and intellectual innovations as well as ‘techy’ innovations bearing the bells and whistles of a classic Star Trek gadget or the expensive minimalist packaging we demand of contemporary technology. Thus it seems quite fair to note that a very wide range of urgent and existentially necessary technological innovations are
+not
+happening, or are only happening at a halting pace not commensurate with actual necessity or the capacities of human ingenuity and motivations of the ingenious. Why is this?
+As a result of the aforementioned resource capture, we fail to invest the necessary energy and resources towards the development or implementation of, say, economic mechanisms by which the government might
+finance affordable housing
+; innovations in
+the treatment and cure of endometriosis
+; or legal innovations such as the Rights of Nature arguments intended, so far with uplifting but limited success,
+to change human legal relationships with nature
+and safeguard the fundaments of current life on Earth.
+As well, of course, as the better uses of AI and supple, responsive legal mechanisms to empower basic, curiosity-driven research while preventing development of technologies with profoundly, even existentially, bad implications, such as
+mirror life beyond mirror peptides
+; autonomous weapons systems; or social media designed or found to substantially reduce literacy, create dependency, and dull intelligence. Getting such legal and policy mechanisms right poses a profound, inspiring challenge to human ingenuity precisely because of the historical (but, again, not demonstrably necessary) association of some technologies that have important uses, such as splitting the atom, with utterly abhorrent applications, like destroying Hiroshima and Nagasaki.
+9.
+The subversion of potential
+To return to the fighter jets that, I should remind the reader, have been raising my blood pressure as I write, terrorizing Toronto’s pets and triggering PTSD in my refugee-rich city, we should note that, for every government and even for every philanthropic organization and every company, it is a choice to focus on and invest in weaponry. Rather than, say, cancer research, geothermal energy technologies research, or research about
+the plague of white-nose syndrome
+decimating bat species across North America, ultimately threatening food supplies for humans and animals alike. The same argument about priorities, and a similar plethora of diverse examples, goes for the development part of R & D: there are actual existentially-important issues that would drive very different investments in technology if only “we” had different priorities. But even when it is literally our elected representatives who we catch setting priorities at odds with the public will or public need, it can be extraordinarily difficult to shift them.
+Here’s an example from my own country. When Canada’s Defence Minister, from Justin Trudeau’s governing, centre-left Liberal Party, bought a wildly expensive fleet of F-35s from the United States, the decision to do so was duly criticized by other parties and by civic groups. The planned purchase had been opposed by such groups for years, and in fact the Prime Minister, Justin Trudeau, criticized the idea himself back when he was leader of the opposition. As Al Jazeera reported,
+one civic group said
+, just over a year before F-35s began annihilating Gaza, that: “As winter sets in and Canadians struggle to make ends meet, it is irresponsible and unjust for the Trudeau government to spend public money on American warplanes. Instead, the federal government should invest in affordable housing, health care, education, economic assistance, and climate action. Canada’s planned F-35 procurement is unacceptable and immoral and must be canceled.” Later, the government responded to specific concerns of Canadians about Canadian arms exports that might be used by Israel to annihilate our fellow civilians in Gaza: the Liberal government passed a motion to stop authorizing arms exports to Israel, and further promised the Canadian public that neither Canadian arms nor Canadian-made weapons parts would find their way to Gaza.
+Reader, the F-35s were not canceled,
+23
+and exports were not suspended. Despite these broken promises, the Defence Minister went on to become the Minister of Foreign Affairs, still in this government described in western media as inhabiting the centre-left of (an artificially limited) political spectrum. She has been repeatedly, credibly accused of
+allowing continued unlawful export
+of components for the production of F-35s from Canada—
+produced by individual companies
+across the country—to the United States, from where it is entirely feasible, even likely, that they end up massacring Palestinian families in Gaza.
+This is one example in a sea of possible examples of leaders acting against the express, if diffuse, will of the people they are supposed to represent. Significantly, they act against our material
+and existential
+interests. But, as I’ve argued above, it is currently not in the interests of power-holders to use technology for the benign ends we are constantly told it is for, even as we are told by largely the same techno-optimists to suppose that (per option B) development through war and exploitation are essential aspects of the history and future of technological progress and that military involvement in research is essential for that research to occur. The technology—that is, the applied scientific or technical knowledge—behind the F-35 may be useful for positive ends,
+such as, as one surgeon suggests, management of healthcare data
+. But it would be less suspect, cause less environmental damage, waste less money, and destroy fewer precious human beings’ entire universes if we simply put R & D resources directly towards solving problems of data integration and user-centric design in healthcare data (or other positive ends).
+Clearly, even when we are clear-eyed about the distinction between “we” the decision-makers and “we” the people who put them in power, that technology and the resources required to nurture and develop it are chronically redirected to ends not in the material and
+existential interests
+(let’s put that in italics again) of human welfare or life on Earth. We (the people) are dealing with a dramatic and, perhaps, ultimately homicidal-suicidal, and ecocidal, case of resource capture.
+10. With so many options: why choose kakistocracy?
+If we are to put new and emerging technologies in the service of peace, we must thus address the question of who is able to decide what technology is developed, and who is empowered to then exert action with such technology. Take AI, for example.
+24
+It is currently being used, intentionally or not, to turn our brains into goo, resulting in our general ignorance or surrender to the intense militarization of this technology. The
+rise of surveillance and target tech company Palantir
+is just one example (
+Amazon.com in all its forms
+is another) of a company whose Paypal-inspired technology has metastasized, being used by militaries and for war-like applications but also powering our ordinary lives in various ways. This makes it seem ubiquitous and unopposable. Under cover of claims that they will enable perpetual peace and security, these technologies will proliferate. Like “peaceful” occupation or the “peaceful” police state, they will increasingly enact a state of covert war against our own or another population.
+It would not, however, be accurate to claim that the development of technologies for AI
+requires
+military application or military investment. What it requires is investment. The vast resources, both private and public, at the disposal of scientists willing to be funded with a primary goal of military application, are so vast because there is a material incentive (for someone) in such applications. This too is a choice, one that governments make for a number of reasons, none of them inevitable.
+Here’s another moonshot: the
+unprecedented funding, cooperation among actors to streamline regulatory processes without compromising safety, and extraordinary initial sense of demand
+for a vaccine against SARS-CoV2. Together, these resulted in development of the mRNA vaccine for COVID-19, a truly speedy, technologically-extraordinary leap. A leap not motivated by the prospect of territorial expansion, nor control of oil resources. Nor was it even motivated by the apparently juicy possibility of causing a reversal of somebody else’s technological advances by sending them (
+North Vietnam
+/
+Pakistan
+/
+Iran
+/
+Lebanon
+) “back to the Stone Age”. Rather, the mRNA vaccine, along with other vaccine types developed in a range of countries and through a range of collaborations, arose from our collective, if short-lived, desire for survival, brought into focused by an equally short-lived, intense engagement with reality. These produced technology to solve a problem seen, at least initially, as common to all. It is, of course, a technology with numerous applications.
+Let’s think more broadly: it is not
+specifically
+government investment that is required, either, but resources: energy, capital, imagination, time, human labor, perhaps animal or robot labor as well.
+25
+Innovation, and thus technology, can emerge and be used in ways that benefit more people, or less, that oppress or that empower. The necessary resources can be provided by gazillionaires, by governments, by worker-run cooperatives, by international collaborations, by shady cartels, or by private-public partnerships. The financing that each provides, whether measured in dollars or bitcoin or square miles or pieces of eight, always has some origin beyond itself: it may come from sales, from inherited wealth, from cooperatively-gathered natural resources renewed by the Earth and cooperative labor, or from resources commandeered from former owners or taken from nature in a non-renewed, one-way relationship of extraction. Energy comes from the sun, bacteria, dinosaurs, geysers. Labor is carried out by children, slaves, wives, peons, staff, sales associates, cyborg insects, AI bots, alienated workers, or comrades. Currently money rules but not always and not inevitably.
+Human societies can be organized in a multitude of ways, as Graeber and Wengrow, among many others, have demonstrated. Why, from so many options, must we choose to let the worst people channel resources and apply science to technologies of violence and domination, against the interests of everyone and everything alive on this beautiful planet?
+In
+his 2019 appreciation
+of the profound life’s work of Italian-Jewish chemist, writer, and Auschwitz survivor Primo Levi, Enzo Traverso describes Levi’s vision of innovation motivated by curiosity and humanism: “he was attached to a “romantic” vision of science: a science ‘with a human face,’ he said, that carried on the joyful explorations of the Renaissance and Enlightenment scholars, opposed to the lethal performances of instrumental reason. In his few science-fiction stories, he warned against Promethean—and totalitarian—projects for dominating nature and annihilating humankind by means of modern technology.”
+Levi’s vision is one of many possible ways of reimagining innovation and technology such that we may turn the wages of war that pay for more war into something different that supports a meaningful (that is, just; that is, sustainable) peace.
+11. Breaking out of the company town
+Minor revolutions and major collapse seem more likely—evident, even—all the time. Meanwhile, we must tinker with our tech. And there are many useful ways this can be done.
+Let us move on, then, to the nitty gritties: what
+are
+the characteristics of new or emerging technologies that might solve the problem of war as it actually exists in the world today? It doesn’t actually matter what exactly the technology is. Far more important are the various criteria that might make technologies, existing or imaginable, serve as tools to address the problems of resource capture and oppressive, warmongering redirection we have identified—or at least to avoid contributing further to them. This has the potential to further the growth of alternatives to the current system.
+The characteristics we must cultivate in our tools include but are by no means limited to:
+hackability/interoperability;
+repairability;
+open-sourcing in terms of code, design plans, and instructions;
+transparency (think open access science publishing);
+application of the precautionary principle;
+and fair taxation and subsidy.
+By the last of these, I mean that public investment in innovation must be rewarded with public benefit from that innovation, while risk should be moderated using economies of scale, supporting innovation by adequately limiting risk to innovators. Taxation and requirements relating to open sourcing that limit potential profit
+do
+, it is true, impose a limit upon the profit achievable by potential researchers and scientists and inventors. But greater material security and ability to think long-term, access to knowledge bases, a reduction in red tape associated with access to information and equipment necessary for research, and greater cooperation among researchers and research institutions will compensate by removing other limits. This may sound like a program for nationalization of science and other technology-related fields and provision of salaries to all researchers. And yet, “public” can be defined and structured in a variety of other ways as well. Needless to say, taxes
+should
+be collected and should be applied towards innovation priorities of benefit to the public, including the furtherance of our existence on this planet, and the existence of current forms of life on this planet!
+We have, at various times, invested in research programs aiming to turn science into technologies relating to human needs other than the one satisfied, supposedly, by bashing each other to death with sticks. The result has been pain treatments, obesity drugs, addiction treatments, cures and treatments for various forms of cancer, longevity programs, transportation, agricultural equipment and techniques, waste treatment and disposal, resource extraction technologies relating to mining or processing, and many more.
+But so long as, as Doctorow effectively describes, companies are able to make their products essential and un-modifiable, thus capturing a market, the lure of profit (which is baked into the structure of corporations
+legally bound
+to increase shareholder profit, regardless of the social or ecological cost) will ensure the process of monopolization, weakening or corrupting of regulatory mechanisms, and the application of innovation to unsavory ends, most notably warfare as well as the deeply military-related technologies associated with the maintenance of a particular vision of peace (the bad one). Thus we see profiteering; disaster-promoting disaster recovery industries; similarly self-perpetuating psychiatric and psychotherapeutic industries; debt collection industries; the eugenics-flavored wellness, self-optimization and longevity industries; data collection and surveillance industries; and industries relating to incarceration and punishment.
+Doctorow argues in
+The Internet Con: How to Seize the Means of Computation
+, that interoperability—the ability to tinker, hack, replace or modify—is the essential quality we must force into computer hardware and software, which tech companies are intentionally designing to be proprietary in various ways, enabling them to control market share and extract ever more profit, even though digital technology, which is based on the fungibility of tokens like ones and zeroes, is by its very nature interoperable.
+I agree, and see the idea of being able to mess as we choose with the products we purchase as a small but perhaps cumulatively meaningful way of breaking out of a model that is effectively that of the company town, where you are only allowed to spend company dollars to buy company goods.
+Doctorow’s argument should therefore be extended to apply to any technology. In fact, as I’ve suggested elsewhere, we must look beyond technology as mere product and revert to its broader, classic definition: applied knowledge. Such a broader understanding of the general idea of interoperability could be applied by regulating wheel sales such that one company cannot jack up axle prices till we’re all forced back to the early Neolithic. Or it could look like ensuring that, say, if you live in Texas where a war is being fought against people with uteri, and you’ve just learned that your menstruation app has been reporting your menstrual cycle to persons unknown—the state prosecutor, say—you have access to technology to give yourself the safe abortion you may need without seeking help from compromised local healthcare providers or a dangerous partner.
+12.
+Undoing the vicious circle
+Issues that seem quite distant from the question of technology and war are in fact deeply causally related in ways that the global company store of late-stage, neoliberal capitalism has entrenched. Think of the “invention” of homelessness among people with full-time jobs, a social invention that has occurred even as—because—companies gobble up real estate with the fundamental goal of extracting maximum possible profit, not of housing people who need liveable homes. Then think of the application of technology in ever-more grotesque responses—surveillance, coercive mental health and addictions technologies, hostile architecture, technologies of punishment—to the homelessness ‘problem’, ultimately resulting in
+deployment (that war-like word!) of militaries, such as the US National Guard, to subdue the unsightly or ‘restless’ population
+. Injustice breeds criminality, or perception of criminality, at home and unrest or resistance abroad, and sometimes vice versa—spawning the industries that distract, patch up, suppress and police both of these human and social responses. We, the people, must regain control. This isn’t an exclusively Trumpian or U.S. Republican issue: as I have tried to show with the example of my own country’s relatively socially-progressive Liberal party, it crosses party lines and different types of governments. It is a modern problem evident in relatively sound democracies of varying structures, in incipient dictatorships, and in full-blown ones alike.
+What we have is a terribly
+vicious
+vicious circle in which the potential of technology is dragged bodily towards sinister ends, over and over again. To summarize some of the points that have us rolling towards war or the peace that is war by other means:
+several decades of covert privatization of profits and gains, and collective punishment by various means of collectivizing harms and losses
+loosening and weakening of regulations
+signing of disadvantageous free trade agreements
+granting of legal personhood to shareholder-beholden corporations
+neo-colonialism
+induction of unrepayable but highly leverageable debts
+gerrymandering
+mass media-fostered, often lie-based shifting of Joseph Overton’s eponymous window
+increasing underlying similarity across an extremely limited political field
+casus belli
+, also often based on the flimsiest of suggestions and outright lies.
+On the latter, consider Saddam Hussein’s non-existent weapons of mass destruction, which formed the basis of arguments in favor of bombing Iraq
+26
+; or Donald Trump’s bizarre assertion, during a 2024 election debate, that Haitian immigrants were eating people’s pet cats or dogs,
+a claim that has been rightly ridiculed
+but which despite its randomly violent quality quickly contributed to ultimately successful calls for mass, and increasingly militarized, deportations.
+27
+Further degrees marked on the circumference of the vicious circle involve re-education of the masses to love our warmongering masters; sacrifice our children and our young adults to war and the structures that feed it; fear the increasingly miserable; and resent fellow low-wage workers. This leads us to tolerate, or even pay taxes towards, the militarization of worker and border surveillance using technology tested by militaries on populations in other countries.
+All of this operates as an ouroboros, self-perpetuating such that one malignant misery breeds another. The technologies of war or promoting oppression appear at every phase of this vicious circle. The innovation behind them is driven not merely by a perhaps laudable competitive focus—every athlete seeking only to represent her beloved nation on the global stage—but by a range of equally motivating, but baser, emotions and structures. Like any other wheel, this one is human-made, a misbegotten form of technology in itself. It can be destroyed and replaced with different ultimate goals, different management of resources, and different decision-making processes.
+Meanwhile, a number of initiatives allied philosophically with the open source movement and following
+a set of similar values
+of transparency, inclusivity, and community provide the intellectual technology to reverse this tendency from below. The goal here would be to force into existence the infrastructure tosupport, sustain, and reproduce these values, making it easy for ordinary people to adopt such infrastructure and to promote its use by institutions of all kinds. At the same time, by working through individual initiatives to force these values into new and emerging technologies of all kinds, there’s hope of controlling some of the stereotypical problems with collectivization and democratic control of resources, such as inefficiency to the point of absurdity, petty corruption, sneaky individual attempts at sociopathic domination, a lack of global solidarity, and the so-called tragedy of the commons.
+Specific initiatives or models include, but are by no means limited to,
+open source software
+and products; a plethora of initiatives relating to reforming scientific research along the lines of
+UNESCO’s 2023 recommendation
+on open science; decentralization with federation: the federation models such as the Fediverse in social media, or
+the caracol model of residential organization
+in Classic Maya society and
+the autonomous Zapatista communities
+they inspired in contemporary Chiapas, Mexico; models of labor organizing such as workers’ co-ops or anarcho-syndicalism; privacy-guaranteeing technology such as two-way encryption, right to repair laws, and patent and copyright law reform that shifts the balance dramatically back from its current state towards privatization of costs and nationalization or globalization of benefits.
+13. Genuine peace, if you can keep it
+28
+If we remove, as I’ve advocated, the incentives baked into much of our current processes relating to innovation, would the existing structures supporting, promoting and perpetuating a war-prone society, once dismantled, not simply be replaced by newly oppressive and warlike ones? There is no reason to assume that this would be the case, though as abolitionist Wendell Philips (and many others, before and after,
+but apparently not
+Thomas Jefferson) said in 1852, eternal vigilance is the price of liberty. Vigilance, mind you: not surveillance.
+Perpetual peace, of the kind any sensible person might actually
+want
+to enjoy, can only be guaranteed by removing the incentives that send technologies in the wrong direction. It’s important to note that there is no ‘centre’ of moderation between the political left and right, as such a supposed centre serves largely to define a permissible spectrum and exclude alternatives as beyond the Pale. Nor is there a constant solution, a single answer to how society should be organized. Rather, a number of loosely interpreted values, largely led by and derived from a combination of modern human rights law and ancient codes of conduct, will need to be constantly adjusted as societies change from below, as opposed to being herded and bullied into change from above. What we can do is shift the structural realities that currently incentivize us hurtling in the wrong direction.
+Thus the new and emergent technologies that can perpetuate peace must be mobile, ever emerging, in their “
+Don’t be evil
+” phase. They must be resistant to corruption. Incentives—power, money, bitcoins, influence, status, access to sex, whatever—must be constantly assessed to ensure the spirit as well as the letter of the policies or laws that guide the terms of their existence and use (I refuse, finally, to use the word ‘deployment’). Trickily, we must also avoid the absurdities of self-criticism and ostracism that result when the wrong incentives have in fact crept in,
+29
+motivating informants and mob ralliers. It is true that the truism that we must observe moderation in all things is a scam when it’s really just a way of positioning the Overton window such that the status quo is maintained… and yet, moderation itself, real moderation, remains a virtue.
+The facade of liberalism may have died
+its final death in Gaza
+. It’s a lot to ask technology, the bells and whistles of civilization, to solve the problems of war and war-like peace even as survivors of a highly technologically-enacted genocide continue to struggle for their lives while the world’s leaders continue to suppress opposition to it. An enlightened, authentic and multipolar humanism is needed more than ever. We might start with a repudiation of disaster capitalism in Gaza, and ensure the above principles are brought to bear as Palestinians in and of Gaza, and their allies, continue to develop technologies of accountability (
+here’s an example
+), technologies
+to undo relationships of oppression
+, and technologies that promote freedom from economic and resource dependence,
+in the healthcare sector
+, for example. That’s just one polity, though the lives at stake, the extreme horror of two years of genocide, and the F-35s screaming above my head all encourage me to focus on it right now.
+In every corner of the globe and every area of life, we can advance humanistic, ecologically relevant technology infused with the values associated with the open source movement. It’s going to require greater discernment, and mature conversation and consensus-seeking, to achieve a genuine ideal of moderation, of course. But that’s what we’ll hopefully need one day—a tolerant community well-educated in the history of resource capture that keeps a gentle but vigilant eye on attempts to start this miserable process again, to hijack human ingenuity and to once again push us back towards the situation we’re living now. Or we will be forced, from the depths of our nuclear winter or suffocating greenhouse, or below the screaming vehicles vaporizing our loved ones, to once again reinvent the wheel.
+Bibliography
+Cory Doctorow. 2025 (forthcoming; based on
+this 2024 essay
+).
+Enshittification:
+Why Everything Suddenly Got Worse and What To Do About It
+. Verso.
+– 2023.
+The Internet Con: How to Seize the Means of Computation.
+Verso.
+Alvin Finkel. 2025.
+Humans: The 300,000 Year Struggle for Equality
+. James Lorimer & Company Ltd, Publishers.
+David Graeber and David Wengrow. 2021.
+The Dawn of Everything: A New History of Humanity
+. Allen Lane.
+Friedrich Engels and Karl Marx.
+The Communist Manifesto
+. Get yourself a nice edition. It’s also free
+at the Internet Archive
+.
+V.I. Lenin.
+Imperialism: The Highest Stage of Capitalism
+. Lenin Internet Archive 2005 (Marxists Internet Archive; first published 1916.)
+https://www.marxists.org/archive/lenin/works/1916/imp-hsc/
+Niccolò Machiavelli.
+The Prince
+. Penguin Random House UK 2014 (first published, not by Penguin Random House, in 1527).
+https://apeiron.iulm.it/retrieve/handle/10808/4129/46589/Machiavelli%2C%20The%20Prince.pdf
+Robert Putnam.
+Bowling Alone: The Collapse and Revival of American Community
+. 2000. Simon and Schuster. Based on an essay in which Putnam made the same argument.
+Chuck Palahniuk. 1996.
+Fight Club.
+WW. Norton
+,
+but also Fight Club, the 1999 David Fincher-directed film.
+Rei Takver. 2022. “Solastalgia”.
+Ecopsychepedia
+.
+https://ecopsychepedia.org/glossary/solastalgia/
+. Climate Psychiatry Alliance. A quick search of Pubmed (https://pubmed.ncbi.nlm.nih.gov/) will offer dozens of articles defining and describing solastalgia but Takver’s entry in the Ecopsychepedia is particularly clear and accessible. [Accessed August 31st, 2025].
+No AI was used in the writing, conception, or editing of this essay.
+© Carlyn Zwarenstein, September 2025.
+1
+I don’t remember, but apparently this occurred while he was taking part in an ‘up-down bomb burst’, an aerial maneuver often performed by the US Air Force Thunderbirds that is used to help an aircraft escape the blast of its weapons or to disperse aircraft for tactical advantage.
+2
+It is painful to put Richard Dawkins, a brilliant writer and rightfully respected evolutionary biologist, in the same sentence as intellectual lightweights, intellectual no-weights, and utter charlatans. But that’s what you get for turning rationalism or supposed atheism into an excuse for anti-Islamic racism and xenophobia. I’m all right with Richard Dawkins the scientist being remembered well but he and Harris are embarrassments to atheists without axes to grind everywhere.
+3
+To a far greater degree than in the pages of the
+New York Times
+, the
+Guardian
+, or even
+Al Jazeera
+, because it is on the illiterate’s signature formerly known as Twitter, and other social media channels, that Palestinian journalists and ordinary people in Gaza have recorded moment to moment, in excruciating and multiply-corroborated detail, their experience of what are so far nearly two years of utter, often literal, holocaust in Gaza.
+4
+Due to both the extraordinary violence and its results and to the state of Israel’s clear and regular breach of hard-won laws with almost complete impunity. The co-occurrence of war in Ukraine following Russia’s invasion also provides a dramatic contrast in terms of world leaders’ response and interest in adherence to international laws and norms.
+5
+Thus the analogy to a dog whistle when a coherent but ultimately racist statement follows a register only some can hear, but to which they reliably respond.
+6
+Such as those genuinely surprised when their votes result in deportation of their cool Mexican brother-in-law or their own loss of access to health care.
+7
+Which is not to say that military and political leaders haven’t always used delegation to kill others, both their own and their opponents’ peons, without getting their own hands dirty. In fact, this is fundamental to my argument that there is little to no evidence that “we”, the people who actually wage wars—or more frequently these days, we who push the buttons and pull the levers that destroy human lives—are ourselves the ones seeking or setting up the little games by which our leaders and their funders divvy up the spoils while despoiling the planet and annihilating cultures, families, infrastructure, and human potential.
+8
+Enlightenment values, scientific method, capitalist markets and democratic governance.
+9
+At the very least, it wouldn’t hurt if we could go back to the less profitable, yet quite inventive days
+when inventor Frederick Banting refused
+to put his name on the patent for insulin, while his co-inventors sold it to the University of Toronto for a symbolic $1.00–$1.00 Canadian, mind you.
+10
+Maybe Orientalist tropes and Joseph Conrad-inspired figures of speech could once (when?) have been used with utter innocence. Now unless they are clearly used with satirical intent (and unfortunately often even in this case) racist and xenophobic subtexts are clearly read by dog-whistled racists and semioticians alike.
+11
+Formerly known as the proletariat, but often lacking class consciousness and believing themselves (ourselves) one lottery ticket, bout of gratitude, leadership course or manifestation away from the bourgeoisie.
+12
+If the evidence of our current reality makes it convincing to argue that we as a society are naturally intended to kill or be killed, feeding off the adrenaline of fear and aggression, and to develop ever new technologies to cause induce concussions in our fellow humans, it should be equally possible, given a similarly strong evidence base, to assert that humans are naturally intended to be peaceful shoppers who in a state of nature would spend our days collecting the latest nut and then pass a pleasant evening staring at ourselves in the screen-like surface of the local waterhole.
+13
+Reasons not worth even
+trying
+to understand.
+14
+As for example with the extraction of fossil fuels when the best interests of current life on Earth would keep them firmly in the ground.
+15
+Other terms as nakedly unattractive as the concepts they’re coined to describe: AI slop, brainrot, web, selfie, social network, nodes. Interestingly, other than ‘photobombing’, there isn’t much of a martial angle to the neologisms of the Web 3.0, while such military analogies are often revealingly pervasive in other disciplines. Invasive species biology and conservation, for example, are riddled with
+military and xenophobic analogies
+, as are
+medicine, business, and public policy
+. Might this suggest that the internet, artificial intelligence, and large language models are in fact innately more like mushrooms, say, than tanks? Might we thus hold out hope that the innovation in all fields that is so pervasively powered by these technologies may, if
+properly inoculated
+, and into the right
+substrate, fruit
+in less vicious and more life-affirming directions?
+16
+Bombs raining down upon their heads? Check. Air shows where death planes are a source of family fun? Check. Must be peacetime!
+17
+As described in his 1710 work,
+Théodicée
+, and well-satirized by Voltaire half a century later in
+Candide
+.
+18
+Much of German novelist Jenny Erpenbeck’s work, which shows in both painful and nostalgic detail what it was like to live through decades of ordinary life and historically significant events in East Berlin, provides a much-needed, even-handed corrective that condemns corruption, deprivation, state surveillance, forced self-criticism and far greater state abuses like disappearances while also showing the benefits of socialized medicine, culture, housing, education and other innovations as well as an absence of materialism, as seen from the perspective of a child growing to young adulthood in the Soviet GDR.
+19
+Or he could have abandoned metaphor and promoted the soothing opiate of, well, opium, and its various derivatives and imitators, which a highly militarized ‘War on Drugs’, beginning half a century later,
+have made constantly more dangerous
+. The resulting technological advances in illicit drug synthesis, processing, distribution and marketing provide an ideal example of one clear way in which war and technology are indeed causally related—but not in a way that makes any sort of case that what the world needs is more war.
+20
+Note that Palahniuk actually stresses physical, one-on-one fighting and the social connections and sense of meaning of one-on-one engagement and becoming part of a collective. By contrast, mechanized, distant killing, as is enabled by the technologies of modern warfare and surveillance, is, like mechanized, human contact-free shopping, part and parcel of the negative kind of peace. Though he exaggerates the violence in order to make his point, in terms of the underlying message, Palahniuk might as well be advocating for Robert Putnam’s bowling leagues.
+21
+Note that eugenics as a field of active R & D existed from the turn of the 20th century through well past the end of WWII
+in the United States
+and other countries as well, and we should ask the same questions about it. As we should about various eugenic-tinged aspects of genetics and other research and social policy today.
+22
+Strictly and absolutely the only instance of AI used by the author in any way in the conception, writing or editing of this essay.
+23
+Later, the costs of the purchase skyrocketed and the sale continues to be subject to judicial review thanks to angry Canadians who would prefer their leaders invest in affordable housing.
+24
+Please, take it.
+25
+Robots being loosely defined: here I include AI and the philosophically-problematic phenomenon of animal or human cyborgs.
+26
+…
+leading to millions
+of internally displaced people, several million refugees and
+210,090 dead civilians
+before even taking into account deaths for which the war was a causal necessity if not a direct effect. Given the complete lack of evidence for the claim and the millions who vocally opposed and protested the invasion of Iraq ‘justified’ by it, it seems more accurate to seeit as having been a flimsy prop used cynically and disingenuously by those who espoused it. Preventing a future manipulation of the Overton Window requires impartial adherence to standards of evidence, evenly applied, and resistance to propaganda, regardless of whose it is. Which again brings us to a need not for more knowledge but for resistance to power, whoever wields it. The checks and balances on America’s version of representative democracy that are being overturned by the Trump Administration as I write this were in themselves not enough to prevent profound abuses of power both abroad and at home that, as I describe above, constitute war and submission, or war by other means. As Pogo the possum said, “We have met the enemy and he is us”. At least,
+when we fight proxy wars
+. Or
+when we create wars or militarized “peace”
+. Or when we turn on our people,
+as here
+or here.
+27
+Also distraction. The eating-the-cats claim serves this process, as do “Air Shows” that turn war into a source of entertainment and erase the mental connection between military aviation and related technology and their only
+raisons d’être
+, which are mass murder, territorial or other forms of control, and profit. Or take the ‘Hamas camera’
+that in August of 2025
+stole headlines, provided opportunity for the perpetrators rather than victims of violence to occupy precious space in the public’s overwhelmed and distracted consciousness, and delayed (and therefore denied) policy that should have urgently responded to the illegality and horror of a live-on-camera double-tap bombing of a hospital, patients, healthcare workers and journalists.
+28
+A riff on the apocryphal response Benjamin Franklin gave Eliza Powell when she asked him, at the (American) Constitutional Convention in 1787, whether we have a monarchy or a republic: “A republic, if you can keep it,” he was said to have replied.
+https://www.loc.gov/exhibits/creating-the-united-states/convention-and-ratification.html#obj8
+29
+More materially significant by far, and with too many examples of school curricula or books suppressed, careers blocked, and people harmed to list, in its current Right than Left-wing version, but addressed in its recent incarnation on the Left, for example, by Ben Burgis in his 2021 book, Canceling Comedians While the World Burns, excerpted here:
+https://jacobin.com/2021/05/canceling-comedians-while-the-world-burns-cancel-culture-moralism-social-media

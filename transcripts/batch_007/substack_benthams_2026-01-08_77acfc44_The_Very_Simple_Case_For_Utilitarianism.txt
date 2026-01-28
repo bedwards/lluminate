@@ -1,0 +1,122 @@
+Title: The Very Simple Case For Utilitarianism
+Source: benthams
+URL: https://benthams.substack.com/p/the-very-simple-case-for-utilitarianism
+Date: Thu, 08 Jan 2026 16:10:29 GMT
+Word Count: 2040
+Estimated Read Time: 10 minutes
+
+================================================================================
+
+The Very Simple Case For Utilitarianism
+Bentham's Newsletter
+Subscribe
+Sign in
+The Very Simple Case For Utilitarianism
+All interests are equal, and only interests matter
+Bentham's Bulldog
+Jan 08, 2026
+35
+54
+4
+Share
+A lot of non-utilitarians don’t really see the draw of utilitarianism.
+1
+To them, we’re a curious bunch.  We think it’s great to kill people and harvest their organs (
+in an idealized case
+, of course).  We care about shrimp.  What the hell is going on?  Now, I don’t really think caring about shrimp is
+limited to utilitarians
+—if anything, maybe deontologists should care about them
+more
+. But I want to try to communicate what I consider to be the core motivation behind utilitarianism.
+Not beating the stereotypes
+At the most basic level, I think utilitarianism follows if you think the following two things:
+Everyone’s interests count equally.
+Nothing else counts more than someone’s interests.
+Note: when I say counts I mean “should influence decision-making.”
+Utilitarianism says you should maximize aggregate welfare.  If you think everyone’s welfare matters the same amount and nothing matters apart from that, then you’ll think we should maximize aggregate welfare.  So you’ll end up a utilitarian.
+Both of these premises strike me as pretty intuitive.  It’s not incoherent to deny them, and there are some intuitions that conflict with them, but they strike me as pretty natural moral starting points.  Thinking them through helps illustrate what’s weird about non-utilitarian verdicts.
+Take, for example, the view that nature has intrinsic value.  This view would deny 2.  It would hold that sometimes, if you’re deciding between someone’s interests and preserving nature, you should preserve nature.  But that’s pretty weird.  Nature isn’t a person.  It has no thoughts or experiences.  If we’re trading off helping
+someone
+with helping no one, but simply adorning the world with more pretty nature, it strikes me as very odd to prioritize nature.  We shouldn’t make one person worse-off if doing so makes no one better-off.
+Note: this isn’t the only reason I reject that nature has intrinsic value.  I have other arguments.  But I’m just trying to illustrate the structure of the core utilitarian view.
+Or take the deontological idea that other people have rights and these should sometimes trump maximizing welfare.  On this view, people’s interests are sometimes subordinated to those rights.  But this is odd.  It subordinates real, actually existing people’s aggregate interests to arbitrary-seeming structures.  For example, deontologists will generally say that you should flip the switch in the trolley problem, if doing so will redirect it from five to one.  However, they’ll deny that you should push one person off a bridge to save five people.
+But in both cases, you’re harming people by the same amount to benefit others the same amount.  Shouldn’t they then be treated alike?  Whether someone is used as a means doesn’t matter to them.  The guy isn’t any more dead if he’s used as a mere means.  So deontology strikes me as pretty counterintuitive at the structural level.  In an attempt to fit our intuitions about cases, it ends up caring about
+things that don’t seem important
+.
+Now, the kind of deontology that’s least vulnerable to this is the kind that draws the least arbitrary distinctions.  For example, if you deny that you ought to flip the switch in the trolley problem, then you can simply think: what matters is that you don’t kill people.  You shouldn’t kill people even if doing so has nice consequences.
+But this still strikes me as objectionably fetishistic, caring about abstractions like rights more than people.  What we should care about is
+people
+.  If a person dies, it’s not any more tragic if they were killed than simply allowed to die.  So if we’re making the choice between more deaths or fewer, I think we should simply choose fewer deaths.  If we care about everyone’s life equally and don’t subordinate people’s lives to other things like rights, then we’d support killing one to save five.
+Or take, for example, the widespread position that animal welfare is less important than human welfare.  I find this judgment pretty unintuitive.  Species is not morally relevant.  If we imagined a human with whichever traits are said to make animals not matter morally, it wouldn’t seem like their interests barely count.  Pain hurts whether or not you’re smart.  If your reason to avoid pain doesn’t depend on how smart you are at the time you experience it, our moral reasons to prevent pain don’t depend on how smart the people experiencing it are.
+One way to avoid discounting interests is to
+imagine that you lived the life of everyone
+.  So, after you died, you lived my life, and the life of the president, and the life of every animal on the planet.  Such a scenario seems to intuitively capture what matters in morality—it counts everyone equally, and doesn’t count anything else.  But in such a case, you’d simply be a utilitarian, as you’d value every moment of your life equally.  If you’d care about fish welfare in that case, then that’s because fish welfare matters impartially.  But if it matters impartially, then you should care about it now!
+The only non-utilitarian concern that doesn’t seem on its face arbitrarily fetishistic is caring more about those you have a relationship with.  It doesn’t seem totally insane to think that we shouldn’t count everyone’s interests equally, but instead we should count the interests of our friends and family for more.  But still, I think the core utilitarian intuition can help identify why you might be a bit doubtful of this view.  If other people impartially matter as much as your family, it doesn’t seem that implausible that you ought to count them equally.  I also think the view that we have special obligations faces a
+number of serious objections
+.
+One way to draw out this core intuition is: imagine someone who wasn’t in a relationship with you at some earlier time but was at some later time.  It seems odd that you should count their interests more at the later time than at the earlier time.  Nothing about them has changed.  So how much you ought to count their interests seemingly shouldn’t change.
+You might doubt that this gets us all the way to utilitarianism.  It won’t automatically tell us how to treat risk, for instance.  You might think that a one in a billion chance of a billion utils matters less than a guarantee of one util, even if everyone’s interests matter equally.  But
+Joe Carlsmith’s argument
+can help illuminate how this core intuition gets us pretty close to risk neutrality.
+Imagine you have the following two options:
+Save one person’s life.
+Have a 1/1,000 chance of saving 1,000 people’s lives.
+Risk-neutrality treats these as equal.  Common sense does not.  But now imagine that the following set-up obtains.  A 1,000-sided die is going to be rolled.  Each person is assigned a number.  You can either give each person a different number (give one person 1, one person 2, etc) or give everyone the same number (say, 467).
+If you give everyone a different number, then it’s guaranteed you’ll save someone.  If you give them all the same number, then you have a 1/1,000 chance of saving 1,000 people.  But intuitively these seem morally the same.  Everyone is, in expectation, equally well-off in both cases.  No person has a reason to prefer either set-up.  So if what we care about is the people rather than whether we get psychological comfort from our probability of doing good being above some threshold, then we should value them equally.
+The other related concern with non-utilitarian moral views, apart from caring about stuff that doesn’t seem morally important, is that the stuff just seems arbitrary, in a way that fundamental morality shouldn’t be.  Note: this argument will mostly have force for
+moral realists
+.  If anti-realism is true, then the moral facts aren’t fundamental—they’re just reflections of what we care about—so it’s not as bad for them to be arbitrary and complex.
+Take, as an example, ways of rejecting expected utility theory.  One way of doing this is to discount low risks.  If you discount low risks—say, below one in a billion—then you won’t think that a one in a trillion chance of saving 10 trillion people is better than a guarantee of saving one person.
+But this seems super weird as a way for fundamental morality to look.  If there are moral facts, as I think there are, it would be odd for them to simply pick out a number and instruct you to discount risks below that probability.  The fundamental physical facts shouldn’t be that arbitrary.  And having the threshold be vague doesn’t help, because a vague threshold is still arbitrary.  What makes the threshold one thing rather than another?
+The other standard way to reject risk neutrality is to hold that utility reaches a bound at some point.  So as the amount of valuable stuff in the universe approaches infinity, its moral goodness approaches some finite threshold.  But why in the world should this be?  What determines where the threshold is?  It just seems arbitrary—exactly like the sort of thing that can’t be part of the fundamental fabric of reality.
+Or take the stuff deontologists say goes into which actions you should take like whether you use someone as a means.  The moral facts—these fundamental facts of the universe—care about the high-level and seemingly imprecise fact, with almost impossible to spell out necessary and sufficient conditions, of whether someone’s used as a means.  Seems nuts to me!
+Here’s an analogy: imagine someone proposed a theory of physics that worked differently for organisms than for other stuff, or for objects that were more than four feet as ones that weren’t.  This would seem weirdly arbitrary.  The fundamental moral facts oughtn’t be this arbitrary, latching on to complex and imprecise higher-level properties.  But it seems similarly weird for the moral facts to be this way.
+I don’t want to give the impression that the argument I give in this piece is the only reason I’m a utilitarian.  I think there are a number of serious considerations in its favor, and that the specific non-utilitarian intuitions tend to
+fall apart upon reflection
+.  But hopefully I’ve managed to articulate why utilitarianism
+isn’t so crazy
+, so that you can see the intuitive draw.
+1
+Utilitarianism, for those unaware, is the idea that what determines if an action should be taken is if it maximizes aggregate welfare.  So, for example, a utilitarian would think that if killing one person could save five people, because it would leave people better off in the aggregate, you should take it.
+35
+54
+4
+Share
+Discussion about this post
+Comments
+Restacks
+Neural Foundry
+Jan 8
+Liked by Bentham's Bulldog
+Solid argument for why the basic utilitarian framework is less aribtrary than people assume. The point about caring for things that dont have moral weight (like nature without anyone to experience it) is something I kept running into when working on enviromental policy. The real tension isnt abstract philosophical disagreements but practical resource allocation. When a community has to choose between preserving a wetland ecosystem or building affordable housing, utilitarianism at least provides a coherent decision framework even if the calculus is messy. Deontology just punts the hard choices to whoever gets to define the rights in question.
+Reply
+Share
+JerL
+Jan 8
+Liked by Bentham's Bulldog
+On this version of utilitarianism, I think I'm pretty straightforwardly a utilitarian... The only part I'd even quibble with is the risk stuff, but I'm not even sure that's necessary to utilitarianism--could you not just exclude that and be a utilitarian with a weird decision theory?
+I usually think of myself as a consequentialist with utilitarian leanings, but maybe this means I'm just a slightly heretical utilitarian?
+Reply
+Share
+2 replies by Bentham's Bulldog and others
+52 more comments...
+Top
+Latest
+Discussions
+No posts
+Ready for more?
+Subscribe
+© 2026 Bentham's bulldog
+·
+Privacy
+∙
+Terms
+∙
+Collection notice
+Start your Substack
+Get the app
+Substack
+is the home for great culture
+This site requires JavaScript to run correctly. Please
+turn on JavaScript
+or unblock scripts

@@ -1,0 +1,291 @@
+Hey folks, welcome back. I want to talk
+about Smart Comp 3 by Sonobible today.
+In my opinion, they did something
+interesting here with this map on the
+left side which gives you an idea where
+you are absolutely in terms of
+compression. So you have this dot here
+which is the current settings and you
+can move this around in a certain area
+here for this drum kit setting. And it
+changes all the attack threshold release
+and ratio settings so you get a certain
+sound. And
+this drum loop is already
+overcompressed. So I don't want to do
+that much. It's probably here. I want to
+have this here. Um, so usually when you
+buy a compressor, uh, you get all these
+usual settings here and you have a
+source sound, for instance, a drum bus,
+and you have a goal in mind where you
+want to end up, right? Like how many
+compression you want to add and how
+snappy it should be and so on. And what
+you have to do then is to indirectly
+figure out what kind of settings you
+need to dial in to end up in this place.
+And um this is cool for most people of
+course, but for me it's not how I want
+to dial in settings because I have a
+specific goal in mind. And also I want
+to have consistency uh consistency
+between different projects. So let's
+imagine you have an album or an EP and
+you have multiple tracks on that drum
+bass tracks in my case. And some
+projects, some tracks are overcompressed
+on the drums. Some drums on a different
+track is like very peaky, right? And
+what I do usually then is I go back into
+these projects and tweak the settings
+until they kind of end up in the same
+place. They are have the same kind of
+compressor settings or compression
+settings. So it sounds the same. So I
+have like consistency between different
+tracks and they sound kind of similar.
+This is what I want to do. So here with
+this compressor, I can just analyze the
+drum loop, put this on a certain place
+on the map, and then I go to a different
+track and put this dot in the same
+place. And I should it should give me
+the same kind of sound or vibe of this
+drum loop. So I want to do this here.
+[music]
+So this is just drum loop.
+And then I have another drum loop here.
+And I want to kind of make this the
+same. [music]
+So what I do here is I use this
+compressor on this uh second drum loop
+here. And I put this into a group and
+call it maybe uh let's say drums.
+Uh close this. And on the first one
+here, I also open up the smart comp.
+And I analyze the sound.
+>> [music]
+>> So I have a different map here. I also
+want to dial in drums. Drum kit gives me
+a different area. And then I add this to
+the group here to the drum group. And
+now I can see uh the other drum loop
+also on this map. Right. So this is here
+the second one. [music]
+So all I have to do is I put this in the
+same place and it should give me kind of
+the same wibe or compressing or
+compression or I should end up in the
+same place in terms of compression.
+Let's see how this sounds here. [music]
+[music]
+[music]
+So yeah, so this is my idea uh of this
+map here. So I in instead of indirectly
+dialing in these settings, I have this
+map and I put the dot on the same place
+on the map and I should end up in the
+same place in terms of vibe or
+compression or yeah compressor settings
+for this specific source material, which
+is a different drum loop of course than
+this one. So this is exactly what I
+want. Maybe I'll open up here the second
+one to see what what it did here to
+these drums.
+So right on these drums here I have 12
+milliseconds attack on these drums I
+have 40 milliseconds attack. So I have a
+different ratio setting than here. Uh
+because this drum loop is already
+compressed so I don't need to um add too
+much uh gain reduction here than here.
+Um so this is the idea uh and I think
+it's a great idea to actually put into a
+compressor um to do this. I haven't
+bought this yet. It's just the trial
+version as you can see here. So, I'm
+trying this out. Um, it needs, in my
+opinion, also here some kind of auto
+gain. So, you can um compare or match
+the volume of the second input track.
+Here you have like an auto gain, but
+it's also it's only comparing to the
+input signal um of the smart comp. Maybe
+I can use your side chain for that. I
+haven't tried this out yet. Uh but you
+need to um yeah match the volume so you
+have like the same feel. But this is
+exactly what I want from a compressor.
+Um like I said in the beginning instead
+of indirectly dialing in the settings I
+want to say I want to go exactly to this
+place figure out all the settings you
+need to do on this kind of source
+material to end up in this place. And
+this is why I think Smartcom 3 is pretty
+good. There are not many compressors on
+the market that do this. Actually,
+there's none. None I know of. At least
+maybe you know something like this. Then
+let me know. Um there is something
+different I want to show you also here.
+Not to make this video about one
+compressor. I'm using sometimes here
+this APU
+um
+compressor plugin. This one here. And
+GUI wise it's not the best. Uh it's yeah
+you can see it's made by developers not
+like interface designers. Uh but here I
+can go to the strum loop [music]
+and here you can see dynamics down here.
+It has a source range and a target
+range. So what I can do now is I can
+analyze here um the dynamic range for
+the target range and for the source
+range. So I do this here because um I
+don't want to compress this because this
+is already compressed but I want to
+figure out where I am in terms of uh
+dynamic range. You can see here the
+lowest is minus 8 LS and the biggest
+peak is minus 7.5
+L. I guess the lowest um slider here is
+the RMS level more or less and the
+highest slider is the peak level. So it
+gives you basically the lowest and the
+highest position. So the dynamic range,
+that's the dynamic range. And then we
+can uh stop this learning process here.
+And then just copy the solver to the
+first drum loop. And we still have here
+um the target range, but the source
+range we want to change because the
+source material is different. So we
+analyze here the um uh the source input
+here. It gives you a different setting,
+right? A different dynamic range. It's
+not it's not a big difference here, but
+it's also already compressed. Um, it's
+maybe not the best example. Maybe I
+should use something more dynamic, but
+you can see the volume is at least
+different, right? So, here it gives you
+a kind of different transfer curve for
+the compressor. You can dial in here the
+attack settings for uh manually. Um,
+also here to release and I use beats
+which is 16 or two 16 notes. Maybe we
+can use your one release time. So 160
+note release time and 1 ms attack time
+and it gives you uh a transfer curve and
+it adds a compressor setting to it. You
+can see here it's compressing. Uh
+there's a bit of gain reduction here.
+There's also um upwards compression also
+in here, right? So it sounds completely
+different probably. [music]
+[music]
+Yeah, it's not it's it's not a big
+difference. It's probably not the best
+example here. You need to have something
+maybe a bit peakier or more dynamic than
+this to actually make it visible what's
+happening. But this is the other
+compressor here I know that have like
+this learn function where you can learn
+a dynamic range and you add in um a
+target dynamic range and then it puts
+you in the same place in the same
+dynamic range where you want to end up.
+So you match the compressor setting or
+the compression of another signal which
+in my opinion is super important when
+you make an album or an EP and you want
+to end up in certain places. And I did
+this also here in Bitwig with um do I
+have this here as a preset? Yeah, I did
+this here for
+uh multiple channels. I used your
+crossover plugin by robot which is a
+free plugin. It's it splits up the sound
+or the audio signal into five bands. And
+I put here an APU compressor on each
+band with uh with the target range I
+copied or kind of analyzed from a drum
+sound or drum loop I really like. Right.
+So I can just put this here on this drum
+loop [music]
+and then I hit source and then it
+analyzes here for each band the dynamic
+range and changes the compressor
+settings on each band to end up in the
+same place on each band exactly as this
+drum loop I analyzed it.
+Right. [music]
+Maybe put this here on the other track
+on this one here.
+Yeah, it's just an experiment. I do some
+experiments here and there if you can uh
+come up with better uh better better
+compressor uh tools. Um so let's analyze
+this here also to target of course.
+[music]
+>> [music]
+>> Okay. So now we analyze to the source
+and the target. And then we put this on
+this drum loop. And here we only analyze
+the source. [music]
+[music]
+>> [music]
+>> Right. So it puts the drum loop here
+more in the ballpark of this drum loop.
+So this is what I want. I want to match
+basically the dynamic range of certain
+sounds in my track or across different
+tracks. And this is how I do it here
+with this APU crossover preset. Um, it's
+just a bunch of, you know, APU loudness
+compressor tools here in a band
+splitter. That's basically it. And then
+I analyze the source range and the
+target range. And on my uh target track
+here, I just analyze the source and it
+figures out the um transfer curve for
+each band. And yeah, it's no magic. And
+I don't know why
+compressors don't do this. I want to
+match. Actually, I want to have the same
+dynamics on certain sounds. Um, that's
+just just what I want to do instead of,
+you know, going in here and setting all
+my
+values manually. That's not what I want.
+It's probably interesting for some
+people in certain circumstances, but
+most of the times for me, compressors
+are just I want to go go to a certain
+place, make it possible for me. Okay.
+Um, so yeah, APU loudness compressor
+does this. Also here the Smartcom 3. I
+have to make more experiments with this
+one here.
+Um, also this one is of course only full
+band. So it's not um multiband
+compression. It's just a full band,
+which is okay I guess for most things.
+But I really like to have this as a
+multiband compressor. just analyze the
+source and the target and then you know
+figure out what you need to dial in to
+end up in this place. Anyway, I just
+want to give you a rough idea about
+Smartcom 3 and my thoughts about it.
+Maybe give it a try. I put the link in
+the description below. Um there's a 30
+days trial you can try and yeah, you
+can't do wrong with this. Okay, thanks
+for watching and that's it for today.
+Bye.

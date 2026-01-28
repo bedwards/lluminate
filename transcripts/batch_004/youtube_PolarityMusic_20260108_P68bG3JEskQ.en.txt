@@ -1,0 +1,424 @@
+So, I want to show you something. You
+probably already know that we have in
+synthesizers like Zerum 2 or Zerum in
+general uh these uh W modes here, these
+so-called W modes. And this influences
+how the oscillator is played back. At
+the moment here, we have a saw
+oscillator and we can change the wave
+table position here to get the different
+wave form. Uh but we can also use a W
+mode here like something like bend plus
+and we can bend these waveforms then or
+these wave cycles even though it's not
+inside of the wave table itself. So the
+idea behind this that is that when you
+have like a wave table and you have
+always the same waveforms inside of this
+wave table uh you can only move from the
+left to the right through the wave table
+and that's basically it. And to bring in
+a bit more variety to the waveforms, we
+have like these bent modes and then you
+can influence how the oscillator looks
+like and also how the oscillator uh
+sounds like. So this is the idea behind
+it. We have a lot of different uh warp
+modes here also tube distortion
+and it bends and twists the oscillator
+waveform. So this is the idea and we
+have also uh something like this inside
+of vital. Of course in most wavetable
+synthesizers you have this because it's
+wavetable synthesizers are basically for
+me at least just small little samplers
+and you have like short samples in there
+and you you loop small little uh cycles
+in the sample. And to bring in more uh
+variety we have like these swap modes.
+It's basically like something from the
+'9s because we had no memory back then.
+Nowadays, we have all the memory in the
+world, but we still use it for some
+reason, I guess, because of the
+limitations and people like the
+limitations. So, here in vital, we have
+the same thing. It's called W mode. We
+can switch from o code to format scale
+to harmonic stretch for instance. And
+you can see here we can uh change the
+saw waveform to a sign and then to
+something that looks like this like an
+comp. I don't know at least it produces
+a lot of different overtones.
+And we never changed actually here the
+waveform itself. We just changed how the
+lookup table is read by the oscillator.
+And we introduce with this a lot of
+different uh sound variety. Um and the
+interesting thing is you can actually
+sample this. So when we change here the
+oscillator uh in the editor to something
+like a ramp
+uh which means a line going from minus1
+to + one. Here it looks like a ramp. And
+then we can apply these kind of W modes
+to this ramp and we can see what's
+happening. And we can also reample this
+here with the right click, reynthesize
+this into a wave wave table. And then we
+can export these wave tables here.
+Export waveform.
+And you get like a whole directory of
+these kind of warp modes here as a wave
+table. And we can reuse this inside of
+Bitwig in the grid. Of course, um
+there's also something like these W
+modes inside inside of Zebra 3 or Zebra
+in general. And here it's called, I
+think, oscillator FX. You go to the
+oscillator pane here and then you have
+like FX1, FX2, and you can select your
+different modes. And all of these
+functions do something different to the
+wave uh to the waveform, to the
+oscillator, how the waveform is played
+back. Very interesting. and it brings in
+a lot of different sounds. So, inside of
+the grid,
+we can kind of fake this or replicate
+this. So, here we have a very basic
+setup. We have a sign oscillator and an
+amplitude envelope and an audio out. And
+inside of the oscillator here, we have a
+precord, so-called precord. Uh, so we
+can receive here MIDI notes from the
+keyboard or from the piano roll. And
+then we generate internally a phase
+signal. And this phase signal is just a
+ramp going from uh 0 to + one. And this
+ramp signal then is used as a lookup
+table uh read signal. So it goes from 0
+to one and read then here the first
+index, the second index, the third index
+and so on. So if you go from zero here
+to I don't know what this is + one. Uh
+it looks like a ramp. And we can just
+switch here this oscillator to 0ero to
+one. The ratio to 0ero to one which
+means this preord is now disabled and we
+can't play the oscillator. We have to
+give the oscillator some kind of ramp
+signal. So we create one by using here a
+phaser so-called phaser device or
+module. And this one here also has a
+precord and it generates
+a ramp signal. And you can see this here
+inside of the uh oscilloscope pretty
+pretty clear uh going from zero to one.
+And when we change the pitch of course
+here on the keyboard you can see the RAM
+signal changes
+uh because it wants to read the lookup
+table much faster because we have a
+higher pitch. And here it reads the um
+the oscillator lookup table very slowly
+because we have a lower pitch. So this
+is the idea right going from 0 to one
+and then we feed this here into the sign
+oscillator by 100% into the phase input
+PM input
+and then we can play the oscillator
+uh exactly like before. Uh we have to
+probably use this one here.
+So very basic and it works exactly like
+before. uh but now we have externalized
+this kind of RAM signal which means we
+can influence this RAM signal. We can do
+all kinds of things to this ramp signal
+and influence how the oscillator lookup
+table is read by the oscillator itself
+and then influence how the oscillator
+sounds like. And to demonstrate this we
+just apply here a very basic function.
+Let's say this bend module here from the
+phase category.
+Uh so we can bend this kind of ramp
+signal and it influences how the
+oscillator
+shape looks like.
+Instead of a sign we have like this
+shape. So this is a sine wave
+and we can bend it.
+This is the idea.
+So just by applying basically these two
+devices here to the sign oscillator we
+um give the sign oscillator more
+features instead of just having skew and
+fold we have now also bend
+or I don't know something else here what
+else there is pinch
+Let's try this one. Also looks a bit
+different.
+And you can imagine when we modulate
+basically the bend module and when we
+modulate the pinch module and when we
+modulate the skew and fold and so on, we
+get a lot of different sounds out of the
+sign oscillator. um that only is or the
+only purpose is actually to play a sign
+wave form and we get more sounds out of
+it which is my opinion pretty
+interesting uh because you don't need to
+use wave tables all the time. You can
+just use an sign oscillator and twist
+and band it in all kinds of different
+directions.
+So this is here uh something you can do
+pretty quickly. Uh what we also can do
+is we can uh try to uh bring in some
+audio effects. So let's say what I
+sometimes do is use a chorus.
+The chorus here is an audio effect which
+means it it doesn't work between zero
+and one. It actually works between
+minus1 and + one because this is usually
+how uh audio signals look like. So when
+we hook this up here,
+uh something happens to the signal, but
+you can see the phase signal also
+changes. It goes to the negative range.
+It's not bit between zero and one
+anymore. It's like an bipolar signal
+now. Okay. So it's not a big problem. It
+sounds It still works.
+So it still works but it's probably not
+correct. So what we can do about this is
+we can use some converters. We can
+convert this into or this ramp signal
+which is a uniolar signal into a bipolar
+signal. And then we go from this into
+the chorus which is a bipolar uh audi
+effect. And then we use a bipolar
+converter or bipolar to uniolar
+converter to go back into the 0 to + one
+uniolar range. But you can see here some
+of the signals go below zero which is
+not 100% correct but it still works.
+It's much better than before probably.
+Okay, so now that we have this phase
+signal here, this ramp signal inside of
+the kind of audio domain or audio range,
+we can apply all kinds of different
+audio effects. We can say we want to
+have a low pass on that.
+Something like this. So we can filter
+the oscillator shape before we actually
+play it. It sounds like this.
+So it's it sounds a bit like unison in a
+way. I mean it's it's it's probably how
+unison is made internally.
+uh but you can imagine
+uh you or you can create kind of unison
+without using the wavetable oscillator
+which is the only oscillator in Bitwig
+which has unison
+um you don't need to use voice stacking
+you can just use a chorus device here a
+stereo effect on the phase signal on the
+ramp signal to create some kind of
+unison output on the sign oscillator
+without creating voices without without
+creating stacking without using the
+wavetable oscillator and it kind of just
+works. And we can also apply here low
+pass and uh
+and highpass
+sorry
+highpass
+just to filter out here certain things
+we have. So with this we have already
+more knobs we can modulate over time and
+we can influence how the sign oscillator
+sounds like uh without using a wave
+table oscillator and just having a
+static wave table and where you go just
+from zero to 127 or how how many tables
+or how many indexes there are in this
+wave table.
+Yeah, we can probably also switch this
+here to uh a polyonic grit and then put
+here some
+uh reverb on that. Let me see how this
+sounds.
+Okay, that's okay. So we can use audio
+effects here by just turning the uniolar
+signal into bipolar signal. Then
+applying all kinds of audio effects and
+then uh bringing this back here into the
+uniolar range. So this is an idea
+in my opinion very nice.
+Um
+okay then we can do something like um
+make sure we have this normalized.
+Right? You can see here um the phase
+signal is not always between zero and
+one. So you can apply maybe
+uh what's the name level scala.
+A level scaler here and say go only from
+zero to oh that's that that's wrong
+value scale. That's what we need. 0 to
+100%.
+And then you can influence between where
+these lines are. This is an idea. You
+can also try to use here this audio
+signal or this face uh signal inside of
+the audio domain and we use a follower.
+So we follow the signal and we divide
+this audio signal
+by this follower output which kind of
+normalizes here um the signal. So when
+we go very low
+right instead of having here this kind
+of situation where we have like a small
+little movement between uh I don't know
+0.5 and 0.6 six. Um, we can kind of
+normalize this
+so it's between zero and one again. So,
+we stretch out the signal. We normalize
+the signal so it's always filling out
+here everything between zero and one.
+And it get gives you a different
+outcome. Let's see how this sounds.
+Yeah, it kind of works. Um, so yeah,
+this is also an idea.
+And of course, we can do something like
+um let's delete all of that
+and use a wave table LFO.
+So I said earlier that I exported all of
+these kind of math functions here from
+Vital. So we have here bend uh phase
+disperse. Maybe we can use this. Drag
+this into the wavetable LFO.
+And then we switch the wavetable LFO to
+hold.
+And we need to drive this here with the
+PM input by 100%. So the phaser goes
+into the wavetable LFO looks up here the
+position inside of the uh wave table and
+then we use this as a phase signal to
+drive actually the sign oscillator.
+Um
+so you have this the same problem as you
+can see here it's not filling out um the
+space between zero and one. So maybe we
+can do the same trick. Uh we convert
+this. That's probably a better way of
+doing this. Um, so we convert this to
+bipolar signal and then back to uniolar
+signal. Um, and we divide this by um the
+follower output.
+Uh, something like this.
+And then
+gives us maybe a much better
+signal range. Yeah, something like this.
+Um the 50% should be yeah the original
+sign partial
+kind of.
+So all I want to say is you can twist
+the sign oscillator in all kinds of
+different uh shapes and forms and get
+some variety out of it. We can also mix
+and match this, right? So, we have here
+um a normalizer. We keep this
+normalizer.
+We have the wavetable LFO here. And
+maybe we combine this with um a pinch.
+So, this what I showed earlier. And then
+we mix this together.
+Something like this.
+And then here we have the normalizer. It
+keeps you know everything between zero
+and one. And you can influence how much
+the wavetable LFO influences the phase
+and how much the pinch influences the
+waveform.
+Um
+and then we can play around with a lot
+of different uh knobs here and
+modulators in all kinds of different
+directions. Um, then of course maybe a
+chorus.
+Um, the chorus needs to go
+into
+uh let's say maybe here.
+Let's see how this sounds.
+At the end, if you want to make some
+kind of low Nice.
+Something like this.
+Okay. And then we use here vala on that
+bit of reverb.
+And you can create some kind of pad
+sounds with this.
+Maybe use a different uh feature here.
+Let's use pools. Or maybe what's a
+spectral filter? No, that's not
+interesting. Smear, maybe. Let's use
+smear.
+So, we use a random LFO
+on this one here. And we modulate the
+position.
+Or maybe we use a cable for that.
+Like this.
+Use the second one
+for the low pass.
+Okay, I need the amplifier here.
+And yeah, you can see it's just still
+only one sign oscillator here. Very
+basic synthesizer setup. But in front we
+influence how this sign oscillator is
+played back internally just by making
+here a lot of fuss uh on the phase
+signal itself. And yeah, if you just
+disconnect this and use here 1 one as
+ratio, it's just
+just a sign oscillator.
+Let's switch this back to voices to
+eight voices. 10 voices.
+Yeah, these are just a few notes playing
+together. And because every note or
+every voice gets a different seat here
+from these random LFOs,
+you have like an every voice different
+movements.
+Heat. Heat.
+So, in my opinion, just much much better
+than just using one wavetable LFO or one
+wavetable oscillator
+and then you move just back and forth uh
+inside of the wave table and it's always
+the same thing, right? you want to have
+different movement in different places.
+And you can see here it's moving all
+over the place. Uh, and this is like a
+nice setup here to influence the face.
+It's just an example. And you can do
+this in all kinds of different uh
+combinations. It's not like you need to
+do this exactly like I did here. Um,
+maybe this is here anyway. Uh, not
+needed.
+But yeah, it's it's not super
+complicated and you get yeah different
+sounds out of it. So this is my idea I
+want to show you because I just uh
+exported all of these uh waveforms or W
+modes from Vital and I want to share
+this of course with you on my uh GitHub
+so you can download this and try it out
+for yourself.
+Anyway, that's it. Thanks for watching.
+See you next time.
+Heat.
+Heat.
+Heat. Heat.

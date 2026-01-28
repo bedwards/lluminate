@@ -1,0 +1,735 @@
+this animation is zooming out by a
+factor of 10 every 2 seconds maybe
+you've seen things like this before
+conveying the mindboggling scale of our
+universe but here in this video you and
+I are going to continue the Saga through
+the many moments of delightful Ingenuity
+throughout human history that led us to
+First discover how far away objects in
+the cosmos really are appreciating how
+we know these distances is to me more
+amazing than the distances themselves
+this is part two of a collaboration with
+teren TOA and it's okay if you haven't
+yet seen part one each video should be
+relatively self-contained but for
+context we left off with Kepler's
+ingenious method for deducing the shapes
+of all of the orbits of the planets
+around the Sun so people knew what the
+solar system looked like but they still
+didn't have an exact sense of scale and
+this left astronomers hungry to measure
+any distance that they could in this
+system like maybe how far away a given
+planet is from Earth at a given moment
+since that would be enough to lock
+everything else into place now I'll
+admit while I had vaguely learned about
+how this was done before I definitely
+had not appreciated the cleverness of
+the
+details you could measure distances to
+the planets like Venus take two
+measurements on different sides of the
+Earth around the time of Captain Cook
+when when they were traveling to
+discover Australia and so forth part of
+the reason for this was the scientific
+Mission I mean they wanted to know the
+distance to Venus and Mars and so forth
+they wanted people to take precise
+measurements they W in Greenwich in the
+UK and one somewhere in southern
+hemisphere at exactly the same time of
+the same object the key idea here is
+that as you sail down to the Sou
+Southern Hemisphere and You observe a
+given object up in the sky its position
+in the sky say relative to the
+background constellations will appear to
+shift up as the angle of your line of
+sight slowly changes with your position
+we call this Parallax it is the same
+Parallax that we use with binocular
+vision our eyes are a certain distance
+apart and so we can determine depth or
+any distance that's not too much larger
+than the distance between our eyes say
+that now we figured out how to make two
+eyeballs on different sides of the earth
+now if you want to turn this into a
+measurement you first need to understand
+this line right here connecting the two
+different observation points both its
+distance and its direction because
+people knew the size of the Earth and
+they could tell where they were on the
+earth that would be taken care of then
+the hard part is for the first Observer
+to take a precise enough measurement of
+the viewing angle to this object they
+need to deduce this angle here and for
+the second Observer to do likewise if
+you can do that you have a triangle
+where you know all three of the angles
+and you also know one of the side
+lengths this means with just a little
+bit of trigonometry you can figure out
+any other side length which for example
+tells you how far away this object is
+from one of The Observers now the way
+I'm drawing it here it makes it look
+almost easy but for the real world
+measurement you have to keep in mind
+just how far away everything is if we
+zoom out so that they're both looking at
+something as far away as the Moon it
+would look something like this but the
+moon cosmologically speaking is really
+quite close so even if both of them are
+looking at the nearest planet Venus when
+it is at its absolute closest to Earth
+it's around 39 million km away which is
+over 6,000 times the radius of of the
+earth so zooming back in to those two
+observers even if they were as far away
+as you could get them one at the top of
+the earth and another at the bottom of
+the earth these two lines of sight would
+be almost parallel if you work out the
+little bit of trigonometry if they're
+both looking at Venus at its absolute
+closest point the difference in angle
+between these two lines is about one arc
+minute which is 160th of a degree so if
+this is going to work your measurements
+have to be extremely precise and you
+have to be absolutely sure that both
+observers are really looking at the same
+thing at the same moment now at the time
+clocks were not good enough that they
+could actually just say at this specific
+time make this measurement also you're
+not guaranteed that um you can find the
+planet and so forth but um there these
+transits this this called the transit of
+Venus sometimes Venus travels um along
+the the Sun and so you can just time
+exactly when Venus hits um the edge of
+the sun this is the part I had not
+appreciated in particular how sensitive
+everything really is so up in the north
+hemisphere if you're watching the
+transit of Venus maybe it looks
+something like this and far away at some
+point down in the southern hemisphere
+due to Parallax Venus would appear
+higher up and you essentially want to
+know exactly how much higher up now this
+animation is greatly exaggerating the
+difference in reality the two would look
+much much more similar more like this
+and remember there was no photography so
+it's not like they could take pictures
+and closely compare them when you look
+at the Sun up in the sky it spends
+around 32 Ark minutes a viewing angle
+and this is something they would have
+been able to measure the deviation in
+viewing angle to Venus for these two
+observations would be a fraction of an
+arc minute so to measure exactly what
+that fraction was each Observer would
+not try to directly describe where it
+was instead they would measure the
+duration of the transit how long it
+takes from the moment that Venus's
+silhouette first appears on the disc to
+the moment that it leaves critically
+they also would have known how fast
+Venus and the sun are moving through the
+sky at this time and this would let them
+calculate how long it should take
+Venus's apparent position to Traverse
+the distance of say one Sun diameter and
+it turns out to be around 7 hours I
+won't dwell too much on the details for
+how to calculate this but at a high
+level if you think about Earth and Venus
+both orbiting the Sun the angle of this
+line of sight right here from Earth
+through Venus is something they would
+have understood well since thanks to
+Kepler they knew the relative shapes of
+the orbit and how long it takes each
+planet to go around the Sun so in
+principle they could calculate how long
+it should take for this line to scan
+over those 32 arc minutes in the sky
+that the sun occupied the point is that
+by measuring the durations of the
+transit from these two different
+locations that could tell you the
+lengths of these two lines drawn across
+the sun's disc these are very similar
+but measurably different and with a
+little bit of circle geometry the
+lengths of those lines will tell you how
+far apart they are that fraction of an
+arc minute separating the two
+observations and then this in turn from
+everything that we we discussed before
+lets you deduce how far away Venus is in
+terms of the distance between those
+observers that is just so clever to me
+it was Edmund hiy who originally came up
+with this idea but sadly he didn't live
+long enough to see it come to fruition
+before moving on I simply have to tell
+you the story of Gom Le janil he was
+another Explorer also tasked with making
+one of these measurements for the
+transit of Venus specifically he was
+going for the one in 1761 but he was
+delayed by the 7 years war and still at
+Sea when the Transit happened so he was
+unable to make the measurement now the
+next transit of Venus was going to be 8
+years later but after that it wouldn't
+be for another 105 years so he decided
+to extend his journey do a bunch of
+other Explorer things and catch the next
+one and by 1769 he was all set up in the
+Philippines ready to go but on that day
+it was cloudy so he couldn't see
+anything once he finally got back to
+France he found that he had been
+declared dead his wife had remarried and
+his relatives had all plundered his
+estate now remember the reason people
+cared so much was that having this one
+measurement was enough to lock in place
+the scale of the whole solar system so
+once they had it they would
+automatically know every other distance
+involved this was important actually
+because you need to do this in order to
+work out the distance to the Sun the
+distance of the Sun is is the most
+important rung of the ladder it's called
+the astronomical unit almost everything
+beyond the solar system is measured in
+terms of the astronomical unit and so
+they really needed really accurate
+estimates given what we just saw you
+might be able to guess how you can use
+this astronomical unit to measure the
+distance to near my stars but before we
+get to that there's actually one more
+clever deduction that you can make once
+you know this distance a little closer
+to home and Incredibly important for
+physics Roma was measuring Jupiter and
+Jupiter has a small Moon called iio I
+orbits Jupiter really really fast
+because it's really close to Jupiter our
+moon takes 28 days to go around the
+earth IO takes 42 hours this Whi it yeah
+it's it's extremely fast if you if you
+observe Jupiter on a telescope you you
+see I which is just his white dot go go
+in be behind jup Shadow and out in out
+in out RoR was marking down one precise
+moment for each one of these Cycles you
+see IO goes dark when it falls into
+Jupiter's Shadow which it does every
+cycle cuz Jupiter is just so big as it
+emerges it becomes bright again watching
+it through a telescope night after night
+you can mark the exact time that it pops
+back into view and if you go out with
+the telescope and you do this a whole
+bunch what you'll notice is that these
+happen in 42-hour increments like
+clockwork except that it wasn't
+Clockwork so Roma was observing
+I go back and forth back and forth for
+months and he observed that in different
+times of of the year I was ahead of
+schedule I was behind schedule so
+continual picture earth goes on the sun
+Jupiter also goes on the
+sun yeah so when you Imaging the orbit
+of I um it was 20 minutes ahead of 20
+minutes earlier when the Earth was on
+the same side as as Jupiter then when
+the Earth was on the opposite side of
+Jupiter it took 20 minutes longer was
+there was a delay in the orbit so he
+measured this after some very precise
+calculations and Hans realized that the
+reason for this is because light was
+taking 20
+minutes to Traverse its extra distance
+so two astronomical
+units is traversed in about 20 minutes
+that's so clever yeah yeah yeah yeah
+yeah historically this was all before
+the measurement to Venus so at that time
+they didn't actually know the true
+astronomical unit so their estimates for
+the speed of light frankly don't look
+that impressive if you see them but at
+that time it was not even obvious that
+light had a speed for most experiments
+you could do down on Earth at that time
+it just looks instantaneous but at
+astronomical scales it's actually really
+slow and this very clever way to measure
+its speed by observing IO imprecise
+though it was laid the groundwork for
+more precise experiments down on earth
+once people had at least a rough sense
+of how fast it really was I also really
+like this because it comes back around
+to the distance ladder these days with
+technology the more accurate way that we
+measure the distances to planets like
+Venus is not with Parallax but using
+radar but this of course relies on
+knowing the speed of light and now let's
+finally leave our solar system and
+measure the nearby
+Stars again you can use parallax it's
+essentially identical reasoning for how
+we got the distance to Venus only this
+time the two observation points are not
+opposite sides of the earth they're
+opposite sides of Earth's
+orbit that is you measure the star at
+one time of the year and then you8 six
+more months for the earth to be on the
+other side of the Sun make another
+measurement and compare the two angles
+again for demonstration purposes I'll be
+drawing the star unrealistically close
+in principle over the course of 6 months
+the line of sight from the Earth to a
+star slowly changes angle so the
+position of that star in the sky should
+slowly drift over those months and it's
+very subtle but you can actually see
+this in practice this right here is a
+time lapse of a very zoomed in view for
+our nearest neighbor Proxima centuri
+taken over 6 months and you can see that
+over that time it does gently drift with
+respect to the background stars but as
+before the mind-blowing part is to
+appreciate just how subtle the effect is
+and therefore how impressive it is that
+people were able to use this for
+calculation back in the 19 century let's
+actually work out the math here suppose
+a star is a given distance D away and to
+make everything easy let's assume it's
+perpendicular to this connecting line
+between our two observation points this
+angle right here represents half half of
+the change in viewing angle between
+those two observations the tangent of
+that angle opposite over adjacent gives
+you the ratio between one astronomical
+unit and the distance between that star
+and our sun rearranging a little bit
+this change in angle looks like 2 times
+the inverse tangent of that ratio so
+what is that ratio well for that closest
+star that I mentioned Proxima centuri
+it's over 40 trillion kilm away which is
+over four light years and around 260,000
+times an astronomical unit now if you
+plug that in it means that this change
+in angle from the two observation points
+is a tiny tiny portion of a degree let
+me see if I can show you how small this
+is this right here is a circle
+representing 360° of full viewing angle
+and if we zoom in real close to 1°
+you'll remember I mentioned earlier that
+the Sun and also the moon for that
+matter take up about half a degree of
+viewing angle and we often think of this
+as being divided into 60 arc minutes
+well if you zoom in even further to one
+arc minute this is commonly divided into
+60 Arc seconds at its largest Jupiter
+will span about 50 arcs of viewing angle
+so this Parallax for Proxima centari the
+nearest star is only about 1.5 Ark
+seconds as another way to put that in
+perspective this is about the same
+angular size as if you held out a dime
+in front of you but 2 and 1/2 km away a
+mile and a half down from where your eye
+is and that's the closest start it only
+gets worse from there the first
+measurement of this kind was
+successfully done in 1838 by Friedrich
+Bessel it wasn't Proxima centuri they
+wouldn't have been able to know which
+star was closest but over the course of
+The Next Century there was a Monumental
+effort for many more measurements to try
+to catalog as many stars as we could but
+this Parallax idea only really works for
+a tiny portion of our galaxy so to
+figure out the full size of the Milky
+Way that requires a new idea rly
+speaking the uh the Moy way is this I
+can't draw a spiral okay this is again
+maybe a place where your graphics are
+going to be much better than than what I
+I draw here okay that's pretty good I
+like it all right so our St is on one of
+the
+arms yeah mhm yeah so by using Parallax
+by about the 19th century there was
+about maybe a thousand stars close
+enough to the Sun that they knew how far
+away these stars were maybe about 10 100
+light years away so they knew how far
+away these stars are and they knew how
+bright they looked right and so they
+knew how bright they were by um by the
+inverse Square La of of light
+propagation just to spell this out a
+little more explicitly if you imagine
+you have some star in space emitting a
+bunch of light in all directions then at
+a given distance away all of that light
+is evenly spread along a sphere so if
+you're that distance away and you're
+measuring the brightness with some
+little patch of area maybe that
+represents your camera or a photo sensor
+or your pupil something like that the
+amount of light you're receiving depends
+on the proportion of of this total
+sphere that your little area represents
+so for example if you were twice as far
+away that same beam of light that you
+had been measuring up close is now
+spread along four times the area so out
+at this distance if you used the same
+photo sensor with the same area as
+before it would only be measuring a
+quarter as much light in general the
+amount of light that you see the
+apparent brightness of the star is
+proportional to its absolute brightness
+the total amount of light it's giving
+away divided by the square of the
+distance between you and that star so
+for all of those Stars whose distance we
+could measure using Parallax by also
+measuring the apparent brightness
+astronomers could know their absolute
+brightness the other thing they could
+observe is the color of all of these
+Stars the frequency of light that
+they're emitting which is actually
+incredibly helpful for example you can
+start looking for patterns in this data
+imagine you organize all of your stars
+onto a plot where in the X direction
+we're going to sort them by the color
+the common kind of backward seeming
+convention is for higher frequency light
+like blue to go on the left and lower
+frequency like red to be on the right
+then in the y direction you can sort
+according to the absolute brightness of
+these Stars which again you can deduce
+by knowing their distance and using the
+inverse Square law a th points of data
+of intensity and color okay and this is
+this is main sequence most stars live on
+the sequence this is known as the
+herzsprung Russell diagram initially
+created around 1911 the data that went
+into it though represents Decades of
+effort a lot of it com com from this
+group of women at the Harvard College
+Observatory commonly known as the
+Harvard computers the diagram exposes
+how the color of a star can tell you
+something about its absolute brightness
+this main sequence represents one very
+common type of star it includes our sun
+during a phase of its Evolution when
+it's burning hydrogen in its core stars
+in this category that are bigger and
+brighter also tend to burn hotter and
+they have black body radiation more in
+the blue Direction while those that are
+smaller burn cooler and and they radiate
+more in the red Direction so if you see
+some star very far off way too far for
+Parallax measurements and if you also
+know that it should fall into this main
+sequence more on that in a moment its
+color can tell you its absolute
+brightness you fit it to this curve and
+then by using its apparent brightness
+with the inverse Square law you can
+deduce how far away it is now you might
+ask how would you know that a star
+should fall in this main sequence the F
+diagram is much more splotchy than a
+clean line it's got a lot of different
+components representing different types
+of stars the thing to keep in mind is
+that the color information you get from
+a star is much richer than what a single
+number on this x-axis could convey for
+example this right here represents all
+of the relative intensities for light
+that we get from our sun across many
+different wavelengths it's what we call
+its Spectrum this is the usual pattern
+you see you have a general lump
+representing the black body radiation
+with certain wavelengths greatly reduced
+those correspond to the wavelengths of
+light absorbed by the atoms in the Sun
+and where specifically those absorption
+lines fall will tell you what the atoms
+are in the star and from that it helps
+classify what kind of star it even is so
+for example while those Harvard
+computers were doing a bunch of detailed
+analysis of Spectra from all these Stars
+some of them including Antonia Maui and
+Annie Cannon came up with very useful
+classification systems for these Stars
+based on the Spectra you can then use
+that classification scheme to tell you
+which cluster you would expect a given
+Star to Fall in in this Herz sprung
+russle diagram for example whether it
+should be in this main sequence or if
+it's something else entirely like a red
+giant and then once you have this law
+you can then go all throughout the
+Galaxy and you can out measure but it it
+stops working past the Galaxy because
+each individual star becomes too faint
+the Galaxy is only a really tiny portion
+of the full
+[Music]
+Universe okay so you have your one tiny
+little Galaxy here so there's all the
+other galaxies
+hold yeah and so it the Galaxy most
+stars you cannot measure the brightness
+of a sing of a single star because there
+just billions of them all cramped in the
+same place but there are some amazingly
+Bright Stars they're called sephi these
+super giant stars that are thousands of
+times brighter than the sun some of them
+live in our own Galaxy and some of them
+live in other galaxies they still blend
+in but but you can still kind of measure
+their brightness these stars are what
+are called variable stars um so most
+stars they stay the same intensity for
+all time but the seed Stars their their
+brightness oscillates so they have a
+period of intensity like every 20 days
+every 10 days they oscillate and it
+turns out that the bigger the seped the
+brighter it is the longer the period
+Henri SW Lev who was a 20th century
+astronomer she measured all the the SE
+that she could in her own Galaxy and she
+plotted the
+period against the
+intensity and she found basically a
+linear law that the brighter the SEI the
+longer it talk that like the H for gave
+a standard candle that um that if if a
+Galaxy happened to have a seed in it you
+could just observe it
+work out this period that give you this
+intensity that know so now you know how
+bright it should be and you know how
+bright it looks you can measure this
+distance that gave the next rung of the
+ladder so a couple thousand galaxies
+where you can measure the distance but
+that again it's only a tiny portion of
+the universe you ever seen these the
+powers of 10 oh yeah yeah kind of zoom
+in Zoom
+yeah so now this is sort of local
+cluster where where thanks to L you
+could work about the distances and then
+there's the rest of the
+universe but it's enough to get data of
+some kind yes yes and so Hubble Edwin
+Hubble was measuring all these galaxies
+and they have certain spectral lines for
+example um you know there's a lot of
+hydrogen around um each of these um
+these galaxies and so there's certain
+spectral lines of hydrogen that get
+absorbed and so there's certain lines
+that are missing or almost missing in
+the Spectrum but he noticed that for
+some of the galaxies the Spectrum was
+shifted to the red from where it should
+be but not of them and so he measured it
+so he measured his red shift against
+distance and again he got a linear
+relationship um there's actually a
+famous plot in his paper which is now
+called H's law that the red shift is
+proportional to the distance nowadays we
+know why this is true is because general
+relativity predicts that the universe is
+expanding at at a uniform rate and the
+further away things are the more they
+reced and the faster they received about
+more ship they have but again this is a
+predictable law so if you have a galaxy
+far far away
+if you know um what his red shift is you
+just measure Spectrum you you apply this
+law you can walk out of distance so this
+is the largest rung of the ladder that
+we know to date the entire bubble of the
+observable
+universe which we think is about 20% um
+of the whole universe we don't know um
+pretty much every object in the universe
+that image light or some sort of
+radiation uh we can now measure the
+distance to usually by seeing how
+spectral lines shift and so you can
+start mapping things you can do 3D
+pictures of the universe there something
+called the SLO Galactic survey which is
+going to do this for this visualization
+what I did is read in some data from the
+Sloan digital Sky survey which
+Aggregates data about a huge number of
+galaxies including their angle in the
+sky and then critically their distance
+away as measured by Red shift this set
+doesn't include all of the angles in the
+sky that's why it has this kind of wonky
+shape this represents about half a
+million different galaxies visualized as
+a simple Point cloud and in a sense what
+you're looking at is a snapshot of our
+little corner of the universe measured
+out to a radius of about 1.6 billion
+light
+years and one thing that has been
+discovered is that galaxies are not just
+sort of randomly strewn out in space
+they form these
+filaments they form these massive
+structures so a galaxy is itself part of
+these much larger structures the thing
+is that's actually predicted by Theory
+or at least by experiment so we we can
+run in a computer billions of virtual
+galaxies uh Orting by gravity for
+billions of years and what we have found
+with simulations is that the galaxies as
+they um evolve do organize into strands
+that do resemble the strands that we
+begin to see so that is in some sense
+some confirmation that all our theory is
+basically correct if you're using red
+shift what's the error that'll give you
+on the distance that's a good question
+it's hard to calibrate at very large
+scales because we have very few other
+ways to measure the distance um the
+gravitational black hole things those
+are the uh the most exciting normally to
+measure distances at at at this distance
+you need to stack together a huge amount
+of rungs of the ladder first of all the
+distance of the Sun and then from that
+parallel act to work out dist to nearby
+stars and then from that you can work
+out using main sequence fitting distance
+to other stars in the galaxy and then
+Hubble's Law uh SE between that and then
+Hubble you can use the gravitational
+measurements to directly measure the
+distance unfortunately I I don't quite
+remember they're kind of like standard
+Sirens that's what they're called
+there's a certain amount of energy
+that's released by a black ho collision
+and so you know how loud they are in
+absolute terms and but you can also
+measure how how loud they are from your
+Observatory um and they're billions and
+billions of times fainter at that point
+because of the vast distance TR but they
+can use that to in further distance that
+they cross checked against the Hubble
+the red shift calculations it matched
+within like 10% that's reassuring yeah
+yeah know it is very reassuring although
+that 10% is controversial it seems like
+there's something a bit wonky of H's law
+at at very large scales like the same
+10% is showing up elsewhere too it's an
+ongoing mystery exactly what is the
+cause of this 10% and is one of our laws
+of physics wrong there's something very
+basic called the cernic principle that
+is an Article of Faith now since the
+cernic revolution that we believe the
+laws of the universe are pretty much the
+same everywhere in the universe right um
+and this is a fundamental assumption
+that allows us to extend the ladder and
+it's it's always rewarded Us in the past
+it always fits it leads to new laws of
+physics it's everything self consistent
+but there's this slight 9% anomaly of
+10% and it's an ongoing area of the
+subject is is is a living subject
+astronomy but we've gotten a long way
+from that that poor graduate student
+walking
+down a long walk down Egypt
+yes maybe this goes without saying but
+the cosmic distance ladder is too broad
+a topic for two videos to fully convey
+after showing an early view of this on
+patreon for example a number of people
+expressed sadness that there was no
+discussion of type 1A supernovas and
+fitting a story like this into an hour
+necessarily involves at least a little
+simplification along the way luckily for
+the extra curious among you Terry has
+kindly put together an FAQ with a lot of
+added details and Corrections from the
+discussion and he's also working on a
+book about the topic with a collaborator
+Tanya cloudin so you can keep an eye out
+for that
+[Music]

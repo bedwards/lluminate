@@ -1,0 +1,120 @@
+Title: In Fed Firing Case, Trump’s Allergy to Process May Be His Undoing
+Source: wakeuptopolitics
+URL: https://www.wakeuptopolitics.com/p/in-fed-firing-case-trumps-allergy
+Date: Thu, 22 Jan 2026 16:57:06 GMT
+Word Count: 2964
+Estimated Read Time: 14 minutes
+
+================================================================================
+
+On Tuesday, as President Donald Trump held a press briefing to mark his first year back in office, I briefly dropped in through the back door. The room was
+packed
+. It was pure, pulsating chaos. I didn’t stay long, quickly realizing my chances of getting called on were close to nil. Trump seemed to revel in the mayhem: “Wow, that’s a big crowd. That’s a lot of people. I think it’s like a record,” he said as he walked in.
+Then, on Wednesday, I attended the Supreme Court oral arguments in
+Trump v. Cook
+, the case stemming from his attempt to fire Lisa Cook, a member of the Federal Reserve Board of Governors. The settings could not have been less alike. While reporters jostled for position in the briefing room, at the Supreme Court, everyone is told where to sit. There is silence for a few minutes before the justices arrive, and then everyone stands once they do.
+In some ways, Wednesday’s court case was a clash of these two very different operating styles. Trump’s supporters view his approach — busting through the old, slow ways of Washington — as one of his
+greatest strengths
+. Indeed, sometimes it is. But, as I’ve written before, in instances where he rubs up against the law (which is to say,
+a lot
+),
+it’s not
+. In
+Trump v. Cook
+, it could be his undoing.
+If there was one thing that all parties in Wednesday’s case agreed on, it was that, out of all the government agencies in Washington, the Federal Reserve belongs to a category all on its own. With the power to set interest rates, and to move markets with its every utterance, the litigants and the justices alike acknowledged that the Fed should be treated differently than other agencies.
+“We’re all operating on that assumption” of “uniqueness,” Justice Amy Coney Barrett said, citing a special “need for independence” for the central bank that goes beyond, say, the Federal Trade Commission or the National Labor Relations Board (other historically independent agencies where the justices have let Trump move forward with firing officials).
+That said, if you read the
+Federal Reserve Act
+, that extra level of independence doesn’t exactly leap off the page. While FTC commissioners, for example, are only supposed to be fired “for inefficiency, neglect of duty, or malfeasance in office,” the Fed statute says that its governors can be fired “for cause,” a much looser standard. There is no mention of any sort of process the president is supposed to follow before determining whether “cause” exists.
+Thus, the case presents a series of cross-cutting impulses for the Supreme Court’s conservative majority, which is generally supportive of the president’s right to fire people (as adherents of the Unitary Executive Theory), but also clearly views the Fed as distinct, but
+also
+like for their rulings to be firmly rooted in what a statute says (as textualists). “There are a million hard questions in this case,” Justice Samuel Alito said, noting that many of the questions come with either “no precedent” or a “very uncertain body of precedent.”
+Ultimately I, like most reporters, left the court on Wednesday believing that Trump was poised to lose the case — but, as I listened to the arguments, I couldn’t help but shake the feeling that this was a case Trump
+could
+have won. Yes, the court’s conservatives want to maintain the Fed’s independence. But it seemed like they might have been forced to put that aside and listen to their inner Unitary Executive Theorists and inner textualists, if only Trump had followed a
+little
+bit of a process here — if he had done things
+their
+way, in other words. But he didn’t. He never does.
+In an attempt to recognize the unique nature of the Fed, Trump did handle Cook’s firing differently … to a point. Unlike in other cases, where he has argued that restrictions on the president’s firing power are unconstitutional, here he played along, offering a purported cause for Cook’s dismissal. Before serving on the Fed board, Trump has alleged, Cook committed mortgage fraud, by signing documents for two different properties around the same time, claiming in both that they would be her primary residence. (Cook’s lawyers have said that one of the designations was “inadvertent,” and noted that in another document, she correctly described that property as a “vacation home.”)
+Trump did not give Cook an opportunity to respond to the accusation before trying to remove her, unless you count the time between Trump linking to a report of the alleged mortgage fraud in a
+social media post
+on August 20 (“Cook must resign, now!!!” he wrote) and his
+attempt to fire her
+on August 25.
+“All [a previous Supreme Court precedent] says is you have to be told of what the basis is of the allegations against you and give a chance to tell your side,” Solicitor General John Sauer, who represented Trump on Wednesday, told the justices. “We believe that was provided in the five-day window between the Truth Social post and the removal letter.”
+The justices appeared skeptical that a social media post could be imbued with so much power, although, of course, Trump has tried to govern by Truth Social post all year. In fact, it’s a good thing there are no cameras allowed in the Supreme Court, because if Trump had been watching Wednesday, he would have seen the courtroom laugh repeatedly at the mention of “Truth Social” (the first time those words have ever been invoked in oral argument at the Supreme Court). Here’s one representative exchange, with the liberal Justice Ketanji Brown Jackson:
+JACKSON:
+So what I’m trying to understand is what is the evidence that has been presented and considered with respect to Ms. Cook’s alleged misconduct?
+SAUER:
+Well, the removal order addresses that because it—
+JACKSON:
+What is the removal order? The Truth Social post?
+SAUER
+: No, it’s the August 25th letter. I think it’s Doc 1-4 in the district court. But the removal order addresses that. The evidence is you have mortgage applications within two weeks of each other that make clearly conflicting representations.
+JACKSON:
+Was Ms. Cook given the opportunity in some sort of formal proceeding to contest that evidence or explain it?
+SAUER
+: Not a formal proceeding. She was given an opportunity in public because she was notified.
+JACKSON:
+In the world?
+SAUER:
+Yes.
+JACKSON:
+Like, she was supposed to post about it and that was the opportunity to be heard that you’re saying was afforded to her in this case?
+SAUER:
+Yeah.
+The conservative justices didn’t seem sold either. When Sauer complained about the district court order in the case, which had called for the president to give Cook a more thorough process before firing her, Justice Barrett responded: “Well, they told you to go farther but not that much farther. I mean, okay, so there was the Truth Social posts and then, you know, burden on her to come back in five days. I understand that’s your position,” Barrett said, not really seeming like she bought it.
+But simply holding a meeting, where Trump presents Cook with the evidence against her and “gives her a chance to defend herself, I mean, that just wouldn’t be that big a deal, it seems, if that’s enough,” Barrett added.
+“What’s the fear of more process here?” Justice Brett Kavanaugh, another Trump appointee, asked. “In the sense that process protects you, in the sense of helping you make better, more accurate decisions, and it helps — process helps you then convince people on the outside that you’ve made a considered, thorough, appropriate decision. What’s the concern about more process?”
+Lawyers, by training, are process-oriented — and Supreme Court justices especially so. Trump, however, is allergic to process. This led to major losses for the president in his first term, when the court used process concerns to rule against him on
+adding a citizenship question to the census
+and
+rescinding protections for immigrants who entered the U.S. illegally as minors
+.
+The same thing seems poised to happen in the Cook case, where Trump could have protected himself with just a tad bit of process: maybe a meeting with Cook before trying to dismiss her, or even a notice more formal than a four-word post on social media. Even Cook’s lawyer, the veteran conservative litigator Paul Clement, acknowledged that the statute was vague on what sort of hearing and notice (if any) Trump was required to provide Cook.
+Clement noted,
+as I’ve detailed before
+, that the first president (William Howard Taft) to fire an official whose dismissal was only allowed “for cause” impaneled a three-person investigative committee, which held public hearings and interviewed witnesses before giving a recommendation on whether “cause” existed for the firing. “We’re not suggesting that you need to give the full Taft,” Clement said. “The president would have a lot of flexibility on that.”
+But a little bit of process could have gone a long way, Clement said; he even seemed to suggest that a court’s ability to review the president’s “cause” determination wanes as the amount of process put into it waxes. “I think the more process that the president provides, the less room there’s going to be for judicial review and judicial second-guessing of factual determinations,” Clement said. That was Cook’s own lawyer, giving Trump a route to strengthen his case against her, if only he had provided more process than a social media post. Trump has shown no interest in taking him up on it.
+All of this gives the justices a path to do their favorite thing: punt on the bigger questions and issue a narrow ruling. “It does seem to me,” Clement told Chief Justice John Roberts at one point, “if you want to reserve judgment on the substance or you want more briefing on the substance, you could say…at a minimum, [Cook] didn’t get the process you were supposed to, so the government doesn’t get this extraordinary emergency stay.”
+Clement also noted that the Trump administration only ever accuses Cook of “apparent mortgage fraud,” since she has never been convicted (or even indicted) of such a charge. The justices could also rule that a misdeed can’t just be “apparent” to qualify as “cause,” Clement recommended.
+In other words, the justices could dodge the broader questions at play, preserving the ability of a president to fire a Fed governor, but merely say that
+this
+allegation, done
+this
+way, simply doesn’t cut it. Once again, Trump’s spontaneous, not-very-lawyerly approach may have given the justices an easy out.
+Federal Reserve Governor Lisa Cook leaving the Supreme Court on Wednesday. She declined to answer my question about how she felt the arguments went. (Video by Gabe Fleisher)
+All that said, the justices also didn’t seem very sympathetic to Trump on the substance, whether or not they make their ruling at this stage broad enough to say so.
+Even if they are willing to sacrifice other independent agencies at the altar of the Unitary Executive Theory, they care about the Fed. At one point, Justice Kavanaugh practically browbeat Sauer into acknowledging that the Fed was made independent for a reason, and then said: “Your position that there’s no judicial review, no process required, no remedy available, a very low bar for cause that the president alone determines, I mean, that would weaken, if not shatter, the independence of the Federal Reserve that we just discussed.”
+This case is being handled on the court’s emergency docket, where the justices decide the temporary posture of a situation before making a final ruling on the merits. Normally, emergency docket cases don’t come with an oral argument; the justices made an exception for this dispute, another hint at the gravity with which they treat the Fed.
+In a 2009 case,
+Nken v. Holder
+, the Supreme Court listed out the four factors it uses when deciding to grant an emergency stay (in this case, deciding whether to grant Trump’s request that Cook be temporarily removed from the board while the full case is decided):
+“Whether the stay applicant has made a strong showing that he is likely to succeed on the merits.”
+“Whether the applicant will be irreparably injured absent a stay.”
+“Whether issuance of the stay will substantially injure the other parties interested in the proceeding.”
+“Where the public interest lies.”
+Essentially, the justices are supposed to weigh the risk of granting a stay against the risk of not granting one, a practice known as “balancing the equities.” Here, several justices seemed to sympathize more with Cook’s side of the equation. “If there is a risk [of the markets responding negatively to the removal of a Fed governor], doesn’t that counsel, in the stay posture when the equities are at stake, caution on our part?” Justice Barrett asked.
+The justices also seemed concerned about the prospect of an extended tit-for-tat, in which presidents of each party fire the other party’s Fed appointees upon entering office. This is something they’ve warned about before, both in
+Trump v. United States
+(giving presidents some amount of criminal immunity in part to avoid a constant cycle of revenge prosecutions) and in the oral arguments on Trump’s tariffs (noting the consequences sanctioning Trump’s assertion of power now would have for presidents of parties down the line).
+“Let’s talk about the real-world downstream effects of this because, if this were set as a precedent, it seems to me, just thinking big picture, what goes around comes around,” Justice Kavanaugh said on Wednesday. “All of the current president’s appointees would likely be removed for cause on January 20, 2029, if there’s a Democratic president or January 20, 2033, and then we’re really at at-will removal. So what are we doing here?”
+When Sauer replied that he “cannot predict what future presidents may or may not do,” Kavanaugh responded: “Well, history is a pretty good guide. Once these tools are unleashed, they are used by both sides and usually more the second time around.”
+Sauer repeatedly urged the justices to preserve what’s known as the presumption of regularity, the court’s practice of essentially giving the president the benefit of the doubt, assuming that his representations to the court come in good faith. Here, that would mean taking Trump’s word for it that Cook was fired “for cause,” not because of policy disagreements. The justices didn’t necessarily seem prepared to extend Trump that courtesy.
+Having attended all of the major Supreme Court cases involving Trump over the past year, this was by far the one where he received the toughest hearing. One pattern I’ve noticed is that the Democratic appointees, in a 6-3 minority, will often take pains to cite their conservative colleagues during these arguments, trying to nudge the case in a Trump-skeptical direction by following up on any concerns the conservative justices raise.
+This strategy was especially apparent on Wednesday, as Justice Jackson cited Justices Barrett and Kavanaugh, Justice Sonia Sotomayor cited Justices Alito and Roberts, and Justice Elena Kagan cited Justices Roberts and Gorsuch.
+Throughout it all, Federal Reserve Chair Jerome Powell, just a week removed from his own confrontation with the president, sat stone-faced in the audience, staring straight ahead.
+Powell has a fair amount in common with several of the justices, especially Chief Justice John Roberts. They’re both men in their early 70s, who attended Catholic prep schools before going onto elite universities and law schools. They’ve each scaled the heights of their chosen fields — law and finance, respectively — by weaving in and out of the public and private sectors, serving together in the George H.W. Bush administration (Roberts as Principal Deputy Solicitor General, Powell as Under Secretary of the Treasury) and then separately as partners at white-shoe firms like Hogan Lovells (Roberts) and the Carlyle Group (Powell).
+Appointed by Republican presidents to two of Washington’s most powerful roles, they are a recognizable type: moderate, center-right figures respected by elites on both sides of the aisle. They are the sort of person who gets described as an “institutionalist” in articles like this. To use a term once applied to their old boss 41, they are classic “country club Republicans” — literally: they belong to the same country club in Chevy Chase, Maryland, the leafy D.C. suburb they both call home.
+They are, in short, the type of person who
+used
+to run Washington, before Donald Trump burst onto the scene. And they ran it in a certain way: circumspect, measured, careful with every word. (There is a reason why, when both of them have
+seen occasion
+to
+issue rare public statements
+against Trump, it has caused a major splash.)
+Trump’s brash style, rarely running a thorough process when a Truth Social post would do, has swept across Washington over the past decade. Now he wants to impose it on the Fed — if only that other staid institution, the Supreme Court, gives him permission first.
+The justices view themselves as the custodians of process in Washington, and of the larger dynamic between the branches of the government: “We have to be aware of what we’re doing and the consequences of your position for the structure of the government,” Justice Kavanaugh told Sauer. Presidents are temporary, but justices are there for the long haul; they have to consider the long-term effect of every decision, not just the short-term outcome.
+This sort of institutional thinking has been weakened in Trump’s Washington, but the Supreme Court is one place it still shows up. By the looks of it Wednesday, the justices are not prepared to give up the ghost on process and long-term thinking, even if it flies in the face of how the current president prefers to operate.

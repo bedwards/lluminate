@@ -1,0 +1,1000 @@
+Title: The Weeb Economy
+Source: noahpinion
+URL: https://www.noahpinion.blog/p/the-weeb-economy
+Date: Tue, 30 Dec 2025 09:43:45 GMT
+Word Count: 20377
+Estimated Read Time: 101 minutes
+
+================================================================================
+
+This March I published a book in Japanese, called
+Weeb Economy
+. Half of the book was republished (translated) posts from my blog, and half was a new section. I’ve been publishing that new section as a series of posts (
+Part I
+,
+Part II
+,
+Part III
+). But instead of publishing the final part as a fourth post, I figured I’d just publish the entire new section as a single post. So here you go! This is the entire new section of my book. It’s about a big idea for how to partially reverse the economic stagnation that has gripped Japan since the late 2000s.
+Part I: I want the Japanese future back!
+Japan lost the future in 2008, not in 1990
+When I lived in Japan in the mid-2000s, it still felt very much like “the future”. 3g flip-phones with grainy cameras were far more advanced than anything I had encountered in the U.S. Japanese people had LCD or plasma TVs, while most Americans were still using old cathode-ray machines. Their kitchens had automatic rice-cookers and other appliances I had never seen, and their laptops were higher-performance and far more durable than the ones I had used in the U.S. Their toilets were like something from a spaceship, and their showers could dry clothing. Some people even had digital SLR cameras that could shoot movie-quality video — a miraculous technology I had never even dreamed was possible.
+Noahpinion is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber.
+And the cities! Giant screens adorned the sides of buildings, like something out of science fiction. There was always a train station within walking distance that would take me anywhere I wanted to go. The trains were clean and fast and they ran on time, and they even had electronic screens that told you when the train would arrive at the next station. Japanese cars and even motorcycles glided along quietly, where in America they roared and grumbled. Even in the U.S., of course, the most revolutionary, futuristic car — the Toyota Prius — was a Japanese model.
+In the 21st century’s opening decade, Japan felt like it had embraced that new century while America was still lingering in the 20th. William Gibson, the celebrated creator of the cyberpunk science fiction genre,
+wrote this
+in 2001:
+The world's second-richest economy, after nearly a decade of stagflation…still looks like the world's richest place, but energies have shifted…yet it feels to me as though all that crazy momentum has finally arrived…[T]onight, watching the Japanese do what they do here, amid all this electric kitsch, all this randomly overlapped media, this chaotically stable neon storm of marketing hoopla, I've got my answer: Japan is still the future, and if the vertigo is gone, it really only means that they've made it out the far end of that tunnel of prematurely accelerated change. Here, in the first city to have this firmly and this comfortably arrived in this new century - the most truly contemporary city on earth - the center is holding…Home at last, in the 21st century.
+Now realize that the Japan of my earliest memories — the early and mid-2000s — was a full
+decade and a half
+after the famous bursting of Japan’s economic bubble. I am not hearkening back to the go-go days of the 1980s. By the time Koizumi Junichiro was in office, Japan’s “lost decade” had come and passed, full employment had been restored, and the country had returned to slow but steady economic growth. Despite the overhang of the bubble era, Japanese per capita incomes, measured at international price levels, grew by a respectable 20% between 1990 and 2007:
+Source:
+Our World in Data
+This was slower than the U.S. or West Europe, but that was mainly due to Japan’s more rapid population aging, which was increasing the percentage of retirees. In terms of GDP per
+worker
+, Japan kept pace with other rich countries over this time period, and even outgrew the United States:
+Source:
+Our World in Data
+And this growth was being felt by regular Japanese people. It wasn’t just fancy gadgetry and big screens. Japanese houses were getting steadily bigger, growing from the tiny “rabbit hutches” of the postwar period into something similar to what Europeans enjoyed:
+Japanese people were eating better, too, as local chefs and entrepreneurs took advantage of imported food to create the world’s best restaurant scene, and big new grocery stores like Aeon revolutionized home cooking. Gyms, cafes, and all kinds of public spaces were improving in quality and quantity. Culturally, Japan still felt at the cutting edge, with a vibrant street fashion scene, a golden age of anime and manga, a burst of musical creativity, and an explosion of online culture driven by websites like Niconico.
+Given all this, it’s reasonable to ask whether Japan’s so-called “lost decades” after the bubble era were really lost at all. Japan’s catch-up growth had ended, and its living standards were still a bit below the very richest countries like Switzerland or Singapore, but it was solidly within the first rank of nations, and it was still upwardly mobile. It was innovative and vital, at the cutting edge of both technology and culture. And it had accomplished all of this without the kind of deep wrenching disruptions that America experienced after its own real estate bust.
+But in the years since 2007, it feels like that Japanese future has been lost. Living standards grew only 6.5% between 2007 and 2022.:
+Source:
+Our World in Data
+And even that meager amount of growth was entirely due to increased labor input — women, old people, and young people going to work — rather than to productivity increases. In fact, Japanese workers produced
+less
+per hour in 2019 than in 2007, falling well behind other advanced nations:
+Why did Japan stagnate starting in 2008? It’s not clear. Potential culprits include the global financial crisis,
+1
+the big earthquake and nuclear accident of 2011, the subsequent shutdown of nuclear power,
+rapid aging
+, the retirement of the Baby Boom generation, and the ramping up of Chinese competition. Perhaps it was all of these combined. But whatever the reason, 2008 was the turning point.
+This doesn’t mean Japan has stagnated in every regard. Its big cities continue to build themselves up, and its restaurants and shops have continued to improve. But when I go back to Japan each year, I can clearly feel the loss of that futuristic vitality that I felt 17 years ago. Japan’s consumer electronics are no longer the cutting edge, having long ago been supplanted by Apple and various other brands. Its auto companies have been caught flat-footed by the switch to battery EVs, and are now — like most Western brands — are in danger of losing the global market to
+innovative Chinese competitors
+.
+America’s household appliances have caught up and surpassed Japan’s — plenty of American homes now sport Instant Pots, air fryers, sous vide cookers, video doorbells, smart speakers, and so on. Japan still has much better toilets, and there have been some locally specific innovations such as better air purifiers. But for the most part, Japanese homes still feel like they’re stuck in 2007. And that’s not even considering furniture, which tends to be much higher-quality in the U.S.
+This does not mean Japan is a
+bad
+place to live, or that it’s no longer a rich country. Far from it. In fact, the amenities of life — the safety and friendliness, the visual beauty, the infrastructure, the unparalleled retail experience, and so on — make it extremely pleasant in ways that richer countries often fail to match. And if, like me, you’re a foreigner with an American salary who works remotely and sets his own hours, Japan can feel like a paradise. (In fact, this will be important for my argument in a bit.)
+But for average Japanese people, life in Japan is hard to afford. Average real wages have
+actually decreased since 1996
+:
+Source:
+Ito Takatoshi
+The situation is actually
+not quite that bad
+, since it involves substantial composition effects — falling labor hours, the retirement of highly paid Baby Boomers, the entry of more part-time workers into the labor force, and so on. In fact, hourly wages have increased by a modest amount. And
+the rise of women’s employment
+since 2002 has taken some financial pressure off of many families by adding a second income, just as it did in the U.S. in the 1980s and 1990s.
+But the shift to dual-income households can only happen once. Ultimately, stagnant productivity and low overall growth will continue to make life a slog for the average Japanese family. The weak yen, which is caused in part by Japan’s slow growth, will continue to make imports expensive. And as the percentage of the elderly continues to steadily increase, Japan’s working-age citizens will have to toil more and more simply to afford the same standards of living —
+unless productivity can be raised
+.
+Because being “the future” isn’t just about having fancy gadgets and cool screens on buildings. Technological progress — the development of new products and better production processes — is the ultimate font of a nation’s quality of life. If Japan can reclaim the mantle of “the future” — if it can reach the technological cutting edge across a wider array of products — it can secure an easier, more fulfilling life for its people.
+Ultimately that is why I want the Japanese future back.
+Stagnation isn’t a criticism; it’s an opportunity
+Before I start coming up with ideas and recommendations, I think I should talk a bit about how we ought to think about economic stagnation.
+In the years after Japan’s asset bubble burst, lots of authors took the opportunity to publish very harsh criticisms of nearly every facet of Japan’s economy and society. An archetypical work in this genre is Alex Kerr’s
+Dogs and Demons: The Fall of Modern Japan
+, published in 2002, which is a laundry list of assorted complaints about Japanese policy and society. Some of those complaints were accurate, while others — such as the idea that Japan killed its tourism industry by developing its cities too much — now look laughable in hindsight.
+Right or wrong, though, my sense is that broadsides like Kerr’s, while certainly heartfelt and well-meaning, are ultimately counterproductive. Among those who take the criticisms to heart, they create a feeling of general despair and helplessness. And among those who recognize the flaws in the critiques, they create a siege mentality; many become convinced that people who point out Japan’s economic struggles are “anti-Japan”. Either way, the result is a general pall of
+pessimism
+. And if there’s one thing Japan definitely has too much of, it’s pessimism.
+Thus, my aim in this particular essay is not to criticize Japan’s corporate culture, government bureaucracy, cabinet policy, or general attitudes. Stagnation is a fact, but we shouldn’t see it as a failing of Japanese society. Instead, we should see it as an
+opportunity
+.
+Japan is still a developed country, but the years of stagnation since 2007 have given it some of the advantages of a
+developing
+country. Being behind the technological frontier means that other countries have done much of the hard work of pioneering new products, new business methods, new production processes, and so on. This gives Japan the opportunity to play a bit of catch-up, which is always easier than advancing the frontier.
+From the 1950s through the 1970s, as Japan strove to recover from postwar poverty and to catch up with the U.S., Japanese entrepreneurs in the electronics, automotive, and machine tool industries either licensed technology from more established American companies, used their published research results, or reverse-engineered their products. Today, there is no reason Japanese engineers and entrepreneurs can’t learn from Taiwanese and Dutch semiconductor companies, American AI and software companies, Chinese EV and battery companies, and so on — and then, eventually, surpass them.
+Years of wage stagnation and the weak yen have also
+given Japan
+another developing-country advantage: low costs. This creates an opportunity for Japan to both attract investment from all over the world, and to increase exports. In fact,
+both of these are already happening
+on a limited scale, as Nikkei Asia’s Obayashi Hiroki reported in March 2024:
+The depreciating yen is reviving Japan's appeal as a manufacturing hub for goods such as cosmetics, while the lower costs for exporters have bolstered the competitiveness of Japanese rice abroad…South Korea's Cosmax, a contract manufacturer for cosmetics companies, plans to start building its first plant in Japan…Japan is drawing interest from global companies looking for a cost-competitive place to manufacture…
+[S]ome Japanese companies are maneuvering to take advantage of the shifting landscape…JVCKenwood, which controls the third-largest global share in professional wireless systems, has repatriated all U.S. capacity to Japan…Manufacturing costs have declined by 30% through lower costs for material and labor.
+Another way to put this is that because Japan has fallen a bit behind many other rich countries in terms of productivity, it has the opportunity to experience a period of rapid growth as it catches back up to the frontier. Let’s do a quick calculation. Right now, France’s labor productivity is 61% higher than Japan’s, and grew at 1.26% year from 2009 to 2019. If Japan could catch up to France over the next three decades in terms of both the level
+and
+the growth rate of productivity, it means living standards would grow at around 2.86% per year — almost as fast as as in the bubble years of the 1980s. Regular Japanese people would feel like they’re getting richer every year, contributing to a feeling of optimism that has been absent from the country for too long.
+Japanese people are far from poor by international standards, but they would certainly enjoy being wealthier. In the 1950s and early 1960s,
+Japanese households reveled
+in the chance to have washing machines, televisions, and refrigerators; in the following decade, it was cars, air conditioners, and color TVs. In the 2020s and 2030s, the next set of “sacred treasures” could be futuristic gadgets like electric cars, AI assistants, heat pumps,
+battery-powered appliances
+, or personal care robots. They could be simple things like bigger houses, cheaper elder care and child care, and more comfortable sofas. Or they could be something that hasn’t even been invented yet.
+A wealthier Japan would also have the opportunity to take more time off of work and indulge in artistic and creative pursuits, like they did in the 1990s and early 2000s. The independent fashion, comics, music, film, art, and animation scenes could flower again. And with more of a cushion of wealth, independent auteurs could take more risks with their careers — the next Shiina Ringo, Kojima Hideo, or Watanabe Shinichiro shouldn’t have to spend their formative years working sixty hours a week at a restaurant just to make ends meet.
+In my experience, analyses of Japan’s economic problems tend to ask “What went wrong?”. Was it the financial crisis of 2008, or was it the rise of China? Was it the shutdown of nuclear plants, or was it rapid aging? Was it Japan’s old-fashioned corporate culture, or was it government policy mistakes? And so on. But while the question of “What went wrong?” is certainly of interest to academics, in my mind it is not the question that we should be asking with regards to Japan’s economy right now. Instead, we should be asking
+“What could go right?”
+. What could we do right now, in order to make Japan richer?
+This is the mindset of a young, hungry developing country. I believe that developed countries could benefit from more of this mindset, and few could benefit more than Japan. Economic growth isn’t something to be maintained out of fear of falling behind. It’s something to aspire to, so that tomorrow will be better than today. Japan now has more to aspire to, and that’s not a bad thing.
+Forget about macroeconomics. It’s time for development economics.
+When I think of what sort of strategies Japan could use to reclaim the future, I think about
+development
+rather than
+macroeconomics
+.
+Macro policies are what a country uses when there’s a shortage of aggregate demand — idle workers and idle factories, waiting to be called into use. In a rich country, aggregate demand shortages are the main threat to growth. The tools to fight them are monetary easing (having the central bank buy bonds and other assets) and fiscal stimulus (government borrowing and spending).
+In the 1990s, after Japan’s real estate bubble burst, the government used both of these policy tools to prevent unemployment from rising too high. And in the 2010s, former Japanese Prime Minister Abe Shinzo and Bank of Japan Governor Kuroda Haruhiko used both of these policies to put more of the Japanese population to work.
+Macroeconomic policies — mostly monetary policy — largely succeeded in boosting employment under Abe.
+2
+For most of Japan’s postwar history, between 67 and 70 percent of Japanese adults aged 15-64 were employed; under Abe that increased to 78%:
+Source:
+Federal Reserve Economic Data
+Housewives and NEETs moved into the workforce, and people took fewer early retirements. In fact, many seniors in Japan
+started working longer
+into their golden years.
+Abe and Kuroda’s macro policies put the nation to work. This is why Japan was able to eke out a 6.5% rise in GDP per capita between 2007 and 2022, despite zero productivity growth and rapid population aging. But this is the kind of achievement that can
+only happen once
+. Essentially everyone in Japan now has a job — there’s no one left to move into the workforce.
+That means there’s no more scope for macroeconomic policies to help Japan grow. Obviously, full employment should be maintained, and future recessions will need to be fought. But if Japan is going to boost its people’s living standards into the top rank, it’s going to need
+microeconomic
+policy instead.
+The standard tools of microeconomic policy are regulatory improvement, tax changes, and innovation policy. These will all be important for Japan. And I also believe that
+industrial policy
+— the practice of encouraging specific groups of industries, and even specific industries — will be important as well. Japan used the “
+developmental state
+” to great effect in its postwar miracle, and I believe this can help to produce another, smaller miracle today. But the development strategies that work in the 21st century are going to look different than what worked in the 20th.
+Multi-strategy development: Try everything at once!
+Outsiders have written two canonical, authoritative books about Japan’s postwar economic miracle. These are Chalmers Johnson’s
+MITI and the Japanese Miracle
+, and Bob Johnstone’s
+We Were Burning: Japanese Entrepreneurs and the Forging of the Electronic Age
+. These should always be read as a pair, because they reach almost exactly the opposite conclusions about why Japan succeeded from the 1950s through the 1980s.
+Johnson believes that Japan’s secret sauce was the developmental state — in particular, the old Ministry of International Trade and Industry. He argues that it was Japan’s hyper-competent bureaucrats — selected from the best and the brightest, and motivated by a high-pressure “up-or-out” career path — who engineered Japan’s miracle. The key policies, as he sees it, were A) encouraging cheap finance to increase production for the domestic market, and B) controlling the flow of foreign exchange to encourage heavy industry, and later electronics.
+Johnstone, by contrast, believes that MITI simply got in the way of Japan’s true source of growth: private entrepreneurs and inventors. He tells the stories of heroic engineers like Tadashi Sasaki, Iwama Kazuo, Kuwano Yukinori, and Nakamura Shuji, and the bold entrepreneurs who backed their ideas at companies like Sharp, Casio, Soney, and Stanley. Johnstone argues that by focusing on established companies instead of upstarts, MITI ignored or even hindered this historic wave of innovation.
+Who is right, Johnson or Johnstone? The likeliest answer, given the many compelling stories that each author uses to make his case, is that
+they’re both right
+. Japan’s postwar miracle was not the triumph of a single “silver bullet” theory of development, but a multi-strategy effort. Even as bureaucrats were nudging big old Japanese companies toward the future, private entrepreneurs were doing their own thing. Occasionally these efforts came into conflict over scare resources, but in general they coexisted successfully; rapid productivity growth at home and access to global markets abroad meant that there was plenty of demand for the products of both types of companies.
+In fact, this might not have been a happy accident, but an inherent advantage of multi-strategy development. The economists Ricardo Hausmann and César A. Hidalgo have
+done research showing
+that a nation’s economic
+complexity
+— the variety of different goods and services it produces — is a good predictor of its growth. Japan’s bifurcation into a government-directed big corporate sector and a more freewheeling entrepreneurial sector in the postwar years may have contributed to its economic success, since those two types of companies tend to address different markets and create different kinds of products.
+In the end,
+both
+types of companies succeeded in the mid- to late 20th century — the Toyotas and the NECs of the world, and also the Sonys and the Sharps. Had either type had failed, Japan’s postwar miracle would have been weaker. Johnson and Johnstone have each grasped once piece of the proverbial elephant.
+It’s very likely that the same principle holds true for developed countries. Consider the U.S., whose economy has done better than almost any other rich country in recent decades. Go down
+the list
+of the most valuable American companies, and you’ll see relative newcomers like Apple, Microsoft, Nvidia, Amazon, and Google at the top. But scroll just a little farther down, and you’ll see older companies like Eli Lilly (founded 1876), Procter & Gamble (founded 1837), Johnson & Johnson (founded 1886), and General Electric (founded 1892).
+Even the most entrepreneurial countries don’t replace most of their older firms; they simply add to the list. Apple and Google added huge value to the American economy, but they didn’t do it by replacing the likes of Eli Lilly or General Electric; instead, they opened up new markets and developed different kinds of products. A few of America’s old companies withered and died, but many succeeded in improving their operations, sustaining their innovation, adopting new technologies, modernizing their management styles, and continuously looking for their own new markets. Even Microsoft, which was a hard-charging startup just a few decades ago, recently had to reinvent itself as a cloud computing company in order to maintain its position.
+The lesson here is that a successful development push shouldn’t put all its eggs in the basket of a single overriding theory. Because we don’t know in advance what will work, various approaches and models should be tried
+in parallel
+in order to improve productivity. Just as a basketball team needs both three-point shooters and “slashers” who drive to the paint, a country’s economy needs multiple ways to attack the problem of development.
+Japan’s pincer attack against stagnation
+In fact, there are signs that Japan is already beginning its industrial revival, and we can see at least two different strategies at work. Roughly speaking, these are A) revitalizing existing Japanese companies through changes in corporate governance, business strategy, and labor practices, and B) developing new companies by encouraging startups.
+In her 2020 book
+The Business Reinvention of Japan
+, Ulrike Schaede argues that the first of these is going well. She explains how some large Japanese companies like FANUC, Mitsubishi Electric, and Fujifilm have streamlined themselves by selling off many non-core competencies, and how they’ve carved out defensible, profitable export niches for themselves by making high-tech components and materials. She cites policies like Japan’s new
+Corporate Governance Code
+and
+Stewardship Code
+, as well as former Prime Minister Abe Shinzo’s rhetorical focus on increasing corporate profits, as having contributed significantly to this revival. She also cites financial innovations like the JPX-Nikkei 400 stock index, which selectively highlights and promotes companies based on various measures of profitability.
+There is some evidence to support Schaede’s view. Japan’s corporate profits have seen a revival since the early 2010s:
+Source:
+James Montier
+As
+James Montier
+and other have pointed out, a lot of this has been from corporate deleveraging; operating profits, which give a better indication of a company’s long-term economic strength, have increased by a more modest amount. But the trend is definitely in the right direction!
+And investors have recognized corporate Japan’s revival. The Nikkei 225 stock index has been on a tear recently,
+outpacing other world stock markets
+by quite a bit, and finally reattaining the heights of the bubble period:
+Source:
+Google
+As Schaede and others have shown, much of this increase comes from
+greater foreign demand
+for Japanese stocks, meaning that the world is betting on Japan, Inc.
+Meanwhile, although Japan no longer has a trade surplus, its exports have been rising:
+Source:
+World Bank
+Meanwhile, signs of changes in Japan’s traditional corporate culture are starting to emerge. One key shift is the move away from lifetime employment toward mid-career hiring. Nikkei Asia
+reports
+:
+Japanese companies will fill 37.6% of job openings with midcareer hires this fiscal year, a Nikkei study shows, the share representing the largest-ever shift away from Japan's traditional lifetime employment model…The ratio of midcareer hiring had hovered in the teens until fiscal 2017, then rose rapidly until topping 30% five years later.
+So far, surveys suggest that a little over half of Japanese job-switchers are
+happy with the outcome
+.
+Another big shift is the rise in female managers. Although Japan isn’t close to hitting the 30% target that former Prime Minister Abe set out, the number has steadily risen, and
+stood at around 15% in 2021
+.
+Meanwhile, hybrid work is becoming more popular. According to
+one recent survey
+, over 70% of Japanese workers now work at least one day a week outside the office. This will probably help Japanese companies shift from a focus on work
+inputs
+to work
+outputs
+, since remote work inherently rewards completion of concrete tasks rather than the number of hours an employee sits at their desk. That will eventually help boost productivity.
+Corporate Japan is slow to change, but it is changing.
+This is all good, and should be counted as a success for Abenomics and for Japanese management. But so far the revolution in corporate profits, stock prices, and exports hasn’t been enough to revive real wages or productivity in the aggregate. Japan needs other strategies
+in addition
+to Schaede’s “aggregate niche” strategy.
+In his 2023 book
+The Contest for Japan’s Economic Future
+, Richard Katz outlines a radically different strategy for Japan’s economic revival. He doubts that big corporations will ultimately be nimble enough to reinvent themselves en masse, noting that in the U.S., there’s high turnover among the biggest companies. Instead, he places his faith in high-growth startups, sometimes known as “gazelles”. He cites entrepreneurs like Minami Soichiro of the job-matching company
+Visional
+and Matsumoto Yasukane of B2B e-commerce platform
+Raksul
+, and the “intrapreneurial” corporate culture at Recruit, as examples of how innovative companies can carve out new business niches.
+In fact, Japan’s venture-funded startup industry has been experiencing somewhat of a boom in recent years — although like most other countries, it
+took a hit in 2022
+.
+Source:
+Japan Investment Corporation
+Kenji Kushida has
+a good series of posts
+at the Carnegie Endowment, explaining the changes in Japan’s startup ecosystem and its venture capital industry. He
+points out
+that although Japan’s VC industry trails the U.S. by a lot, it’s about equal in absolute size to that of Germany, the UK, South Korea, or France. He also shows that the world of startups is gaining more prestige, talent, and autonomy in Japan — independent VCs
+are eclipsing
+in-house corporate investors, founders are increasingly
+being drawn
+from the ranks of top universities and companies, and there are the beginnings of a virtuous cycle where successful founders become investors themselves.
+But despite some very real improvement, Japan still has a lot of opportunity to increase entrepreneurship. The Global Entrepreneurship Monitor shows Japan lagging many other rich countries in terms of total entrepreneurial activity as of 2022:
+Source:
+Global Entrepreneurship Monitor
+Katz suggests a number of concrete policy changes that could encourage more high-growth startups — tax breaks for angel investors and LLCs, government procurement contracts for young companies, administrative guidance to increase bank loans to startups, policies to encourage
+open innovation
+, and so on. These are all ideas worthy of consideration, and wouldn’t be very hard to implement.
+Katz also calls for government to rescue fewer failed companies with tax-funded bailouts — something
+I’ve also long advocated
+, and which
+research shows is a problem
+. In fact, the Japanese government has been moving in this direction:
+Japan's government is willing to let more underperforming companies fail, three senior government officials told Reuters, a previously unreported acknowledgment that they said reflects an urgent need to replace sclerotic businesses with those able to deliver growth…The move will help Japan channel workers and investment to its most productive companies in a tight labor market, boosting wages, said the officials, granted anonymity to discuss a sensitive issue.
+There are plenty of ways to protect Japanese workers from these necessary changes. Japan is already developing a robust private equity industry and a culture of domestic M&A that helps preserve jobs by incorporating less successful Japanese companies into more successful ones. On top of that, Katz suggests the creation of a Danish-style
+flexicurity system
+to help individual workers, which sounds like a great idea.
+Schaede and Katz have thus identified two very different approaches to Japan’s economic revival. And unsurprisingly, there is some disagreement between the two as to which model is better.
+3
+Interestingly, the two sides of the argument are much the same as between Johnson and Johnstone a generation earlier — Schaede places her faith in government policy that nudges big business toward the right markets and products, while Katz places his faith in independent entrepreneurs.
+And just as with Johnson and Johnstone, it’s likely that both sides are correct. Yes, big old companies and fast-growing startups compete for resources like bank loans and engineers, and occasionally they even compete in product markets as well. But this competition is ultimately less important than how the two types of companies
+complement
+each other.
+New Japanese companies will provide crucial inputs to older ones — to use two of Katz’ favorite examples, Visional and Raksul help older Japanese companies with hiring and purchasing, respectively. If Japan manages to build a software industry, Japanese manufacturers and service companies will likely be big beneficiaries. And so on.
+Japan’s entrepreneurs will also be able to exploit export niches that older companies miss, because the initial market is too small. This is exactly what Sharp did with digital calculators and LCDs, what Seiko did with quartz wristwatches, and what Yamaha did with digital synthesizers. (These companies were not startups when they pioneered these famous products, but the principle is the same.) Sometimes the new products will
+disrupt old companies’ business models
+, but often they’ll just create new markets and add to Japan’s list of competencies.
+Finally, new and old companies will be able to share ideas with each other — innovations in management, production techniques, marketing leads, physical technologies, and so on — via the boom in mid-career hiring. Employees
+take their knowledge with them
+when they move. Startups can hire people from big companies who are too restless, disaffected, or ambitious to work their way up the corporate ladder. And big companies can hire employees from startups who are looking for a more secure paycheck, bigger research budgets, and a larger support staff. In a way, mid-career hiring and open innovation can make a whole industry, a whole city, or even a whole country into one large keiretsu.
+But there’s a third group of companies that can be incredibly useful to this process. And they represent a third strategy for Japan’s economic redevelopment, which the writers I mention above — as brilliant as they are — don’t really discuss. I’m talking about
+foreign companies and foreign entrepreneurs who use Japan as a base for production
+.
+Already we can see this third strategy start to materialize. The first place to look is Kumamoto.
+Part II: FDI is the missing piece of Japan’s puzzle
+The Kumamoto miracle points the way
+The semiconductor industry is probably the most important industry in the world. Computer chips are absolutely essential to every high-value product in a modern economy — autos, rockets, appliances, machinery, everything. They’re also of crucial military importance, in an age where precision weaponry rules the battlefield. And they’re of core importance to emerging technologies like AI — whose vast computational resources require enormous data centers — and biotech.
+As a result, it’s no wonder that the world’s major economies have been fighting over the semiconductor industry
+for generations
+. In the early days, the U.S. and Japan were the clear leaders. Much of the industry involves the design of semiconductors and the production of specialized tools and materials, and in these upstream parts of the industry the U.S. and Japan are still strong. But in the most important downstream part of the process — the actual fabrication of the most advanced chips — both the U.S. and Japan have
+lost their lead to Taiwan
+:
+Source:
+Statista
+Specifically, they have lost their lead to one remarkable Taiwanese company: Taiwan Semiconductor Manufacturing Company.  TSMC are essentially the world’s greatest machinists. Other companies design the chips, and other companies create the (incredibly advanced) machine tools that make the chips. What TSMC does is to buy the tools, and then use the tools with incredible ingenuity and efficiency to make someone else’s chips designs into reality. They pioneered this “pure-play foundry” business model, and it has made them rich — and it has allowed Taiwan to outcompete the chipmaking industries of every other country on the planet.
+Since the pandemic, the global battle to win semiconductor market share has intensified, due to the advent of AI and to the geopolitical competition between China and the democratic countries. Japan, like many countries, is trying to build its own foundry business, in the form of
+Rapidus
+, a joint venture between a bunch of Japanese companies that’s also getting some help from IBM. But — also like in the U.S. there’s also a second, parallel effort afoot. Japan is building chips for TSMC.
+In late 2021, TSMC created a Japanese subsidiary called Japan Advanced Semiconductor Manufacturing (JASM), and started building two fabs in Kumamoto prefecture. Sony and Denso pitched in to help. So did the Japanese government, providing
+billions of dollars in subsidies
+and offering TSMC logistical assistance in finding local workers and ensuring adequate water and other infrastructure. The first plant was completed very quickly, and
+opened in February 2024
+; the second is expected to open in 2025. Now TSMC is
+considering a third fab
+in Kumamoto, producing even more advanced chips, to be opened in 2030.
+Observers have been impressed with the speed with which the fab was built,
+comparing it favorably
+to TSMC’s plant in America, which initially suffered delays.
+4
+TSMC
+credited
+the successful construction to a variety of local supporting institutions — “suppliers, customers, business partners, government and academia.” TSMC’s founder Morris Chang, who once
+poked fun at Japan
+for the slow speed of its business dealings, has now become a true believer in the revival of the country’s chip industry. At the opening of the first TSMC plant in Kumamoto,
+Chang predicted
+a “renaissance of semiconductors” in Japan.
+And Japan isn’t stopping with TSMC. Micron, an American chip company, is
+building a fab in Hiroshima
+, bringing some of its best technology into the country.
+5
+Samsung is building
+a semiconductor development center in Yokohama. Both of these investments are being done with significant help from the Japanese government, and involve cooperation with Japanese companies and universities.
+These investments by foreign companies
+aren’t Japan’s only strategy
+for reviving its semiconductor industry — they coexist alongside homegrown efforts like Rapidus, as well as Japan’s upstream efforts in the chipmaking tool and materials industries. But they represent a crucial
+addition
+to the purely indigenous efforts. This is an example of multi-strategy development at work.
+But it’s far from the only such example.
+A school of AI fish
+The artificial intelligence boom is the most important trend in the software industry right now. Whether this remains true in future years remains to be seen, of course, but the capabilities of large language models like ChatGPT, AI art software like Midjourney, and computer vision systems are undeniable. Even if there’s a bubble and bust in the field at some point — as there was with dot-com companies in 2000 — AI is going to be important in the long term.
+Japan largely missed out on the internet software boom — the country has no internationally dominant consumer internet giants like Google or Facebook, and its B2B software industry was hampered by Japanese companies’ slowness to adopt IT solutions in past decades. But the AI age is a new dawn, and Japan has another shot at building a powerful software industry.
+At the time of this writing, one of the most interesting AI startups in Japan is
+Sakana AI
+. Currently, AI applications generally use one large statistical model to generate text, create images, recognize objects, predict the shape of a protein, etc. Sakana tries to instead use groups of smaller models to accomplish the same thing. In addition to being able to do some things better than big models, these groups of smaller models may use much less electric power — an important consideration, when AI’s energy needs are skyrocketing.
+Sakana AI has three founders. There’s Llion Jones, originally from Wales, who was one of the authors of the groundbreaking
+2017 research paper
+that discovered the algorithm now used to make LLMs. There’s David Ha, originally from Canada, who was an AI researcher at Google Brain. And there’s Ito Ren, a Japanese former diplomat who was an executive at the e-commerce company Mercari.
+The company’s investors are equally international — it includes American venture capital firms like Khosla Ventures, Lux Capital, and New Enterprise Associates, the American semiconductor giant Nvidia, and a large assortment of Japanese banks and technology companies. Sakana’s most recent funding round raised $214 million, and valued the company at $1.5 billion.
+That’s not a huge valuation compared to U.S. giants like OpenAI (
+$150 billion
+) or Anthropic (possible valuation of
+$40 billion
+). But Sakana’s presence has put Japan on the map as a potential hotspot for international AI investment. Nvidia, for example, has declared its intention to
+create an R&D center
+in Japan. OpenAI has opened
+a branch office in Tokyo
+. Oracle is
+investing $8 billion
+over the next decade in AI and cloud computing in Japan. This is in addition, of course, to all the big cloud providers — Amazon, Microsoft, and Google — looking to
+invest in Japan
+in order to serve the Japanese market.
+Then there’s
+Spellbrush
+, a U.S. startup that has
+a partnership
+with the AI art and design company Midjourney. Spellbrush uses generative AI to create Japanese-style anime art — one of the most popular and lucrative applications for AI so far. Spellbrush recently opened a branch office in Tokyo’s Akihabara neighborhood.
+Japan is still behind the U.S. and China in AI, but investments like these keep it in the game.
+It’s important to note that although Sakana AI might succeed,
+the most likely outcome is that the company will fail
+. This is true because
+most startups fail
+in general, and because in a rapidly changing new industry like AI, the failure rate is likely to be even higher. In fact, the entire AI industry may be headed for
+a significant bust
+, like the dotcom crash in 2000.
+But this shouldn’t negate the importance of Sakana, or of the Japanese AI boom in general. First of all, though most startups fail, the few that succeed often grow very large and important — venture investing is about accepting many failures in order to find a few huge wins. The investment and attention that Sakana draws to the Japanese AI startup scene will help make sure that some of those successes happen in Japan. Even a general AI bust will likely only be a temporary setback to the industry, as with the dotcom crash and the subsequent recovery.
+Second, even failed startups often contribute crucial innovation to a country’s ecosystem. Fairchild Semiconductor wasn’t successful, but it pushed the envelope of semiconductor technology forward, and some of its alumni went on to
+found Intel
+. General Magic tried and failed to invent the smartphone in the 1990s, but its alumni went on to
+help create the iPhone
+.
+And third, Sakana sends a signal that Japan is a viable destination for international investment in the software industry in general, well beyond AI. Japan is generally weak in most areas of IT, including B2B solutions, consumer internet companies, and cloud computing providers. As in semiconductors, a wave of foreign entrepreneurs and foreign funding could help Japan shore up its weak spot in software.
+The most important kind of FDI
+The chipmaking projects by TSMC, Micron, and Samsung, the U.S. VCs’ investment in Sakana AI, and the branch offices of companies like OpenAI are all examples of
+foreign direct investment
+, or FDI. But they’re not the only type, and when people talk about FDI, they often mean something very different. In fact, it’s actually a bit of a confusing term, because it encompasses multiple unrelated categories of investment.
+6
+FDI includes:
+Cross-border real estate purchases
+Acquiring a foreign company (M&A)
+Building a branch office or factory in a foreign country (“greenfield” investment)
+Most writers who advocate for Japan to increase FDI focus on the second of these. They believe that allowing more foreign acquisition of Japanese companies will improve these companies’ productivity by transferring foreign management techniques.
+I am agnostic concerning this argument. I recognize that Japan’s policymakers and businesses have many reasons for
+resisting foreign acquisitions
+, both as part of the country’s development strategy and part of its social policy. Foreign buyers might downsize Japanese companies by firing large numbers of employees, which would hurt Japan’s corporation-centric social welfare model. They might strip-mine Japanese companies for their technology or other assets and then sell them off as husks of their former selves, as happens
+all too often
+with leveraged buyouts in the United States. Or they might simply neglect their Japanese acquisitions until they stagnated.
+Instead, my argument is that Japan should focus specifically on increasing and promoting
+greenfield FDI
+— foreign companies building their own branch offices and factories in Japan. And in particular, Japan should encourage
+greenfield platform FDI
+, in which a foreign company builds factories or offices in Japan in order to create goods and services that are then exported from Japan to a third country. TSMC’s chip fabs in Kumamoto are an example of greenfield platform FDI.
+This particular kind of FDI offers a lot of benefits that foreign takeovers don’t. For one thing, greenfield FDI usually directly adds to the economy — when a foreign company builds a factory in Japan, or even just purchases office equipment for a new office, that represents real money that goes directly into Japanese people’s pockets. And greenfield FDI inevitably results in the hiring of more Japanese workers, since someone has to work at the new factory or office branch.
+Investment spending and workers’ salaries in turn stimulate the surrounding local economy — already, Kumamoto is experiencing
+an economic boom
+. Note that M&A doesn’t necessarily accomplish any of this — it just changes ownership of existing businesses, without requiring any new investment, hiring, or spending on the local economy.
+And greenfield FDI is also more likely to be received warmly by the Japanese public.
+Ito, Tanaka, and Jinji (2023)
+find that Japanese people feel more positively about greenfield FDI than about foreign acquisitions:
+This study empirically examines the determinants of individuals’ attitudes about inward foreign direct investment (FDI) using responses from questionnaire surveys that were originally designed. Individuals’ preferences for inward FDI differ between greenfield investments and mergers and acquisitions (M&A), and people are more likely to have a negative attitude toward M&A than greenfield investments. People with a negative image of the so-called “vulture fund” for foreign capital tend to oppose inward FDI, and this is more pronounced for M&A than greenfield investments.
+On top of all this, greenfield platform FDI has a very good economic track record. It has been key to the economic success of a number of developing countries — most notably China, but also
+Poland and Malaysia
+.
+After China’s entry into the World Trade Organization in 2001, companies from around the world flocked there to set up factories — both to sell their products to a billion newly available Chinese consumers, but also to exploit what at the time were cheap Chinese labor, land, energy, and capital costs, in order to make products for export to the rest of the world. This is known as “platform FDI”.
+Poland executed a similar strategy on a smaller scale, becoming a factory floor for European nations — especially Germany — looking for lower costs and more friendly regulation. Malaysia became a center of electronics manufacturing, with investments from the U.S., Singapore, Japan, and elsewhere. In both of these cases, the products of foreign-owned factories were largely sold abroad, since both Poland and Malaysia have relatively small domestic markets. FDI thus helped to make China, Poland, and Malaysia into export powerhouses.
+Japan, of course, is in a very different economic situation than China, Poland, or Malaysia were in the 2000s. But it can still learn from their successes. In addition to the direct benefits for investment and employment, greenfield platform FDI offers two main advantages: it can increase a country’s
+exports
+, while also facilitating
+technology transfer
+. In its current economic situation, Japan could use a whole lot of both of these things.
+Japan needs exports
+Americans often think of Japan as an export powerhouse, because of the international success of brands like Toyota, Honda, Sony, and Panasonic. And during the early days of the postwar miracle, Japan’s bureaucracy did strongly encourage exports, in order to earn precious foreign currency. But in fact, this lingering stereotype is badly mistaken — Japan has never really been an export-oriented economy like Germany or South Korea. It’s a domestically focused economy, more like the United States:
+Source:
+World Bank
+As Chalmers Johnson recounts in
+MITI and the Japanese Miracle
+, this inward focus was part of Japan’s development model in the 1960s. MITI found that ensuring cheap bank loans to domestic companies, and promoting competition in the domestic market, was a way to quickly boost Japan’s investment rate and its capital stock. And they found that this approach also ensured an adequate level of exports, since Japanese companies would produce more than they could sell in the domestic market, and export the excess capacity overseas.
+7
+Now, Japan finds itself badly in need of exports. The first reason is that
+exports help increase the value of the yen
+, making Japanese people richer as a result.
+Japan’s currency has weakened dramatically against the dollar and other world currencies. This is partly because of Japan’s low interest rates relative to other rich countries, which is driven by Japan’s low inflation (and probably by a need to keep Japanese government borrowing costs low, in order to make Japan’s very large government debt sustainable).
+As a result of the weak yen, Japanese people are finding it increasingly difficult to afford imports. Japan imports most of its food and energy, so the weak yen is increasing the cost of daily life. Japanese companies are having trouble importing the parts and materials they need, as well as energy. The Japanese government has been
+forced to intervene
+to prop up the value of the yen. But such interventions can’t last forever, since they require selling off foreign assets — eventually, the government runs out of foreign assets to sell, and the currency crashes even more.
+An increase in global demand for Japanese exports can help increase the value of the yen.
+8
+This is because in order to buy Japanese goods and services, foreigners need to swap their currencies for yen. This increases the demand for the yen, which pushes up its value. The more exports Japan sells, the stronger the yen becomes. Ultimately, Japan’s currency problem probably can’t be fixed by exports alone — financial outflows will have to be addressed as well. But exports help.
+The second reason for Japan to focus on exports is that the domestic Japanese market is shrinking. Japan’s population is forecast to fall substantially over the remainder of this century:
+Source:
+Our World in Data
+Mass immigration may slow this trend, and measures to increa
+se the birth rate may eventually manage to reverse it. But whether that will ever happen is unknown, and even if it does, Japan will not be a major growth market for a long while. This means there is much less incentive for companies — Japanese or foreign — to invest in Japan in order to serve the domestic market than in the past. Less investment also means less spending on R&D, which causes Japan to fall behind technologically.
+Exporting can help reduce this problem, or even solve it. The more Japan becomes an attractive platform for export production, the more reason there is for Japanese companies and foreign companies to invest in Japan, including investments in R&D and new technologies. This will help increase productivity.
+Finally, the activities required to increase exports may improve productivity. There’s
+a lot of research
+on “learning by exporting” — entering foreign markets could teach Japanese engineers, product designers, and managers how to produce things that foreigners want to buy. This could help counter the so-called “
+Galapagos syndrome
+” — the tendency of Japanese product standards to drift away from international standards, shrinking the markets available to Japanese companies.
+Another way to put this is that exporting allows companies based in Japan — whether domestically owned or foreign-owned — to achieve
+scale
+without exacerbating
+competition
+that drives down prices.
+Greenfield platform FDI — like TSMC’s fabs in Kumamoto or American venture capitalists’ investment in AI startups in Tokyo — can help Japan become more of an export powerhouse.
+Okubo, Wagner, and Yamada (2017)
+find that foreign-owned factories in Japan tend to export more — and also to innovate more. Their explanations for the difference have to do with corporate governance and culture, and with the pool of employees that foreign-owned companies are able to hire. They write:
+Foreign ownership may play a role in risk-taking choices of companies – such as exporting and innovating – for various reasons. It can provide companies with more information about the outside market, especially in the context of small and medium enterprises. Foreign owners may be keen on getting high returns on investment and may tolerate a higher risk level. Firms with foreign ownership may have greater access to funds. Also, firms that do allow foreign ownership may experience a more open corporate culture than firms that do not, and such open culture may facilitate risk-taking.
+The simplest explanation here is that multinational companies — especially those with foreign employees — simply know a lot more about global markets. TSMC knows what kind of computer chips Nvidia and Apple want to buy. Sakana AI’s founders keep in touch with the American AI market, and understand what kind of capabilities U.S. companies want from AI models. And so on.
+In other words, greenfield platform FDI is a perfect example of
+multi-strategy development
+. It means that instead of coming into Japan to compete with local companies in the Japanese market, foreign companies are helping Japan sell a bunch of new products to a bunch of new overseas customers.
+The intangible benefits of FDI
+Japan’s low levels of productivity are somewhat of a mystery to researchers.
+Nakamura, Kaihatsu, and Yagi (2018)
+, a trio of researchers from the Bank of Japan, arrive at the frustrating conclusion that the biggest problem is a lack of “intangible assets” at Japanese companies. These are any non-physical assets — brand reputation, patents, software, long-term customer relationships, management know-how, worker skills, tacit technical know-how, and so on.
+This is such an enormously broad and heterogeneous category, and so many of its components are hard to measure, that “intangible assets” basically ends up becoming a label for economists’ ignorance about what makes some companies more valuable than others. For example, Nakamura et al. note that Japanese companies
+spend quite a lot
+on R&D, but don’t seem to get nearly as much value for their spending as U.S. companies do.
+So the mystery remains a mystery. But even if we don’t quite know what the most important intangible assets are, we still might be able to help companies get more of them. Nakamura et al. suggest a fairly standard, reasonable list of approaches — increasing labor mobility, improving corporate governance, allowing more lagging companies to fail, and improving the venture capital ecosystem. These are all reasonable approaches, and — as we saw above — they’re all things that Japan is already trying to some greater or lesser degree.
+But there’s one strategy that seems to be flying a bit under the radar here: FDI. When foreign companies put their factories, offices, and research centers in Japan, they bring many intangible assets with them — foreign management techniques, technical tricks and know-how, connections to customers and suppliers in other countries, and so on. And these can, for the most part, be pretty easily
+transferred
+to Japanese companies.
+One way, which has been
+thoroughly documented by researchers
+, is through interactions with local suppliers. When a company like TSMC puts a semiconductor fab in Japan, one reason is so that it can buy a bunch of specialized tools and components from Japanese suppliers — like the photoresist that Japanese companies are so famous for. This in turn teaches Japanese suppliers what the leading chip companies need and how to best serve them, as well as details about how the best chipmaking tools work. Those kinds of knowledge are both intangible assets.
+Another way ideas spread is through job-switching. TSMC’s fab is going to employ a bunch of Japanese workers. Those workers are going to get the chance to learn how to make chips from the very best in the business. If some of them eventually leave to go work at Japanese semiconductor companies, they’ll take all that knowledge with them. This sort of knowledge transfer would have been harder in the old days, when Japan was still under the lifetime employment system. But now, with mid-career hiring on the rise, it’s very likely.
+Let’s imagine an example of how this might work. Suppose you’re a Japanese AI researcher at a domestic AI startup. You and your team know a lot about AI models, from reading research papers, from building them yourself, and maybe from going to some conferences overseas. But for some reason your models aren’t quite as good as foreign companies’ models. The foreigners must have a bunch of little tricks they use to make things work better.
+Then one day your company hires another researcher who worked at Sakana AI. Your new colleague knows a lot of those tips and tricks for making models work more smoothly, from having worked with some of the top researchers at Sakana. And their time at Sakana also gave them personal connections with a bunch of other researchers overseas, whom you can now call up and ask for help solving your model’s problems.
+Congratulations! You’ve just transferred tacit knowledge for free. Your company’s intangible assets have increased.
+If this example sounds contrived, consider how many of Japan’s most famous inventions came through interaction with foreigners and absorption of foreign knowledge. Japan’s Canon
+cooperated
+with America’s Hewlett Packard in the 1980s to create laser printers. Yamaha
+created
+the digital synthesizer with the help of a Stanford engineer named John Chowning. The famous inventor Sasaki Tadashi licensed American patents to help him invent the first commercially viable pocket calculator.
+9
+Those are all examples from the book
+We Were Burning
+. In other words, in the 20th century, close links between Japan and the U.S. created a vibrant international research community, where ideas flowed back and forth across borders and across companies.
+In fact, there’s evidence that this is a consistent pattern when it comes to FDI.
+Todo (2006)
+and
+Kozo (2006)
+both find that FDI consistently leads to positive productivity spillovers to the country that receives the investment, and that these spillovers are closely related to R&D spending.
+Observers of the Japanese economy have noted with dismay how it seems to be losing human contact with other developed economies. Few Japanese people
+study abroad
+these days, and those that do tend to go only for a very
+short period of time
+. The number of Japanese young people who want to work abroad
+has diminished
+. Collaboration between Japanese scientists and their foreign counterparts
+has decreased
+, contributing to
+a decline
+in Japan’s high-quality research output. Even as the international research community has grown larger, Japan has been pulling away from it.
+Greenfield FDI can help counter that increasing insularity, by bringing foreign researchers and managers into Japan, where Japanese people can absorb their knowledge without leaving the country.
+Japan is welcoming the right kind of FDI, but it can do more
+Why has greenfield FDI in Japan traditionally been very small? In the early days of its postwar miracle, Japan restricted all kinds of FDI for protectionist reasons, in order to reserve the domestic market for Japanese companies that were still in their early growth stages. This was a typical policy for the time, and not dissimilar from the “infant industry” protections used by the U.S. in its early development.
+From the late 1960s through the early 1970s, Japan
+significantly liberalized
+its restrictions on FDI. There were still many institutional barriers to foreign acquisitions, mostly resulting from a combination of Japan’s financial and corporate governance systems, and from cultural resistance. But although foreign companies should, in theory, have had an easier time doing greenfield M&A from the 1970s onward, few took the plunge. There are lots of possible reasons for this — force of habit, regulatory differences between countries, cultural differences, and a general stereotype of Japan as a protectionist economy. But the most important reason was probably that unlike countries like China, Poland, or Malaysia, Japan simply didn’t try to
+actively encourage
+foreign companies to use it as a production base.
+Since 2003, though, the situation has slowly changed. Former Prime Minister Koizumi Junichiro
+called for more FDI
+into Japan. Regulations were eased a bit, and tax incentives were put in place. These efforts were minor and halting at first, but have gathered strength over time. Targets have become much more ambitious — in 2023 the government set a goal of
+attracting 100 trillion yen of FDI
+(about $690 billion as of this writing) by 2030.
+Politicians
+now talk regularly about the need to boost FDI. Immigration laws
+have been changed
+to make it much easier for skilled professionals to get permanent residency. There is a new Council for the Promotion of Foreign Direct Investment in Japan, and various other
+government efforts to attract FDI
+.
+10
+And amazingly, the plan seems to be working. In 2022, net FDI inflows to Japan were very slightly greater as a proportion of the economy than in either China or South Korea:
+Source:
+Our World in Data
+And encouragingly, greenfield FDI seems to be powering this rise. The number of inbound M&A deals has
+held steady
+, while greenfield projects have soared:
+Source:
+JETRO
+And since the semiconductor industry is powering this rise, it’s likely that a significant amount of this will result in exports.
+But although this is good progress, Japan could do a lot more on the FDI front. First of all, 1.1% of GDP per year is a big improvement, but it’s not really big enough to be transformational —
+Poland gets over 5%
+, France gets 3.8%, and the U.S. gets 1.5%.
+Second, most of Japan’s greenfield FDI is in one single industry — semiconductors. If Japan could attract similar levels of investment in other sectors, it would be insured against a sudden downturn in the chip industry, and it would have the chance to build up its technological muscle along a wider front. There are plenty of other high-value industries where Japan could be a high-tech, low-cost production platform — aerospace, biopharma, batteries, and electronics being four obvious examples.
+In other words, Kumamoto, Sakana AI, and the other examples above are an important proof of concept for a golden age of Japanese FDI, but they should be only the beginning.
+Why do foreigners invest in Japan?
+Traditionally, the reason a few foreigners wanted to invest in Japan — either through greenfield investments or M&A — was to tap the large and lucrative Japanese market. That motivation still remains to some extent, but it’s growing weaker every day. But there are a number of reasons Japan is
+increasingly attractive
+as an export platform. Understanding these reasons is absolutely crucial for Japanese government officials and businesspeople who want to attract more FDI — if you’re selling something, you must understand why your customers want to buy it.
+The most obvious selling point is the weak yen. A cheap Japanese currency makes anything produced in Japan more competitive in world markets. On top of that, decades of stagnant real wages have a silver lining — they’ve made Japan’s skilled workforce look relatively cheap. A third strong point is Japan’s deep network of high-quality suppliers.
+There’s also the national security angle. As China’s foreign policy has become more aggressive, the U.S. and other developed nations have begun to try to move them out of China. The U.S. government calls this “friendshoring”, while companies call it “de-risking”, but the principle is the same — no one wants to be caught dependent on Chinese manufacturers for critical high-tech products if a war breaks out.
+11
+Japan is
+an obvious alternative
+production base — it’s smaller and more expensive than China, but infinitely more secure. And unlike China, Japan will not
+use espionage
+to steal foreign companies’ intellectual property.
+Even Germany, which has traditionally been more willing than other Western countries to invest in China, is beginning to get nervous; a significant number of German companies are
+looking to switch to Japan
+. And the U.S. Department of Defense is planning to
+develop
+advanced
+weapons
+in Japan, as well as manufacturing more
+traditional munitions
+there.
+Yet another advantage — which Japanese people may not fully appreciate, since they’ve never had to deal with the alternative — is Japan’s efficient government. In many Western countries,
+environmental review laws
+and other poorly crafted regulations have turned land use into a nightmare — projects that pass all relevant environmental and safety regulations still have to endure years of lawsuits and court-enforced paperwork, making it hellishly expensive and time-consuming to build factories.
+The U.S.
+,
+the UK
+, and other anglophone countries, which rely on the courts to adjudicate environmental regulation, have become especially hostile to development.
+Japan’s more sensible and efficient system, which relies more on bureaucrats than on the court system, preserves some role for community input, but allows construction projects to be approved in a timely manner. Japan’s willingness to build, meanwhile, has left it with plenty of high-quality infrastructure — and the ability to create more quickly to suit the needs of foreign investors if necessary.
+But there’s one more huge reason that foreigners want to invest in Japan, which could ultimately be more important than all the rest combined. And it’s a factor that, in my experience, very few Japanese people — including the government officials tasked with
+promoting FDI
+— yet appreciate.
+The key is that
+people around the world really love Japan, and want to live there
+.
+Part III: Why everyone loves Japan
+The world loves everything Japanese, but Japan doesn’t realize it
+In 2015, my employers at Bloomberg Opinion sent me to Japan to learn about the state of the Japanese economy. They helped me arrange many interesting discussions. I talked to the Financial Services Agency about the new corporate governance code; to Goldman Sachs about women joining the workforce; to Foreign Ministry officials about trade treaties; to an economics professor about fiscal sustainability; and so on. But the interview that stuck in my mind for many years after was with a manager at Kodansha.
+My goal for the meeting was to learn about Japan’s efforts to increase its cultural exports — something the Western press had been talking about
+for decades
+. So I was absolutely astonished when the Kodansha manager told me that his company had no strategy and no plans to increase their sales of manga and anime in overseas markets. Even more surprising was his explanation as to why. “Americans don’t want to see Asian faces,” he told me.
+I stared at him in slack-jawed amazement. Nothing could be further from the truth, I told him. I didn’t have international statistics on hand, but I knew that Asian media was taking the U.S. by storm. Manga sections were steadily
+growing in American bookstores
+. K-pop was
+exploding in popularity
+. Cosplay conventions had become mainstream. Overseas anime sales were starting their long upward climb:
+Source:
+Association of Japanese Animations
+In 2015, these trends were already becoming apparent, but they’ve only accelerated. From the TV show
+Shogun
+sweeping the 2024 Emmy Awards, to the Korean film
+Parasite
+winning the Oscars in 2020, to Oscars for the Japanese movies
+Godzilla Minus One
+and
+The Boy and the Heron
+, to Korea’s BTS becoming
+the biggest band in the world
+, there has been no shortage of proof that “Asian faces” — or, more precisely, the products of Japanese and Korean imaginations — are
+exactly
+what the world wants to see.
+But these examples can’t fully convey how Japanese pop culture, in particular, has become a memetic shorthand that young generations in America and many other countries use to communicate, to define themselves, and to understand the world.
+When I moved to a new apartment last year, the movers stopped to talk to me about anime. When I went to hang out with some venture capitalists at their lavish San Francisco apartment, they asked me if I wanted to watch some anime. When I tutored children in math as a college student back in the 2000s, it was hard to get the kids to pay attention, because they were drawing anime characters in their notebooks. Anime tropes like “Notice me, senpai!” have crept into the American lexicon. When I go to my friends’ startup offices, there are manga volumes on the shelves. When I argue with strangers online, their avatars are faces from anime.
+These aren’t just anecdotes.
+A survey
+of Americans by the website Polygon in early 2024 found that 42% of Gen Z watches anime every week, compared to just 25% who watch the NFL. Younger survey respondents reported that anime influences many basic aspects of their life — style, identity, friendship, and even attraction. (That’s just in the U.S., but as far as I know, this trend is worldwide — anime viewership is
+growing even faster
+in Europe, Brazil, and the Anglosphere.)
+In fact, the increasing Japanese influence on American life goes far beyond pop culture. Over the past two decades, Japanese food has increasingly become the most sought-after cuisine. New Yorkers
+line up around the block
+to get into ramen restaurants that would be considered average in Japan. Wagyu has become a
+national obsession
+.
+12
+Omakase has become
+a pinnacle of find dining
+, and words like
+kaiseki
+and
+izakaya
+are becoming part of the standard lexicon. Matcha has become a delicacy — expensive shops
+advertise
+“the finest matcha tea from the shade-grown farms of Kyoto, Japan”. Even non-Japanese restaurants
+sometimes affect
+Japanese names and pseudo-Japanese decor in order to seem higher class — allowing to charge a hefty price premium. It’s hard to find a high-end cafe or restaurant in San Francisco these days that doesn’t have something yuzu-flavored.
+Nor is it just food. In the high-end home furnishing stores where rich Americans shop, Japanese-made ceramics and other objects command a hefty price premium. At the more affordable end, Daiso, Uniqlo, and Muji have become all the rage. Japanese artists like Kusama Yayoi have become such staples of high culture that the trend has been
+parodied in Netflix dramas
+. Fashionistas in trendy cafes will have
+B-side Label
+stickers on their laptops and bags.
+As with food, even the veneer of Japanese fashion and design is enough to impart a sense of high class and good taste. Seeing boutiques with katakana on their signs on St. Mark’s Place in New York City, or Haight Street in San Francisco, is now commonplace, even if the goods inside aren’t from Japan.
+13
+Trendy American brands will give themselves Japanese-inspired names like “
+Baggu
+”. I often joke that the U.S. is in the middle of a great shift — in the 19th and 20th centuries, high class in America was defined as “anything French”, while in the 21st century it’s defined as “anything Japanese”.
+Japan’s international cachet can be seen in a variety of international surveys and rankings. In 2023, Japan topped the
+Anholt-Ipsos Nation Brands Index
+, which has measured international perceptions of various developed countries for 15 years:
+Japan also regularly comes in
+at or near the top
+of a similar international survey by the BBC. Recently,
+Japan was ranked #2
+on U.S. News and World Report’s list of the “best countries in the world”, which combines various subjective metrics to assess a country’s international appeal. And another survey by Conde Nast
+put Japan in the top spot
+.
+In my experience, most Japanese people are generally unaware of any of this. Earth became a weeb planet in spite of
+the failure
+of the Japanese government’s attempts to promote Japanese culture overseas. It has been an organic, disorganized, bottom-up phenomenon — Japanese culture simply holds a special appeal to the people of the U.S. and much of the rest of the world.
+The most important word about Japan that Japanese people don’t know
+In fact, even more astonishing than my interview with Kodansha is the fact that to this day, I have not met a single Japanese person who has heard of the word “weeb”.
+Explaining the meaning of the word “weeb” is actually a little tricky, since it comes from internet slang. It was originally a short form of “weeaboo” — a nonsense word invented on an old web forum, meaning a non-Japanese person who is obsessed with Japanese culture.
+The dictionary definition of “weeb”
+still claims that it’s a derogatory term for people who are overly obsessed with Japan. But this hasn’t been the case for a while. Like the word “otaku” in Japanese or “nerd” in English, “weeb” started out as an insult but eventually became a semi-ironic badge of honor. And like those other slang words, “weeb” has come to be applied in a much looser, more casual sense.
+There are still the classic, hardcore weebs — the people who flock to
+anime conventions
+and enter cosplay competitions and study Japanese just so they can play the untranslated versions of every Final Fantasy game. These enthusiasts form
+a vibrant and highly original subculture
+that has spread throughout the world.
+14
+In another essay in this volume, I try to explain this subculture.
+But like “otaku” and “nerd”, “weeb” is starting to take on a looser, more general meaning. Just as anyone these days might jokingly refer to themselves as an “hiking otaku” for enjoying hiking, or a “tea nerd” for knowing a lot about tea, people in the English-speaking world are starting to refer to themselves as “weebs” for liking Japan and Japanese products in general.
+It is in that looser, more general sense that America — like an increasing number of other countries — has become a weeb nation. And it is in this more general sense that the worldwide weeb trend can help Japan reclaim its position as a global center of high-tech innovation.
+Everyone wants to go to Japan, and they’re starting to realize they can
+By now, everyone in Japan knows all about the tourism boom, but the numbers are still staggering. In 2007, 8.4 million tourists came to Japan. By 2019 that number had almost quadrupled, and is now rebounding sharply from the pandemic:
+By Phoenix7777 -
+Own work
+Data source:国籍/月別 訪日外客数（2003年～2015年）[Monthly visitors to Japan by country]. Japan National Tourism Organization.Visitor Arrivals for Dec. 2015 (Preliminary figures by JNTO). Japan National Tourism Organization., CC BY-SA 4.0
+The Japanese government intentionally encouraged tourism
+starting in the early 2000s
+, but the boom since 2012 has far exceeded their targets. So many people are visiting Japan that it’s
+straining local infrastructure
+, causing overcrowding, and prompting the locals to ask when the flood will recede. So far there’s no sign that foreigners are getting bored with Japan; tourism numbers in 2024
+look set to top the record
+set in 2019, with increasing arrivals from the U.S. and Europe more than canceling out a drop in visitors from China. Personally speaking, almost everyone I know in San Francisco is either going to Japan these days, or wants to go. Some have started going multiple times a year.
+Eventually, something will probably have to be done about overtourism. But the boom in foreign travel to Japan has accomplished several important things, all of which will be potentially useful in boosting investment into Japan.
+First, it has familiarized much of the world with Japan — what was once a mysterious far-off land is now just one more place you can go and hang out when you get some vacation time. And instead of reducing Japan’s overseas cultural cachet through boredom and familiarity, the tourism boom seems to have only deepened foreigners’ love of Japanese food, art, and culture.
+Second, tourism is forcing Japanese cities — especially Tokyo — to become more user-friendly to foreigners. Signs in English and other foreign languages have proliferated, shopkeepers and restauranteurs are all used to dealing with non-Japanese customers, and so on.
+Third tourism is rapidly dispelling the
+previously common stereotype
+of Japan as a closed-off, xenophobic country. Foreigners can now see for themselves how open, free, friendly, and welcoming of a country Japan actually is. For most people, this revelation makes little difference in their lives. But for a few, it has prompted a second realization — that instead of just visiting, they could go live and work in Japan.
+Mass immigration to Japan
+remains dominated
+by people from poorer Asian countries, especially Vietnam and the Philippines. But
+a 2020 survey
+by the global money transfer service Remitly found that Japan topped the rankings of countries that Americans and Canadians would like to move to. Anecdotes about Americans moving to Japan are
+starting to proliferate
+. The real estate news website Mansion Global
+reports
+that “[Japan’s] appeal is now leading to a slow-growing influx of American expats moving to the country in search of full-time residences or second homes abroad.” Personally, I’m always surprised by the number of people I meet in the San Francisco tech industry who talk about moving to Japan. A few have even done it.
+Two extremely important examples of Westerners who made this move are the founders of Sakana AI. On
+Lux Capital’s website
+, they note that Llion Jones “fell in love with Japan after spending a holiday there and moved to Tokyo in 2020.” As for Jones’ cofounder David Ha, he has spent much of his career in Japan since graduating from college.
+It’s not just Westerners either. A growing number of Taiwanese people
+want to work in Japan
+. It’s not clear whether a desire to live in Japan on the part of TSMC’s workers was a factor in that company’s decision to invest in Kumamoto, but it certainly couldn’t have hurt.
+Which brings me to the final effect of the tourism boom: It’s helping Japanese people to finally realize just how much the world loves their country. Japan may not yet know the word “weeb”, but it’s becoming conscious of the phenomenon itself.
+But knowing
+that
+the world loves Japan is far easier than understanding
+why
+this is the case. In fact, there are no simple or easy answers to this question. I can venture my best guess as to the reasons for Japan’s unique global appeal, but it means I’ll have to venture beyond the realm of data and research and into the realm of supposition and amateur sociological theorizing.
+It starts, I think, with Japan’s unique approach to urbanism.
+Why people love Japanese cities
+One strategy that
+Japan has tried
+in order to curb overtourism is to get tourists to visit small towns and rural areas instead of Tokyo and Kyoto. This strategy has failed, because Japan’s big cities are exactly what foreigners come to the country to see. To be sure, Japan’s rivers and mountains are beautiful, its small towns are quaint, and its temples and shrines are majestic. But what really makes Japan different from every other country in the world are its big cities.
+Unless they have lived abroad, Japanese people have little idea what life in an American city is like. Unless you live in the center of New York City, life is typically lived in a point-to-point fashion. You move back and forth between your house, your office, and “third spaces” like stores, restaurants, bars, clubs, and parks. Usually you take a car, but perhaps sometimes a bicycle. If you’re poor you take a bus. The entire space between these points might as well be empty to you — you see signs and buildings as you drive by, but you’re usually focused on reaching your destination. A city thus becomes a network of points, rather than a space to be occupied.
+This type of life can be comfortable, but it leaves little room for serendipity. Accidental meetings between friends and acquaintances are rare, unless there’s a cafe or bar that both people frequent. Accidental discovery of interesting new restaurants and shops are even rarer — instead, people use websites, word of mouth, and advertisements. And of course, accidental meetings with strangers are rare (which can be good or bad, depending on how extroverted you are).
+Walkability and density are two reasons why Americans who move to Japan tend to feel like they’ve stepped into another universe. The ability to go anywhere without the stress of driving or the task of finding parking allows them a sort of freedom that few of them have ever known — Japanese people might consider an eight-minute walk to a train station to be
+unacceptably long
+, but to an American, that might as well be next door. And on the way to their destination, they’ll see far more people and far more interesting places to eat and shop. Where back home their commutes focused only on the destination, now the journey is half the fun.
+Of course, Japanese cities are far from the only dense, walkable cities in the world. They also stand out for being extremely clean, quiet, and safe, and having some of the world’s most punctual and convenient trains. And Japanese urban infrastructure is always in excellent condition, due to timely and effective maintenance. But even these advantages aren’t quite unique — Zurich, Singapore, Stockholm, and Seoul all share those advantages. Japan’s cities have something extra special in addition.
+I believe that that something is
+commercial density
+. Tokyo has an order of magnitude
+more restaurants
+than New York or Paris, and the disparity in retail stores is probably similar. Small business is
+the lifeblood of Japanese cities
+— and, in many ways, of the Japanese middle class. This might be partly cultural, but at least some of it is the result of deliberate policy. Japanese
+zoning
+usually limits the size of stores in mixed-use areas, ensuring that small businesses dominate. The
+Large-Scale Retail Store Location Law
+also provides some protection. And Japan’s government provides lots of support for people who want to start small businesses, including a variety of
+subsidies
+. This support, along with a culture of craftsmanship, might be why Japan’s independent restaurants and stores tend to stand out in terms of both quality and originality.
+Commercial density is especially astronomical in central downtown neighborhoods like Shibuya, Shinjuku, and Ginza. Here Japan takes advantage of another secret weapon:
+verticality
+. In most cities — New York City, London, Paris, and even other Asian megacities like Hong Kong — most shops and restaurants are at ground level, with apartments and offices on the higher floors. But Japan has a special innovation: zakkyo buildings, with restaurants and stores mixed in with offices for several floors.
+15
+These buildings have two special features: 1) signs all the way up the side of the building, and 2) direct street access via elevators and stairs.
+Zakkyo buildings do two special things for Japanese cities. They allow a huge amount of retail to be concentrated in a very small space, in hyper-dense eating and shopping districts like Shinjuku. And they allow people walking past the buildings to see and access those shops and restaurants very easily from the street. This makes walking through a Japanese downtown an even more magical, serendipitous experience than walking through a city like New York — there are just so many more places to explore. And it also allows more residential areas very close to the city center to be surprisingly quiet and livable, since so much foot traffic is drawn to the ultra-dense downtowns.
+16
+Of course, Zakkyo buildings also give Japanese cities their characteristic aesthetic. Columns of colorful electric signs running up the sides of buildings might seem tacky or antiquated to some Japanese people, but to foreigners, they create a distinctive beauty — a forest of lights that feels at once both enticing and soothing. Japan’s electric cityscapes feel more like luminescent trees or clouds than like something artificial — utterly different from the garish lights of Las Vegas or the overwhelming harshness of Times Square. This may be one of those features of Japan that it takes a foreign perspective to appreciate.
+17
+Essentially, Japanese cities represent
+adventure
+— every day you walk out of your door in Tokyo or Fukuoka or Nagoya, you know you’re likely to discover an amazing new place to eat, a cool new boutique, or a fun new bar. And in those beautiful settings, you’re likely to meet interesting new people — new friends, business partners, or even lovers.
+18
+Yet that adventure is a
+safe and comfortable
+one — urban Japan offers few dangers, or even inconveniences.
+There are not many cities in the world that offer that winning combination. Traditionally, this is the role that Paris has played in the global imagination. But as I explain in another essay in this volume, Tokyo — and other Japanese cities — may be taking its place.
+But although Japan’s unique urbanism is a big part of why foreigners are drawn to the country, it can only be part of the explanation — especially because many of the people who love Japanese products, and Japanese pop culture, have never even visited the country. There must also be cultural factors at work.
+Japan as alternative modernity
+For me to try to articulate which specific features of Japanese culture make it so uniquely appealing to foreigners is probably a lost cause. For one thing, culture is too complex to describe in language — the descriptions almost always end up being both boring and ambiguous, and usually fall back on tired stereotypes. It’s also likely that different aspects of a nation’s culture appeal to different groups of people.
+19
+And since neither government, business, or private citizens has deliberate control over a nation’s culture, the exercise would be useless.
+Instead, I think it’s more useful to realize what Japanese culture represents to foreigners, in a more general sense. And what I think it represents is
+alternative modernity
+.
+Politically and economically speaking, Japan is part of the West. It’s a democratic, capitalist, developed country, with a notion of human rights similar to what prevails in the U.S. or Europe. It trades extensively with the U.S. and the EU, and it has strong scientific and intellectual links with both. It is neither a repressive one-party state like China or Russia, nor a theocracy like Iran, nor an aristocracy like UAE.
+And yet in a million small ways, Japan is culturally distinct from the U.S. or Europe — or from anywhere else. It has different mannerisms, different social customs, and different aesthetic sensibilities. People relate to their coworkers and their friends and their families in different ways. Japanese institutions — companies, schools, bureaucracies — all do things a bit differently than their peers elsewhere. Even tiny aspects of Japanese culture, like preferences for brand goods, or the way people read the manual when they buy a new camera, feel different in ways that are difficult to describe but easy to recognize.
+This high density of tiny differences manifests in almost everything Japan produces. To a Japanese person, the word “anime” refers to any cartoon, but to the rest of the world, it represents a specifically Japanese style that’s instantly recognizable and
+completely unique
+. Japan’s global in art, design, architecture, and fashion stem partly from a culture of craftsmanship, but partly from the fact that Japanese people simply tend to create slightly different kinds of designs.
+In other words, Japan is a place that is
+substantively similar
+to other rich, democratic, and free countries, but
+feels different
+. To people all over the world, it represents an alternative to the standard global version of modernity descended from West Europe. People who value the wealth and freedom of European-derived societies, but who feel oppressed or bored by European-derived cultures, find refuge and novelty in Japan and its products.
+There is thus no single reason that the world has gone weeb. Instead, there are a myriad of small reasons. For those who want to boost FDI into Japan, I would say that understanding and cataloguing all of these reasons is much harder than simply taking advantage of their existence.
+Part IV: Weebs to the rescue
+Weeb entrepreneurs
+So far, I’ve been a bit vague about how foreigners’ love of Japan can translate into more and better FDI. In fact, I think there are three basic channels by which this happens: entrepreneurs, workers, and finance.
+First, consider entrepreneurship. Many analyses of Japan’s technological stagnation point out how Japanese people are less likely than Americans to start their own businesses. And yet the U.S. has a secret weapon here: immigrants.
+Azoulay et al. (2022)
+found that immigrants are almost twice as likely to start businesses as native-born Americans.
+A 2018 study
+by the National Foundation for American Policy found that among the top companies, the dominance of immigrant founders was even greater:
+The research finds that 55%, or 50 of 91, of the country’s $1 billion startup companies had at least one immigrant founder…Nearly one-quarter (21 of 91) of the billion-dollar startup companies had a founder who first came to America as an international student…75 of the 91 companies, or 82%, had at least one immigrant helping the company grow and innovate by filling a key management or product development position.
+And children of immigrants also tend to be highly entrepreneurial; almost half of Fortune 500 companies were founded by immigrants or their children. In fact, just going down a list of America’s biggest companies reveals the outsized influence of immigration — Steve Jobs of Apple was the child of a Syrian immigrant, Nvidia’s Jensen Huang was born in Taiwan, Sergey Brin of Google came from the old Soviet Union as a child, Elon Musk of Tesla and SpaceX moved from South Africa, and so on. It’s not just the U.S., either — a similar dynamic is at play
+in the UK
+.
+Why are immigrants so entrepreneurial? Selection obviously plays a role here — the kind of people who are willing to pick up and move to another country
+tend to be self-starters
+and risk-takers. Immigrants also tend to have higher skill levels, and some arrive with significant financial resources.
+In addition, immigrants have
+less of an outside option
+than the native-born — it’s harder for an immigrant to get a safe, high-paying job at a large, established company, so it makes more sense to start a business. This effect has been evident in Japan’s past as well — ethnic Koreans started a number of big businesses in Japan, such as Softbank, Lotte, ABC-Mart, and GungHo.
+20
+Why do so many entrepreneurs move to America? Although hard data is difficult to come by, the American Dream must surely figure prominently in their calculations. The U.S. has the reputation of a place that welcomes entrepreneurial newcomers, and where anyone can strike it rich if they work hard and take risks.
+Japan is unlikely to gain a similar reputation anytime soon, but that’s OK. It simply needs its own unique dream for would-be entrepreneurs — a story they can tell themselves about what their successful future will look like if they move. The dream has to involve financial success, of course — that’s why funding and growth opportunities, as well as the overall business ecosystem, are so important.
+But just as the American dream includes the proverbial
+big suburban house with a white picket fence
+, the Japanese dream can leverage lifestyle elements as well. Immigrant entrepreneurs of the younger generation can dream of an adventurous, exciting life in the world’s nicest cities, and of immersing themselves in a culture that they’ve admired since childhood. In other words, Japan can offer entrepreneurs the Weeb Dream.
+So the first way that the global weeb trend can help Japan is by swelling the ranks of its entrepreneurial class. Of course, Silicon Valley isn’t going to just pick up and move to Shibuya wholesale, any more than it’s going to move to London or Bangalore. But even a few hotshot entrepreneurs trying to make it in Tokyo can have a big outsized effect. They can attract follow-on investment and create buzz, like Sakana AI is doing. They can transfer key technologies from top U.S. research labs. They can inspire their Japanese entrepreneur
+counterparts
+with positive energy and new ideas for business models and fundraising strategies, and put them in touch with foreign capital. And they can tap export markets that Japanese entrepreneurs might not have thought to enter.
+And over time, the trickle might become a flood. A few weeb entrepreneurs today could help their friends follow in their footsteps, as well as inspiring whole generations of global weebs to consider Japan. This is essentially what happened with the Japanese tourism boom, which took over a decade to get off the ground, and which built slowly via word of mouth.
+Weeb capital
+High-growth companies need more than bold and brilliant founders. They also need lots and lots of financing — not just in the early stage, but later on, as they attempt to scale up. For years, observers have noted that Japan is especially weak at late-stage startup funding. A
+recent Nikkei analysis
+calls this the “second death valley”:
+Young Japanese companies are struggling to continuously expand their revenues compared with their peers in the U.S. and Europe, partially owing to their significant lack of access to capital needed for growth, a Nikkei analysis shows…
+[S]tartups in Japan face the "second death valley" as their growth comes to a halt for failure in post-listing fundraising…Behind the phenomenon is the shortage of investors who can take the risk of providing funds to unlisted companies, forcing Japanese startups to seek going public at an early stage.
+Foreign funding can help. VCs, private equity firms, and even banks in the U.S. and other startup-friendly countries are more used to dishing out large amounts of money for late-stage startups. If they can be interested in Japan, they can not only supplement Japan’s domestic financiers, but also teach them how to manage the risks of large late-stage investments.
+In fact, now may be the perfect moment. Venture capital used to be an extremely localized industry, where in-person meetings were essential to getting funded. But in recent years, especially since the pandemic, VCs have become more comfortable establishing branch offices and looking for opportunities outside of Silicon Valley and other traditional U.S. tech hubs. The San Francisco Bay Area’s share of VC deals
+fell below 20% in 2023
+. And they’re starting to diversify overseas, too. In the 2010s, much of this went to China, but that trend is
+in full reverse
+in the era of decoupling. Meanwhile, VC investment into India and the rest of Asia is
+still going strong
+.
+And more global VCs are taking an interest in Japan, as
+Nikkei Asia reports
+:
+Overseas venture capital funds are stepping up investment in Japanese startups, spending nearly 70% more on the year in the January-June period as geopolitical tensions make China a less attractive target…VC investment by overseas players totaled 22.5 billion yen ($152 million) in the first half, up 69%…The figure accounts for roughly 20% of total VC funding in Japan, including those by domestic investors…The increase by foreign players far outpaces the 4% rise for the total.
+Bain Capital Ventures, an important late-stage VC firm, is
+looking to double
+its investments in the country. Vinod Khosla, one of the investors in Sakana AI,
+has predicted
+that Japan will become an AI hub. Nor is American capital the only player here — venture firms from
+Taiwan
+and
+South Korea
+are planning major expansions in Japan.
+What draws capital to Japan? The country’s still-substantial domestic market is one factor, of course, as is its history of technological leadership. Japan’s government is also helping, often co-investing with foreign funds. But here is an interesting paragraph I noticed in
+Lux Capital’s announcement
+of its investment in Sakana AI:
+We see Japan becoming a pivotal hub in a new global axis of AI, drawing exceptional regional and international talent to companies that are leaders in the most competitive fields. With world-class infrastructure, an enviable quality of life, and a high-skilled local workforce, we expect Sakana AI will be the vanguard of a wave of excellent AI startups. [Lux Capital partner] Grace [Isford] lived for part of her childhood in Japan as an expat, and we look forward to many more people taking advantage of Japan’s increasingly open immigration for top technical talent.
+Here is a case of a venture capitalist with a personal connection to Japan making a bet on the country’s potential. As with entrepreneurs themselves, financiers can be drawn to Japan by their personal affinity for the country.
+Investing in Japan, after all, gives VCs a reason to visit frequently, or even relocate. And where VCs themselves go, their dollars follow. The Weeb Dream can thus help Japan become a destination for the capital that its startup ecosystem currently struggles to find at home.
+Weeb talent
+For over a decade, Japan’s government has been
+trying to attract high-skilled immigrants
+to the country, as its own talent pool shrinks due to low birth rates. In 2012 it created a points system for skilled immigrants, and in 2017 it
+significantly reduced
+the requirements for permanent residency for those skilled workers. But during the 2010s it
+struggled
+to attract those workers in large numbers.
+Why? Language is obviously a barrier, but this is true for a lot of other countries as well. An issue more unique to Japan is the traditional lifetime employment system is another barrier — young workers often have low salaries, since they expect to get steady raises over the course of their careers.
+In contrast, a talented young employee in the U.S. can get paid several times the median income — an entry-level software engineer at Google
+gets paid around $204,000
+(¥29,000,000) on average as of this writing, which is about five times as high as the median personal income in the U.S. An entry-level hardware engineer at Nvidia
+gets paid around $153,000
+(¥21,750,000). Those are positions for new graduates, right out of college.
+No matter how much young people would love to live in Japan, it’s difficult for Japanese companies using the traditional lifetime employment system to compete with those salaries, even taking the lower cost of living into account. A foreign worker is unlikely to take advantage of Japan’s traditional lifetime employment system, which means that attracting skilled foreigners requires paying workers higher salaries earlier in their careers.
+21
+FDI can help. Japanese branches of foreign-owned companies will generally not use the lifetime employment system, and will therefore be able to offer higher salaries to young workers from overseas. For example, an entry-level software engineer at Google in Tokyo gets paid around $115,000 (¥16,350,000). That’s pretty competitive, considering Japan’s cheaper cost of living.
+And when you add the Weeb Dream to the equation, it’s actually possible for Japan to compete for global talent. When I asked the team at Spellbrush why they opened a branch office in Tokyo, they told me that the only way they could hire the world’s best AI researchers without paying them sky-high salaries was to offer them a chance to work in Japan.
+How Japan can get more weebs
+Finally, we get to the key question: How can Japan actually leverage its international appeal — the Weeb Dream — to get more FDI, more exports, and more global talent? What more can the government and businesses do that they’re not already doing?
+Here are just a few ideas.
+Idea 1: A big push
+Simply recognizing the fact that there is huge unsatisfied global demand for life in Japan is the key first step. It implies that the amount of resources that the government and businesses are currently applying toward attracting FDI and top talent could be increased substantially, and that this increase would pay off.
+The model for a big FDI push should be the the tourism promotion effort that
+started in 2006
+with the Tourism Nation Promotion Basic Law. This took almost a decade to start seeing significant results, so patience and consistency are important here. Once the trend is established, it’s likely to exceed expectations.
+Japanese government agencies who want to promote FDI — JETRO, METI as a whole, the Cabinet Office, and various prefectural governments — should both step up and diversify their own efforts, exploring new ways to market Japan to the world. They should also actively partner with the private sector — Japanese VCs, with Japanese businesses that would like to form joint ventures, and with upstream Japanese industries that stand to benefit from FDI (like the semiconductor tool industry). Each of these types of businesses can find their own marketing channels, and they can offer standardized investment or joint venture packages for foreign investors — similarly to how Japanese airlines offer cheap tickets and standardized tour packages.
+Japan should also enlist foreigners who have already invested in Japan. Ideas spread by word of mouth, and once a few prominent foreigners start giving their testimonials about how investing and living in Japan, many others will start to consider the idea. An example is software entrepreneur Patrick McKenzie, whose
+writings about life and business in Japan
+inspired others in the U.S. to think seriously about Japan as a destination.
+22
+Right now, efforts to pitch Japan as an FDI destination
+tend to emphasize
+its business climate, human resources, and safety. Adding
+depictions of life in Japan
+to this basic pitch would help harness the power of the Weeb Dream. The best way to do this is probably to promote images and videos of foreigners working and living in Japan — as Americans say, a picture is worth a thousand words.
+23
+Idea 2: A “Japan Life Pass” and a “Japan Investment Pass”
+Tourism to Japan has been helped a great deal by the existence of various standardized package deals. These deals give foreigners a push-button solution for traveling to Japan, alleviating the need to plan flights, hotels, and sightseeing tours separately. And the Japan Rail Pass, introduced in 1981, has given tourists a push-button solution for getting around the country. The Japan Rail Pass is famous outside of Japan; its very existence serves as an advertisement for tourism to the country.
+A similarly famous, standardized solution for moving to Japan could do something similar for FDI and foreign talent. For life in Japan has gotten a lot easier thanks to technology — especially Google Translate, Google Maps, and ChatGPT. But there are still some important things that can be difficult. These include:
+Finding a place to live
+Getting a phone plan
+Opening a bank account
+Ward registration
+Tax preparation
+The Japanese government can create a Japan Life Pass that helps with all of these things. The government could partner with private companies — real estate agents, phone companies, banks, tax prep services, and so on — to help foreigners with each of these processes as soon as they arrive.
+Obviously a Japan Life Pass would not be made available to any and all foreigners. Instead, it would require some qualifications. For example, anyone whose company has made a major investment in greenfield FDI in Japan, or any investor with a definite plan to make a major greenfield FDI investment, should should be able to get the pass.
+The Japan Life Pass should also offer special Japanese language classes, exclusively for holders of the pass. This will be helpful for improving the language skills of foreign entrepreneurs, investors and workers, but it will also be extremely useful for networking. The classes can also include local Japanese investors and entrepreneurs as guest speakers, facilitating further networking and business relationships.
+There should also be a parallel Japan Investment Pass for foreign-invested startups and Japanese subsidiaries. This pass would provide package-deal access to various legal and accounting services that small, fast-growing businesses need — incorporation, worker visas, tax preparation, accounting, and various business development services like local recruiting. There are already private companies like
+Venture Japan
+that provide these packages; the government should simply give their services an official imprimatur.
+24
+In fact, Shibuya ward in Tokyo does something like this, with its “
+Shibuya Startup Deck
+”.
+The purpose of these “passes” isn’t just to make life easier for foreigners who want to invest in Japan. They will also serve as
+marketing
+. The name “Japan Life Pass” is catchy, easy to remember, and self-explanatory, and it’s similar to the well-known Japan Rail Pass. Simply hearing the name will immediately tell every potential foreign investor that the Japanese government intends to make it easy for foreigners to move to and invest in Japan.
+Idea 3: Make bank accounts easy
+When I ask foreigners who set up businesses in Japan about their most severe “pain points”, I always get the same answer:
+banking
+. Using Japan’s retail and commercial banking services was never particularly easy or simple for foreigners, but with the recent implementation of anti-money-laundering provisions, it has become
+even more onerous
+.
+An investor, executive, or engineer who moves to the United States can typically set up a bank account within a single day; in Japan, getting a standard savings account now takes six months. In addition, Japanese banking requires a personal seal, which cannot be obtained before establishing residence in the country. This means that moving to Japan, investing there, and doing business there takes a long time and a lot of effort. It’s a significant barrier to FDI.
+If the U.S. can effectively fight money laundering without these onerous requirements, Japan can too. Bank accounts should be quick to get, and it should be possible to get a personal seal from outside Japan. The Financial Services Agency and the Ministry of Finance should come up with a concrete action plan for making banking a rapid, push-button process for foreign investors and for the employees of companies who invest in Japan.
+Idea 4: Weeb neighborhoods
+Some immigrants like to immerse themselves in local culture, forcing themselves to sink or swim. Others like to move to an immigrant “enclave” city or neighborhood where they can be around other immigrants for some of the time. These enclaves facilitate networking, and can also serve as advertisements for life in a country — for example, Irvine, California became
+a popular destination
+for Asian immigrants.
+25
+In fact, Japan is already starting to build enclaves like this. In Kumamoto, there are major efforts to
+build infrastructure
+for TSMC’s Taiwanese employees — not just trains and housing, but also an international school, a “Taiwan Town” filled with ethnic retail businesses, and so on. In Tokyo, Shibuya ward has gone out of its way to provide
+support for foreigners’ startups
+, with the aforementioned Shibuya Startup Deck, entrepreneurship classes, networking, and even a special visa for entrepreneurs. Even some small Japanese towns, like Tanegashima, are trying to
+become destinations
+for digital nomads.
+Japan’s government can encourage the creation of these enclaves in at least two ways. First, the national government can partner with specific local governments to implement entrepreneurship support like Shibuya’s and capacity building like Kumamoto’s.
+Second, the government can work with developers and real estate agencies, schools, and day care centers that serve foreigners, arranging for them to cluster in specific areas. Having a family with children can be especially challenging in a foreign country, and neighborhoods that feel very livable for high-earning immigrant families with kids can be magnets for talent.
+26
+An example of such a neighborhood is Tamachi in Tokyo.
+Sustaining the Weeb Dream
+The ideas I laid out in the previous section are all designed to help foreign entrepreneurs, investors, and workers turn the Weeb Dream into reality. They all take the existence of that dream for granted. In fact, so far, Japan has not had to do anything in order to create and sustain the global weeb phenomenon; like the American Dream, it has been a completely organic, bottom-up phenomenon.
+There is the danger that at some point, Japan will lose its distinctiveness and its international appeal. This is not an immediate danger, but the government should think about ways to preserve the aspects of Japan that make it special, so that the Weeb Dream never dies.
+One way is to continue supporting small, independent retail businesses. The vast diversity of highly original shops and restaurants is what makes Japanese cities special, but sustaining that diversity might be difficult in an age of low fertility rates. Already, many independent boutiques in Tokyo’s famous fashion districts of Harajuku and Omotesando are being replaced by boring international chains like Gucci and Zara.
+Meanwhile, as the authors of
+Emergent Tokyo
+document, big developers in Tokyo and other cities have recently favored indoor malls without the exterior signs and easy street access that make zakkyo buildings and yokocho so distinctive. People go to Japan to visit places like Omoide Yokocho, Yasukuni-dori, and Golden Gai, not places like Shibuya Hikarie, Tokyu Kabukicho Tower, or Azabudai Hills.
+Japan’s government shouldn’t ban big malls, of course, but it should increase its support for the types of local businesses and shopping areas that have made it so distinctive. This means planning new yokocho-type areas like Ebisu Yokocho, and new zakkyo buildings, shotengai, and so on. It means continuing and even stepping up its support for independent retail businesses — including shops and restaurants started by foreigners.
+Another threat to the Weeb Dream, ironically, is overtourism. Visiting Japan is a magical experience for many, but at a certain point it becomes so crowded with visitors that the magic is lost. My suggestion for balancing these imperatives is to have big cities like Tokyo and Kyoto enact a special surcharge on hotel and Airbnb reservations made to people outside the country. Visitors all need somewhere to stay, so this is just an easy, unobtrusive way of enacting a congestion tax for tourism. The surcharge will allow city governments to adjust tourism levels to their desired amounts, redirecting tourist dollars to rural areas and smaller cities while also reaping more tax revenue for the Tokyo and Kyoto city governments.
+The Weeb Dream also relies on the continuing international appeal of Japan’s pop culture. Japan’s past efforts to promote its culture at the government level, especially the Cool Japan initiative, have
+been underwhelming
+. Instead, the key is to
+encourage independent Japanese auteurs
+in the manga, anime, film, TV, music, art, and fashion. It was
+the genius of independent creators
+like Miyazaki Hayao, Tezuka Osamu, and Anno Hideaki that made manga and anime so vibrant and unique.
+If the era of those titans gives way to boring cookie-cutter corporate slop — as has unfortunately happened in Hollywood — it will erode Japan’s distinctiveness and appeal in the long term. Thus, Japan should encourage independent creators in every artistic field, including cheap or free studios, exhibition spaces, and so on. And IP law and regulatory policy should ensure that artists in all fields get a significant cut of the financial profit from their creations, including merchandising deals.
+The Weeb Dream wasn’t inherited from the time of the samurai; it was created in the modern day, by the independent efforts of millions of highly creative independent Japanese businesspeople and artists. Maintaining that dream doesn’t require fancy overseas marketing efforts; it merely requires giving Japan’s creative people the space to work and thrive.
+Semipermeable membranes: A theory of Japan
+Some readers may find this essay to be self-contradictory. Even as I extolled the benefits of Japan’s uniqueness and distinctiveness, I advocated bringing in foreign businesses to boost its economy. How can these two things be reconciled?
+In fact, I believe that this duality has always been Japan’s unique strength. Japan has always thrived from being a land of
+semipermeable membranes
+. Just as a cell’s membrane allows in some ions and molecules but keeps others out, Japan has always been at its best when it sampled selectively from the outside world.
+During Tokugawa era, Japan’s isolation caused it to stagnate and fall behind the West. Its rapid catch-up in the Meiji Period involved importing vast amounts of
+foreign knowledge
+and taking ideas from many foreign institutions. Yet at the same time, Japan’s government and its businesses constantly tried to adapt these ideas and institutions to Japan’s existing culture instead of simply aping them.
+Japan’s postwar economic miracle was similar. Research results and inventions from the U.S. and Europe inspired Japan’s own scientists and innovators, who then combined these ideas with their own, and added Japanese business models and design sensibilities, to make world-beating high-tech companies. Japan’s legendary manufacturing techniques were inspired partly by the work of Edward Deming and Peter Drucker, but added plenty of local innovations as well.
+The art and cultural output that has made the world love Japan also springs from a combination of foreign and domestic ideas. The plots of Japanese sci-fi comics, games, and cartoons sample liberally from foreign works,
+27
+but mix them into something distinctive and unique. Japan’s legendary street fashion took some inspiration
+from the U.S.
+, Britain, and various European countries, ultimately surpassing all of these in creativity.
+In other words, Japan’s greatness has always relied on taking
+some
+things from the outside world, but not
+too much
+. FDI will do the same. It won’t replace or overwhelm Japan’s domestic businesses; instead, it will provide them with just enough new ingredients to maintain their vitality.
+I believe that this was the deliberate plan of the Meiji reformers who built modern Japan. Instead of self-defeating isolation or surrender to foreign invaders, they chose a third way — a country that mixes foreign ideas and technologies with local culture in appropriate measured amounts. The success of their strategy is more than apparent a century and a half later, in the world’s love for the distinctiveness and originality of the nation they created.
+Now Japan is once again is stagnant and in need of fresh ideas. But it has an asset it didn’t have a hundred and fifty years ago — a world of weebs who stand ready to help.
+Subscribe now
+Share
+1
+Willem Thorbecke of RIETI
+believes
+that the crisis hurt Japan by causing the yen to appreciate. His theory is that it forced Japanese exporters to cut prices in order to maintain short-term market share, but that this deprived them of the earnings they needed to keep investing in research and development — ultimately leading to a loss of their technical edge to Chinese and Korean competitors.
+2
+In fact, monetary policy was far more important than fiscal policy under Abe. Concerns about government debt meant that it
+wasn’t really possible
+to deploy significant fiscal stimulus. In fact, what little “stimulus” did get employed under Abe was often in the form of
+bailouts for inefficient, failing companies
+, which might have reduced productivity growth by a modest amount. There are also arguments that monetary easing reduced productivity growth by allowing Japanese companies to borrow money too cheaply and avoid restructuring. While I think this is
+theoretically possible
+, I highly doubt that this was a big part of the productivity story in Japan; by the 2010s, Japanese companies in general had
+deleveraged
+, and therefore didn’t need to borrow cheaply in order to survive.
+3
+Actually, in Chapter 4 of
+The Contest for Japan’s Economic Future
+, Katz inadvertently ends up providing a bit of evidence in favor of Schaede’s argument. He shows that Japan’s global market share for niche manufactured products in 2018 was only 3% of total global manufacturing sales volume — about equivalent to China, only a little higher than Europe, and less than the United States. However, Japan’s population is less than a tenth of China, a third of Europe, or half of the United States. So Katz’ data supports Schaede’s conclusion that Japan punches above its weight in terms of niche manufacturing. At the same time, though, Katz’s data does show that niche manufacturing is too small to support an economy on its own. This reinforces the conclusion that multi-strategy development is needed.
+4
+This comparison may not be entirely fair. TSMC’s plant in Arizona is more advanced than either of the ones being built so far in Japan, meaning construction is trickier and more complex. And the delay at TSMC Arizona ended up being
+much smaller
+than initially feared, after a successful deal with U.S. unions and some construction assistance from Taiwan. Still, the smoothness of the construction in Kumamoto, whose timeliness was never in doubt, is impressive.
+5
+This is not actually Micron’s first site in Japan; it’s been investing fairly heavily in the country since 2013.
+6
+The typical categorization here is a little different than the one I’m using. Typically, FDI is classified as “horizontal”, “vertical”, or “conglomerate”. This breakdown is more useful when thinking about corporate strategy, while I think my breakdown is more useful for thinking about a nation’s development strategy.
+7
+This is similar to the “overcapacity” strategy that
+China has used in the 2020s
+, except that in addition to cheap bank loans, China also encourages production with huge government subsidies on top of cheap bank loans. MITI, in contrast, would try to tamp down over-competition and overproduction between Japanese companies when they deemed it excessive.
+8
+To be precise, increased demand for a country’s exports leads to an improvement in a country’s terms of trade, leading to an appreciation of the real exchange rate.
+9
+Many years later, Sasaki repaid the favor when his suggestions
+led Intel
+to conceive of the first microprocessor.
+10
+In keeping with Japan’s general weakness in information technology industries, I found that links on the Cabinet Office’s INVEST JAPAN website
+were broken
+, and the translation was
+sometimes clumsy
+. However,
+the JETRO website
+for FDI promotion worked well and looked rather nice. And JETRO’s
+advertisement in Bloomberg
+, promoting Japan as a destination for FDI, was gorgeous and well-articulated. Better cooperation between government agencies on projects like this would be a good idea. Japanese government agencies should hire some American web designers for their own websites. I can recommend some good ones, if anyone is interested.
+11
+In fact, it’s possible that one additional reason for Japan’s loss of international competitiveness after 2007 was that for national security reasons, Japanese companies invested less heavily in China than companies from South Korea, Taiwan, and Europe in the late 2000s and 2010s.
+12
+Rather humorously, my American friends insist on eating grade A5 wagyu, while not having any idea what that rating means. Americans simply trust that Japanese people know what the best meat is, and have rated it accordingly.
+13
+In 2015, I was walking on St. Mark’s Place in NYC, and there were so many Japanese-language signs around me that for a moment I became disoriented and thought I was in Japan.
+14
+In fact, the employees of Spellbrush, the AI startup, are in this category. Their office is covered in anime posters and figurines, and when I visited, they enthusiastically explained the details of the isekai genre to me.
+15
+A group of architecture weebs, including Jorge Almazan and Joe McReynolds, wrote an excellent book about Tokyo’s dense commercial spaces, entitled
+Emergent Tokyo: Designing the Spontaneous City
+. They cover zakkyo buildings in detail, including the history of the laws that led to their creation. They also mention other types of spaces such as yokocho and undertrack infill developments.
+16
+The ultimate example of this is probably Shibuya’s Shōtō, a neighborhood that feels isolated and suburban even though it’s just a few minutes’ walk from one of the most densely trafficked pedestrian areas on the planet.
+17
+In fact, I have a large photo of the zakkyo buildings on Shinjuku’s Yasukuni-dori hanging on the wall of my apartment. At some point I plan to replace it with one or more of my own photos, but I was in a hurry to decorate, and you can’t really go wrong with Yasukuni-dori.
+18
+One can argue that the boom in global interest in urban Japan began with the 2003 movie
+Lost in Translation
+, which depicts a romantic relationship between two Americans visiting Tokyo. Although relatively little of Japanese culture is depicted in the film, the visual backdrop of Tokyo lends an air of romance to the story that would be hard to capture elsewhere.
+19
+For example, unlike the hardcore weebs, I was never a very big anime fan — and certainly not a fan of the shonen and shojo anime that dominates weeb culture. Instead, I was always drawn to Japan’s underground scenes — street fashion, amateur art, independent film, and underground music.
+20
+Zainichi entrepreneurship in Japan has
+fallen in recent decades
+, as employment discrimination has diminished. The intergenerational assimilation of immigrant groups is why new immigration waves are so important for entrepreneurship.
+21
+Naturally, these salaries increase less over the course of a worker’s career than in Japan’s traditional lifetime employment system. Thus, some companies that use the traditional lifetime employment system can still remain competitive, since Japanese workers may choose to get paid more when they’re older. But for foreign workers who are unlikely to stay at a single company for decades, paying more up front is the only way.
+22
+In fact, McKenzie’s depiction of business in Japan is often filled with criticism and frustration towards Japan’s traditional lifetime employment system. Yet despite this criticism, his writings got a lot of American tech people to consider living in Japan, when they never would have even considered it before. This demonstrates that brand ambassadors for Japan need not always be “pro-Japan” in their writing style — it’s enough that they simply put the idea of moving to Japan into people’s minds.
+23
+An even more ambitious idea is to produce a reality TV show about foreign entrepreneurs in Japan. Americans love shows like Terrace House and Old Enough!, and streamers who talk about life in Japan are also quite popular. A Netflix series, or even a series of YouTube videos, depicting the life that awaits foreign workers and entrepreneurs in Japan could potentially be a big hit.
+24
+It’s important for the government to partner with a variety of different companies, instead of just one in each area. This will ensure competition, which will raise the quality of these services. Using only a single private-sector partner or provider will tend to result in low quality.
+25
+Immigrant enclaves can sometimes isolate immigrants and
+limit their opportunities
+. But thanks to Japan’s dense urbanism, enclaves in large cities like Tokyo are unlikely to isolate high-skilled immigrants from the populace at large.
+26
+In the U.S., these are typically called “bedroom communities”. A classic example is Fremont, California, home to many engineers and researchers who work around Silicon Valley. Its high schools are among the highest-achieving schools in the entire U.S.
+27
+In fact, Japan’s
+Seiun Award
+for best translated work is generally a better guide to high-quality American science fiction than U.S. awards like the Hugos or the Nebulas.

@@ -1,0 +1,471 @@
+Title: Inventing the Methods Section
+Source: asimov
+URL: https://www.asimov.press/p/methods
+Date: Mon, 12 Jan 2026 16:04:44 GMT
+Word Count: 6424
+Estimated Read Time: 32 minutes
+
+================================================================================
+
+By
+Andrew Hunt
+When the researchers at Google DeepMind unveiled
+AlphaFold3 in
+Nature
+in May 2024, they did something
+controversial
+. Instead of releasing the code to enable other researchers to verify and build upon their protein structure prediction model, they restricted access via a web server.
+The computational biology community erupted. More than 1,000 researchers
+signed an open letter
+condemning the decision as a failure to follow scientific norms.
+Roland Dunbrack
+, a computational structural biologist who reviewed the paper,
+called the decision
+“an incredible disservice to science.” The backlash worked, and DeepMind released the code in November 2024.
+When it comes to wet lab research, however, we’ve been withholding our “code” for centuries with no outcry. Unlike computer code, which captures a model’s process in machine-readable format, biological protocols operate through layers of human interpretation and tacit knowledge. Seemingly trivial details,
+such as the brand of plastic tubes used
+, are often lost in translation from bench to page and can hinder attempts to reproduce the results.
+In theory, we already have a solution to this problem. Critical experimental details should be provided in the Methods section of scientific papers (part of the standard
+IMRaD
+structure: Introduction, Methods, Results, and Discussion), where researchers outline procedures in sufficient detail for others to evaluate, replicate, and build upon their work. And yet, the canonical Methods section is flawed. In 2021, the
+Center for Open Science
+found that
+none
+of the 193 cancer experiments they examined were “described in sufficient detail to design a replication without seeking clarifications from the original authors.”
+Such findings illustrate science’s systematic failure to value and communicate the “how” of research. The scientific community celebrates discoveries but often treats the experiments that generate them as mere housekeeping, relegating their methods to supplementary materials or omitting them entirely.
+Insufficient methods limit cumulative scientific capabilities. When researchers spend months trying to reproduce something that should take days, or when improved techniques are shared only among well-connected labs, time is wasted rebuilding foundations rather than advancing the scientific frontier.
+This isn’t a modern problem, either. Scientists have struggled to transfer capability for centuries, as it is usually more difficult than transferring concepts. It requires capturing “tacit” knowledge and equipping new human hands to execute it. Furthermore, our primary scientific communication tool, the journal article, has increasingly been optimized to stake claims and present results, rather than to help researchers build on one another’s work.
+As the scientific community wrestles with how to reform scientific publication, tracing the evolution of the Methods section can help us understand why it so often fails and how we might improve it.
+Deep writing about biology. Subscribe!
+Ancient Methods
+Millennia before scientific journals existed, a Babylonian cook pressed cuneiform into clay, preserving one of the world’s oldest known recipes: “Stew of lamb. Meat is used. You prepare water. You add fat. You add fine-grained salt, dried barley cakes, onion, Persian shallot, and milk.”
+This
+clay tablet
+, dated to 1730 BCE, was terse and practical. The instructions written on its surface, however, mark the conceptual birth of the Methods section. With the invention and spread of writing, farmers, cooks, artisans, perfumers, architects, and engineers began to record the methods and knowledge of their trades.
+Tablet YBC 4644
+from c. 1730 BCE documenting recipes from the Old Babylonian period. Credit:
+Wikimedia
+.
+For most of antiquity, written instructions focused on practical skills, such as farming and cooking, rather than science. “The separation of craft know-how from more theoretical knowledge was characteristic” of the ancient world, observes historian Pamela O. Long in her book,
+Openness, Secrecy, Authorship
+. This division was reinforced by philosophical hierarchies, such as Aristotle’s Intellectual Virtues, where theoretical wisdom outranked practical excellence.
+The divide also had deep social roots. “Ancient crafts, carried out for the most part by slaves and manumitted slaves, suffered from a profoundly low status,” Long writes. Two parallel traditions of knowledge emerged, which rarely intersected, one by and for practitioners focused on specific tasks and the other by philosophers pursuing a deeper theoretical understanding.
+Work by the Roman architect
+Vitruvius
+(c. 80 BCE to c. 15 BCE) served as an early bridge between craft and philosophy. A military engineer turned architectural theorist, Vitruvius wrote
+De Architectura
+to document Roman building practices spanning both architectural design and engineering. Vitruvius insisted that architecture requires both “ratiocinatio” (reason) and “fabrica” (fabrication), and he
+warned against
+those who pursue only manual skill without theoretical understanding, who “do not reach a position of authority corresponding to their labor.” Vitruvius equally railed against those who rely only on theory without practice, who “seem to follow a shadow rather than substance.”
+A depiction of the Archimedean water screw from Vitruvius’ book
+De Architectura
+(Book X). The image is from Giovanni Giocondo’s illustrated edition of the book, published in 1511. Credit:
+Cornell University Library
+This fusion of practical skill and scholarly inquiry gradually reshaped the pursuit of knowledge itself. Vitruvius’s integration of “how” and “why” eventually matured into the scientific method.
+Another example of such a thinker is
+Ibn al-Haytham
+(965-1040), a mathematician and astronomer who pioneered experimental methodology during the Islamic Golden Age. When al-Haytham rashly claimed to be able to control the Nile’s flooding, the Fatimid Caliph al-Hakim invited him to Cairo to demonstrate. After surveying the river, al-Haytham realized the task was impossible and allegedly feigned madness, accepting house arrest to avoid the ruler’s wrath. Whether apocryphal or not, his decade of confinement in Cairo (1011-1021) proved productive.
+During his house arrest, al-Haytham did a series of experiments that culminated in his
+Book of Optics
+. Using a pinhole camera, he studied both eclipses and human vision, discovering the geometric principles governing optics. He documented not only his insights but also his doubts, failures, and, crucially, his
+process
+:
+The experimenter should bore two holes in the wooden block. One of these should be from the outermost of the two near circles to the outermost and opposite circle of the two circles on the other surface. Let the hole be circular and cylindrical, and let its circumference coincide with that of the two facing circles. This hole, then, will be at right angles to the two parallel surfaces.
+Al-Haytham’s careful description of his methods enabled others to replicate and build upon his work centuries before European scientists adopted similar practices.
+During the Middle Ages, the economics of craft work shifted, laying the groundwork for the modern concept of intellectual property. In her book,
+Long
+notes that medieval cities established craft guilds to regulate trades, fostering a proprietary attitude toward technical innovation. Venice’s glassmaker guild, for example, became Europe’s premier luxury glass manufacturer during the early Middle Ages.
+1
+Their sophisticated processes made
+Venetian glass so valuable
+that, by 1474, Venice enacted
+Europe’s first statutory patent system
+, thereby establishing a legal framework in which guild secrets and state-granted monopolies reinforced one another. (
+Venetian glass
+was so profitable, in fact, that the government threatened glassmakers with death if they shared trade secrets or left the island.)
+This tension between protecting and sharing craft knowledge pervaded early scientific practice. Galileo (1564-1642) illustrated this well when, in 1610, he published
+Sidereus Nuncius
+, announcing his telescopic discovery of lunar craters to secure priority and patronage while deliberately withholding his telescope-making techniques to maintain a competitive advantage.
+2
+It was only until decades later, when his reputation was assured, that he felt comfortable publishing his methods in craftsman-like detail in his final book:
+Two New Sciences
+.
+3
+Moon phase sketches in Galileo Galilei’s
+Sidereus Nuncius
+, 1609.
+Robert Boyle
+(1627-1691) took the opposite approach from Galileo’s, making transparency itself a part of his method. With his assistant Robert Hooke, he built an improved air pump based on
+Otto von Guericke’s design
+, creating a vacuum chamber that could be opened and resealed for repeated experiments. Inside it, they witnessed striking phenomena: sound was muffled, flames were quenched, and water boiled at a lower temperature. These observations led to his discovery of the pressure-volume law that bears his name.
+When philosopher Thomas Hobbes dismissed these experiments as trickery, insisting reason alone revealed truth, Boyle responded with public experiments and exhaustive documentation. His
+New Experiments Physico-Mechanical
+was self-admittedly “unnecessarily prolix,” documenting every detail needed for replication.
+4
+Boyle proposed a new model in which experimental knowledge was validated through collective observation rather than individual authority.
+The pneumatic engine (vacuum pump) from Robert Boyle’s 1660 work,
+New Experiments Physico-Mechanical, Touching the Spring of the Air, and its Effects
+. Credit:
+Science History Institute
+Such variability in openness reflected a fundamental trade-off. Early scientists recognized that knowledge sharing enabled collective progress. Yet, their economic survival was grounded in patronage, and patrons (and the scientists themselves) sought priority claims for discoveries. While full disclosure helped science advance, it also risked letting competitors replicate and surpass one’s own work.
+Science Formalizes
+Books, the primary medium for scientific communication at the time, fundamentally shaped how experimental practices were transmitted. Scientists could include extensive detail, but this required composing full-length treatises. Publishing and distribution were slow; years could pass between observation, publication, and verification attempts.
+Boyle’s battles with skeptics highlighted the need for rapid and reliable sharing and verification of experimental work. This vision materialized in 1660 when Boyle and his colleagues
+founded the Royal Society
+, a public forum for discussing and witnessing experimental results. With their motto “nullius in verba,” meaning “take nobody’s word for it,” they planted the seeds for what would eventually grow into the modern scientific journal.
+In 1665, Henry Oldenburg, secretary of the Royal Society,
+launched
+Philosophical Transactions
+, a journal dedicated to chronicling and disseminating research.
+5
+Early publications read like open letters, ranging from half-page notes to forty-page treatises:
+Antonie van Leeuwenhoek’s
+report on “little animalcules,”
+Caroline Herschel’s
+comet discovery (originally addressed to friends, mixing personal observations with methodological descriptions), and even
+Benjamin Franklin’s
+kite-and-lightning experiment, which was published in the form of a letter to the botanist Peter Collinson. In the letter, Franklin promised electricity would “stream out plentifully from the Key on the Approach of your Knuckle,” blending a dramatic demonstration with practical instruction.
+Observational charts from Caroline Herschel’s 1786 article illustrating the path of the comet she discovered. Credit:
+Philosophical Transactions of the Royal Society
+Transactions
+, however, still displayed the tension between openness and secrecy. Despite “nullius in verba,” early journals had no requirement regarding the information authors were expected to include. Leeuwenhoek famously
+kept
+his lens-making techniques to himself, declining to share “other glasses and other methods (which I reserve to myself alone).” When faced with
+skepticism
+from the Royal Society about creatures so small that “millions of millions might be contained in one drop of water,” he assembled eight witnesses to peer through his microscopes and sign affidavits rather than reveal his blueprints.
+Leeuwenhoek’s approach typified early scientific communication: scientists often emphasized their findings rather than the means by which they arrived at them, and they did so in idiosyncratic ways. However, over the course of the nineteenth century, this style of documentation gradually gave way to structured scientific reports as science evolved from a pursuit of the wealthy into a professional discipline. The term “scientist” itself was only
+coined in 1833
+, as universities began establishing dedicated science programs
+6
+and consistent measurement standards emerged to enable researchers to compare results more easily.
+7
+Tracking this stylistic evolution, Dwight Atkinson analyzed
+Philosophical Transactions
+in his book
+Scientific Discourse in Sociohistorical Context
+, finding that “methods descriptions underwent dramatic growth in the 19th century, and an overall theory → experiment → discussion organization was evidenced commonly for the first time.”
+Meanwhile, the scientific community expanded from intimate circles of correspondents to a broader network of practitioners. Atkinson notes that detailed Methods sections became crucial for establishing credibility as researchers could no longer personally vouch for unfamiliar colleagues in distant places. This social expansion coincided with technological advances in printing and distribution, as evidenced by the dramatic
+growth
+of scientific journals: from approximately 100 in 1800 to over 10,000 by 1900. Together, these pressures of scale and speed pushed scientific writing toward increased efficiency.
+Nineteenth-century scientists adapted to this growth by introducing fast, short-form outlets alongside traditional narrative journals, epitomized by the
+Comptes Rendus
+of the French Academy of Sciences, established in 1835, with strict page limits to enable rapid weekly publication.
+The French microbiologist Louis Pasteur embraced this emerging style of publication. A fierce combatant in scientific debates, Pasteur
+regularly sparred
+with rivals Auguste Trécul and Edmond Frémy in heated exchanges at the French Academy of Sciences. He had a gift for dramatic demonstration, famously
+proving the efficacy of his anthrax vaccine
+through live challenge trials before crowds of farmers and journalists.
+Pasteur’s approach stemmed from the conviction that empirical evidence must prevail over theoretical speculation. His
+vow
+, “to demolish M. Frémy’s theory [of spontaneous generation] by a decisive experiment on the juice of grapes,” captured this commitment. Pasteur
+published
+rapid-fire notes in the
+Comptes Rendus
+to publicize and defend his fermentation findings, several of which included concise experimental recipes. His work culminated in his 1876 book
+Études sur la bière
+(Studies on Beer), where he provided an exhaustive description of his methods in order to confidently proclaim that “the hypothesis of MM. Trécul and Frémy … is annihilated.”
+An illustration of the swan-necked flasks from
+Études sur la Bière
+, 1876. These flasks enabled Pasteur’s work on fermentation and sterilization, underpinning the germ theory of disease and ultimately modern medicine. Credit:
+BnF Gallica
+Pasteur’s organization anticipated the IMRaD sections we have today. And he was not alone in his use of such a format. Earlier researchers like
+Faraday
+and
+Joule
+also often used the “theory → experiment → discussion” format, providing detailed method descriptions in their
+Philosophical Transactions
+publications.
+As this approach gained popularity, the growing number of scientists and the increasing complexity of their work led to dedicated venues for sharing methodological knowledge. Several method-centric periodicals were established, including the
+Journal of Applied Microscopy
+, founded in 1898, which provided recipe-style descriptions of research. Its first edition, for example, contains W. W. Alleger’s improved method for preparing agar: “Pour a liter of water over a pound of finely minced lean beef … Rub up ten grams of powdered agar in a little cold water … stir this into the filtered meat-infusion and place it on the fire.”
+By the late nineteenth century, methods had started to shift from trade secrets to a primary currency of scientific credibility. Methods, in other words, became a type of knowledge worthy of preservation and dissemination, independent of theory or results.
+Subscribe now
+The Modern Journal
+This emphasis on methods, however, did not persist into the 20th century. Both the
+Philosophical
+Transactions of the Royal Society
+and
+spectroscopic articles in
+Physical Review
+began devoting less text to methodological details. Where 19th-century scientists had used detailed procedural descriptions as a central persuasive strategy, 20th-century authors increasingly prioritized theoretical frameworks and the interpretation of results.
+This transformation resulted from converging forces. Mounting
+financial pressures
+drove journals toward shorter, “Proceedings-style” publications, such as the
+Comptes Rendus
+, requiring authors to economize on methodological details. These pressures were acute as journals, whether commercial or privately sponsored, were typically
+not profitable
+before the 20th century.
+8
+Meanwhile, experimental science had matured to the point where researchers could cite methods compendia or prior literature rather than reproduce multi-page procedures, assuming readers were competent practitioners well-versed in their respective specialties. This change illustrated an implicit reliance on shared professional context. Methods moved to the background.
+This push for efficiency sparked fierce debates across disciplines. Many journal editors in the 1920s were swamped with lengthy and poorly written submissions. In 1928, the National Research Council convened conferences to explore the standardization of article formats, sparking debate about the balance between efficiency and creativity. Harry Hollingworth, chairman of the New York City committee,
+delivered a passionate minority report
+condemning standardization: “If we insist upon cramping [the scientist’s] style and insisting upon arbitrary form, censorship, and the like, we may make uniform pages, but we kill the life of science.”
+Despite such critiques, practical needs prevailed. As publisher
+Edward Passano stated,
+“The main purpose of this conference is to effect economy in publication.” Psychologists were likely the first to adopt a standardized journal article format. In 1928, the American Psychological Association released a
+“publication manual”
+recommending a “natural order” for submissions: (1) statement of conditions (subjects, observers, apparatus, set-up), (2) course of experiments, (3) statement of results, and (4) discussion of results and conclusions, codifying the modern IMRaD structure. The Methods section framework is remarkably close to its current form, stating it should be “technical, concise and not repetitive” while providing “sufficient detail to enable [the reader] to reconstruct and to criticize the experimentation and to compare it with other procedures and results.”
+The opening of the APA’s 1929 instructions for preparing a manuscript. This is speculation, but I’d wager its highly deferential tone reflects the vehemence of the fight over standardizing the scientific article. Credit:
+American Psychological Association
+The push toward standardization spread across disciplines throughout the 20th century. World War II and the 1957 launch of Sputnik prompted the U.S. government to significantly increase its research and development (R&D) budgets, resulting in a more than
+70-fold increase
+over pre-war spending. This triggered rapid growth in both the number of scientists and the volume of scientific publications. In 1945, Vannevar Bush, the first U.S. presidential science advisor,
+captured the feeling
+of the moment: “There is a growing mountain of research … The investigator is staggered by the findings and conclusions of thousands of other workers.” Just as psychology struggled with publication overload in the 1920s, the entire scientific enterprise now faced a similar crisis.
+An illustration from Vannevar Bush’s essay “
+As We May Think
+,” published in both
+The Atlantic
+and
+Life
+in 1945. The piece introduces the idea of a memex (from “memory expansion”), a “future device … in which an individual stores all his books, records, and communications, and which is mechanized so that it may be consulted with exceeding speed and flexibility. It is an enlarged intimate supplement to his memory.” Credit:
+Wikimedia
+To manage this flood of publications, journals enforced structural requirements. Medical journals
+led this trend
+, with section headings first appearing around 1940 and becoming ubiquitous by the 1980s. The IMRaD structure was formalized by the American National Standards Institute through
+two key standards
+in the 1970s.
+9
+As authors Day and Gastel explain in
+How to Write and Publish a Scientific Paper
+, the new format guides authors to communicate “what they did, why it was done, how it was done (so others can try to repeat it), and what was learned from it.”
+Yet even as IMRaD became standard, the Methods section struggled to fulfill its promise. From 1960 to 1970, the
+annual number
+of U.S. PhDs awarded grew at over 13 times the rate of
+population growth
+, straining the person-to-person apprenticeship system for training new scientists. Furthermore, page limits and increasing methodological complexity meant that modern techniques were often not effectively communicated in typical journal Methods sections.
+This gap between what researchers needed and what journals provided sparked the founding of new venues dedicated specifically to methods:
+Methods in Enzymology
+(1955),
+Methods in Molecular Biology
+(1983), and eventually
+Nature Protocols
+(2006). Following in the footsteps of the
+Journal of Applied Microscopy
+and others, these publications aimed to accelerate the dissemination of methodological knowledge between researchers.
+While they improved the spread of methods, they couldn’t ensure completeness. Even when mainstream journals began requiring Methods sections in the 1980s, researchers still often failed to include key details. The consequences proved particularly severe in medicine, where incomplete reporting could affect patient care. In response, a coalition of medical experts
+developed
+the
+CONSORT Statement
+in 1996, a checklist and flow diagram for tracking participants through clinical trials.
+10
+Doug Altman, one of CONSORT’s architects,
+captured its philosophy
+: “Readers should not have to infer what was probably done; they should be told explicitly.”
+The checklist approach proved effective. A
+review
+of over 16,000 randomized controlled trials found that endorsement of the CONSORT guidelines improved 25 of 27 measured reporting outcomes.
+11
+Other disciplines sought similar standardization of their Methods sections, eventually leading to initiatives such as the
+Materials Design Analysis and Reproducibility Checklist
+and the STAR Methods (which are still widely followed by major journals today).
+Digital Evolution
+In the 1990s, as the internet became more widely adopted, the marginal cost of publishing effectively dropped to zero. Journal editors began taking their publications online and
+introducing
+supplementary materials, while maintaining concise and results-driven main articles.
+12
+Unfortunately, this migration of Methods sections to supplements proved
+problematic
+. While authors could share richer method details, these spaces were lightly reviewed and ill-structured, with untraceable citations and unstable links.
+13
+Sometimes supplements
+disappeared
+entirely after publication, prompting efforts to establish better standards for preserving them.
+14
+In response,
+some
+journals (such as
+Nature
+) reversed course by reintegrating full Methods sections directly into their online articles rather than relegating them to easily lost supplementary files.
+While digital publishing expanded the space for detailed methods, a more significant challenge for thorough methods remained: tacit knowledge. Written instructions still failed to fully capture the embodied or unconscious expertise essential to success. In 2003, Princeton PhD student
+Moshe Pritsker
+spent more than a month attempting to grow mouse embryonic stem cells using published protocols. Frustrated, he flew to Edinburgh to learn the technique from the original team, discovering that the trick was simply “handling” cells properly, something easily demonstrated but difficult to describe in text.
+This experience inspired Pritsker to launch the
+Journal of Visualized Experiments
+(
+JoVE
+) in late 2006. JoVE’s
+first issue
+featured 17 peer-reviewed videos showing science techniques. Today, JoVE’s library has over 25,000 videos. Despite demonstrating that video can clearly communicate scientific techniques, barriers such as cost, production time, and institutional inertia have prevented it from becoming the
+de facto
+standard for sharing research methods.
+Around the same time that JoVE appeared, MIT graduate students in the Endy and Knight labs made their own
+discovery
+about sharing scientific knowledge. These engineers-turned-biologists found that essential laboratory techniques, especially in synthetic biology, weren’t being documented in protocol manuals but instead were “passed around as lore.” In 2005, they launched “
+Endipedia
+,” an internal wiki for sharing research methods that later evolved into
+OpenWetWare
+, the first public wiki dedicated to scientific protocols.
+A screenshot of OpenWetWare’s front page from its early days, November 5th, 2005. Credit:
+Web Archive
+OpenWetWare shared many features with Wikipedia, including version histories, real-time editing, and distributed collaboration. The platform quickly gained users beyond MIT, becoming a living, crowdsourced repository of scientific methods.
+15
+Despite its practical value, however, the project faced a challenge confronting many new resources: It existed outside academia’s prestige system. Contributions couldn’t be easily cited, and entries lacked persistent identifiers, making it difficult to track or reward ideas over time.
+Even with NSF funding, OpenWetWare was unable to sustain itself. The money ran out on April 15, 2025, forcing the
+servers offline
+for six months. As of this writing, the site has come back online, though its long-term future remains uncertain.
+16
+Still, OpenWetWare demonstrated that researchers will openly share bench protocols online, and nearly a decade later,
+protocols.io
+picked up the baton. In a familiar pattern, MIT postdoc Lenny Teytelman spent a year and a half correcting an error in a published microscopy protocol after
+discovering
+that a
+reagent volume needed to be quintupled and incubation time quadrupled
+, for which he received no academic credit.
+In 2014, Teytleman, along with his cofounders, launched a Kickstarter campaign for protocols.io to address this deficit. Their mission was to build “a free, central, up-to-date, crowdsourced protocol repository for the life sciences.”
+Inspired
+by GitHub, the vision was to prevent wasted time and improve reproducibility by allowing researchers to publish and receive credit for refinements that are typically lost in notebooks or buried in supplements.
+Protocols.io has grown into a significant repository of research methods, hosting approximately 15,000 publicly available protocols and earning endorsements from numerous journals. However, maintaining this resource has proved financially challenging. The platform experimented with a “freemium” model, in which the free tier assumes researchers are ready to publish openly. Those who prefer to refine privately first encounter strict limits and are prompted to upgrade to paid plans.
+17
+By 2023, after nine years of struggling to balance openness with sustainability, the platform was
+sold
+to
+Springer Nature
+. The acquisition brought financial stability but came at a cost: subscription prices
+surged
+700 percent for 2025 under the new ownership, undermining the platform’s founding commitment to the accessible sharing of methods.
+Despite more than a decade of effort, published protocols remain second-class research outputs. They are still optional in most fields, with weak incentives and minimal academic credit for method development. While such digital platforms haven’t solved the second-class status of methods, they have transformed the way many researchers share procedures, making methods more accessible, searchable, and citable, while fostering new expectations for openness. Importantly, they’ve also shown that researchers can devise ways to improve the delivery and reception of the Methods section.
+A Better Marketplace For Methodology
+Doug Altman, of CONSORT checklist fame,
+captures the predicament
+with modern methods well: “Everyone is so busy doing research they don’t have time to stop and think about the way they’re doing it.” Pausing to improve how we work might seem like a distraction from science, but in fact, it is central to its progress. Discovery is
+inseparable
+from the tools and techniques that enable it. Yet, we routinely undervalue both the creation and diffusion of such methods.
+At this point, one might expect me to recommend keeping better lab notebooks or writing better methods sections. But this is not the answer in and of itself. Research is inherently exploratory and context-dependent. We don’t know in advance which details matter, and we often can’t take the time to
+document everything
+. Nor should we, as we want progress, not paperwork.
+Still, doing our own research and helping others do theirs is often framed as a
+trade-off
+. In the short term, it is; resources are finite, and time spent on one subtracts from the other. But science itself is a long-term endeavor. Instead of accepting the trade-off, we can invest in infrastructure that expands what’s possible for both: systems that enable method transfer and incentives that reward the sharing of methods.
+Software offers one example. Code that others could inherit and extend didn’t come from asking developers to document more. Rather, it originated from tools such as Git and GitHub, which made record-keeping a byproduct of work. Git is akin to plumbing; it tracks every change to code, lets developers revert to earlier versions, and merges contributions from different people. GitHub is the social platform on top, where developers share code, discover each other’s work, and build reputations. Together, they make collaboration more frictionless, and because contributions were trackable, they became valuable.
+Protocols.io aimed to be the GitHub of biology, but GitHub could only exist because Git came first. Biology as yet has no equivalent foundation. Git works because code is digital; the instructions themselves
+are
+what get executed. Hardware varies, but it’s standardized enough that the same script runs the same way on any compatible machine. But wet lab biology is different. A protocol describes a process, but it isn’t the process itself. Between the instructions and the result stand human hands, variable equipment, and the unpredictability of biology. We have no infrastructure for capturing physical work, and little that makes method transfer meaningfully easier.
+Fortunately, the research community is already experimenting with solutions on multiple fronts.
+New technologies are finally equipping us to capture tacit knowledge in the laboratory.
+Cultivarium
+’s
+PRISM
+system, for example, uses smart lab glasses that record a researcher’s process in real time, capturing visual cues, timing, and movements that written protocols often omit.
+A PRISM protocol. The scientist wears “smart” glasses to record an experiment while narrating what they are doing, much as Vannevar Bush imagined.
+Other groups are adding context and explanation to scientific results and methods.
+Arcadia Science
+, for instance, publishes
+“pubs”
+hosted on
+protocols.io
+that integrate step-by-step instructions, as well as the rationale behind decisions, hurdles encountered along the way, and experiments that
+didn’t work
+. For computational work, they convert Jupyter notebooks directly into publications, making the analysis itself
+executable
+.
+Automation could do the same for the wet lab, translating a researcher’s craft knowledge into explicit instructions that others can execute. However, most lab automation efforts have been designed to scale volume (e.g., by running thousands of identical samples) rather than to scale
+variety
+in experiments.
+Cloud labs
+promise to make wet-lab work as accessible as running code, with new techniques available at the click of a button. So far, however, they fall short. Research demands constant iteration, but current cloud labs make such tinkering tedious (although these may be early growing pains). The next generation of automated labs will need to provide structure while enabling responsiveness.
+Other efforts to produce better infrastructure are emerging from new institutional models. As traditional grants primarily reward new findings rather than shared know-how, they rarely make tool- and protocol-sharing a genuine, enforceable requirement.
+Focused Research Organizations
+(FROs) such as
+Cultivarium
+,
+Align
+, and
+E11 Bio
+operate under a different model. They exist outside the standard academic marketplace and are explicitly funded to develop tools, techniques, and datasets that enable the community. While nascent and experimental, FROs represent one way to address the infrastructure gap. If we want shared methods, we need funding streams that make genuine methodological openness a condition of support.
+But better infrastructure is only part of the answer. We also need to reshape scientific incentives around generativity rather than novelty. By generativity, I mean how much a contribution unlocks the work of others. Consider the microscope. Its value lay in the capability it gave others to see what couldn’t be seen before, paving the way for Leeuwenhoek’s “little animalcules,” Pasteur’s germ theory, and modern cell biology. That’s what we should be measuring and rewarding.
+Rewarding generativity requires seeing it first. Citations get us partway there, but they’re a crude proxy for capability transfer. A citation tells you that someone referenced your method, but not whether they successfully executed it. It can’t distinguish between a protocol that worked immediately and one that took six months of troubleshooting. Worse, citations mostly point to frozen artifacts, a paper fixed at the moment of publication. But methods should be living things, refined and improved through use. A citation alone can’t capture that evolution. The information flows out, but nothing flows back, leaving the community blind to what is actually working.
+Sharing methods as executable artifacts could help repair this broken feedback loop. When adoption becomes visible and modifications trackable, improvements can flow back to the source, thus letting us measure and reward the process of science rather than just its outcomes. If we can see how a method evolved through use, who made it transferable, and how much a contribution enabled others’ work, then we can finally give credit not only to those who publish first, but also to those whose methods actually worked for others. Sharing stops feeling like giving away a competitive edge and starts feeling, instead, like investing in a commons that you yourself depend on.
+Building infrastructure that makes this possible might sound expensive, but consider the hidden costs of our current system. The U.S. alone invests an
+estimated
+$28 billion annually in irreproducible biomedical research. Methods are only a piece of the irreproducibility puzzle, but they’re a
+contributing
+factor. Even modest improvements could justify the investment in infrastructure. Meanwhile, academic publishers earn billions, with some of the
+highest profit margins
+in
+any industry
+. There is money available; we just need to funnel it towards infrastructure that actually benefits researchers.
+This vision isn’t new, but our capacity to realize it is. Three centuries ago, Robert Boyle advocated making experimental details public, believing that shared capability would benefit discovery. We now possess technologies he couldn’t have imagined when writing his “unnecessarily prolix” methods: video, the internet, automation, version control, and machine learning. Yet, we’ve barely begun to harness them for method sharing.
+As we build a better future, we can
+take comfort
+in Boyle’s encouragement to his fellow experimenters: “though some of your experiments should not always prove constant, you have divers[e] partners in that infelicity, who have not been discouraged by it.”
+Subscribe now
+Andrew Hunt
+is a methods and measurement nerd and a postdoctoral fellow in the Baker Lab at the University of Washington, where he designs new proteins from scratch.
+Cite:
+Hunt, A. “Inventing the Methods Section.”
+Asimov Press
+(2025). DOI: 10.62211/92kw-71iw
+Thanks to Niko McCarty and Xander Balwit, who helped me transform this idea into a publishable essay. I’m also grateful to Harley Pyles, Henry Lee, Don Hilvert, Amir Motmaen, and Grant Landwehr for providing feedback on drafts. And thank you, finally, to Jon Bogart, Anna Marie Wagner, and Renee Wegrzyn for conversations that influenced the ideas here. Header image by Ella Watkins-Dulaney.
+1
+Venetian glassmakers were granted the special privilege of their children becoming nobles through marriage. The industry’s importance showed in its customers (kings and popes of Europe) and its reach: Murano’s glass furnaces shipped luxury products around the world.
+2
+There is
+evidence
+that Galileo, contrary to his emphatic claims of independent invention, received either a complete description or physical access to a telescope at the outset of his telescope-making. This information came through his close friend Paolo Sarpi, who examined a telescope submitted to the Venetian Senate by a foreign inventor seeking a reward or patent.
+3
+Galileo
+writes
+: “A piece of wooden moulding or scantling, about 12 cubits long, half a cubit wide, and three finger-breadths thick, was taken; on its edge was cut a channel a little more than one finger in breadth; having made this groove very straight, smooth, and polished, and having lined it with parchment, also as smooth and polished as possible, we rolled along it a hard, smooth, and very round bronze ball. Having placed this board in a sloping position, by lifting one end some one or two cubits above the other, we rolled the ball, as I was just saying, along the channel, noting, in a manner presently to be described, the time required to make the descent. We repeated this experiment more than once in order to measure the time with an accuracy such that the deviation between two observations never exceeded one-tenth of a pulse-beat.”
+4
+An example of Boyle’s methodological
+detail
+: “At the very top of the Vessel, (A) you may observe a round hole, whose Diametre (BC) is of about four Inches; and whereof, the Orifice is incircled with a lip of Glass, almost an Inch high: For the making of which lip, it was requisite (to mention that upon the by, in case your Lordship should have such another Engine made for you) to have a hollow and tapering Pipe of Glass drawn out, whereof the Orifice above mentioned was the Basis, and then to have the Cone cut off with an hot Iron, within about an Inch of the Points (BC).”
+5
+Despite
+its later status as the Royal Society’s official publication,
+Philosophical Transactions
+began as Oldenburg’s personal, independent commercial venture. Oldenburg explicitly modeled his periodical on the French
+Journal des sçavans
+, launched two months earlier, explaining that it would be “similar, but much more philosophical in nature.” Showing the close ties between the two journals, Oldenburg published at least two items from the first edition of the French journal without attribution (a practice both journals regularly employed during that period).
+6
+The
+Humboldtian
+model, pioneered at the University of Berlin in 1810, united teaching with research and emphasized academic freedom. This German model spread throughout Europe, transforming universities into research centers where professional “scientists” could be systematically trained.
+7
+The first practical realization of the
+metric system emerged
+in 1799 during the French Revolution, with platinum reference copies for the meter (based on Earth’s dimensions) and kilogram (based on a cubic decimetre of water).
+8
+Before
+the mid-20th century, virtually all journals depended on the generosity of sponsors willing to subsidize their costs, with few managing better than break-even by 1900. Publishing costs were often paid in part or in full by authors or third-party patrons, enabling copies to be subsidized or distributed gratis.
+9
+ANSI (American National Standards Institute) Z39.16-1972 and its 1979 revision.
+10
+By 2000, the International Committee of Medical Journal Editors specifically
+pointed authors to the CONSORT checklist
+, making it the
+de facto
+standard for medical journals.
+11
+These improvements came with significant limitations. Journal endorsement didn’t guarantee enforcement, and adherence rates remained disappointingly low even with official support. Furthermore, these post-hoc checkboxes only address reporting, not the underlying quality of the research design itself, a problem that would later motivate initiatives like study
+pre-registration
+, which lies beyond the scope of this discussion.
+12
+Up until this point, additional study details were either shared by the original authors upon request or submitted to specialized services, such as the
+Auxiliary Publication Program
+or, later, the National Auxiliary Publication Service, which would distribute more complex information than typically published in a journal.
+13
+Most journals ask reviewers to
+evaluate supplementary material,
+either to assess whether the information is necessary, or to actually review it for scientific accuracy. For example, at the journal
+Science,
+the instructions to authors state: “To be accepted for posting, supplementary materials must be essential to the scientific integrity and excellence of the paper. The material is subject to the same editorial standards and peer-review procedures as the print publication.” In practice though, this is
+contrary
+to the experience of scientists using the supplementary materials of previous publications.
+14
+Scrutiny over these shortcomings spurred the National Information Standards Organization to publish
+RP-15-2013
+, a best-practice guide for structuring and preserving supplemental files.
+15
+By April 2007, traffic had
+topped
+one million page views per month, with
+more
+than 100 active labs from over 40 institutions.
+16
+OpenWetWare’s experiences underscore the need for aligned incentives and a sustainable revenue stream for open science.
+17
+The free
+“Open Research” plan
+allows only two private protocols.

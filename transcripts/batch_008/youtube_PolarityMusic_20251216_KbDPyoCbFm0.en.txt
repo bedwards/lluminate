@@ -1,0 +1,318 @@
+Yo folks, FA Studio Web is here and I
+announced this a few days ago and today
+I got access for some reason. Um, so
+here you can see in the browser the
+dashboard where you can create or manage
+your projects and at the moment here it
+says you haven't started any projects
+yet and we want to change this of
+course. So we can create something by
+just clicking on create
+and this is how it looks like. So this
+is the main structure of FL Studio web.
+On the left side here we have some kind
+of inspector panel with access to
+oneshot samples and loops of course. So
+these are the sounds here. And then we
+have also instruments. So you can add
+here some synthesizers or some samplers
+slicer mini um audio track. Right. And
+on the right side here we have audio
+effects, bitc crusher, distortion
+filter, fruity balance, fruity
+compressor, fruity delay, fruity
+parametric EQ2 and hyper chorus and look
+verb. Um, so a lot of stuff um for the
+beginning. I guess they add some more
+things here in the future, but I think
+for the for the first version it's
+already um pretty full with stuff you
+can explore. We can also hide this if
+you want to. Right. Then we have here
+the transport section. Uh you can change
+the name of your track. Uh you can
+generate a new name. Uh you can add here
+an image there. Probably in the future
+you can generate something with AI I
+guess here in the the future. But you
+can also just drag something random in
+if you want to uh undo. You can change
+here. We want to make drum and bass. So
+we go to 173. Um
+oh it's actually in it caps lock. Sorry.
+173. Uh then we can change here the
+scale minor and I want to use here D#
+minor for some reason. And we can select
+your genre. So we can uh select from
+techno, trap, house, hip hop, EDM,
+dubstep, drill, drum, bass, and armor
+piano. And this one decides basically
+what you have access to on the left side
+here. So the samples are pre uh filtered
+more or less. And also here down in the
+uh step sequencer view we can generate
+patterns and these patterns are also
+genre based. So we can select here the
+genre or it's pre-selected with what you
+selected up here. Right? So we can
+generate here a drum and bass pattern
+and it also selects here sounds. It
+randomly exchanges these sounds. So
+let's listen to this. [music]
+>> [music]
+[music]
+>> Yeah, that's a pretty normal drum bass
+loop. Um, so yeah, you have a pattern.
+We can u create multiple patterns here,
+of course. Uh and then we have a
+arranger and you can drag these patterns
+then into the arranger and arrange or
+create some kind of arrangement with
+that. On the right side here we have
+also something to learn. So this is a
+guide um or an online live tutorial
+thing. Here the beat design I already
+did this. There's a check mark. We can
+explore here audio loops and then you
+unlock more of these tutorials and you
+can make one tutorial after the other
+and to learn how to produce music with
+this. But I just hide this here for the
+moment. Um there's here also master
+volume knob and we can maximize this
+here. It looks like this. Yeah, cool. So
+it looks like a real real desktop
+application, right? Um okay. Okay. So we
+have already created here some kind of
+pattern.
+[music]
+So maybe uh remove here the symbols and
+maybe make the high a bit uh bit
+quieter. [music]
+Okay. So this is the this is the first
+loop. We can also switch this down here
+uh to this uh clip view. And then we
+have here the
+yeah the drum drum rack or I don't know
+how it's called um here in FL Studio. Um
+so in each of these slots there's
+basically a sampler and uh we can add
+certain effects here to each of these
+slots here drop effects here right. Uh
+so maybe here the symbol we want to have
+let's go to effects use a reverb here
+only on the tambourine or on the yeah
+what's it called symbol
+to make it a bit longer
+more brightness.
+Yeah cool. So and then we can of course
+um can you close this here?
+There's no way of closing this, right?
+So, yeah. And then we have here, let's
+say, um, a filter. So, you put the
+filter after the drum rack or the drum
+track. Um, the filter sounds already
+pretty nice to me.
+[music]
+Can also interact here with the uh, GUI.
+And we have different filter types. Low
+pass 6, highp pass 6, 12, uh 24, peak
+comp filters even. [music]
+And if you are happy with something,
+let's go for high pass here. Um,
+when you're happy with something, you
+can also save a preset. my drums,
+right? And then we put here maybe let's
+say um a compressor on that
+threshold down ratio goes up and attack
+is very short maybe I don't know 5
+milliseconds release is also very short
+[music]
+and then here at the top you can see
+this is a volume knob. But it's more
+like a mix knob or at least it's it's
+labeled a volume level, but you can mix
+in um the wet signal of the audio
+effect. [music]
+So you can do some parallel compression
+here [music]
+and maybe put here at the end some kind
+of distortion device. [music]
+[music]
+You can see the peaks from the
+compressor. Nice. Uh maybe it's a bit
+too much here. [music]
+>> [music]
+>> But you can see it's it's working like a
+real door. So there's no um it's not
+taking shortcuts here. You have just
+real uh channels. You have real
+instruments and you have real audio
+effects that you can use. Um hyper
+chorus uh balance filter. What else?
+Maybe a bit crusher at the end. [music]
+[music]
+[music]
+Okay, cool. So, uh that's that. And you
+want to add here, let's say maybe a
+loop, maybe a bass loop or something
+like this. I probably want to select
+your bass.
+[music]
+[music]
+Yeah, let's let's use this and drop this
+in here. Um, so this is an audio track.
+An audio track here is um something that
+has also slicing. So we have here
+stretch type elastic beats. Um, so you
+know this probably if enabled live also.
+So different stretch algorithms also in
+the web door. [music]
+[music]
+So maybe we put on this here some kind
+of filter.
+Uh, put this on lowass 24 [music]
+[music]
+or maybe a band pass. Let's listen to
+the band pass here for a moment. [music]
+>> [music]
+>> Yeah, mixing this in doesn't do
+anything. So, we use low pass
+24.
+[music]
+And then we can automate this also. We
+have here automation um lane. So, we
+want to automate here the filter one
+frequency. We add a new uh automation
+clip and then we can say
+how how to filter this. But here it's
+just uh two bars or one bar. No, it's
+actually four bars. So we can you go to
+general here and make this shorter.
+Maybe one bar only or even shorter. And
+then um yeah, make something very quick.
+[music]
+Maybe uh one, two bars. Oh, it's not two
+bars. It's actually two two quarter
+notes. I'm not sure. [music]
+[music]
+>> [music]
+[music]
+[music]
+>> I'll make this a bit longer. Let's go to
+two here.
+[music]
+>> [music]
+>> So, it's more like a pulley rhythm.
+[music]
+Yeah. Let's bring uh maybe here
+some percussions in there. [music]
+Let's use this. Turn it down. [music]
+We can also change the volume. Nice.
+[music]
+>> [music]
+>> I don't think there's anything like
+pitch. I haven't found anything. Maybe
+there is something like this. Um,
+yeah, not on the audio track at least.
+You probably need to use a sampler for
+that. Um, oh, we can add your multiple
+things. It's not what I want. Uh, we can
+hide here the automation there. Nice.
+[music]
+Yeah. And you can drag this in.
+And I haven't found here a way to switch
+actually from the pattern playback to
+the arranger playback. All I could do
+was closing this down here and then
+reopening this. Um, [music]
+[music]
+let's rename this here to bass.
+Yeah, but you can see you can quickly
+iterate on certain ideas here uh with
+these uh pattern generators and using
+samples from the library. Uh we can also
+uh record something uh into the door.
+You can also use a MIDI keyboard if you
+want to to play some certain instruments
+or use here the oneshot um s oneshot
+samples in an instrument. Everything
+kind of possible, everything uh
+available. So let's drag in here some
+keys.
+Uh so with keys we can also generate
+here some kind of chords in the scale of
+D# sharp minor because I dialed this in
+here at the beginning. [music]
+Yeah, it's not the best idea.
+Or maybe use a syn or strings. That's a
+sense.
+[music]
+H not my not my sound.
+70s lead. Oh, we have more stuff here.
+[music]
+Yeah. Let's add here some kind of
+reverb.
+Let's add a delay.
+Uh, this isn't divisions. Okay,
+we'll do three.
+So yeah, you can also use very short
+delay times here with this delay for
+some reason. Also, uh disable tempo sync
+and it goes down to 1 millisecond. Okay,
+nice. Yeah, everything possible.
+Yeah, but the pedal is a bit boring.
+There needs to be a high pass here.
+>> [music]
+>> Yeah, it's the best track ever. But you
+get the idea. I just want to show you
+this here. Um,
+fruity compressor filter distortion.
+What else? Hyper chorus. We haven't
+tried this out yet.
+[music]
+There's some parametric EQ also in here
+that you can change stuff.
+Uh fruity balance. It's more like a tool
+device. So you can change the volume and
+the balance and you have a view what's
+going on here with the loudness
+distortion.
+Uh we have a bit crusher also. Yeah. All
+that stuff. So a lot of audio effects
+you can use. Also a lot of instruments
+already here. Um most of these
+instruments are sample based. So here
+this base thing is just based on wave or
+samples. Uh drum track is based on
+samples. Fruity slices based on samples.
+Mini syn. I think it's um
+yeah it looks like
+it's uses here some shapes but I think
+these are also just samples probably.
+It's the same engine because when you
+drag in here a sampler, the sampler
+looks exactly like the Miniscent,
+but yeah, maybe I'm wrong. So yeah, a
+lot of stuff is sample based. And
+there's an arranger, there's a clip
+launcher, there is here uh a learn area,
+there's a transport, you can change the
+name, you can change BPM, you can change
+the scale, you can drag in effects,
+sounds, instruments. So everything is
+there but it's not the real FL Studio
+you know from the desktop right so it's
+not like just one to one the same thing
+it's just a new browserbased door and in
+my opinion it's it's pretty nice I hope
+they keep it for free around and um yeah
+it's a great start. Thanks for watching.
+Leave a like if you like the video. Let
+me know what you think in the comments
+below. Would you use something like this
+in the browser? maybe on the laptop or
+um on the smartphone, iPad or whatever.
+Let me know in the comments down below.
+Thanks for watching. Leave a like and
+I'll see you on the next video. Bye.

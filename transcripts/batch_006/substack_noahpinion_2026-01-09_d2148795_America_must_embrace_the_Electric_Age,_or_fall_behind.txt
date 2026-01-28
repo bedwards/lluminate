@@ -1,0 +1,147 @@
+Title: America must embrace the Electric Age, or fall behind
+Source: noahpinion
+URL: https://www.noahpinion.blog/p/america-must-embrace-the-electric
+Date: Fri, 09 Jan 2026 10:49:01 GMT
+Word Count: 2337
+Estimated Read Time: 11 minutes
+
+================================================================================
+
+Photo by Oronbb via
+Wikimedia Commons
+Elon Musk is America’s China.
+That sounds like a silly thing to say, but what it means is that what the entire economy of China is set up to do — scale up high-tech manufacturing businesses — is something that only
+one man in America
+knows how to do. Only Elon has built China-like manufacturing businesses in America, and he has done it
+twice
+now — SpaceX and Tesla. When something like that happens twice, it wasn’t a coincidence.
+Just to give you an example of how important this is, note that without SpaceX, China would be leaving America in the dust when it comes to space launches. But
+with
+SpaceX, it’s America leaving China in the dust:
+Source:
+@kenkirtland17
+One implication of this is that America needs to make it
+a lot easier to set up and scale a manufacturing business
+, so that our entire high-tech manufacturing sector isn’t dependent on one slightly kooky right-wing billionaire. But that’s a topic for another post.
+A second implication is that if we want to know about the future of physical technology,
+we should listen to Elon Musk
+. In fact, Elon has
+a great track record
+of seeing and entering manufacturing industries that China zeroes in on later:
+This is a good list, but it omits the most important items. The three industries that Elon zeroed in on very early, which made him much of his fortune — and which China has subsequently gone all-in on — are
+batteries, electric vehicles, and solar power
+. In fact, he still thinks these technologies are some of the most important in the world. In a recent interview,
+Elon said
+:
+It seems like China listens to everything I say, and does it basically— or they’re just doing it independently. I don’t know, but they certainly have a massive battery pack output, they’re making a vast number of electric cars, and [a] vast amount of solar…
+These are all the things I said we should do here [in America].
+Elon didn’t go for batteries, EVs, and solar power because he was a climate-obsessed liberal; he correctly understood that there was a revolution underway in the technologies that humans use to produce, store, transport, and harness energy. He knew that whoever mastered that technological revolution would attain a dominant position in a bunch of different, seemingly unrelated industries.
+In other words, Elon understood — and still understands — the importance of the Electric Tech Stack.
+I’ve written a lot about electric technology, and why it’s the key to the future of every nation and every industry on Earth. In a post back in 2024, I argued that what we’re seeing is a wholesale shift away from combustion, toward technologies that harness electricity directly:
+For a more in-depth explanation, I strongly recommend this very long post by Packy McCormick and Sam D’Amico:
+Not Boring by Packy McCormick
+The Electric Slide
+Welcome to the 1,269 newly Not Boring people who have joined us since our last essay! Join 248,515 smart, curious folks by subscribing here…
+Read more
+5 months ago · 939 likes · 72 comments · Packy McCormick and Sam D'Amico
+Basically, electricity is more controllable than combustion; pushing electrons through a wire simply offers you much finer control over where the energy goes than blowing up hot gases to turn some gears. For a long time, electric technology was limited by low energy density, low power density,
+1
+and weak magnetic field strengths — combustion gave us the
+oomph
+that electricity just couldn’t give us.
+But then in the late 20th century, we
+2
+invented three things that utterly changed the game. These three inventions were
+the lithium-ion battery, the rare-earth electric motor, and power electronics
+. A little over a year ago, I wrote a post about why these three inventions were such game-changers:
+Basically, these three things allow electric motors to replace combustion engines (and steam boilers) over a wide variety of applications.
+Batteries
+make it possible to store and transport electrical energy very compactly and extract that energy very quickly.
+Rare-earth motors
+make it possible to use electrical energy to create very strong torques — for example, the torque that turns the axles of a Tesla. And
+power electronics
+make it possible to exert fine control over large amounts of electric power — stopping and starting it, rerouting it, repurposing it for different uses, and so on.
+With these three technologies, combustion’s main advantages vanish in many domains. Whether it’s cars, drones, robots, or household appliances, electric technology now has both the power and the portability that only combustion technology used to enjoy.
+Elon Musk understood this decades before people like me ever did, which is why he entered the electric car business very early. And over time, Elon’s vision for the car industry has increasingly been proven correct. Sales of internal combustion cars peaked almost a decade ago and have been declining ever since, while sales of electric cars have only grown:
+Source:
+Canary Media
+This shift isn’t just being driven by Europe subsidizing EVs at the urging of climate activists, nor by China incentivizing its citizens to buy its companies’ cars. Much of the world, from Asia to Latin America, is beginning to make the switch:
+Source:
+Ember Energy
+As of 2025,
+more than a quarter
+of total global car sales were EVs.
+This shift is likely to accelerate rather than slow down. As I wrote back in 2024, now that the basic problems of energy density, power density, and torque have been solved, EVs are simply a superior technology:
+They have many fewer moving parts, meaning they’re a lot easier and cheaper to maintain. They’re a lot more energy-efficient. You can charge them at night at your house, meaning you rarely have to go to a charging station. They’re quieter, and they have faster acceleration. There are a number of popular arguments against EVs, and
+all of those arguments are wrong
+— EVs now have very long range, EV batteries
+last for many years
+, charging stations can charge your car
+very quickly
+, there are plenty of minerals to give everyone in the world an EV, batteries are easy to recycle, and so on.
+EVs are going to win, and
+there will be a tipping point
+— different in each country — where the whole market just flips from combustion to electric. One reason that tipping point
+comes very fast
+is that gas stations have a
+network effect
+— when enough consumers switch to EVs, there aren’t enough gasoline-powered cars on the road to make gas stations profitable, so they start closing down, which makes EVs even more attractive.
+Elon Musk understood all this long ago, and it made him the world’s richest man. China caught on a little bit later, and now
+dominates global auto exports
+as a result. Europe is
+starting to understand it
+as well.
+But apart from Elon, the rest of America doesn’t yet understand it. The Trump administration has canceled subsidies for electric vehicles, and most of the U.S. auto industry (except for Tesla) is
+shifting away from EVs
+:
+U.S. automakers are shifting production from electric vehicles to gas-powered vehicles and are reducing spending, laying off workers, and repurposing EV battery plants to energy storage plants due to reduced consumer interest in electric vehicles and fewer government incentives…The Trump administration rolled back financial incentives for consumers to buy electric vehicles…and is modifying automobile efficiency standards…to eliminate the requirement for EV purchases…
+Ford is writing down $19.5 billion, with additional EV losses of $13 billion since 2023. The EV transition has cost the company $32.5 billion. Ford plans to switch production at a new factory in Tennessee to gas-powered pickup truck models from electric models, cancel an electric commercial van model, remake the F-150 Lightning vehicle into a hybrid from a pure electric vehicle, and convert its Kentucky EV-battery factory into a battery-storage business for utilities, wind- and solar-power developers, and AI data centers.
+The main reason America is missing the EV transition is that we’ve insisted on thinking of EVs in terms of
+climate
+— as a “green” technology whose purpose is to save the environment, rather than a superior technology whose purpose is to save you time and money. Trump canceled EV subsidies because he associates them with the environmental movement and the political left.
+American consumers are avoiding EVs because of this, and also because of a lack of charging stations. The Biden administration promised to build a vast network of EV charging stations, but
+managed to build almost zero
+, largely because the initiative was larded up with unrelated contracting requirements. So many Americans still think they won’t be able to charge their EV on a long trip, and are sticking with gas cars as a result.
+The ramifications of this failure will go far beyond the auto market. The reason is that the components that go into making EVs — the batteries, the motor, and the electronics — are increasingly the same components that go into making a vast array of other high-tech products. I have
+a video interview with Sam D’Amico
+where he explains this, and
+Sam’s long post with Packy McCormick
+also explains it in detail. But for a shorter explanation, let me recommend this recent post by Ryan McEntush of a16z:
+a16z
+Everything is Computer
+Steve Jobs famously sold the iPhone as three inventions in one. In truth, it represented something much more foundational: the first mass-market machine that bundled compute, power, sensing, connectivity, and software into a single, tightly-engineered package…
+Read more
+18 days ago · 137 likes · 7 comments · Ryan McEntush
+Ryan explains that when the components that go into electronics are the same as the components that go into cars, drones, robots and tons of other stuff. This allows Chinese manufacturers like BYD and Xiaomi to leverage truly awesome economies of scale:
+Once [the iPhone] existed, everything else started to look the same. Your laptop, smart TV, thermostat, doorbell camera, refrigerator, industrial robot, drone: all of them follow the same basic recipe. Even an electric vehicle, once you peel back the sheet metal, relies on the same ingredients — batteries, sensors, motors, compute, and software, just in a different skin. We no longer live among truly distinct technological paradigms, but within a world of variations on one single idea: the smartphone, endlessly turned inside and out and scaled across every domain. Everything is a smartphone…
+Consumer electronics is about scale…Unlike legacy internal-combustion vehicles, electric vehicles draw heavily on components and device primitives shared across many other industries…Much of today’s most important technology rests, almost inadvertently, on the foundations built by [the consumer electronics] ecosystem…An electric vehicle is a smartphone with wheels. A drone is a smartphone with propellers. A robot is a smartphone that moves…
+BYD, the global leader in batteries, builds cars, buses, ships, and trains. DJI makes drones, but also cameras, radios, and robotics hardware. Even Dreame, a Chinese vacuum company, just
+debuted
+an electric supercar. These firms are not “diversifying” in the traditional sense. Rather, they are…repeatedly assembling the same
+electro-industrial stack
+— batteries, power electronics, motors, compute, and sensors — into new permutations.
+This means that China’s Everything Makers can make not just cars and electronics more cheaply than America can, but almost everything else as well — because almost everything is being eaten by the Electric Tech Stack. Even the software industry is being eaten by the Electric Tech Stack — AI is eating software, and AI requires huge amounts of electric power and
+battery stabilization
+in order to run its data centers.
+Currently, China generates much more electricity than the U.S. does — partly because it’s willing to build out solar power, where in the U.S. solar is often blocked by local NIMBYs, “environmental” permitting laws, and a hostile Trump administration. But China also builds most of the world’s batteries, meaning that American AI is going to be dependent on Chinese batteries as well.
+On top of all that, America desperately needs the Electric Tech Stack for its national defense. I pointed this out in
+a post back in September
+, and Ryan
+talks about it
+a lot as well. Drones are taking over the modern battlefield, and drones require batteries and rare-earth electric motors — the same components that go into the EVs that America is now refusing to build.
+Thus, America’s weakness in EVs, batteries, and rare earths threatens to become a weakness in
+everything
+— a weakness in AI, a weakness in drones, a weakness in robots, and so on. Because we collectively decided that EVs are hippie-dippy climate bullshit, we ignored the key physical technologies that increasingly underlie
+all of manufacturing
+, including defense manufacturing.
+Throughout America’s history, we have been at or near the forefront of every single major technological revolution. We were leaders in railroads, mechanized agriculture, industrial chemistry, electricity, mass production, internal combustion/automobiles, aviation, plastics/polymers, nuclear, space, telecommunications/TV, genetics, semiconductors, computing, the internet, mobile, and AI. This technological leadership enabled us to remain the world’s leading nation for over a century.
+But now
+we are missing the big one
+. We are missing the Electric Tech Stack. We treated it as a climate issue instead of an issue of raw national power and industrial might, and we allowed it to become a political football. As a result, China is mastering this crucial technological revolution, and America is forfeiting it. Our entire existence as a leading nation is under threat from this remarkable failure of vision and leadership.
+We should have listened to Elon Musk about the importance of the Electric Tech Stack. We should still listen to him now.
+Subscribe now
+Share
+1
+Energy density means the ability to carry lots of energy around in a small package. Power density means the ability to get a lot of energy out of that small package very quickly.
+2
+“We” in this case means mostly the U.S. and Japan.

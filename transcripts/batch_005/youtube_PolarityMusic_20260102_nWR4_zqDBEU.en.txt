@@ -1,0 +1,184 @@
+So, this is the first video of 2026, and
+I want to show you something very
+special in Bitwig Studio 6.0. It's not
+out yet, but it's probably released in
+the next few years, I think. So, we head
+over to Bitwick Studio 6, and we want to
+create some kind of sound. So, I'm using
+here uh phase 4.
+And yeah, let's use it actually on a
+bass sound. So, I'm using some kind of
+low note. Something like this. Maybe
+here. Uh, we do this and we do a bit of
+distortion.
+Not too much.
+Okay. So, usually I just record my
+automation and I use a shortcut for
+this. You can press this button here or
+you can use a shortcut. It's much
+faster. And then you play around on your
+um yeah on your synthesizer.
+Right. And then I have this kind of
+automation recorded here and it plays
+back perfectly.
+That's okay.
+But sometimes you want to have this
+automation actually as a modulation
+stick to your notes. So the problem here
+is that this automation is tied to this
+note clip. But sometimes you want to
+play notes in a different, you know, in
+different place and uh the automation
+you have to you have to copy and paste
+the automation around so to make it
+work. But here we just copy this uh
+automation and draw it into the
+modulation pane of the phase 4
+synthesizer. And we have now here a
+segments modulator. And then all we have
+to do is we click this and modulate this
+uh knob by 100%. And we can pull this
+down. And then we can also delete the
+old automation.
+So now the modulator takes over and
+plays the same thing we just recorded
+but only as a uh modulator. And I wished
+we had some kind of modulator where you
+can record these type of um movements
+because I really do this all the time
+and it's really nice. So um we can also
+automate more of this. So why not use
+this here
+or maybe we add here some as a noise
+something like this. Okay. Record this.
+Okay. So this is the
+next parameter. We drag this in and we
+modulate this by 100% and we can delete
+this. Okay. Next one. Maybe this one.
+Okay. Can also take this. Put this in
+here. Modulate it. Pull this down.
+Delete. Done.
+Um, maybe we do this here.
+Yeah, just a bit at the end.
+Same thing. Copy over.
+Delete.
+Yeah, with this kind of stuff can create
+nice little sounds just with the
+synthesizer, little movements, and it's
+not tied to the clip. You can see here
+there's no modulation there. It's just a
+note. And we can play this note in in
+different rhythms
+uh in different places.
+It's almost like a sample because we
+re-trigger all of these um segment
+envelopes all the time. So, it's very
+nice to have
+uh let's do actually some more movements
+here. Um, I pull this up and I also make
+this monophonic.
+So maybe the pitch.
+Drag this down.
+Copy this
+and then modulate here the pitch by
+12.
+And we going to delete this.
+I have to probably change this here. Um
+to this
+maybe to minus 12. No,
+get automation is basically here added
+to what I have. Maybe I need to go minus
+three.
+Something like this.
+Maybe I need to make it by.
+Yeah, that's better. Okay, this this is
+the solution.
+Okay. Um, what else? Uh, we can also add
+effects, of course.
+So, we can maybe use a convolution
+reverb here. Uh 100%.
+Select this. Use a chain device.
+Uh put this into the chain.
+Uh use a tool
+and we bring this to 50% and maybe we
+analyze the loudness here.
+So it's roughly the same loudness. Maybe
+go to 40.
+And then we modulate here the tool uh
+because we want to feed only parts of
+the sound into the reverb. Maybe use
+delay here also.
+50%.
+Let's try this out.
+Okay,
+copy this.
+Put this in here. We modulate here this
+by one. And you can just remove this.
+Done.
+Maybe a bit more.
+Was it this or was it that?
+I think it was this.
+Of course, here the post effects, these
+are not tied to voices. So when you play
+multiple voices at the same time, it's
+not going to, you know, it's not split
+and you don't have polyonic voices. But
+maybe if you use some FX audio effects,
+some grit based effects, then it's
+probably going to work. Um, anyway, so
+yeah, can do some more things here. Um,
+maybe an EQ back here or maybe a filter
+movement.
+Yeah, it's probably nice.
+So, like this.
+Uh, move it in here.
+And then we delete this here. Bam.
+And at the end a filter plus a bit of
+saturation
+and maybe here
+a bit of low passing.
+Something like this.
+The more you do, the more movement there
+is and the better it sounds.
+And again, you can play this multiple
+times in different
+different positions.
+and it re-triggers here every time. And
+it's it's like a sample, but it's not a
+sample. It's more like a synthesizer.
+And I do this sometimes lately. Uh it's
+kind of interesting that you can do this
+now in Bitwig. Um and also, of course,
+you can drag this the other way around,
+right? You can drag here some segments
+curves back into
+uh back into the automation pane.
+Probably most people know this. Uh, but
+having here automation recorded on the
+fly and then just just drag it into the
+modulation pane is really nice and then
+you can play it on the keyboard. It's
+not only uh interesting for bass sounds
+also if you have lead sounds, pet sounds
+and so on. uh you just press these keys
+in multiple um at multiple time or
+slightly delayed and all your segments
+uh envelopes
+kind of evolve over time slightly
+differently. It's really nice. I wish
+they implemented some kind of modulator
+where you can record on the fly just,
+you know, some type of knob and it
+records uh a small little loop and then
+it just plays back every time you press
+a key. would be so nice to have as a
+modulator. Maybe as an inspiration,
+Bitwig, please make it happen. Okay,
+that's it for the first video of 2026. I
+just want to um push this out for some
+reason. I just did this in Bitwig and I
+want to show it to you. Um I think it's
+a nice trick.
+Let me know what you think. Leave a
+like, leave a subscription. See you in
+the next video. Bye.

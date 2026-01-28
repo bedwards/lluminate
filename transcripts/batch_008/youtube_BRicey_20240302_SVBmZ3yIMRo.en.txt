@@ -1,0 +1,609 @@
+so I know last video was a lot of setup
+and if you haven't seen it make sure to
+watch the previous video on setting up
+our little plot right here but in this
+video we will finally get to placing
+some objects which is very exciting very
+cool this concept here is very similar
+to another video I made pretty recently
+on a Minecraft style placement system
+and this is like very similar to that
+first video so check that out if you
+want some more supplemental content on
+this idea but in this video we're going
+to be covering the client client side
+rendering of the preview like here you
+can see right here and the actual server
+side placement of the object but no
+validation that would be a future video
+you can play stuff anywhere so I hope
+you enjoy this video and without further
+Ado let's get
+started so let's get started with
+actually rendering our objects and
+placing them so I have a little sample
+table in front of me not too pretty just
+a table that we can use to place it's a
+bunch of parts in a model so I'm going
+to make sure all of these parts are
+anchored because this placement system
+is going to be primarily based on
+anchored objects and then I'm going to
+make sure the primary part is set to a
+part that I want to make primary so like
+this one here if I can like deselect it
+yeah so this part over here I don't know
+why I can't select anything huh
+interesting
+um did I lock
+it not locked
+um but yeah so there we go okay so I
+just messed up my tool so we need to
+make sure that our pivot is actually on
+the ground level of where we want to
+place our object I'm going to do edit
+pivot and I'm going to move it down
+there so this pivot is going to be at
+the bottom center of our part because
+that's how we're going to like render it
+or render it and place it in the world
+so before before shoving this away into
+replicated storage so we want to create
+a selection
+box here here and just double check
+everything works set the adori to the
+thing okay so this is our selection box
+because when we like render the preview
+for the player to place the block to see
+where like so they give them an outline
+of where it's going to go we want this
+box just for you know aesthetic purposes
+so this looks good enough for me um I'm
+going to set the adori to nothing and
+we're going to rename this to just we
+can leave it selection
+box I guess it's like box outline I'm
+going to rename it like box outline I
+guess and then I'm going to shove this
+into
+to replicated storage and then
+everything is prepped nicely on this I
+believe um let's move this also into
+replicated storage Okay cool so we have
+our stuff in replicated storage let's go
+to client place for now and get rid of
+this print statement that we made last
+video and we need
+to create a new
+function client
+Placer colon
+initiate render preview and this
+function will actually do run to other
+functions say client
+Placer pray preview model which will
+take in a model which is a model so um
+we're going to run this
+here and the prepare fever
+model will just take the model that
+we'll we'll figure out later but this
+prepare preview model will take the
+model we actually want to set up and
+what we're going to
+do is first first of all up here in the
+set meta table we're going to say
+preview equals nil so preview will be
+the model in which we want to like
+display so the players going to have
+their Mouse and the mouse like when they
+turn on their build tool they're going
+to see the outline like kind of ghostly
+image of where the part would be if they
+were to actually place it in the world
+that's what the preview is going to be
+because it actually has to be a real
+model you can't just like render some
+ghost on top of there so but it's it's
+only going to be rendered locally so it
+shouldn't affect other players so we're
+going to say in our prepare preview
+model say if self. preview then self.
+preview destroy this won't be of much
+use right now but when we start
+switching like cycling between different
+objects this will prove handy so we want
+to say self. preview equals model clone
+and then we're going to say local box
+this will be our box outline that we got
+so we're going to say appear local
+replicated storage equals game get
+service replicated storage and then we
+say local box outline
+template equals storage.box outline
+scroll down here say box local box
+outline will be equal to box outline
+template clone and I'm going to say box
+dot or box out line. Ador not template
+box
+outline. Ador will be equal to the self.
+preview so it'll kind of Mount itself to
+the model which should be pretty good
+and we're going say box. parent
+equals self. preview so it'll show up on
+the model it'll be kind of with the
+model and get destroyed with the model
+when the model gets destroyed so now we
+need to give the model like we have the
+outline now we need to give it that like
+kind of ghostly look so we're going to
+iterate through so for underscore part
+in self. prev
+get
+descendants do so we're going to iterate
+through all of the descendants of our
+preview but we need to verify that
+they're Parts because models can have
+other things so we're going to say if
+part is a base part so if it's a base
+part then we know we can set the part.
+can Collide equal to false and then
+we're just to be safe we're going to set
+part. Canan query equal to false as well
+and I'm going to say part. transparency
+equals
+0.5 so depending on your model you might
+have to depending on your models you
+might have to adjust this but for my
+case like in case you have invisible
+Parts this will actually make them
+visible might make things look weird but
+in my case all of this works out fine so
+this will kind of give the part like a
+little ghostly feel and at the bottom
+you all we have to do is say self.
+preview. parent will be equal to the
+workspace there we go cool cool cool
+so now let's just
+get our table and actually first of all
+I'm going to move the table into a
+folder in replicated storage and we're
+going to call
+this placeable objects and we're going
+to shove the table into there and then
+in our client Placer we're going to say
+local
+placeable objects will be equal to Up
+Storage wait for child placeable objects
+there we go so in our prepare PV model
+we're going to send the model of of just
+placeable objects get
+children one so it's just going to be
+the first model actually we can do we
+can do placeable objects do table just
+for now so do table there we go so for
+now we're just going to send the table
+so the only thing the player will be
+able to place is the table in the future
+we'll edit this so like we'll actually
+be able to add other parts and stuff but
+this this should be good for now and
+then also we need to call this initiate
+render preview in the new
+function so it will initiate run preview
+it'll create the table and I get it this
+is a layer of misdirection but we'll
+have another function here in a bit
+which will make more sense and this will
+create the thing also box outline I
+don't know how I forgot that okay so
+now we have the part like ready to go
+but we need to actually move it to where
+the player is looking at so we're going
+to create another function for that so
+we going to say function client Placer
+render preview there we go so this will
+be responsible this will run every frame
+and it'll be responsible for actually
+rendering the preview so we need to get
+the mouse position and for that I'm
+going to create a separate local
+function because I'm going to make this
+local kind of outside the scope of the
+client Placer because it's going to be a
+pure function it's going to take some
+input return some output not really
+depend on anything so I'm going to say
+local function cast Mouse and this will
+take in nothing and we're going to need
+for this function we're going to need
+user input service so local user input
+service equals game get service user
+input service and then we're also going
+need to camera so we going to say local
+camera equals workspace current camera
+so since we're in a local script the
+workspace current camera will just give
+you like the local camera of the player
+that's all you need here so in the cast
+Mouse we're actually going to say local
+Mouse location will be equal to user
+input service get
+mouse location so this will return the
+XY position on the screen of the user's
+Mouse and we need to convert that into
+3D space luckily the camera has us
+covered so we're going to say local Ray
+equals camera
+viewport viewport point to Ray and this
+will take in the mouse location dox and
+the mouse location doy it's kind of
+Packy syntax but oh well we have to
+split up the vector 2 into its
+components because this viewport Point
+array takes a viewport point which is
+just our Mouse bu in this case and then
+it converts it into a ray positioned at
+the camera pointing towards where the
+actual point is pointing so this should
+do us right and all we need to do now is
+just return a ray cast because it's
+called cast M I'm going to say work
+workspace raycast or workspace colon
+raycast ray. origin so this would be
+like where the camera is and we're going
+to do ray. Direction which this is a
+unit Vector so we need to multiply this
+by some large number I'm going to say a
+thousand so the player can only place
+blocks a th blocks away um obviously in
+the future we're going to make some
+placement validators to make sure the
+player can't place outside of their plot
+but for now for rendering purposes we
+don't really care this is local no one
+really cares the server will validate
+all the stuff in due time so that's our
+cast Mouse done now in the render
+preview we can say local cast equals
+cast
+Mouse and then we can say if cast and
+cast. position so we're basically saying
+if the cast is successful so we actually
+hit an object and we get the position
+from that say local CF which is Shand
+for cframe we're going to do
+cframe do new cast position so for now
+we're only caring about the position in
+the future we'll add rotation and we'll
+clamp the position or we won't clamp it
+we'll verify the position is like within
+bounds um but all we need to do now is
+just say self.
+preview pivot to CF and remember how we
+change the pivot to the bottom of the
+part this will actually move the pivot
+to that position so when you actually
+like in the past you would cast a mouse
+and then you have to offset it by some y
+value no more you do have to do that
+because of pivots the mouse will hit the
+floor but the floor is the pivot so
+it'll it'll look fine and you'll see
+that in a second so this is all the
+scaffolding
+done now in our initiate render preview
+we first prepare the preview model and
+then we're going to actually bind a run
+service event so at the top I'm going to
+say local run
+service equals game get service run
+service so we're going to
+bind to render step so we're going to
+say run service bind to render step and
+we're going to take a a name which is a
+string so for this I'm going to actually
+Define a constant at the top of the file
+called local preview render which will
+be equal to preview render or render
+preview I guess doesn't really matter
+because we're just going have to use a
+constant to unbind it later so we're
+going to say bind a render step preview
+render you don't want to use a normal
+string here because you don't want to
+mistype it later you want your
+interpreter or your compiler whatever to
+tell you that is wrong that's why we're
+using that constant and then we need a
+priority this honestly like doesn't
+matter for our case I'm just do enum do
+render priority dot camera. value so
+this is just an integer to tell you when
+to like actually render it doesn't
+really matter for our case I just choose
+a camera I guess and then we need a send
+it a function which will take in a bunch
+of arguments we don't really care what
+they are it'll call Self render preview
+and it'll send in those arguments we
+don't really care what they are and
+it'll finish and that's it so I know the
+syntax is kind of tacky no way to get
+around it oh well and also you may
+notice that our render preview actually
+doesn't take any arguments um but bind a
+render step does give you like a Delta
+time or whatever so in case you ever
+wanted to use that you could plug those
+in here but we don't really care we're
+just doing this as a good practice
+because this is just forwarding all the
+arguments and stuff to to the render
+preview but we need to use this self
+thing to to get the colon because it's
+aware of itself because we're setting
+self. preview down here or we're like
+messing with it so yeah that is our
+render Loop kind of kind of done and all
+we really need to do
+now is well actually first let's test
+this
+out so this should this should work very
+nicely so we're going to press B to
+enable build mode
+and you can see our part is here but
+you'll notice if I press B
+again it's still it's still here nothing
+gets cleaned up that's what our destroy
+methods for so let's go in our client
+place to destroy first things first we
+need to we need to get rid of our um
+preview so if self. preview then self.
+preview destroy because this is a model
+and then we're going to say run service
+unbind from render step and we're going
+to send send in the preview render that
+we made before this is why we make it a
+constant because we use it in two places
+because we bind it and then we unbind it
+down here so this should prevent our
+script from actually
+running when we stop our build tool so
+now when you like toggle your build your
+build on and off you should get it it's
+on and it turns off you get it it's on
+turns off cool that's exactly what we
+want but right now you can only just see
+the the block you actually need to you
+know place the block so to do that we're
+going to go back into our client Placer
+and Define a yet another function this
+function client
+Placer try Place block so the reason
+it's called try Place block is because
+we're on we're on the client we don't
+really know if the server is going to
+like let us place it so it's called try
+just to let everyone know like hey like
+this may not be successful you may not
+be able to place block if it's outside
+of your plot or if it's in intersecting
+another part like you don't want to do
+that so that's why we name it that way
+right now in our current state we won't
+actually test for that stuff so every
+block place should be successful but
+whatever it's just like we'll get there
+down the line so this is another context
+Action Service bind that's why we have
+the underscore State underscore so we're
+going to say
+if if
+not or I'm going to say if input state
+or if state is not equal to enum
+userinput state. begin then return this
+is just a little early and then
+otherwise we're going to say local
+success
+equals the invocation to the server
+which we actually haven't defined yet so
+let's work on that so in replicated
+storage we're going to create a new
+remote function and the reason it's
+going to be a remote function is because
+we're going to return a bully in true or
+false to determine like whether or not
+the placement was successful so we're
+going to call this try place and
+then in the client we need to actually
+get that so we're going to
+say up here
+local TR Place
+equals replicated
+storage let's keep it consistent TR
+Place equals replicated storage wait for
+Child Try place there we go okay so we
+have try place in place pun intended um
+now we need to say local success equals
+try Place invoke server and we're going
+to send it the self. preview. name and
+then self. preview get pivot so so we're
+sending a name because in the future
+we're going to add multiple object
+support so we have multiple object
+support and then so we need to tell it
+like Which object we actually want to
+place and then we're going to send
+the pivot which is the C frame of where
+we actually want to place it and that's
+really all we need so in my tutorial
+series you're not actually going to do
+anything with this success value but if
+you're actually making this into a game
+I would hook this up to like a gooey
+event where like you can pop up a little
+notifications that says uh unable to
+place block like please try again or
+whatever just to let the player know
+like hey like you weren't allowed to
+place it but for us like we don't really
+care this is a tutorial um but yeah just
+a little
+FYI but this tripl block is never
+actually going to get run so we have to
+run it and for that we are going to
+first of all get the context Action
+Service say local context Action Service
+equals game get game get service text
+Action Service there we go and then in
+our
+new method we're going to say context
+Action Service B action and then again
+we want to Define our name up here
+because we're going to need to unbind it
+later so we're going to say
+local place action is going to be equal
+to place and then we're going to bind
+the action the place action and then the
+function is going to be a function
+taking in the inputs and the little Lees
+I means that like like the vertic
+argument so it takes all of the
+arguments
+and then we're going to just say self TR
+Place block with all of those arguments
+again end it and then we're not going to
+create a touch button we're going to say
+false I'm going to say I'm going to make
+this bind to right uh left clicking
+which going to be enum do user input
+state do mouse wait no user do en. user
+input type
+type. Mouse button one okay so when the
+user clicks Mouse button one I know it's
+it I know it's weird it's not key code
+but whatever it's just Mouse button one
+they will place the block again this
+line of code is ugly because of this
+function block oh well what can I do you
+can split up multiple lines if you want
+I think I think it's fine it's fine here
+it'll all be okay but obviously right
+now if we were to run this we wouldn't
+actually get anything so we need to go
+to the
+server and then plot manager actually
+more specifically and we need to make
+a function and call this plot
+manager.
+place and this will take in the
+player which is of type player name
+which is of type string and Target CF
+which is a C frame um I'm being kind of
+inconsistent with my types here um you
+can go behind and be more consistent
+than me but I'm just using them where
+it's convenient I'm not being very
+strict about it so you know take that as
+you wish you could add types you can not
+use our types up to you doesn't really
+matter I just like autocomplete so
+that's why I'm using it but we take the
+player the name the string or player the
+name the position basically and we need
+to first try to get the object so we
+need to
+get um first of all we're going to get
+replicated storage actually replicated
+storage game get get service replicate
+storage and we're going to say
+local
+placeable placeable
+objects equals replicate storage.
+placeable objects
+and we're going to say local object
+equals placeable objects find
+first find first child find first child
+name so the client is sending us
+something we don't know if it's legit
+some exploiter could just send some
+random junk and it may not be right so
+we have to use fine first Tri to say hey
+like this may or may not exist like if
+it doesn't exist it'll return it great
+otherwise it'll just return nil and then
+we also need to get the plot so we're
+going to say local plot
+equals plots player do user
+idid
+so in here we need to check if not
+object or not plot then return false so
+basically if the user sends us some junk
+we want to return false say hey like
+this is not successful you're trying to
+like scam me because you know the server
+the server is kind of dumb and he it
+needs to defend itself that's what we're
+doing here but if everything goes
+planned then we can say local new object
+will be equal to object
+clone and then we can say new object
+pivot
+to
+the tget CF and then we can finally say
+new object. parent equals
+equals plot. object so remember that the
+plot is a model and it has a folder
+called object so we have plot. objects
+and that'll parent it so it actually
+appears and we're going to return true
+because it's successful
+so we have our our our layer of defense
+and then we have our actual placement
+logic again we'll edit this later to
+account for out of bounds and
+intersections and but right now this
+should work but before we run this we
+need to First actually hook it up so in
+the server say local Tri Place equals
+replicated server replicated
+storage. trpl and we're going to say
+trpl do on server invoke equals plot
+manager. place okay
+so let's don't don't mind this I was
+doing something you didn't see that okay
+let's play
+this and then we have our part we click
+we place it the the table places yippe
+so we place it and then you can place it
+out out of bounds oh well um also notice
+very important even if we we turn off
+build mode you can still place we have
+to go into our destroy method and kill
+it we have to kill the the bounded
+action we're already destroying the
+preview that's good um but we need to
+kill the place action so we're going to
+say contact Action Service unbind action
+uh place so when we turn off build mode
+we are no longer able to place stuff
+that's that's going to be a common theme
+we need to always prioritize our destroy
+Loop because we can't leave Loose Ends
+okay cool everything works um but you
+can kind of place stuff everywhere it
+doesn't check anything anything but that
+is an issue for next video so I hope you
+enjoyed this video it's kind of exciting
+you know we actually do some placement
+make sure to check out my other
+placement series just for like another
+take on this kind of idea because it's
+this is like one way to do it and
+there's like another like Minecraft
+style way that I did a couple videos ago
+so check that out if you're interested
+make sure to like And subscribe if you
+enjoyed this video but with that I hope
+you have a nice day and
+goodbye
+[Music]

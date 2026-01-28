@@ -1,0 +1,176 @@
+Title: “There is a net beyond the net”
+Source: the_hinternet
+URL: https://www.the-hinternet.com/p/there-is-a-net-beyond-the-net
+Date: Thu, 25 Dec 2025 17:48:08 GMT
+Word Count: 2694
+Estimated Read Time: 13 minutes
+
+================================================================================
+
+1. The Patlican Zettel
+Among the many autograph and scribal manuscripts attributed to the German occultist Heinrich Cornelius Agrippa (1486-1535), perhaps the most noteworthy is a scrap of non-follated laid-rag paper, written in iron-gall ink and found in the collections of the Patlican Library at Oxford,
+1
+bearing the words:
+Patlican Library MS. 17th c. 42: Single non-foliated paper slip (1 item), approx. 92 × 135 mm, irregularly torn on all edges, chain-lines visible at ca. 25 mm intervals.
+“
+[E]st rete infra rete
+” may be translated, according to context, as “There is a net beneath a net”, “The net is below the net”, or perhaps, our preferred rendering, “
+There is a net beyond the net
+”. We believe in fact that, interpreted in this way, the phrase in question represents
+the earliest documented allusion to
+The Hinternet
+in its long history.
+Our discovery compels a significant revision of
+an earlier historical reconstruction
+, which dated the origins of this enterprise to no earlier than 1915. Let us therefore, in what follows, analyze the historical evidence for this significant chronological revision, after which we will be positioned to offer at least a provisional interpretation of Agrippa’s intended meaning in this peculiar phrase.
+Subscribe now
+2. Scriptorial comparanda
+Although scholarly controversy continues, we are emboldened in our attribution to Agrippa of the Patlican Zettel by certain external corroborations, in the form of books bearing his personal ex-libris and featuring notes in the same hand and to similar effect. There are two that come immediately to mind, both found among the rare books at the library at Guelfenbutyrum.
+2
+One is Oppian’s
+Halieutica
+, a 2nd-century CE treatise on fishing. In section 3.90 the author describes the behavior, when trapped, of the mullet. This fish, Oppian relates, will only ever seek to escape the fisherman’s net once, after which “he makes no further effort and leaps no more in his grief but taught by trial, ceases from his endeavours.” In this, Oppian writes, the fish is like a man who, “long distressed by painful disease, at first, in his yearning and desire for life, obeys the physicians and does all things that they bid him; but when the unescapable fates of death prevail, he cares no more for life but lies stretched out, giving over to death his exhausted limbs, beholding already at hand the final day of fate.” And in the margin we find a single word in Agrippa’s hand, in Latin, all majuscule: “
+INFRARETE
+”. This then is the earliest occurrence of the Latin coinage that might plausibly be rendered in English as “
+HINTERNET
+”. Here the “net beyond the net” is death, at least of the physical body. It is where you end up when you think you’ve escaped fate, but in fact have not.
+The only other book in this collection known to be annotated by the same hand is a copy of a 1394 edition of Henricus de Fonte Lucis’s
+Expositio simplex super Evangelium Ioannis
+. This work is mostly remembered for a curious proto-Calvinist argument about the impossibility of salvation by deed, in which the author presents a thought experiment about eating turnips. Suppose an angel comes to you and tells you that your soul will be saved only on the condition that at the time of death you will have eaten an even number of turnips; if the number is odd, you will be damned to hell. When this peculiar news arrives, you have been eating turnips your entire life, with no possibility of ever retrieving a precise number of them. What, the Scholastic author wonders, does one do? Stop eating turnips? Continue eating them, but anxiously? Or do you simply proceed as before, equanimitously, knowing that your condition really has not changed at all?
+3
+But what is most noteworthy about this particular copy of the
+Expositio
+are its annotations in Latin in Agrippa’s own hand. These include a surprising marginal remark alongside an exegesis of John 1:9, concerning the problem as to how Christ might be said to “illuminare omnem hominem venientem in mundum”
+[“enlighten every man who comes into the world”] given that “multi nascantur hebetes aut simplices, spiritu surdo ac muto detenti” [“there are many born fools, or idiots, and possessed with a deaf and dumb spirit”]. The marginal note reads: “Pisces qui rete piscatorum hominum effugiunt, in alio maiore rete capientur” [“Fish that escape the net of the fishers of men are caught in another, larger net”].
+We can only venture a highly provisional interpretation of this spontaneous scriptural commentary, and even this will likely extend no further than the reader’s own casual intuition. The net in question is plainly not a trap or a bind, but salvation itself. Agrippa seems to wish to affirm here a doctrine of prevenient grace, on which the prospect of salvation depends on no particular act of intellect or will at all.
+Share
+3. Web 2.0
+We are thus confronted by two different senses of “net” or “web”: the one that traps, the other that frees; the one that spells certain death, the other that promises eternal life. These opposed meanings are at least partially mappable to a broad shift in the function of net and web imagery as we pass from antiquity into the early modern period. For the ancients, metaphors of nets and webs almost always had to do with dissimulation and dishonesty: the wicked webs we spin when we deceive. They are cast for example by those who engage in dishonest flattery for the purpose of seduction (
+retia verbis tendenda
+, Ovid councils the would-be seductress in his
+Ars amatoria
+— “nets must be spread with words”).
+By the early 17th century, in contrast, Francis Bacon will have reconceived the web, though still ultimately to be avoided, as the product not of dishonesty but of reasoning ungrounded in empirical method: “Reasoners,” he writes in the
+Novum organon
+, “resemble spiders, who make cobwebs out of their own substance.” And not long after Bacon we begin to see the earliest occurrences of “net” and related terms to describe what in today’s English is commonly called a “network” — that is, a distributed system of correspondence and exchange such as we find in paradigmatic form in the early modern European Republic of Letters. Thus in 1703 the astronomer Roland de Rubempré, in an address to the Académie des Sciences at Paris, refers to “cette grande toile reliant les érudits de toute l’Europe comme une trame invisible” [“this great web connecting the learnèd men of all of Europe like an invisible weft”].
+It may be however that Agrippa anticipated this semantic shift by nearly two centuries — or indeed that he straddled both sides of it, remaining ever aware that a net has the power both to trap and kill you, but also to connect you with something beyond yourself.
+Share The Hinternet
+4. The Internet Is a Dog
+This duality is particularly salient when we consider the two most common interpretations of the legend of Agrippa’s companionship with a demonic familiar who typically took the form of a big black dog. According to Paulus Jovius in the
+Elogia doctorum virorum
+(Antwerp, 1547), Agrippa “always kept a devil attendant upon him, who accompanied him in all his travels in the shape of a black dog.”
+4
+When on his deathbed, Jovius reports, the German occultist felt a pang of deep contrition, he “took hold of the dog, and removed from him a collar stuffed with nails, which formed a necromantic inscription, at the same time saying to him, ‘Begone, wretched animal, which hast been the cause of my entire destruction!’” On Jovius’s telling, the dog immediately runs off and drowns itself in the Saône.
+The Dutch author Johann Weyer, by contrast, in his
+De Praestigiis daemonum
+(Cologne, 1563), relates that the dog in question “was a perfectly innocent animal that [Agrippa] had often led on a leash.” Rumors of its dark powers were primarily inspired by the philosopher’s unusually intense attachment to the dog, whom he allowed to eat from the table with him at meals, and sometimes to sleep beside him in his bed. But the strangest part of this friendship, Weyer reports, arose from the fact that Agrippa “was accustomed often not to go out of his room for a week together,” so that his neighbors “wondered that he could have such accurate information of what was going on in all parts of the world.” They began to speculate “that
+his intelligence was communicated to him by his dog
+.” Weyer for his part is skeptical, and notes that Agrippa in fact had “correspondents in every quarter of the globe, and received letters from them daily, and this was the real source of his extraordinary intelligence.”
+Is this a demonic force, or just a regular system of telecommunication? It seems we have been worried about precisely this duality, in our modern information economy, since long before the internet appeared. It’s a funny idea, anyhow: the demon hound who monitors the news of the world and summarizes it for his reclusive master. “On the internet no one knows you’re a dog,” said the now-classic
+New Yorker
+cartoon. The legend of Agrippa and his demonic familiar invites us to consider a much more audacious variant: “No one knows, but the internet
+is
+a dog.”
+Share
+5. Fool’s Fire
+But what matters to us is the duality, which echoes the one we have already considered in regard to nets: the dog as death, and the dog as principle of connection to a world beyond itself. But whichever of the two interpretations of the legend we prefer —Fovius’s, or Weyer’s—, neither quite tells the full story… of how, for example, the collection of Agrippa’s non-follated scraps, including the one of principal interest today (“[E]st rete infra rete”), ended up at the Patlican Library.
+Here at
+The Hinternet
+’s editorial offices —and especially among those who work in our research wing—, there is a general consensus that that dog did not drown in the Saône. For it so happens, at least if we are to believe the meticulous and exhaustive personal diaries of one Judicaël Le Goff, Esquire (1132-1824), paternal uncle of our own Managing Editor Hélène Le Goff, that in the early autumn of 1535 a black dog arrived at the Manoir de Kernault in the vicinity of Quimperlé in Brittany, bearing a bundle on its back, which was delivered to said esquire via his majordomo. Judicaël had been especially impressed by the affinities between the doctrines transmitted in the bundle and “our own native traditions in natural philosophy and medicine”, citing in particular the shared understanding, among Celts and Saxons alike, of the causes and powers of the ignis fatuus, or will-o’-the-wisp.
+This bundle included the entirety of documents subsequently donated to the Patlican by Hervé Le Goff (b. 1719), Hélène’s own brother, in 1878, but not before making a full transcription of them and seeing to their subsequent enshrinement in family lore, and perhaps, in time, in future heraldic adjustments.
+But all these scraps of paper —58 in all— really are just scraps compared to the bundle’s true treasure. For the only reason there were 58 non-follated Zettel in the bundle in the first place is that they had all been pressed, like delicate botanical holotypes, into the pages of a great book…
+5
+which of course Hervé
+did not
+donate to the Patlican,
+6
+no, but kept right here,
+7
+under glass,
+8
+at the heart of our operations,
+9
+outfitted with anti-theft laser technology,
+10
+as the Urtext and Scripture and Constitution of all that we do.
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+Liber Infraretis
+, attributed to Heinrich Cornelius Agrippa, early 16th century. Hinternet Rare Book Collection, Quimper,.
+Share
+Share The Hinternet
+1
+A false belief continues to circulate according to which this library’s name means “eggplant” in Turkish. But that would be
+Patlıcan
+, with an undotted Turkish “ı”. The Patlican in fact represents an Anglicized deformation,
+Patlic
+, of the Cornish name
+Padryg
+, a variation of “Patrick”, and is named for Denys Padryg, aka Dionysius Patlicus (1422-1487), a late-medieval astronomer and collector of manuscripts.
+2
+Guelfenbutyrum was long the seat of the court of the Duchy of Niederfels, and to this day is home to the rich collection of books and manuscripts acquired by Herzog August Anton von Zollern und Stieg (1598-1637). The German name “Wolfbutter” is attested in a number of 16th-century sources, though seems to have given way exclusively to the Latin variant well before the Reformation. It is not entirely clear what “wolf butter” might be, though in the early 19th century the folklorist G. E. Hamm argued that this place-name hinted at the past existence of a Germanic variant of the Sanskrit tale, attested in the
+Pañcatantra
+among other ancient sources, of the tigers tricked into running around a tree in circles until they melted into a great quantity of ghee. Scholarly consensus largely rejects Hamm’s thesis today. See G. E. Hamm,
+Beiträge zur Kenntniß der älteren Tierfabel
+(Jena, 1832).
+3
+See Henricus a Fonte Lucis,
+Expositi
+o, Book 3, §2.24. “Pone esse monachum quendam, qui totam vitam suam rapas comederit, nullo numero earum unquam habito. Apparet ei angelus, eumque monet fore ut, si tempore mortis numerus raparum a se comestarum par sit, aeterna salute fruatur, sin autem impar, aeterna damnatione puniatur. Quid igitur agendum est? Num rapas edere desinat? Num pergat edere, simul autem anxia et sollicita ratione numerum exacte observans? An potius vitam suam ut antea instituat, nec maiore de numero raparum sollicitudine teneatur quam quivis alius homo mortalis? Plane haec sola via cum ratione consentit. Nam scire iam esse rem ipsam definitam de sorte animarum nostrarum hoc est liberari ab illa postremo haeretica sententia, qua actiones nostrae nos ipsos servare posse putantur.” In more recent philosophy of religion, several authors have developed variants of this thought experiment, typically without crediting Henricus a Fonte Lucis. In his recent book
+On the Modal Independence of Soteriological Truthmakers
+(University of Notre Dame Press, 2018), Ethan Atchley considers substantially the same scenario, while replacing the turnips with peanut M&M’s.
+4
+The summaries of Jovius and Weyer’s respective views here are drawn from William Godwin’s
+Lives of the Necromancers
+(London, 1834).
+5
+“We’re getting close to the end here and I’m kind of starting to worry about the consequences of that forged Zettel I created as the documentary starting-point for the present metafiction. It’s getting just a bit too close for comfort, I fear, to the boundary between what is called “a lark”, and straightforward academic malpractice. People are going to recognize the handwriting; they’re going to know it’s not Agrippa, but…”
+6
+“Quiet! You must
+never
+let the conceit of the metafiction drop. If you do that you’re no better than Andy Borowitz with his “SATIRE” disclaimers. Nothing kills the meta like confessing that’s what it is. Don’t do it!”
+7
+“Alright I know you’re right. Sorry I lost faith for a second there. Still, it’s nice to be able to add a few more footnotes before we close this one out. It feels right for the season.”
+8
+“I’m sorry, what are you talking about?”
+9
+“I mean, it’s like, the body of the text is the tree, and we’re hanging numbers on it like ornaments. And then the footnotes themselves are like the presents beneath the tree.”
+10
+“I can’t believe you just went there.”
+11
+“What?”
+12
+“It is
+so
+not in the spirit of
+The Hinternet
+to conform ourselves to the annual holiday calendar. What are you going to do next? Put on that CD of BeBe and CeCe Winans’s
+First Christmas
+that you’re always carrying around?”
+13
+“Oh fuck off. Every great American artist has to churn out some Christmas fluff at some point. If Irving Berlin did it then so can we.”
+14
+“I suppose you’re right… It looks pretty.”
+15
+“What does?”
+16
+“The tree.”
+17
+“Yeah.”
+18
+“Merry Christmas.”
+19
+“Merry Christmas.”
+20
+“I love you.”
+21
+“I love you too.”

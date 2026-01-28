@@ -1,0 +1,116 @@
+Title: The Tower of Science
+Source: goodscience
+URL: https://goodscience.substack.com/p/the-tower-of-science
+Date: Fri, 01 Aug 2025 21:37:06 GMT
+Word Count: 3367
+Estimated Read Time: 16 minutes
+
+================================================================================
+
+This is a guest post by Hiya Jain, a recent Columbia University graduate with a keen interest in science policy and the history of science. You can find more of her writing on her Substack,
+Mundane Beauty
+.
+***
+In 1928,
+The Popular Science Monthly
+ran a small feature on Alfred Lee Loomis, then an up-and-coming Wall Street trader.
+“It is the peak of a rush day on the New York stock market. In the office of the vice president of a large Wall Street banking house, a dynamic, boyish-looking man sits at the throttle of a high-speed machine of finance...A few hours later, on a broad estate at Tuxedo Park, N. Y., miles from the city frenzy, this same high-powered business executive may be seen hard at play. In white apron, surrounded by curious test tubes, chemicals, and electrical apparatus, he is taking his recreation––in a physics research laboratory!”
+–– Excerpt from “A Scientist of Wall Street” by George Lee Dowde Jr.
+The word
+recreation
+here gives the impression that the laboratory was a calm oasis where Loomis de-stressed by fiddling with his scientific toys. Perhaps this is how he presented to the public, a rich, reclusive man who happened to have an unusual hobby. However, this “playtime research” also led to “some of the newest marvels of discovery in physics and biology.” This now seems like a more appropriate description of the operation that Loomis was running in his home laboratory––it truly was a “Tower of Science” and one that was frequented by the scientific elite, housing their most radical ideas.
+1
+By building out his laboratory and working on cutting-edge research, while continuing to fraternize with financiers and lawyers as part of normal business operations, Loomis kept one foot in both worlds. He was constantly on the look-out for interesting scientific ideas and acutely aware of the demands of industry and government which helped him take on a pivotal role during WWII. In this new paradigm, he became another crucial cog tasked with keeping scientific progress at the forefront of the war effort. Here too, Loomis continued prioritizing the same principles that he used while working out of his Tuxedo Park lab: ensuring that critical projects didn’t face resource constraints, maintaining flat bureaucratic structures, and securing access to excellent talent.
+Indeed, I argue that Loomis’s example shows that when a scientist is involved in allocating budgets and evaluating national research priorities, resources can be dispensed more efficiently towards the most pressing projects. His Tuxedo Park lab proved the model in miniature, and the example of his stewardship of radar development during World War II demonstrated it at national scale.
+Our current science‑policy apparatus, by contrast, often treats scientists as petitioners rather than participants – leaving decisions with professional intermediaries who may not always be able to translate incentives. This article therefore makes the case that we should seed the government with technically fluent people who can translate the disparate spheres of policy and science/academia (as the NSF arguably does with the rotator program).
+Loomis began life as an archetypal East‑Coast insider, firmly embedded within the small world of New England elite circles where everyone seemed to know each other. In that capacity, it is unsurprising that he started out as a Harvard‑trained lawyer practicing at his cousin, Henry Stimson’s, prestigious New York City law firm.
+However, a career in law couldn’t capture anywhere near Loomis’s full interests. He had studied mathematics as an undergraduate, and while at Yale, he could be seen disagreeing with his professors in advanced calculus courses or just “
+around campus throwing boomerangs . . . trying to get the contraptions to conform to a theoretical formula for boomerang flight.”
+He built models for gliders and airplanes, became acutely interested in artillery design, and seemed on track to formally study science, until the death of his father left him the responsibility of providing for his family. Law seemed like a good bet to do just that, until a more alluring opportunity presented itself, and he broke away to make a spectacular fortune as a Wall Street trader.
+Before he could pivot to finance though, America became embroiled in WWI and Loomis volunteered for the army on Stimson’s urging. There he served as an artillery officer – relying on his scientific background to invent the precision chronographs that became the standard equipment at Aberdeen Proving Ground for ballistic testing.
+His time in the army was also one of personal importance. It was here that he built his views on institutional inefficiency:
+"One soldier always led the horse and held the reins, and even though the horses were long gone, the post had never been abolished. Loomis formed a lasting impression of the military bureaucracy as fundamentally averse to change, and that prejudice would never leave him and would influence much of what he did in the next war."
+The Army was also where he was first introduced to R.W. Wood, a renowned experimental physicist who shared Loomis's unconventional background. After the war, Loomis and Wood entered a productive scientific partnership with the latter often acting as something of a personal tutor – together they did much of the early foundational work in ultrasonics, teasing out the “missing link between sound and heat” (which is also what led to the article in
+Popular Science Monthly
+).
+Moreover, their work together helped accelerate Loomis's scientific career and as the scope of their collaborative projects increased Loomis and Wood outgrew the garage they had worked from till then. This served as the impetus for acquiring a true scientific workshop and in 1926, Loomis bought and converted an old mansion in Tuxedo Park into a research sanctuary. There, scientists found what they couldn't get elsewhere: generous funding, complete freedom to pursue ambitious projects, and a community of talented researchers.
+As a contemporary of Loomis’s, Luis Alveraz, described it: “
+he had a much better laboratory than any university laboratory at that time—better equipment, more expensive equipment…Wood came up and spent every summer at Tuxedo Park doing the experiments that he couldn’t do at Johns Hopkins because they didn’t have enough money.”
+Soon, other scientists came trickling in. Some visited for a day, others spent entire summers there if Loomis agreed to sponsor a project, and all were met with delightful conversation at one of the many dinners put together by their host. In fact, Loomis had such confidence that a laboratory of his making would unfailingly lure out the best talent that “
+he purchased an enormous leather guest book with gilded pages in which to record the names of all the famous scientists who would make the pilgrimage to the Tower House in the years to come.”
+All this time, Loomis also continued working at his firm on Wall Street, driving down through-out the week and even making longer trips for business as necessary. By the 1940’s, his heterogeneous positions – between the worlds of science, finance, law, and politics – made Loomis invaluable when war came again. Vannevar Bush, then chair of the National Defense Research Committee (NDRC), recruited him as part of a new science-focused team, while his old mentor Henry Stimson, now Secretary of War, provided crucial political backing. He was able to circumvent military bureaucracy and cut through institutional red tape to help make sure that laboratory breakthroughs emerging from places like his Tower of Science could now be transformed into wartime hardware at unprecedented speed.
+“He had the vision and courage to lead his committee as no other man could have led it. He used his wealth very effectively in the way of entertaining the right people and making things easy to accomplish. His prestige and persuasiveness helped break the patent jams that held up radar development. He exercised his tact and diplomacy to overcome all obstacles.” —
+Ernest O. Lawrence on Alfred Loomis
+2
+The physicist Ernest Lawrence points out that Loomis’s greatest strength was in his ability to act as a translator between individuals who spoke fundamentally different languages – that is, bridging the gap between science and policy in crucial ways. This necessity of interdisciplinary “translation” was echoed more recently by Clancy et al., in an article from the
+Institute for Progress
+. They argue that for science to fulfill its potential as an efficient driver of economic growth,
+researchers need to build
+“relationships with the institutions their research seeks to inform, such as US federal science agencies.”
+But doing so is challenging, especially because scientists and policy makers often don’t approach problems with the same set of incentives. Therefore,
+“perhaps the most straightforward way for academic researchers to bridge this translation gap is to spend time in government service positions.”
+This is what makes the example of Alfred Loomis so interesting: his work during WWII shows how bilingual figures can improve scientific advancement and even rewrite history.
+Lawrence first met Loomis in 1936 when the young physicist made his pilgrimage to the famed “Tower House” in Tuxedo Park. At the time, both men were interested in building out cyclotrons, a type of magnetic particle accelerator which would eventually form the basis of Lawrence’s 1939 Nobel Prize. During the fortuitous visit, they quickly bonded over this shared scientific interest and identified in one another an appetite for risk-taking that served their research ideas well. This would prove to be the beginning of a life-long partnership between the two –
+“both men were bonded by their innate optimism, a quintessentially American belief in technology that had as its rallying cry the macho credo of cyclotroneering—the bigger the machine the better. They shared an absolute faith in scientific progress. And for them, the pace of change could not be fast enough.”
+As the depth of their collaboration increased, Loomis too began spending considerable time in Berkeley, moving a large portion of operations to the west coast for the summer of 1939. There he assisted with Lawrence’s increasingly ambitious cyclotron projects and the physicist, in turn, helped him design microwave experiments to get him up to speed on the klystron tube—a short-range, low-power, radar device of utmost importance given the deteriorating conditions in Europe at the time. These were experiments of national significance and both Vannevar Bush and Karl Compton––then president of MIT––urged him to investigate “distance finding by radio.” He did so and went on to open up Tuxedo Park to a team of radar experts from MIT, shifting the entire focus of the laboratory to develop ideas that would be beneficial to the war effort.
+At this point however, the British had made considerably more progress on radar technology than the Americans. They arrived across the pond in September 1940 with a small delegation carrying a deed‑box of the nation’s most sensitive inventions. The
+Tizard Mission
+as it was called, came bearing jet‑engine prototypes, proximity fuses, and, most precious of all, a palm‑sized cavity magnetron: a vacuum-tube capable of generating ten‑kilowatt pulses at ten‑centimetre (microwave) wavelengths, the essential heart of precise, longe-range radar that could accurately detect ships and aircrafts. The magnetron was, in other words, “
+a pearl beyond price.
+”
+Loomis first hosted the visitors and their precious cargo at the Wardman Park hotel in Washington and later at Tuxedo Park in New York where he was quick to grasp that the magnetron outclassed his own efforts thus far. Moreover, in an age of necessary wariness, he established a rapport with the English scientists and soothed the reticence of the American entourage so that the crucial technology transfer could take place:
+“The British were encouraged by what they had seen, and [Edward] Bowen cheerfully recorded in his notes at the end of the day that ‘Dr. Loomis’ had organized ‘a powerful and energetic group, and it should be of great potential help to us.’”
+The question now became one of consolidating and best utilizing the talented and influential individuals involved in the conversation – the cavity magnetron was an excellent starting point, but developing the radar and honing a scientific edge over the Axis powers would need more structure. Loomis soon proposed the idea
+“of establishing a large central microwave laboratory…and it was quickly agreed that it should be a civilian rather than military operation, staffed by scientists and engineers from both universities and industry” –
+patterned, not accidentally, on his own palace of science. Thus the process of setting up the Microwave Committee began––an ad‑hoc civilian panel that would build-out MIT’s Radiation Laboratory, work on the cavity‑magnetron radar program, and ultimately provide the Allies with crucial radar technology.
+In parallel, within two days of meeting the British, Loomis had also managed to arrange a contract with the Bell Telephone Company to produce thirty units of the magnetron. This was unprecedented speed given that only twelve devices had been made in total up to that point – and Loomis’s ability to operate with this much urgency when appropriate was part of the reason he was chosen to lead the new Microwave Committee and its corresponding laboratory. He was also flagged because Vannevar Bush had found in Loomis a kindred spirit and together they
+“thought along such similar lines at times that they almost finished each other's sentences.”
+Thus, within days of the magnetron reaching American shores, steps were being taken to rapidly set-up a massive research operation to build out radar technology. It is in establishing the Microwave Laboratory that we can see the ideas that Loomis prioritized:
+1. Avoiding resource constraints
+The week after the encounter with the Tizard Mission, MIT president and chair of Division D at the National Defense Research Committee (NDRC), Karl Compton, had found for Loomis (who was also vice-chair of the division) a ten‑thousand square feet of space where he could set-up shop. In parallel, the NDRC voted on the contract and awarded the operation $445,000 – more than triple their original request – to cover the new laboratory’s first year. At the same time Loomis’s Tuxedo Park workshop was being hurriedly crated up – test benches, oscilloscope racks, a repurposed mobile radar van – and shipped to Cambridge where the new Radiation Laboratory would benefit further from the vast resources of MIT.
+2. Accessing excellent talent
+On the other coast, Lawrence was undertaking a tour of the country to recruit talent to staff the lab. The scientists came to MIT not only from universities in Berkeley and Chicago, but also from Lawrence’s own crews because they “
+adapted more quickly to a radically new set of ground rules than professional radio engineers
+.” And by November of 1940, within six weeks of the initial meeting, the Radiation Laboratory –“Rad Lab” to its denizens – was officially open. Upon seeing this remarkable feat, Bowen later said that
+“it was a gift from the gods we disclosed [the magnetron] to Alfred Loomis and Karl Compton.”
+Berkeley in March 1940: (left to right) Ernest Lawrence, Arthur Compton, Vannevar Bush, James B. Conant, Karl Compton, and Alfred Loomis.
+3. Flat bureaucratic structure
+A few months later, President Roosevelt codified such organizations as part of the wartime effort, creating the
+Office of Scientific Research and Development (OSRD)
+3
+with Vannevar Bush as director. In this role, Bush had extraordinary authority: he could advise the president directly, mobilize civilian laboratories, award contracts, and most importantly control his own budget. For Bush, it was an "end-run” around slower military channels and allowed him to give Loomis (who he believed “had never taken an order from anybody at any time,” at-least until he joined the OSRD) ample latitude to operate.
+4
+He intervened only when necessary:
+“Alfred’s always been a close friend of mine, but a tough egg to work with. I think during the war when he occasionally changed his direction of action at my behest, it was about the only time that he ever paid attention to anybody over his head.”
+The fourth key idea is perhaps not that explicit, but it is worth paying attention to the word
+‘friend’
+in the above quote because that is truly what made Loomis such an efficient operator. His network of relationships was as necessary as his scientific conviction. A lifelong bond with Henry Stimson gave him a direct line to the War Department, while his camaraderie with the likes of Ernest Lawrence, Arthur Compton, and Robert Oppenheimer made him, in effect, a
+“minister without portfolio”
+to the Manhattan District’s scientific leadership. He moved fluidly between the physicists driving the work and the officials in charge of funding, untangling problems before they created unnecessary hurdles of technological progress. To keep those channels open he even kept a permanent hotel suite in Washington—both a crash pad for his friends, the visiting scientists, and a base from which he could appear in Stimson’s office on short notice.
+Over time, Loomis' position across science, finance, and policy, produced extraordinary results. By July 1945, the U.S. services had taken delivery of roughly $3 billion in radar equipment: more than half of that is traceable to projects he steered through the NDRC and about $25 million of that total was shipped directly from the Rad-Lab.
+Throughout his winding scientific career, Loomis experimented with and participated in many different mechanisms of doing research––there was his own lab at Tuxedo Park, his stint with Lawrence in Berkeley, his work in the military during WWI, and in running the Rad Lab for the OSRD during WWII.
+In all of these settings, whether he was operating from his private mansion or within the wartime bureaucracy, Loomis seemed to consistently prioritize three elements: ensuring that critical projects didn’t face resource constraints, maintaining flat bureaucratic structures, and securing access to excellent talent.
+These were necessary prerequisites for someone who valued speed. For example, the magnetron went from British secret to American production contract in two days and the Rad Lab materialized in weeks. He understood that in both science and government, being opportunistic at the right times was essential.
+Today we could benefit from the same bias to action. We would benefit from a system in which scientists could receive grants from institutional operators who incentivize use-focused research, and from shorter review-cycles and faster regulatory time-lines.
+Alfred Loomis was able to identify and communicate these inefficiencies, acting as a bridge between the scientists in his lab and the government officials in D.C. It would be useful to have more figures who can connect these worlds––individuals who can operate fluently across domains, who understand that the best ideas are those that are well translated and rapidly implemented. Like Loomis, these translators must come from within science itself: researchers who grasp both the technical depths of their field and the urgent needs of the wider world. The Tower of Science in Tuxedo Park may have retired, but the model it represents remains as relevant as ever.
+***
+Sources for this piece [and further recommended reading]:
+Jennet Conant, Tuxedo Park: A Wall Street Tycoon and the Secret Palace of Science That Changed the Course of World War II
+Vannevar Bush, Pieces of the Action
+Part 1 in Scientists Against Time by James Phinney Baxter the 3rd
+1
+All quotes from Jennet Conant,
+Tuxedo Park: A Wall Street Tycoon and the Secret Palace of Science That Changed the Course of World War II
+(unless indicated otherwise).
+2
+Luis Alvarez,
+Alfred Lee Loomis
+, in Biographical Memoirs (National Academy of Sciences, 1980), 334.
+3
+On the relationship between the OSRD and the NDRC: “The Office of Scientific Research and Development (OSRD) was a direct outgrowth of the deficiencies of the National Defense Research Committee (NDRC), which had been created by President Franklin Roosevelt in June 1940, at the urging of Vannevar Bush, to organize American science for war.” [from
+osti.gov
+]
+4
+From Vannevar Bush,
+Pieces of the Action
+: “There were those who protested that the action of setting up N.D.R.C. was an end run, a grab by which a small company of scientists and engineers, acting outside established channels, got hold of the authority and money for the program of developing new weapons. That, in fact, is exactly what it was. Moreover, it was the only way in which a broad program could be launched rapidly and on an adequate scale.”

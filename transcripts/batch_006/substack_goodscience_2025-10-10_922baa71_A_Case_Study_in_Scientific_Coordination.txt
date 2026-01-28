@@ -1,0 +1,215 @@
+Title: A Case Study in Scientific Coordination
+Source: goodscience
+URL: https://goodscience.substack.com/p/a-case-study-in-scientific-coordination
+Date: Fri, 10 Oct 2025 18:18:30 GMT
+Word Count: 4664
+Estimated Read Time: 23 minutes
+
+================================================================================
+
+This is a guest post by Hiya Jain, a recent Columbia University graduate with a keen interest in science policy and the history of science. You can find more of her writing on her Substack,
+Mundane Beauty
+.
+Ethel Léontine Gabain,
+Sir Alexander Fleming (1881–1955), FRS, the Discoverer of Penicillin
+, 1944, oil on canvas, Imperial War Museums, London.
+Did penicillin help win WWII? Perhaps not independently, but for the
+estimated 100,000 Allied soldiers
+treated between D-Day and German surrender, it must have felt like a miracle. It still remains one, and today penicillin and its derivatives are amongst the most
+widely prescribed
+antibiotics globally. However, when we talk about penicillin the wonder drug, we often sidestep the fact that bringing it to market took an incredible amount of effort, and without the immense scientific coordination required to scale it, penicillin may have arrived much too late.
+In other words, the story of penicillin is more than a tale of scientific luck; it’s a reminder that breakthroughs depend on how we fund and organize science. In the 1940s, penicillin succeeded not because a lone scientist made a brilliant discovery, but because government, industry, and academia worked together with urgency and coordination. Today, we have few equivalents. The United States spends roughly $50 billion a year through
+the NIH
+, but our system often rewards incremental proposals over ambitious ones and buries investigators in administrative overhead. The lesson of penicillin is that scientific miracles may often be accidental in their origins, but the ultimate impact depends on larger systems designed around implementation.
+If wartime America could marshal its industrial and scientific capacity to mass-produce a fragile mold, then peacetime America should be able to modernize its research institutions. That means creating space for risk-taking inside the NIH, strengthening programs like ARPA-H that back high-risk, high-reward ideas, and building new pathways – public, private, and philanthropic – that can translate discoveries into real-world impact.
+The [penicillin] mold is as temperamental as an opera singer, the yields are low, the isolation murder, the purification invites disaster. Think of the risks!”
+Such was
+the conversation
+in the Pfizer board room in the early 1940s as the company, a market leader in fermentation, grappled with the longstanding problem of penicillin production. Yet, amidst the turmoil of World War II, they decided to take the gamble anyway. “On March 1, 1944 Pfizer’s penicillin plant opened. It contained fourteen 7,500-gallon tanks; soon the company was producing five times more penicillin than originally estimated…most of the penicillin that went ashore with Allied forces on D-Day came from this plant.”
+Yet industrial machinery is not what comes to mind when we think of penicillin, instead the familiar narrative in the annals of science history goes something like this: In the fall of 1928, Alexander Fleming was tidying up his laboratory at St. Mary’s Hospital in London when he noticed something peculiar about one of the petri dishes. A spot of greenish mold had contaminated a culture of staphylococci and had caused the once-thriving bacterial colonies to dissolve into
+“faint shadows”
+of their former selves. Species of mold that naturally produce penicillin are rare
+1
+– what are the chances that one would grow in a tiny culture, and in the lab of a man who was actively on the lookout for substances that could destroy disease-causing bacteria without harming patients? Fleming would later
+go on to write
+that he “thought it should not be neglected” in what may be one of the greatest acts of foresight.
+Much like the apple that just happened to fall on Newton’s watch, the simple story we tell about penicillin says that a zero-to-one breakthrough arrived in an
+act of fate
+. But attributing this world-changing discovery to serendipity alone ignores the incredibly difficult work that followed during the tense years of WWII, without which Fleming’s lucky break might not have mattered at all.
+For over ten years, the antibiotic, one of our first effective defenses against the largest cause of human mortality, languished in the lab. While we romanticize the discoveries of lone scientists, history also shows that a single researcher cannot scale their work from the bench to the factory unassisted.
+Prologue: Fleming
+Before the so-called “golden age of antibiotics,” doctors typically carried morphine to ease pain, digitalis to strengthen failing hearts, and iodine or phenol as topical antiseptics. These were useful remedies, but none of them could strike at the root cause of infection.
+2
+Thus, the great killers of the age remained as lethal in the 1920s as they had been in the 1890s: “Staphylococci, streptococci, gonococci, even pneumococci and meningococci, were practically as gay [happy/thriving] as they had been in the [eighteen] nineties.” Septicemia, or blood poisoning, for example, killed four out of five patients who contracted it, and pneumonia claimed roughly 30 percent of its victims. In return, the only prescription medical textbooks could offer was “good nursing care and general supportive treatment.”
+It was in this milieu that Fleming had come across penicillin – could this be what Paul Ehrlich had called the “magic bullet,” a drug that killed a specific organism while leaving the host’s tissue intact?
+3
+Prepared by his earlier work in the study of antimicrobials, Fleming did most things right. He isolated the mold, tested it against various bacteria, proved it nontoxic in animals, and even predicted its potential as an antiseptic. But then he stopped.
+4
+The chemical challenges of producing penicillin in quantity – instability, fastidious growth requirements, and extraction difficulties – proved insurmountable, especially in 1929, given the limited technology and resources available.
+5
+Soon after, however, in 1932, a new class of sulfa drugs was discovered. Derived from a particular type of dye, these sulfonimides were successful in treating a small group of infectious diseases, reducing mortality for some types of pneumonia and meningitis by two-thirds. They certainly were not a cure-all, being ineffective in cases of syphilis and against a majority of gram-negative bacteria, staphylococci, and certain streptococci. Moreover, they came with a slew of side effects, including fevers, low red and white blood cell counts, blocked kidneys, and hampered coordination. Despite these drawbacks, sulfonimides were some of the only effective treatments available in the 1930s. With limited options, when WWII broke out, “a package of sulfadiazine tablets and of sulfanilamide powder was added to each [American] soldier’s first-aid packet and he was instructed, on becoming a casualty, to swallow the tablets and sprinkle the powder on his wound.”
+Florey and Chain in Oxford
+As the war loomed, finding better drugs became imperative. In 1939, Howard Florey’s team at Oxford picked up where Fleming left off, demonstrating penicillin’s remarkable potential in animal trials. The results were stunning: penicillin appeared more potent than the sulfonamides or any other bacterial agent, it affected organisms that were otherwise immune to sulfa drugs, and overall it seemed far less toxic. But as Florey knew, the true challenge lay in treating “men, not mice.”
+Thus began the
+human trials
+. By the spring of 1941, Florey’s team had treated exactly five patients, all of whom had severe infections that did not respond to sulfonamides. These were all cases where mortality was almost certain, yet three of the patients survived. Moreover, the two deaths that did occur were particularly frustrating: one patient had recovered, only to relapse and die when the available penicillin was exhausted; the other passed away from an unrelated complication. These individuals had also been “grossly undertreated by present standards.” The drug was not only difficult to produce, but it was also filtered out quickly after injection – remaining in the body for mere hours before being excreted in the urine, which Florey
+likened to
+“trying to keep a bath full with the plug out.”
+Here, Florey faced the same problem that had stymied Fleming: he simply couldn’t manufacture enough penicillin for it to really be useful.
+The challenge was fundamentally industrial. At Oxford, Florey and Ernst Chain had developed a laborious process that required 300 glass flasks to produce a single gram of penicillin powder. It was a “dry stable preparation a thousand times as strong as the crude preparation used by Fleming in 1929, [but Florey and Chain] obtained it only with enormous effort and in relatively small amounts.”
+Most of these production problems can be traced back to the mold itself, which was extremely volatile. It would grow readily enough from spores into the long tangled green threads that could produce penicillin, “but the production is irregular, the product exceedingly unstable” – easily destroyed by heat, a pH imbalance, contaminating bacteria, or even by other molds. There was another worrying development. By growing staphylococci in the presence of insufficient concentrations of penicillin, the bacteria began showing signs of resistance to the drug. This ensured that any treatment would need to begin with “large and decisive doses” rather than small, incremental ones, which made the manufacturing issue all the more urgent.
+Howard Florey (right) injects penicillin into the tail of a mouse, ca. 1940. [
+Source
+]
+By the summer of 1941, progress was still slow, and Britain was under siege. Resources were exceedingly scarce, and it became clear that a trip across the Atlantic was imperative. Protecting the technology and scaling up production required personnel and facilities that Florey hoped the American industrial muscle could provide. The stakes of this trip were so high that a fellow scientist on the mission, Norman Heatley, even suggested applying a thin layer of the mold to their coats to ensure it made it to the United States.
+6
+Finding success in Illinois
+In America, Florey and Heatley found themselves in Peoria, Illinois, hosted by the United States Department of Agriculture (USDA). The Northern Regional Research Laboratory (NRRL) located there had done work with fermentation and seemed like a reasonable place to begin work on increasing production. It is here that the story diverges: Heatley stayed behind to start problem-solving while Florey ran around the country to draw interest from pharmaceutical companies and the government alike.
+In Peoria, scientists began work and saw first-hand the scope of the issue: “Put mold and medium in a flask and, ten days later, assays would show a good yield of penicillin. Put larger amounts of the same mold, the same medium, in larger vessels and assays would show no penicillin; or penicillin would be there on the fourth day and, suddenly, on the fifth day it would be gone; or it would be present in the final filtrate and vanish during one of the stages of extraction.” It soon became apparent that scaling production would need better techniques that increased yield and a new strain of mold that produced penicillin reliably.
+A series of happy coincidences quickly moved them forward. For one, Heatley did not have access to exactly the same media that he had used to culture the mold in Britain; instead his newfound colleague, A. J. Moyer, suggested that they use corn steep liquor.
+Then, as now, middle America was corn country, and corn steep liquor abundantly available as a waste product from cornstarch production. Introducing the liquor into the growing culture immediately increased the yield by tenfold. In fact, R. D. Coghill, another scientist at NRRL,
+noted
+, “One of the least understood miracles connected with [penicillin] is that Florey and Heatley were directed to our laboratory in Peoria—the only laboratory where the corn-steep liquor magic would have been discovered.”
+The second miracle was finding a more efficient strain of the mold. While this discovery is sometimes attributed to
+luck
+, it actually resulted from coordination and determination. “The NRRL conducted an intensive search by collecting naturally occurring molds from both local and global locations. These collection activities involved everything from searching local markets for moldy fruits and vegetables to contracting the Army Transport Corps to collect and deliver soil samples ‘from wherever Army planes set down.’” The strain eventually used was found in a rotting cantaloupe in Peoria, Illinois, by Mary Hunt, a lab assistant at the NRRL. This new discovery again doubled production.
+Branching out
+With these breakthroughs, researchers moved on to perfecting deep-tank fermentation – a process that enables the mold to grow evenly within large tanks, rather than just on the surface of laboratory glassware. This, however, was “essentially [a] problem of chemical engineering when it came to finding solutions on an industrial scale” and required a different set of expertise.
+7
+It was part of a set of deeply technical challenges that required coordinated effort. Leaving Heatley in Peoria, Florey spent the winter of 1941 meeting with pharmaceutical companies and the U.S. government – convincing them that penicillin was a worthwhile endeavor. In D.C., Alfred Newton Richards recognized the production challenge and brought it under the wings of the Committee for Medical Research (CMR), a sub-division of the incredibly efficient wartime Office of Scientific Research and Development (OSRD).
+8
+“Meetings were arranged by CMR in October and December [1941] between representatives of the National Research Council Division of Chemistry, the Department of Agriculture, and the pharmaceutical firms of Merck & Company, Chas. Pfizer & Company, E. R. Squibb and Sons, and the Lederle Laboratories. The Peoria Laboratory, which had started work immediately after Florey’s visit, and the pharmaceutical houses agreed to conduct research aimed at increasing the production of penicillin.”
+This cooperation between the private and public sectors was rooted in an interesting structure, one that was built around an information-sharing agreement. Each firm agreed to conduct independent production research and present its findings to the CMR, which served as a clearinghouse for these findings. The CMR would then share these results with others in the consortium while providing technical support to individual companies via the NRRL.
+9
+With the coalition in place, a technique for deep-tank fermentation was perfected, “[spores were] transferred into an 8000-gallon vat, containing culture media the acidity of which has been carefully regulated. There, the mycelia grow for forty-eight hours, constantly stirred by a huge ‘egg beater,’ constantly oxygenated by streams of sterile air, their temperature regulated by refrigerating coils in the walls of the vat. At the end of this period, the yellow fluid is filtered off and the concentration process started…[resulting in a] solution of the order of 50,000 units per cubic centimeter, 250 times that of the original solution [in Florey’s Oxford lab].”
+Over the course of a year and a half, the laboratory procedures for consistently producing high yields of penicillin were in place. This allowed enough of the drug to be available for early studies at Bushnell General Hospital in Utah where over 200 wounded soldiers with bone infections (cases where sulfa drugs had completely failed) were successfully treated with penicillin. In-fact, “the results of the Bushnell military penicillin testing were
+so encouraging
+that the US Army now regarded penicillin as vital to the war effort.”
+Therefore, in early 1943, it was of little surprise that an attempt was made to seriously ramp up manufacturing. The War Production Board (WPB) was called upon and threw the full weight of American industrial mobilization behind the production of penicillin. In May of that year, the WPB granted AA-1 priorities (the highest wartime designation) to selected commercial firms and over the course of the next year, with $20 million in funding, 21 plants had been erected and operationalized. Production scaled at a rate that defied comprehension: “The monthly production of penicillin, which had approximated 60 million units in pilot plants in May 1943, became 117,527 million units in June 1944. In June 1945, it was 646,818 million units” (it is worth noting here that about a million units were needed to treat the average patient).
+10
+To achieve this scale in just about two years, the WPB orchestrated an high level of cooperation. They arranged monthly meetings where penicillin producers could exchange information on production methods and secured a waiver from the Department of Justice to exempt these meetings from antitrust laws. “On July 16, 1943, the WPB [also] issued allocation order M-338, formally partitioning all penicillin supplies among the Army, Navy, Public Health Service, and the CMR for clinical testing. [By] May 1944, when the amounts available for civilian use became greater than could be handled by CMR, the WPB established a Civilian Penicillin Distribution Unit in Chicago to allocate supplies to 1,000 selected hospitals.”
+11
+The aftermath
+The clinical results were, as expected, nothing short of revolutionary. Diseases that had been virtual death sentences suddenly became treatable. While staphylococcal septicemia, a serious bloodstream infection, once killed four out of five patients, now four out of five patients survived. Subacute bacterial endocarditis, an infection of the heart lining and valves, once fatal in 100% of cases, became curable with sufficient doses. Even syphilis, which had required months of painful arsenic and bismuth treatments,
+could be controlled
+with a shorter penicillin regimen. Perhaps most importantly, penicillin proved to be that rarest of medicines that Ehrlich conceived of: a “magic bullet” that was both
+extraordinarily potent and remarkably nontoxic
+.
+Thus, in just about four years (1941-1945), with a sense of urgency and with immense cooperation, the problem that had stumped Fleming and nearly defeated Florey was decisively conquered through purpose-driven industrial might.
+If we continue moving further downstream, there is certainly more that could be written about the impact of penicillin. Even looking at a single target, pneumonia in American children, the
+numbers are staggering
+: the “rates of mortality from childhood pneumonia in the United States declined by 97 percent in the 58-year period from 1939 through 1996…The number of deaths ascribed to pneumonia dropped from 24,637 in 1939 to 800 in 1996, an absolute difference of 23,837 deaths, despite the substantial increase in the population during this period.”
+It is unsurprising, then, that organizations went on to study the drug’s many applications while others were enlisted to synthesize chemical variants that could be remixed into second-generation antibiotics – all pushed forward by the same efficient central apparatus. Market incentives also drove costs down dramatically, making penicillin accessible at scale and saving countless lives.
+12
+In every sense of the word, the drug is remarkable.
+From Vannevar Bush, Director of the Office of Scientific Research and Development (OSRD), in
+Pieces of the Action
+:
+“If I were to expand upon any single war program I would pick the efforts of wartime medicine, for here the tale has not yet been told so that it is well understood…For the first time medical science was adequately supported and encouraged…
+It put penicillin at our service, as could have been done ten years before had there been ample effort, and thus introduced the wide range of antibiotics.
+All this was important; it raised the possibility of healthy life on the planet even as war brought distress. But its importance was more than this.
+The war effort taught us the power of adequately supported research for our comfort, our security, our prosperity.
+”
+Replicating success
+There are many levers in the story of penicillin that we cannot reliably replicate – who knows when the next figurative speck of mold will fly through a window?
+What we can do is work to incentivize sustained effort.
+To signal to scientists that taking time to rigorously work on their most ambitious ideas is a good thing.
+This is particularly important because, as
+some have argued
+, it seems we are making fewer consequential discoveries in the present day – as if we are slowly running out of the “low-hanging fruit” that pushed science forward in the past.
+13
+For example, Matt Clancy of
+Open Philanthropy
+writes
+:
+“We should expect science to get harder because of the ‘burden of knowledge’...Whenever new knowledge is discovered, it opens the way for new discoveries, and it may also displace or make obsolete some older knowledge. But if new knowledge does not entirely displace old knowledge, then it may be [that] you need steadily more knowledge to make new discoveries. Unfortunately, I think we have quite good evidence this seems to be the case as a general (though probably not absolute) rule.
+All else equal, if you need more and more knowledge to make a discovery of a given size, then you can probably expect discoveries of a given size to require more time or manpower to bring about.
+“
+This seems plausibly true. After all, it was objectively easier to discover the earlier elements on the periodic table than the unstable, radioactive combinations we create today.
+Yet, the burden of knowledge is not the only culprit. As Ben Southwood of
+Works in Progress
+argues
+, “there is good reason to believe that insofar as we haven’t seen big progress in energy subfields, this is itself down to problems with how we pick fruit, not because the lower fruit have already all been plucked.”
+Regardless of which explanation carries more weight, both ways of looking at the perceived difficulty of modern-day science converge on the same prescription:
+invest
+. If new interventions are just plain harder to come across, then we should spend more money on ladders, and account for the additional effort of climbing up and down. Alternatively, if the problem isn’t with the ideas themselves but the urgency and willingness with which we work towards them, then we should, again, incentivize effort.
+What could this look like in practice? Medicine offers clear examples of where more deliberate effort would pay dividends. As Matt Wedel, a professor of anatomy,
+points out
+: if surgeons collectively performed ten thousand well-documented autopsies, “that wouldn’t be enough to declare the science of human anatomy a completed project, but we’d know a heck of a lot more than we do now.”
+14
+Similarly, discovering effective vaccines against high-prevalence but difficult to solve diseases
+like tuberculosis
+requires coordinated will. So does making diagnostics cheaper and easier – this includes things like blood-based screening for hard-to-catch cancers like ovarian and pancreatic, or bringing down costs for regular MRI/PET scans for people
+at risk for Alzheimer’s
+. These are worthwhile causes even if they require unusually large amounts of resources.
+15
+The story of penicillin production reminds us that hard problems are solveable, but they require hard work. Fleming’s discovery was certainly critical, but what transformed medicine was the decision to marshal resources, coordinate expertise, and provide the right encouragement (in the form of investment) to scale up a solution.
+To exhaust the metaphor: There is still plenty of fruit on the tree. We just need to do the work and learn to pick it before it rots.
+Note: Unless indicated otherwise via nearby link or footnotes, all quotes from James Phinney Baxter III,
+Scientists Against Time
+, page 337-359.
+1
+“​​[Charles] Thom also recognized the rarity of this P. notatum strain because only 1 other strain in his collection of 1,000 Penicillium strains produced penicillin.” From Robert P. Gaynes,
+Germ Theory: Medical Pioneers in Infectious Diseases
+, page 258-59. [+ from Wilson (
+op. cit),
+Chapter 5
+:
+“The colonies that Fleming observed as having undergone lysis were therefore young colonies caught by the penicillin in an early stage of development.” – in the context that it was difficult for scientists to recreate Fleming’s original plate even in the same conditions because the mold, in the form the Fleming found it, was far from effective on fully developed staphylococci colonies. This further underscores how lucky the initial discovery was.]
+2
+Referring to late 1910’s/early 1920’s “I took the greatest interest in his doctor’s bag, a miniature black suitcase, fitted inside to hold his stethoscope and vari-ous glass bottles and ampules, syringes and needles, and a small metal case for instruments. It smelled of Lysol and ether. All he had in the bag was a handful of things. Mor-phine was the most important, and the only really indispens-able drug in the whole pharmacopoeia. Digitalis was next in value. Insulin had arrived by the time he had been practicing for twenty years, and he had it. Adrenalin was there, in small glass ampules, in case he ran into a case of anaphylactic shock; he never did.” [Lewis Thomas,
+The Youngest Science: Notes of a Medicine-Watcher
+, page 13.]
+3
+Gaynes,
+Germ Theory: Medical Pioneers in Infectious Diseases
+, chapter 12.
+4
+“He [Fleming] was able to conduct a few tests on his “mould broth,” as he called it, but it proved so difficult to purify in amounts required for human medical tests that he dropped the research, turning his attention instead to––what else?—sulfa.” [Hager,
+The Demon Under the Microscope
+]
+5
+Gaynes,
+Germ Theory: Medical Pioneers in Infectious Diseases
+, Chapter 14, pages 249-52.
+6
+“If the work was destroyed to avoid its secrets being captured, how could those who managed to get to safety resume the experiments? Heatley came up with the answer. He suggested that if they rubbed spores of the mould into the fabric of their coats, the dingy brown motes would blend into the material and could lie dormant for years.” [From Eric Lax,
+The Mould in Dr. Florey’s Coat: The Story of the Penicillin Miracle
+, page 159.]
+7
+David Wilson,
+In Search of Penicillin
+, page 207.
+8
+Context on the OSRD: “The National Defense Research Committee was launched over a year before we [America] entered World War II, as a civilian organization of scientists and engineers for the purpose of developing new weapons for military use. A year later it became part of the Office of Scientific Research and Development, which included research on military medicine. It had two very important aspects: It reported directly to the President of the United States rather than through military channels, and it had its own funds with which to work.” (from Vannevar Bush,
+Pieces of the Action
+)
+9
+On incentives: The CMR’s “sole financial investment was to make some funds available to the Peoria Laboratory. Its moral investment was to encourage and maintain the initial interest of the commercial firms, to co-ordinate the results of their research, and to arrange with the War Production Board so that the firms might receive priorities for the equipment of their laboratories and pilot plants.” [From Irvin,
+Organizing Scientific Research for War,
+page 105]
+10
+Irvin Stewart,
+Organizing Scientific Research for War: The Administrative History of the Office of Scientific Research and Development,
+page 106. [
+Web Archive link
+]
+11
+Stewart,
+Organizing Scientific Research for War
+, page 106-7.
+12
+“The government, which had developed the mass production techniques for penicillin as a wartime measure, licensed the drug to five firms. Those firms engaged in a fierce competition for sales. Between 1945 and 1950, the price of penicillin plunged from $3,955 to $282 a pound.” [
+Source
+]
+13
+Albeit this is controversial - there have been certainly real leaps and bounds in some fields including drug development and AI.
+14
+“If I was a multi-billionaire, I’d hire 1000 of the world’s best surgeons, supply them with 10,000 ethically donated willed bodies representing as many geographic regions and genetic backgrounds of humankind as possible, and give each surgeon a couple of years to dissect their 10 bodies, ideally in labs with 50-100 bodies at a time so the small groups of surgeons could look at each other’s work without getting overwhelmed, or work in teams if they preferred. I’d also supply them with professional photographers to document everything they found, and a small army of research assistants to help them with library work and writing up. That wouldn’t be enough to declare the science of human anatomy a completed project, but we’d know a heck of a lot more than we do now.” Quote also seen in Stuart Buck’s
+The Case For Crazy Philanthropy
+,
+Palladium Magazine.
+15
+We know this paradigm is heuristically true because we have seen it work in the recent past. Humans did develop a
+malaria vaccine
+despite the comparable challenge in doing so and it led to very real improvements to our collective flourishing.

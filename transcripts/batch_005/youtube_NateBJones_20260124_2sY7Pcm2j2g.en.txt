@@ -1,0 +1,265 @@
+This week, the two people most likely to
+build artificial general intelligence
+sat on the same stage in Switzerland and
+agreed it's coming faster than anyone
+outside the major labs realizes and half
+of entry-level white collar jobs could
+be at risk. The same week, Apple
+admitted it lost the foundation model
+race and XAI closed the largest funding
+round in history. I have all the major
+stories that mattered and we're going to
+get to it in just a hair over 10
+minutes. Story number one, XAI closes a
+$20 billion series E. XAI announced
+their upsized e- round. The implied
+valuation sits at a quarter of a
+trillion dollars, $230 billion in the
+same bracket as OpenAI and Anthropic.
+The capital is earmarked for continued
+expansion of XAI's Colossus
+Supercomputers in Memphis, Tennessee.
+The company ended 2025 with over 1
+million H100 GPU equivalents across
+Colossus 1 and 2. Grock 5 is currently
+in training there. XAI claims roughly
+600 million monthly active users across
+X and Grock apps making it the largest
+consumerf facing AI deployment outside
+of Google and OpenAI. The raise
+coincided with a safety crisis. Grock
+generate generated inappropriate deep
+fakes of real people including minors
+and triggered regulatory probes in the
+EU, UK, India, Malaysia and France.
+Despite all of this, XAI landed a
+Department of Defense deal and Grock is
+now the DoD's AI agents platform and
+also Grock powers prediction markets,
+Poly Market and Call. So why does this
+matter? Three labs now have clear runway
+to survive the multi-year scaling race.
+Open AAI, Anthropic, and XAI. You can
+pencil in Google over the top as the
+fourth because even though funding is
+not designated, Google is such a money
+machine. they can fund AI as a bet.
+Everyone besides those four is operating
+against shorter timelines and even open
+AI and anthropic have more fundraising
+risk than the other two at this point.
+Partly because Elon has proved himself
+such an extraordinary fundraiser. The
+Grog safety failures are instructive in
+the context of the fund raise. XAI was
+able to close its largest round even
+while facing active investigations in
+five countries. We've also seen active
+investigations and lawsuits continue
+against OpenAI, but not really impact
+funding timelines. The way I read that
+is that investors have a very long-term
+perspective on the value of AI at this
+point, and they are willing to look past
+a lot of these initial building issues
+and assume that AI is going to start to
+clean up and mature as a product
+offering as the ball moves forward into
+the future. We will see if that's true.
+Story number two. At Davos, the
+economist moderated a session called the
+day after AGI featuring featuring Daario
+Amade from Anthropic and Deise Hasabis
+from Google Deep Mind. Yes, they're
+competitors, but really the point was to
+have a conversation about what happens
+in a world with AGI. Overall, there was
+a lot of agreement between the two.
+Amade is a little bit more aggressive in
+his belief in how quickly technology is
+progressing. He reaffirmed his
+prediction that AGI will emerge this
+year in 2026 or 2027 driven by an
+accelerating feedback loop by AI writing
+its own code. He revealed that anthropic
+engineers rarely write code by hand
+anymore. AI does it and humans review.
+Uh and he was the one that warned that
+there is a significant risk of
+entry-level professional position
+disruption because AI becomes good at
+those entry-level type tasks. Hosabis
+was slightly more conservative. He
+estimated a 50% probability of
+artificial general intelligence by the
+end of the decade. When you dive into
+the conversation, I think this was one
+of the most interesting disagreements in
+Davos because what what Hubis was
+arguing is that jobs are not
+particularly easy to automate and in is
+specifically that if you get 95% of the
+skills of a job, all you're doing is
+increasing the value of the 5% that
+remain that humans can do. I think that
+he's more likely correct. One of the
+things that I noticed is that despite
+predictions from a lot of Silicon Valley
+researchers, there will be big impacts
+on employment. We see impacts on
+employment that are very mixed. Yes,
+there's some evidence that junior
+positions are more difficult to get
+nowadays. It is unclear if you look
+across the economy as a whole that
+layoff news in general is impacted at
+the aggregate level by AI. And so it
+seems like we live in a hosubis world
+right now where AI is having a profound
+impact but the 5% 10% 15% whatever it is
+that humans can do is something that we
+really need to be done to have the job
+done well and AI ends up supercharging
+those humans and enabling them to be
+more productive. One of the things that
+also called out beyond the jobs
+conversation is that we have issues in
+three big areas with AI. One is memory.
+two is continuous learning and three is
+long-term reasoning. I think he's right.
+The current models have a memory wall.
+They don't learn after they're released
+and long-term reasoning is not where it
+ought to be in the way that a human
+reasons. Hosib believes we'll get there.
+It just may not be 26 or 27. The good
+news is we get to find out which leader
+is right in the next year or two just by
+seeing what happens. That's one of the
+great things about this moment in AI is
+that we can all discover together who's
+right. Story number three, Apple and
+Google announced a multi-year
+collaboration where the next generation
+of Apple Foundation models will be based
+on Google's Gemini models and cloud
+technology. I can't sugarcoat it. This
+is a big loss for OpenAI. Open AI should
+have been in the running here and this
+is a big piece of revenue. The deal
+reportedly costs Apple a billion dollars
+a year. Reports indicate Google is
+building a custom 1.2 trillion parameter
+Gemini model just for Apple. And it is
+far beyond what Apple's own models can
+currently achieve, which frankly doesn't
+surprise me cuz they're terrible.
+There's there's no way to avoid the
+implication that chat GPT has gone from
+being a potential OS on the phone to
+being secondary tier and the default OS
+being Gemini on every platform, not just
+Android, but also iOS. This puts more
+pressure on Sam Alman and Johnny IV to
+deliver a third device that gives open
+AI distribution. Story number four,
+DeepS publishes engram, a conditional
+memory architecture. So on January 12th,
+Deepseek released a paper introducing
+engram. And the key idea here is that
+transformers lack a native knowledge
+lookup ability. So tasks that should be
+solved very quickly, like recognizing
+Diana, Princess of Wales, instead
+require multiple layers of attention to
+progressively compose features. And
+models essentially use very expensive
+reasoning tokens to perform what should
+be very simple lookups. Engram fixes
+this by taking short sequences like two
+to three tokens long and it uses hash
+functions to look those up in a massive
+embedding table and filters retrieved
+patterns against current context via
+gating mechanism. And so the thing
+that's great about this is that you can
+get substantial jumps in performance
+without spending a lot of tokens. This
+is an extremely token efficient way to
+retrieve information and it has
+potential as a pattern to offer a way to
+give a model of factual memory. And so
+for that reason I think this is a really
+significant breakthrough. We're we we
+continue to see the deepseek team push
+GPU limits with extraordinary
+engineering and this is just one more
+example where they're being incredibly
+token efficient and inventing along the
+way. Last but not least, Kilo Code
+launches an app builder and takes aim at
+lovable. So, Kilo Code was founded by
+GitLab co-founder Sid and CEO Scott, and
+it launched its app builder in late
+December after a six-w week sprint. The
+company raised 8 million in seed
+funding, and it's starting to take off.
+So, Kilo's positioning is deliberately
+aggressive. The the CEO, Scott, said,
+"We're not very popular at the AI
+Christmas party." And he wants to change
+that. The app builder differentiates by
+targeting actual engineers rather than
+non-technical users. And so per kilo's
+framing, lovable is not a tool for
+engineers. And Kilo wants to be in the
+space of VS Code, something that's open-
+source that's engineering friendly.
+Essentially, this is a way of getting
+after GitLab's playbook. You want to
+ship a lot in open source. You want to
+compete on breadth. You want to win
+through delivering a comprehensive
+platform rather than point solutions.
+Why does this matter in a world where we
+have lovable and replet and cursor?
+Really, what this says is the vibe
+coding market is starting to mature from
+wow, AI can write code to which
+differentiated tool fits my workflow.
+And Kilo's bet is that engineers want
+different things than non-technical
+users. Reliability, flexibility,
+integration with existing tools and not
+just walled gardens. The speed is
+notable and that's part of the reason
+I'm calling this out. Five engineers
+shipped the first internal demo in 3
+days and 6 weeks later it launched
+publicly and the public roadmap they're
+sharing at this point which could be 12
+to 18 months at most company apparently
+represents just another 5 weeks of work
+for the team. If that pace continues,
+Kilo can iterate faster and start to
+improve quickly with customer feedback.
+I will be curious whether an engineer
+focused positioning in this space has
+room to breathe between lovable and
+cursor. Cursor has earned so much love
+from engineers and what cursor hasn't
+earned, Claude Code has picked up and
+codeex has picked up. Is there room for
+a fourth player? I think that's one of
+the things we're going to discover. I
+suspect we will continue to see a lot of
+froth in the AI agent coding market and
+the coding market in general because it
+is apparent that one of the most
+powerful use cases for AI in 2026 is
+going to be giving engineers more tools
+to scale up the way they can build.
+Kilo's another bet in that direction and
+we'll see if there's room inside the
+market between lovable and cursor to get
+them. And that's your news for

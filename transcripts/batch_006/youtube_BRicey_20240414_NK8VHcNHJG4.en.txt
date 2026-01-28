@@ -1,0 +1,640 @@
+this is the episode you've all been
+waiting for on serialization and data
+saving because what good is having an
+entire plot system when it doesn't
+persist between the player leaving and
+joining so in this video we're going to
+be working on
+that let's get started so let's go into
+server script service and we're going to
+create a module script and this module
+script is going to be called
+um let me bring up the properties view
+real quick I don't know why I had that
+off this module script is going to be
+called our plot storage so what this is
+meant to do is like be responsible for
+all of the data sterilization and data
+storage that we will need when we are
+dealing with our
+plot so keeping with the theme of each
+module having basically only one
+responsibility that's what this one's
+going to be responsible for so let's get
+a skeleton going for this plot storage
+so first off I want to do something
+interesting you might not think of this
+when you're dealing with serialization
+and data storage but I'm going to have
+keep track of the number of players so
+I'm going to do local players remaining
+equals instance.
+new number value so at the beginning of
+each you know cycle or each game I guess
+whenever this module is required we'll
+create a new number value the reason
+it's a number value not just like a
+number is because we can check when that
+value changes and we're going to have
+have two functions for plot storage
+right now it's going to be plot
+storage dot load it's going to take a
+player which is of type player and then
+we're going to and in this function
+we're going to say players remaining do
+Value Plus equals 1 so every time a
+player joins the number of players
+remaining will be increased which makes
+sense function plot storage do
+save and it's going be same thing player
+player and every time a player leaves
+unless they have to save it's going to
+be players
+remaining value minus equals one so
+we're continually keeping track of the
+players leaving and joining and the
+reason we're doing this and not just
+using like the num players or whatever
+is because we don't really
+like um those aren't really going to
+work because it doesn't tell you what
+when it changes and I guess you could
+use player removing but we're allowed to
+control this value so we'll only
+decrease this value once the data has
+been saved because a player can leave
+and their data can still be saving like
+as they leave so this value should only
+decrement once they actually leave and
+once it's actually
+saved and this gives us like us the
+programmer more
+control so this will just set up like
+you know the basic scaffolding but
+before we get into the actual loading
+and saving let's define our serial
+ization function so this serialization
+is basically taking some data like in
+our game and converting it into a format
+in which it can be saved onto a database
+so we're going to say local function
+serialize plot is going to have a plot
+which is a model and it's going to
+return the like data type that our
+serialized plot should be so let's
+actually Define that so we're going to
+use a keyword type we're going to say
+type object info equals a dictionary and
+this dictionary will have two keys the
+first one will be the name which is a
+string so this will be the name of the
+object and the next will be a CF which
+stands for cframe and it'll be an array
+of numbers and I'll explain why we're
+doing this a little bit later but let's
+actually serialize it so we're going to
+first Define our a data table and this
+will be responsible for holding all of
+the information for every object in our
+plot so basically the whole idea is we
+want to iterate through every object so
+we're going to say for object and
+plot
+doobs get
+children we're going to iterate through
+every single object and for every single
+object we're first going to get the C
+frame the object CF which will be equal
+to plot get
+pivot and we'll convert that to object
+space the object get
+pivot so we have to take the C frame of
+our object and actually convert it to
+local space um or object space whatever
+to our plot because remember when you
+leave and join a game your plot could be
+a different point in the world you don't
+want your objects to spawn in the same
+spot again and again because you might
+be different so we just save the
+position relative to our plot Because
+the actual part should be known relative
+to the plot not to the
+world and so now we actually create our
+object info so we're going to say local
+info is an object info of type and the
+name is just going to be equal to
+object. name and then the CF so you may
+be thinking how are we going to convert
+a cframe which is an object and it has
+like you know different properties
+whatever how are we going to convert
+that into
+a like format that can be saved because
+like you know when you deal with uh like
+data stores initially like oh they can
+only save strings and numbers and like
+arrays stuff like that and a C frame C
+frame is an object we can't just say
+like okay like um like here's a data
+store like please just save the C Fram
+data store will not do that but a C
+frame is actually just a matrix so it's
+like a 3x4 matrix or something I don't
+know um you can look up the
+documentation for more information on
+that but basically if we say if we do
+table. pack object
+CF get components we can basically say
+so get components returns um
+the 12 values wait I think yeah so it's
+yeah here we go so returns values XYZ
+then the rotation
+values
+and it it returns that like each value
+as a tuple duple whatever and it's just
+a long list of numbers and we can save
+numbers that's exactly what we want we
+can save numbers so we're going to store
+these in a table do pack so it'll take
+all of these like individual arguments
+and turn it into a table or array in
+this case and save it to cframe and we
+can actually save that to the database
+so that actually works great so when
+you're serializing something you just
+want to take all of the actual like
+components that are like raw like data
+values like you know primitive types
+like integers strings whatever and save
+that so if you're saving a color for
+example you can just save the RGB values
+where cframe be as obvious because like
+you know it's a bunch of different
+things but if you look at the
+documentation you can just see it's just
+a bunch of like values in a rotation
+Matrix and so like first off like
+vectors you just save the three Vector
+values or you can even save like the
+magnitude and direction I don't know you
+could do whatever you want for
+that but in this case this is all we
+need for cframe so this saves the
+rotation and the position just like that
+and so after we create the info we need
+to do table. inser data info so
+basically we're going through every
+object we're serializing the name and
+the cframe so we can later put it back
+in the game and we're putting it back
+into data and then at the end of it all
+we just return data there we go so
+that's actually the magic behind the
+serialization so now the rest of the
+stuff that we're going to be doing is
+like you know kind of defensive
+programming kind of getting all the
+things saved
+properly so let's go and first of all we
+got to get the plot manager so we're
+going to say local plot manager equals
+require
+fire script. parent. plot manager and
+now let's go fill out our save method so
+it may it may seem kind of weird to do
+save before load but like kind of
+logically makes sense just like for the
+purpose of this demonstration to save
+stuff before we load it because you
+can't load anything if it's not saved
+but let's first start by getting the
+plot so local plot equals plot
+manager. getet plot and this will take
+in the player which we can just send in
+again and so we obviously have to get a
+plot and if the plot doesn't exist or
+not plot is descendant of
+workspace then we got to return so
+basically if if our plot like if it
+fails there we go um if our plot fails
+um meaning
+like like the plot is actually like not
+in the world or just doesn't exist um we
+have to do the second check for exist of
+workspace just make sure it's actually
+in the world because there are some edge
+cases where this like might not be
+covered then we just abort early and
+also this is kind of an oversight
+actually when I was writing the script
+for this video which probably shouldn't
+be the case whenever you return early
+like this especially when you're
+decreasing a player's remaining value
+you also want
+to decrease it before you return in
+every situation so I just kind of copy
+and pasted this line here so we got to
+decrease it there as
+well and so now we're going to get the
+data and the data is going to be equal
+to the serialized plot so the plot is
+confirmed like it's good so we can
+serialize it and that's it so we just
+call that function and it's nice
+convenient that this serialized plot is
+a separate like local function because
+it's a it's a pure function meaning it's
+not dependent on its environment it just
+takes some values and turns it into more
+values and that's good that we can kind
+of abstract that
+away and so now after we serialize the
+plot we can just destroy
+it and then we can also go to the plot
+spawn pool so we can say local plot
+spawn pool at the top P require script.
+parent
+do spawn pool there we go and then down
+here we can below after we destroy the
+plot we can do plot spawn pool.
+return player so since the plot spawn
+pool doesn't really care about the plot
+just cares about the player who rents
+out the plot spawn we can just return
+that spot and it'll handle it for us
+which is great and
+now after the plot gets destroyed we
+need to actually save the stuff so we're
+going to say local success error
+message equals P call so PE call
+basically wraps a function so like if it
+errors like there won't be any issues so
+it's like the equivalent of like some
+try catch in other languages and stuff
+like that so
+we need to we need to here like actually
+save the value but we haven't defined
+our storage stuff yet so let's do local
+data store service equals game get
+service data store service and then
+we're going to say local plot store
+equals data store service get data
+store plot store okay so we have the
+plot store and this is just a key value
+data or key value pair data store so we
+set a key to a certain value the value
+can be like basically whatever we want
+that's like a primitive type so like
+integers strings tables stuff like that
+so that's what we're going to do so
+we're going to say plot store set async
+and we're using set async instead of
+update async or like any other method
+just because we don't really care what
+the data was we're just setting it in a
+actual production game you probably want
+to do update asnc because it takes into
+account what's there before in case
+stuff fails but this is fine for us so
+we're going to set async to the player.
+user ID as a key and the value is just
+going to be data so we're basically just
+saving this array of objects or not
+objects shoot that's JavaScript I've
+been coding too much JavaScript recently
+of tables that has a name and and ZF
+frame which is an array so we're
+basically just saving that in our data
+store underneath the player we're using
+the player. user ID so we can access it
+later once they join and we're using the
+user ID not the name because the user ID
+will not change the player can change
+your username but their data should stay
+the exact same
+so if not
+success then we're going to warn string
+and this will be good for debugging
+debugging purposes or warn error message
+I don't know why said string um but when
+when this is not successful the error
+message will be populated with the
+actual thing that went wrong and we're
+going to do that and notice how here
+player remaining comes after the saving
+stuff so we need to make sure this is
+done before we actually tell the rest of
+our code which I'll show you why this is
+important later that you can like return
+but here when we return early like we
+need to decrement the player the player
+remaining because like we don't want our
+code that'll be waiting for everyone to
+save to like hang forever if something
+fails okay now let's go to our load
+method and here it's going to be a
+similar story Just In
+Reverse so let's start off by saying
+local success data I spelled local wrong
+local
+success
+data is
+a array of object infos or a table of
+object infos equals P call
+function and then in here we're going to
+say return plot store get
+async player. user ID so basically since
+we set the player. user ID below and
+we're getting it here with just the
+player. user ID and we return it so when
+we return inside a PE call it populates
+the second argument or second return
+value so the first one is whether it's
+successful second is either the error if
+it went wrong or the data if you return
+it so it's going to look kind of funky
+but we're going to say if not
+success then warn data even though data
+and the like good case shouldn't
+actually be that but um
+but we have that and then we just return
+so and also again we're going to copy
+paste this up here and we need to
+increment the players remaining do value
+because like here because just like down
+here when we abort early we need to
+decrement here we need to increment
+because if we don't then it'll lead to
+some funky issues because the actual
+like the
+save won't go through through because
+it'll think there're zero players when
+they're actual one player yeah it'll be
+an issue so we have to do that pretty
+sure and then below that we're also
+going to
+need to actually check if
+not
+players
+get player by user ID and actually I
+don't have the player service okay up
+here we're going to say local players
+equals game get service players there we
+go and we have our players now and we're
+going to get player by by user ID
+player. user ID and then we're going to
+return again and again we need
+to we actually don't need to increment
+the players remaining do value because
+this is the case we're handling this
+case separately as well because this is
+the case where we actually load the
+players data but they leave before we
+can actually make the plot so this led
+to issu and I think some of my games and
+I think even the Tycoon series that I
+made where people would join and leave
+instantly but their plot would still be
+there because this data retrieval takes
+time and by in that time the player can
+just leave and so we obviously don't
+want to increment the players remaining
+out value if they're not there because
+this basically checks are they here if
+they're not here we don't care like
+we're leaving early because like that
+that could lead to a lot of issues and
+so we're definitely going to need that
+but after that okay we're chill like we
+can actually load the data let's do that
+so we say local plot equals plot manager
+do spawn plot so boom plots get spawned
+and we spawn that with the player and
+then we're say if data then and again
+this is another like defensive tactic
+because like we we need to know like if
+the data is there um also this audio
+generated text is actually sort of
+accurate but we're going to do it
+ourselves so we're going to say for
+blank object info and data do so we're
+going to go through everything in data
+we're going to say local object equal
+placeable objects well we need to get
+placeable objects first so say
+local placeable objects
+equals where is it is it in server
+storage no it's in replicated storage
+right yeah
+equals actually we're going to get
+replicated storage separately so we're
+going to say
+local replicated storage equals game get
+service replicated storage there we go
+and say local placeable objects equals
+rep storage
+dot or do placeable objects there you go
+so we have our placeable objects and we
+need to get the object so we have the
+name of the object so you say placeable
+objects brackets object info. name and
+then we're going to clone it and note
+how we're we're using the name so if you
+change the name of your objects in the
+middle of developing your game this will
+not work this will break you either have
+to do a migration or Define a special ID
+just like how a player has a user ID you
+could add an attribute to every object
+that that is an ID value and that will
+persist independent of the
+actual name but for our purposes like a
+name is just fine and like really it's
+all under the hood so if you name
+something wrong like just leave it
+because if it's saved in the database
+like it's it is a lot of work to do a
+migration so I would just leave
+it so we get the object and we're say
+local relative CF relative cframe equals
+cframe
+new and we're going to do table.
+unpack obje info. CF and note how we're
+using this type so it gives us autoc
+completion on the actual object info
+which is wonderful so that's that simple
+the dation is literally just unpacking
+the each individual like cframe array
+value and just putting it into a cframe
+because CF frame. new has an has an
+argument or has a Constructor I can yeah
+that takes all of the the values well
+this takes a Qui turning in here we go
+so this is the one that takes all the
+values that you saw earlier except in
+this case we're actually like building
+AC frame out of it so it just handles it
+like that so as long as we keep it in
+this like univ Universal number format
+like it'll all work out fine so now
+we're going to say object pivot
+2 plot get
+pivot to World space
+relative CF so basically now we have the
+relative CF we need to get the plots
+pill pivot and then get that in World
+space so like this relative CF is
+relative to the plot get we need to
+convert that to World space and then
+move it
+there and now we can say set object.
+parent equal to plot doobs and we're
+setting this after we pivot it because
+pivot like moving stuff like wallet in
+the world is more expensive performance-
+wise than just doing it after so pivot 2
+here just kind of like changes numbers
+and we actually parent it so it appears
+in the world
+and that should be most of our data
+serialization out of the
+way so one thing is is like we have a
+couple more sets before we can actually
+test this and if we were to test it now
+even if we enable API service actually
+let's do API Services now so let's go to
+security and you can click enable Studio
+access to API services and it says
+enable Studio access stuff such as data
+stores that's why we need to test this
+in Studio A lot of people like don't
+recommend to do this like you have like
+a actual place where you test it but for
+our purposes for this video it's
+perfectly fine so we're going to save
+that but even if we test it
+now we might not get stuff that's like
+good because when you like close out on
+Studio sometimes the game just shuts
+down early it doesn't wait for you to
+finish it doesn't wait for your data to
+save and that's where this player's
+remaining value is going to come in so
+we're going to to make a function so
+function plot
+storage. wait for Save and this is going
+to basically be a busy Loop so we're
+going to say while players
+remaining value is greater than zero do
+and we're going to do players
+[Music]
+remaining do changed weight so basically
+wall like so if there's one player left
+we're going to wait until this value is
+changed and we're going to assume it
+just decreases because everyone's going
+to get kicked out because the game the
+game is like hey like the place is
+closing down like everyone out and it'll
+be okay and it'll save it and wait and
+we'll save it and'll wait and we can
+actually go bind this to a function that
+will do that for us so let's actually
+bind our functions now so let's go into
+server and you'll note we have player
+added which goes to spawn plot for the
+plot manager and plot manag we can
+actually change that
+to our plot sort so local plot storage
+equal require script. parent. plot
+storage and basically we're going to
+say ler added we're going to connect
+plot storage. load because load
+also deals with
+the uh plot spawn so we're going to say
+and also we're going to say players
+removing connect plot storage. save so
+when they come in we load when they
+leave they save and another thing we're
+going to do is we're going to do game
+all and bind to close and we're going to
+bind the function that we just created
+lot storage. wait for save so as you can
+see in the little description it says
+binds a function to be called before the
+game gets shut down and it'll wait for
+it to finish so we can yield in this
+function which we're doing we're saying
+okay just wait until we're done and then
+you can shut down so the game will be
+like okay like I'll wait for you and
+it'll be like okay cool let's save
+everyone and let's like deal with it and
+that'll be great so fingers crossed
+everything works let's try it out
+who
+knows okay so we're in the
+game build stuff
+leave note how it took a second to to
+actually leave the game and we load in
+again there we go ladies and gentlemen
+will you look at that we have data
+storage I'm actually very surprised that
+worked because I was recording for this
+entire time I didn't check any my code
+but this works
+there might be edge cases I don't know
+like I've done this for a couple years
+but testing this stuff in production is
+hard especially when you're like me and
+you have no like popular games anymore
+so let me know if you run any into any
+issues but the the idea is there so
+basically to recap all we did is
+incorporating defensive programming and
+serialization stuff we were able to load
+the player data deal with it make sure
+that we only increment the players
+remaining when we want to because this
+value is used down here when we want to
+actually prevent the game from shutting
+down early and preventing people from
+saving because if if you do not have
+this wait for Save testing this would be
+hell because when you would leave the
+game it may save it may not save it's
+just a hit or miss and like that gave me
+so many headaches when I was dealing
+with that but using the play remaining
+value you can actually do that and also
+whenever you're dealing with stuff like
+set Ayn and get Ayn that actually block
+the thread you all you need to check the
+conditions after so in our case for Save
+is pretty simple but for our case here
+when we're like loading the data we have
+to check if the player is still there
+after the data is loaded and yeah so I
+really hope you enjoy this video this is
+probably one of the most this probably
+is the most useful video in this series
+like we're kind of building up to this
+so using this knowledge you should be
+able to make a system to save any number
+of arbitrary game data values that you
+need for your game so I really hope you
+enjoyed this video I really enjoyed
+making it make sure to let me know if
+you have any questions or suggestions
+but make sure to like And subscribe more
+suggestions also let me know if you want
+like another video where we talk about
+rotating deleting uh grid system because
+that's like pretty easy to implement
+it's kind of optional but just let me
+know I can do that it'll be quick but
+yeah hope you have a nice day and
+goodbye
+[Music]

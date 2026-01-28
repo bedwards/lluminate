@@ -1,0 +1,616 @@
+so we're back at it again with this
+placement object system tutorial thing
+and in this video following off the
+previous we added serialization make
+sure to watch that if you didn't but now
+we're going to deal with just some basic
+like laundry list items of just things
+to get done so first of all we can
+rotate objects now we can delete objects
+and then we can also cycle to different
+objects so this basically in this video
+you get you'll take everything that
+youve like the proof of concept that you
+had in the previous video and turn it
+into an actual workable system that you
+can use for a game or for anything that
+you want so I hope you are excited for
+that make sure to like the video if this
+is good if you like it subscribe to my
+channel for more videos comment any
+questions or suggestions and also join
+my Discord server I usually don't say
+that but I'll say it now and also I'm a
+little bit under the weather I well you
+can probably hear I sound like crap but
+don't worry the video still gets done um
+but I sound weird so but I'm fine like
+it's chill um but yeah so without
+further Ado let's get into the
+video so as you start on our laundry
+list of things to add to our plot system
+to make it you know a little bit more
+usable let's add rotation so the ability
+to press a key and rotate our object by
+like 90° so to start out with we're
+going
+to go to the new uh method or new
+function here where we we set our plot
+we set our preview and we're going to
+create a new value and call this
+rotation we're going to set rotation
+equal to zero so what we're going to do
+is every single frame or every sing yeah
+every single frame we're going to alter
+the previews appearance by this rotation
+so let's actually do that so down in
+our down in our render preview we have
+this CF equals CF frame. new cast.
+position well now we need to multiply
+this by CF frame dot angles 0 self.
+rotation 0 so what this will do is it'll
+rotate the Y so by by the way rotation I
+mean just like y rotation so that just
+means like rotating around its base um
+and you'll see what that means in a
+second if you want to add other
+rotations you can but this is just the
+the most used rotation that people use
+for like furniture and stuff so we just
+basically multiply this every single
+frame and since this is constant this is
+like dependent on these this will like
+output the same thing like pretty often
+so always so what will happen is this CF
+is just generated based off the position
+plus the
+rotation which is exactly what we want
+but obviously we need a method to
+actually rotate it so in right below our
+Tri Place block we're going to create a
+function client
+Placer rotate block and this will take
+take in just
+whatever the state and whatever we're
+using the underscores again just to say
+we don't care about that parameter and
+then we're going to do if input state or
+if
+State
+equals enum do userinput state. begin
+then we're going to self. rotation plus
+equals math. Pi so we're using uh math.
+Pi here here oh actually math up Pi / 2
+so the reason we're doing Pi if you're
+kind of confused because like rotation I
+thought it was like value you know 0 to
+360 we're using radians so when we do C
+frame angles this takes in a value of
+radians radians go from 0 to 2 pi so Pi
+I over 2 is just equal to 90° so this is
+the same thing as saying 90° and we
+don't have to like Loop it back around
+you may be thinking oh like why don't we
+go back to zero after we do like four
+rotations it's because if you rotate an
+object by like
+3 pi over no what is it it would be like
+5 pi over two or something like it'll
+it'll loop back around to where it would
+be when you would like reduce it so we
+can just like increment it infinitely
+which is pretty cool I mean I guess if
+you do it too much like you could lead
+to like a float overflow like that is
+way way out of the scope of this video
+so this should work just fine so now we
+have to actually bind it because we
+can't use it if it's not bound so we can
+just copy this bind action verbum
+here uh I apologize I'm a little sick
+but the video still gets made so we're
+going to do a
+local a local rotate
+rotate action and this will be equal
+to just rotate whatever we're just again
+we're defining the constant just so we
+don't make typos and we get autocomplete
+so we're going to bind action rotate
+action it's going to be a blank function
+where we pass in the arguments into
+self. rotate block and then we pass in
+the arguments and we end it and then we
+do false we don't want a touch button
+and we're going to do
+enom enom dokey code. R so it's just
+going to rotate around you could do one
+for forward one for backwards like for
+plus and minus but this is just this is
+easy it should be fine so that should be
+the entirety of rotation done but but
+but before we forget remember we bind
+action we also have to unbind action
+whenever you bind an action you always
+want to remember to unbind it so I
+almost forgot actually so we're going to
+do contact acction service unbind
+acction
+rotate action so again in Destroy
+whenever we destroy our client Placer we
+need to get rid of all those keybinds
+and that's what we're doing here so
+let's play
+this and now if we bring up our part and
+we can like place a couple and we press
+R it rotates cool and since we dealing
+with a table it only has like two
+rotations that it looks like but for
+like chairs and stuff like you know
+you'll be able to see all the rotations
+so rotation works pretty pretty well
+okay Next
+Step um oh also by the way if you're
+running into issues it could be because
+you got to make sure the studio access
+to API services on especially if you're
+using the last video because the plot
+manager won't work it'll just bail out
+early so just remember that okay and now
+next let's do deletion so deletion so
+object deletion involves some server
+code so let's actually start with that
+and let's go down the tree and the
+client so let's go into to the plot
+manager and we have a place function
+let's add a delete function so let's do
+function plot manager. delete do player
+which is the
+player and then object which is the
+instance yeah I guess instance is
+probably eh no I guess it would it would
+always be a base part um but we have
+object which is a part we're going to
+assume it's a part because the way we're
+going to get this on the client is by R
+casting so we're going to return a
+bullion whether or not it's successful
+so first of all we have to get the plot
+so local plot equals
+plots player. user ID so there we go we
+got the plot and so now we have to check
+if not plot so if the player doesn't
+have a plot or not object or and we're
+going to put this one on a new line oh
+well I created that so or not object and
+then we're going to create another or so
+or
+and then
+or no object is descendant of plot.
+objects then we're going to return false
+so these are this our guard claw or
+early return conditions so obviously if
+there's some malicious actor who doesn't
+send an object we're just going to bail
+out if they don't have a plot obviously
+they can't delete anything and then if
+the object they send is not a part of
+the plot objects they shouldn't be able
+to delete either so now we have to
+delete the object so you may be thinking
+okay let's just do object delete right
+but remember our objects our placeable
+objects it's a model with parts and also
+sometimes when you have Parts you may
+also have folders other sub models
+within the model so I want to find this
+top level table model without like
+deleting something underneath it so for
+example if table has a model in it
+called legs I don't to delete legs
+because you could just do okay find
+first ancestor which is a model and then
+do that that would not work for all
+cases so we're trying to make this as
+ubiquitous as possible so your designers
+or whoever is working on your objects
+can just like plug and play and not have
+to worry about a specific format so the
+way we're going to do that is using a
+quick little algorithm to search up the
+ancestors to find the object model so
+we're going to say local actual object
+equals object so this is our starting
+condition we're going to say while
+actual object object. par is not equal
+to plot.
+objects do and then each time we iterate
+through this we're going to say act
+actual objects equal to or actual object
+equal to act actual
+object find first ancestor which is a
+model so what this will do is we go
+through so let's say we start at this
+part here at the table it'll say Okay
+part equals actual objects so part.
+parent is equal to table which is not
+objects and and then we'll say Okay
+actual objects equal actual actual
+object find first ancestor which is a
+model it'll go up to the model level and
+then go from there now you could
+obviously just set actual object equal
+to actual object. parent which that
+would get the same thing done it's just
+this was probably a little bit quicker
+because I'm assuming find first ancester
+is optimized also probably written in
+C++ not Lua so this will be a little bit
+quicker than just manually traversing
+the entire tree so we can jump because
+we know the top level model has to be a
+model or at least in my implementation
+we're assuming that the very top level
+placeable object is a model if you want
+this to be a folder if you want this to
+be whatever then you would just do
+actual object apparent but this is how
+it should work so this should guarantee
+that if it's a descendant of plot.
+objects you will get it and this would
+actually work maybe if you just have a
+single part which is a placeable object
+because it would check actual object.
+parent is not equal to plot objects and
+that should work so it should should
+theoretically work for most things so
+now all we have to do is do actual
+object destroy but just remember if you
+run into issues with
+your destroying or deleting
+functionality and it's like not deleting
+the entire model make sure this group is
+correct this group of lines and then
+obviously after we destroy it we return
+true saying okay this is successful but
+this doesn't go to anything so let's go
+create a new remote function in
+replicated storage and this remote
+function is going to be called try
+delete as following the nameing
+convention of everything else and then
+we're going to go into a server and
+right below we right below we do like
+the on server invoke off for tri place
+we're going to do try delete but first
+we have to get it so local TR delete
+equals replicated storage. TR delete
+there we go so then we're going to do
+try delete do on server invoke equals
+plot
+manager. delete so and then autocomplete
+is beautiful that's great okay so now
+this is hooked up on the server side all
+the wiring is in place let's go to the
+client and first of all we have to get
+that remote event so we get Tri place
+here let's just honestly we can just
+copy paste Tri place that would honestly
+work so we got Tri Place well now this
+is try delete and then instead of
+replicated storage wait for Child Try
+place we're going to do replicated
+storage wait for Child Try delete there
+we go so now we have our TR delete and
+what we have to do next is go make our
+delete object function or method I guess
+since we're in a class right below our
+try or right right below our rotate
+block so we can just do function client
+Placer delete or I guess we do dry
+delete ack keeping in convention with
+everything else I'm going to take just
+the name we don't care about that the
+state and the object also don't care
+about that so now we do if State equals
+en. userinput state. begin
+then we want to do local cast equals
+cast Mouse and then if cast and cast.
+instance then we want to say local
+success equals try
+delete invoke
+server past. instance
+okay so what we're doing here is
+basically it's a standard input like
+collection thing and we get the cast
+obvious we defined this uh function
+earlier cast Mouse if you don't remember
+just does a simple rast symble wrapper
+and then we make sure that the thing it
+returns is actually there now our
+function or Tri delete could actually
+handle a nail instance but since we
+don't want to like send data to the
+server unnecessarily there's no point we
+might as well check it on the client um
+so now and then after that we get this
+try delete so we're getting success
+we're not going to do anything with this
+but the reason this is a remote function
+is so that the client can have some
+feedback to the user when they delete
+something and it doesn't work like pop a
+little message say like delete was
+unsuccessful or something just to let
+them know for my purposes I don't really
+care since this is just a little demo
+but it's here if you want it so you can
+say okay if success then we maybe change
+a color or like add some sound or
+something or if it's a failure we like
+you add like a sound like you know stuff
+like that so you could you could do that
+if you want and just remember it's there
+for you to do that okay so you know the
+routine we're going to go up to the top
+we're going to do context Action
+Service no that is continue not cont
+find action and then we need to get the
+delete delete action so we're say local
+delete action equals
+delete and we're going to do
+delete action and then we're going to
+send in the function do dot self delete
+try delete block there we go dot dot dot
+and false en. keycode dox now so I'm
+using X to actually delete the blocks um
+so most other games or at least a lot of
+the ones I see actually don't do this
+style of deletion most games just kind
+of do like okay switch to delete mode
+and you're able to click on a bunch of
+things I actually toyed with doing that
+for this series but if I'm completely
+honest it like it's a lot it makes
+things a lot Messier because you have to
+deal with a lot more State and handle a
+lot more State Transitions and that's
+just out of the scope out of this like
+little framework we have set up for
+client Placer but for the way we have it
+set up now this actually works really
+well and you can see the power of this
+kind of framework where we have a just a
+single class with all the stuff that
+gets uh created and then destroyed at
+the end of each you know B when you
+press B to like enable disable it it
+makes adding new features really really
+really simple because all you do is just
+add the function bind it and then unbind
+it that's literally it so obviously we
+need to do unbind at the and we're going
+to do delete action there we go so this
+should actually work just fine I think
+should be working let us see so we have
+our stuff there's a lot of tables here I
+press X it's gone it's gone and then
+since we since we just delete it
+actually the saving system should work
+just fine around that so you're able to
+delete stuff you're able to add stuff
+yeah it all works perfectly fine okay
+finally well yeah finally we can get to
+cycling objects so cycling objects by
+that I mean like switching from one
+object to another and we're just going
+to add that as like a simple EQ like key
+binding um so let's first create another
+object so I'm going to create a quick
+little table actually no we can make a
+chair it's going to look really bad you
+know you're not going to judge but it's
+going to exist and it's going to be
+beautiful and it's going to be a great
+demo so we have our table or this is a
+chair
+so this our chair it's a very sad chair
+takes it takes a lot of L's if if you
+get what I mean um so we're going to
+make sure the pivots on the
+bottom probably should have done this
+before the video but whatever and we're
+going to make sure everything's
+anchored Okay cool so now we can move
+this chair into our placeable objects
+just as a demo okay so now let's go to
+our our client player and we need
+to we need to go and create a function
+another function again the same method
+so if you want to add more features past
+what I'm showing you today like maybe a
+grid or something then you can just add
+this add another method and it'll get
+the job done and just bind it and
+that'll be it so we do client player
+cycle object this will take in a state
+with the underscores as always and if
+State equals Eno user input State again
+you y yada yada you guys have seen this
+a 100 times first of all we're going to
+get objects we're say local objects
+equals
+placeable placeable objects get children
+so we're going to get all the children
+this will return an array of the objects
+that we that we can place so we're going
+to say local
+Direction
+equals if object.
+keycode equals enom dokey code. e then
+one else negative 1 so this if then else
+expression oh we actually have to use
+the object crap so up here in state and
+then after State we're going to put a
+object which is the input object which
+is where we get the key code sorry I a
+little misunderstanding on my part but
+we use this if else expression to say
+okay if they press e then they get one
+if they press Q they'll get negative 1
+so it'll kind of tell them which
+direction or it'll tell our script it
+won't tell them which direction the like
+the cycle should go like which next
+object we should choose but right now we
+actually need to figure out like what
+the index should be so we have a preview
+right but we need to keep track of a
+preview index so we're going to say
+preview index and this is back at the
+top in the next block preview index will
+be equal to
+one um or not the next block in the new
+block so we set preview index equal to
+one and
+so now when we prepare the preview
+initiate render preview we prepare
+preview model we want to actually do
+placeable
+objects get
+children one or self thought preview
+index so this this this is a better way
+of writing our initiate render preview
+and it'll always give you one I mean all
+I always give you the first one so in
+our case it would probably be the table
+it might be the chair since it's
+alphabetically higher I don't really
+know how it's organized how the children
+organized when it's returned but we'll
+just it'll give you the same thing every
+single time and so now when we want to
+actually augment that preview index we
+can so right below we get the direction
+we can say self. preview
+index equals self. preview
+index minus one plus Direction and then
+after the parentheses we can do mod or
+like percent sign the number of objects
+plus one now this is like this is wacky
+bro like like what is going on here this
+look me some trial error to get like I
+didn't just like say okay like we're
+going to do this we're going to write
+this um it also doesn't help that Lua is
+one b Bas like one index based this made
+this a little bit more convoluted but
+basically what this does is when we so
+we have the preview index and we add the
+direction but if the direction overflows
+so like let's say we have two objects
+and the index goes to three we want it
+to wrap back around to one so what this
+does is we basically say okay we take
+the pre so let's let's actually take
+that CL so it's three so the the value
+is three but we only have two objects so
+it's three minus or so shelf. prev index
+would be two in this case so it' be 2
+minus one which is 1 plus Direction
+which would be two and then we do mod
+objects number objects which is two so
+this go back to zero plus 1 which would
+be one so if we're at index if we're at
+prev index two and our direction is one
+so our our Target prev index is three
+then it'll wrap back around to one and
+that's that's exactly what we want so
+now we can after we get the after we
+calculate the new preview index we can
+just say
+self prare
+view model with
+objects with objects and then we can
+just self. preview index so we just call
+the prepare preview model and you
+remember when we wrote prepare prepare
+preview model we made it so it would
+destroy the previous preview so that
+just does it on its own and it it sets
+it all up nice and pry and that's really
+all we need now I think like now that
+they thinking about it you might run
+into issues with the get children
+because get children might I'm not sure
+if it's deterministic and what what it
+returns like the order of children so
+you may need to manually Define a list
+of of the placeable objects to cycle
+through but for my cases in my testing
+this has worked just fine but just be
+aware of that I think it should work
+though so now we just have to add now we
+have to go through the the steps of
+binding it so again nothing new here
+context Action
+Service bind action and we need to do
+cycle
+action cycle
+action cycle there we
+go cycle action function dot dot dot
+so cycle object dot dot and false and
+then en. key code. e.keycode doq so
+remember to put both e and Q in the list
+of
+the key keys that we send so they can
+both be used and then we need to
+remember to unbind it of
+course text Action Service unbind action
+cycle action there we go okay so let's
+test this out should should work
+literally just fine like there's nothing
+special here so we have our object it's
+our chair this chair looks really dumb
+and then we can press e cycle it press e
+cycle it boom boom boom press right now
+since there's only two objects e and Q
+doesn't really do anything different but
+trust me I tested this with three
+objects it does work so we can have so
+now using everything that we created so
+we can first delete this because I put
+it in the wrong spot so we have this
+table here create a chair here rotate
+this around create another chair and
+then using all the stuff that we
+implemented today we can actually create
+a nice little dinner
+setup there we go
+so that's great so now we have our
+little table our chair and everything
+works fine you're able to delete root
+and do other stuff so I think with that
+this formally ends the placement object
+system series now if you want to see a
+grid I can I can do a quick little video
+on that I mean it's like it's pretty
+easy to to implement like it's just
+getting a grid function find like go on
+scripting help or something you can find
+that but I really hope you enjoy this
+series let me know if you have any more
+suggestions for future videos that I
+could add to it but I think right now
+this is probably all I'm going to do
+depending on what suggestions I get but
+I really hope you enjoyed it let me know
+of any future series you want to make or
+you want me to make and any questions so
+like the video If you enjoyed it make
+sure to subscribe for future videos and
+hopefully I'll have a little bit more
+time very soon to make a little bit more
+videos but I don't know I I don't know
+about that no promises and with that I
+hope you have a nice day and goodbye
+[Music]

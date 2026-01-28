@@ -1,0 +1,734 @@
+Hey folks, welcome back. So, I saw this
+on Reddit today from present policy
+creating a resonance suppressor. I
+watched a recent YouTube tutorial from
+Virtual Riot where he uses an envelope
+follower to create a sort of mini
+resonance suppressor on a live. This is
+basically my uh my curse, my life curse
+that I have to recreate every possible
+Ableton Live tutorial in Bitwig Studio
+and no one cares for my channel in the
+first place because I showed this a few
+years ago [laughter]
+in Bitwig Studio already. It's very easy
+to do in Bitwig because we have all
+these modulators. But it's it's okay.
+It's not a problem for me. That's how it
+is, right? These are bigger channels and
+they are more spread around in the
+YouTube algorithm. So no problem. Um so
+in able life you have to use your an EQ
+to filter out multiple signals. You use
+one signal right for the input as uh or
+as an input for the envelope follow on a
+second channel and so on. So in Bitwig
+it's a bit easier. Uh so here we have a
+drum loop [music]
+and all we have to do is we use random
+EQ. For instance, we can use the EQ5
+here. And then instead of creating
+multiple um copies of the same channel,
+we can just use an audio side chain
+modulator. And the audio side chain
+modulator is nothing else than just an
+envelope follower here with the rise and
+fall time and also on top low cut and a
+high cut. So we can filter out already
+uh what we want to analyze. And here we
+maybe focus on the 1k to 10k region,
+right? [music] And we get here an
+envelope follower signal on the left
+side as you can see. And we can then use
+this to pull down here the fourth note
+of the EQ.
+And it just reduces the frequency.
+[music]
+And we can influence here the amount.
+[music]
+And also interestingly if you select
+here the modulator in the left side of
+bitwig we have here this modulation list
+you can see here this is our modulation
+and we can change um what's the name
+here uh the modulation curve uh so at
+the moment it's linear flat response but
+you can also change it to exponential
+and also logarithmic so it has um a
+different feel to it. So with uh
+exponential you can see nothing really
+happens here. Just a bit of reduction
+there. And we can increase here the
+loudness or the gain of the audio side
+chain. So we get more signal into the
+analyzer.
+[music]
+And then it reacts more drastically.
+Then we reduce here the gain or the
+amount of the modulation.
+[music]
+[music]
+So this sounds more like a real
+compressor in my opinion. Uh we can also
+expand [music]
+right going here into the negative range
+with our amount. [music]
+So the more frequencies there are here
+at the top, the more we push it up. So
+it's exactly the opposite thing we want
+to do. [music]
+We can also switch this to logarithmic.
+So we have here in the first place a lot
+of gain reduction. [music]
+So it's more sensible to audio signals
+in the first place. [music]
+Maybe the modulation is too much here.
+We go to maybe
+only 3dB,
+[music]
+right? So, you can see it reacts more
+sensible to audio uh input. So, you can
+tweak it in all kinds of directions. uh
+it doesn't really matter or it only
+matters what kind of taste you have or
+what you want to do with your uh process
+uh with your audio uh resonance
+suppressor. It really depends on your
+sound. So you can tweak it in all kinds
+of directions. We can also just
+duplicate here the audio side chain
+modulator and focus on a completely
+different uh frequency range from 100 to
+I don't know what this is here uh 300
+htz
+uh and then completely
+change here the modulation to
+um a gain reduction here on the third
+band [music]
+on the second one.
+You can see it reacts differently to
+different inputs on different uh
+frequency uh regions. And you can do
+this to
+to as many nodes you want inside of an
+EQ. You can add as many modulators as
+you want in Bitwig. There's no
+limitation, which gives you unlimited
+options, of course, right? You can also
+do this not only on the EQ5, you can
+also do this on the EQ plus. Of course,
+it's the same
+uh the same thing here. Audio side chain
+modulator
+and then uh add here a note 1k.
+Move this here to 1k
+and then um make your gain reduction.
+[music]
+>> [music]
+>> very easy to set up, very easy to do,
+and very straightforward. You don't need
+to have any um yeah, ideas of how EQs
+work or anything like this. You just set
+it up and it works. You can also use
+this to um make room for other stuff. So
+you can for instance here select as an
+side chain input a kick drum from
+another track and say here this is my
+baseline. I want to remove the bass
+fundamental frequency here every time
+the kick drunk comes in. Um
+maybe I can do this here quickly. Um so
+we have here kick drum
+with the low frequency of course and
+then we select the kick drum output and
+then every time the kick drum plays
+[music]
+we reduce here the frequency
+um that's okay.
+[music]
+So also possible. So you can use this as
+a side chain, as a track spacer, as a
+noise suppression or uh resonance
+suppressor or whatever you want to call
+it. And it just works straight out of
+the box uh with modulators in Pitwick
+Studio. Another thing you can do instead
+of using a Q, you can also use here the
+spectral device called loudsplit. And
+loudsplit just takes an audio input and
+splits it up into three parts. The loud
+part, the mid part, and the quiet part.
+It sounds like this here. Uh
+this [music] is the loud part.
+So everything that peaks above this
+threshold here gets uh is pushed into
+the loud box here in the loud chain.
+[music] So this is the mid part. So
+everything that's not peing above the
+red line. [music]
+And then the quiet part. This is the
+noisy part. So basically uh if you just
+mute the quiet part, it's a gate, a
+spectral gate. So everything that's here
+down here is just muted.
+[music]
+So you can remove noise if you want to.
+Um then you can also do um like muting
+here the loud part.
+>> [music]
+>> So everything that's peing that's very
+loud is just completely removed in terms
+of bin the frequency doesn't exist
+anymore
+which is maybe not what you want because
+then you remove certain snare
+fundamentals here of course completely
+you completely remove it [music]
+right all these red frequencies here you
+can see on the analyzer are completely
+removed. Yeah, just non-existent.
+So instead of doing this uh muting here
+the loud channel, all what we can do is
+we can just pull down the volume a bit.
+So you go here to you you set this up to
+a certain point so we have some of the
+loud parts peing above the line
+[music]
+and then you just pull it down by 2 dB
+or 3 dB or 1 dB,
+right? [music]
+And then the loud parts are just a bit
+quieter. They are not that upfront
+anymore. So it's already a noise
+suppressor here uh focused on the loud
+parts. We also have here a tilt feature.
+We can tilt the spectrum. I have it
+usually on plus 3 dB. So this equals to
+a pink noise curve. But you can also say
+I want to have 0 dB. [music] So with
+this we have a low end peaking very
+early above the line here. [music]
+Or we can go to 60 dB here. So then we
+only have here the top parts
+the harsh the harshness top end peaking
+uh above the loudness thing here. So we
+can focus on this area
+and just pull it down a bit in volume
+minus 5 dB. So this is more like a dser.
+[music]
+[music]
+So this is what we pull down.
+[music]
+So instead of using an EQ here, you use
+a spectral device and split it up into
+different parts and then you pull down
+the parts that you don't like in volume
+or you completely remove it and it has
+the same effect more or less. Uh but
+yeah, this is not really dynamic because
+it pulls down all the bins by equal
+amounts. So like um minus 5 dB here,
+right? So everything that's above the
+line gets pulled down by minus 5 dB. But
+usually audio signals are dynamic. So
+they have different loudness levels,
+right? And they're peing at different
+positions in time by different amounts.
+So it's not really reactive to that. Um,
+so yeah, you can combine this here with
+the EQ meth method I showed you in the
+beginning. So we put here in the loud
+part, we put here an EQ5.
+[music] And you can see here in this EQ
+because we put this here on the loud
+chain, we only have here the top part in
+the analyzer. And here you can use then
+again an audio side chain modulator and
+pull down here the top end
+uh by different amounts in different
+points in time.
+So 1k to 10k here.
+Maybe we disable this.
+Yeah, something like this.
+So this is now more reactive. You can
+also use your multiple audio uh side
+chain modulators of course for different
+parts here if you want to do that. And
+in my opinion maybe do a preset for
+that. Um you don't want to set this up
+all the time every time. just make a
+preset for harsh frequencies or for DSR
+that you really like or for your voice
+or for your vocals and then you just
+recall it every time and you have it
+ready to go instead of you know building
+this uh chain here every time from from
+scratch.
+Um another idea I already showed in some
+of my videos is that you can use here
+instead of EQ5 you can use um what's the
+name? EQ+.
+So the EQ+ is interesting in that sense
+that we have some options here on the
+left side in the inspector. You can see
+we have here reference inputs. We can
+use a second signal and overlay it on
+the spectrum analyzer here to see what's
+going on on a different track on a
+different channel. Uh but here we can
+use it um to analyze what's going on
+inside the loudsplit. So in the louds
+split here, I usually just put the tool
+device in the loud chain here and then I
+can use on EQ+ the reference input here
+and go to the same channel loudsp chains
+loud tool out and I get basically as an
+overlay here in purple what's going on
+or actually only the frequency content
+that's peaking or leaking above the
+threshold here of this line. Right? So
+what you can do with this is you can uh
+decide here to go for a 3dB per octave
+tilt.
+Uh then pull down here this threshold
+for the loud part until some of the
+frequencies are leaking through. And you
+can see this here in purple. We have a
+lot of content here around 200k and some
+content around 1k and one here above 10k
+which is completely fine. Uh but then
+you can use this basically to say, "Oh,
+I have to EQ here something. I have to
+EQ here and maybe I need to EQ here
+because here are the parts that are
+actually peing above my pink noise curve
+or this 3dB per octave curve here,
+right? But the problem here is you can
+EQ as as much as you want. the purple
+line or overlay stays because the
+loudsplit here in front doesn't get any
+info about what you do in this EQ here
+after the loudsplit. So, um you can do
+something funny in Bitwig. You can
+actually drag this EQ plus into the
+prefx chain of the loudsplit device.
+uh which then the loud split gets the
+information what's actually eqed here in
+this EQ plus and then uh we get the
+information from the loud chain as an
+overlay which means we can now EQ here
+out certain parts and then you can see
+the purple overlay goes away in this
+part because we just EQ this out or we
+reduce the gain for this frequency which
+then not leaks above the threshold here
+of this red line anymore which then is
+not used as an overlay in this EQ plus.
+I hope this makes sense. Uh so we have a
+visual information about where we need
+to EQ something maybe.
+Um and you can also get visual
+information if you actually EQed enough
+so it's not leaking above um the
+threshold line. And you can also tweak
+this here with the rise and fall times
+of the loud split. So maybe go to eight
+here. Fulltime eight. So it's not, you
+know, giving you information for every
+bin that's shortly peing above the
+threshold only for things that are long
+for a longer time above above the
+threshold. So um yeah, actually what you
+want to EQ out. So here this kind of
+stuff, this around 200 Hz. There's
+always something around 200 Hz, a
+frequency that nobody likes.
+And also you have some harsh
+frequencies. And also here you can
+combine this with my trick in the
+beginning. Use here an audio side chain
+modulator
+and react to this frequency content here
+above
+uh 1k or around 10k
+and then pull down here the frequency
+note
+something like this.
+Yeah, that's okay.
+So, you have all kinds of options and
+possibilities in Bitwig uh where you can
+combine devices and tricks and
+modulators to get this kind of um idea
+out of the way or you can solve it in
+multiple different ways and also it
+everything has a different sound to it.
+So maybe you don't like the spectral
+sound of the loudspeit. So you can use
+the EQ. If you don't like the EQ, then
+you can use the loudsp. Okay. So these
+are the basic native uh things you can
+do in Bitwick here. Uh there are
+probably more options. Um something like
+um I showed you I think in the
+uh in some of the recent videos. So we
+can use here let's say an filter plus
+device which is also just an EQ
+uh more or less we don't need to uh the
+distortion device here but we can enable
+the filter and we can use here a notch
+right and I want to maybe use an EQ
+curve analyzer so you can see what's
+going on
+let's clone this um
+so here in the EQ curve analyzer you can
+see it's a notch filter
+We completely remove your frequency.
+Can change the frequency of course. Uh
+and then you can pull down the mix of
+this filter plus device. And this gives
+you the gain reduction.
+And here we can do the same thing again.
+We use an uh what's the name? Audio side
+chain modulator.
+And we use here the
+So instead of dialing this in your
+manually, we can go down with the low
+pass and with the highp pass here
+completely down to 20 hertz.
+20 hertz. Then we use a macro knob here
+and modulate this by 120 semmitones. So
+the the low cut and the high cut. So we
+can move this around.
+And we also start here with the with the
+notch filter by 20 hertz. And then we go
+up here by also
+120 semmit tones. So we end up in the
+same space. Right? So now we have one
+macro knob where we can change the audio
+side chain um focus frequency or the
+band pass frequency. So we analyze the
+signal and then we have at the same time
+also here the notch filter also at the
+same position in time. Right? So we can
+change both these things at the same
+time. Um and then we use more or less
+here
+uh the envelope follower to modulate the
+mix.
+So, every time we get the frequency
+there,
+uh,
+it's it's probably not showing here
+because it's not enough.
+Yeah, but you can see it here.
+Yeah. So, let's remove here the EQ
+analyzer and use the drums again.
+Um,
+don't need the input here. So we can
+focus here around 1k 1 kohz and you can
+see it the audio envelope or the the
+audio side chain envelope here reacts to
+the audio input and then it brings in
+here the mix which then brings in the
+notch which reduces the frequencies at
+this position. So this is also something
+you can do if you don't want to use the
+uh EQ for that. You can just use the
+filter plus device and the mix knob to
+bring in actually um gain reduction in a
+certain frequency area. So this is also
+here.
+Yeah, I would say a noise suppressor or
+res resonance suppressor or DSR or
+however you want to call it. So yeah,
+this also works too. Okay. And then
+there's another way that's the nerdy
+way. And the nerdy way is maybe so nerdy
+that you maybe don't want to watch the
+video until the end because it involves
+the FX grid of Bitwig Studio. And I
+already made a video about this here uh
+a few weeks or maybe a month ago about
+FFT. Um this is not really FFT but it
+goes into the same direction. So what we
+want to do is we actually want to use a
+sign oscillator to figure out uh if
+there is frequency content in a certain
+area and we can use here the sign
+oscillator
+and we want to feed this here pitch and
+I use here this frequency to pitch
+module right and feed this into the
+pitch input. also disable here this one
+because we don't want to use the
+keyboard to change the frequency and
+then we can use a constant
+and we switch this uh here from hertz to
+kilohz. So now we can say this is 1
+kilohz and it gives us gives us the
+right pitch for 1 kohz for the sign
+oscillator.
+Okay. So now we have a sign oscillator
+playing exactly at the pitch of 1 kohz.
+We can also see this here in the
+spectrum analyzer.
+Right. 1 kilohz sign very yeah nothing
+special. Uh so what we want to do with
+sign is we want to use a dome filter
+and we split the signal into two uh yeah
+two sine waves a real signal and an im
+imag imaginary signal. So the thing
+here, this is the normal sine wave and
+the imaginary signal is the same sine
+wave just rotated by 90°.
+Um, you can see this by using an
+oscilloscope.
+Um, maybe I use can I use this slow? No.
+What's better?
+Yeah, you can see this maybe here. And
+then we have this one here. And it's
+exactly the opposite way. Maybe use a
+trigger to stop the
+Can I do this here? Maybe. Maybe use
+need to use a button here. It's probably
+not working in the
+in the pitch mode.
+Yeah, that's this is too fast. So, the
+frequency is too high. Of course, it
+doesn't matter, but you have to trust
+me. So, this is just the same sine wave
+rotated by 90°.
+Okay. So then we uh try to um bring in
+here the real signal because we just
+multiply
+our signal with the real signal and we
+also multiply our signal with the
+imaginary signal. Um yeah that's that's
+actually something you have to do. You
+have to trust me on that. Um, then we
+need the filter. And it doesn't really
+matter what kind of filter you use, but
+all of these filters have different
+outcomes a little bit. So, um, I
+starting here with the SVF filter.
+Uh, we pull down here the pitch and we
+also go to C3 and also we pull down here
+the resonance. So we filter the first
+signal and we also filter uh the second
+uh signal here and then we multiply this
+again.
+Multiply this multiply the second signal
+and we multiply this here again with the
+imaginary signal and here at the top
+also with the real part and then we just
+add this together. I showed this in my
+other video about FFT, how to do or very
+basic, it's not really FFT or it's more
+like DFT
+uh in the grid. And I I think I
+explained it a bit more what I do and
+why I do it. Uh yeah, but here I just
+want to show you basically this is the
+uh the problem is we have a sine wave
+and the sine wave has a phase, right?
+And then we have also here our audio
+signal. And the audio signal probably
+has some frequency content at 1k and
+which is represented of course as a sine
+wave at this position. But the sine wave
+has a different phase and we don't know
+the phase. We so we have to figure out
+basically what is the phase of this
+audio signal of of this frequency of
+this audio signal at this position. Uh
+and it's not really possible. So what we
+do is we use a sine wave an idial sine
+wave where we where we know the phase
+and then we rotate the face by 90° and
+then we figure out uh how much the
+signals actually um canceling each other
+out and dependent on this cancellation
+of how much you cancel something out we
+can figure out how much we are um
+different in terms of phase if we are
+actually have a positive or negative
+phase shift.
+You can make this out basically with the
+volume or with the gain reduction you
+get from the cancellation where you are
+in the position of the phase. So this is
+the idea behind this here right. So we
+uh multiply the signal and then we get
+some certain magnitude out of it and we
+can figure out if we actually hit
+exactly the phase of the audio signal or
+if we are different or if we have a
+difference. Okay. So um now that we have
+this here, we can actually just subtract
+um this signal here uh from our real
+audio signal. So now
+let me show you this here with an EQ
+analyzer, EQ curve analyzer. That's
+actually the best part or the the best
+way of showing you what's going on.
+Uh so now you can see we have a notch or
+we made a notch filter with this.
+It it looks weird but it's exactly like
+that. So we have a sine wave. We can
+change the frequency of the sine wave
+here which changes of course the
+frequency of the notch. So we can say at
+2 kohz we want to filter something out.
+And you can see it's exactly at 2 kohz.
+Um, and then we have here these kind of
+dips or like resonances around the notch
+frequency. And this is what you can
+change actually with the filters here.
+So we use a constant again. And we use
+this constant to
+change the frequency of the low pass
+here. Right?
+Turn this all the way up. And then we go
+down to 0.1 maybe something like this.
+So the trick here is to use the constant
+for the filter because the filter only
+goes down to 20 hertz which is not low
+enough. We need to go lower maybe to 10
+hertz or 5 htz. And you can do this here
+with a constant uh going into these uh
+modulation inputs here and then use very
+low numbers. You can really filter out a
+lot of stuff. You can see it gets
+narrower and narrower.
+Um,
+this kind of notch filter. And then here
+these kind of bumps, these resonant
+bumps, we can remove. I I found it out
+by using here a low pass letter filter
+instead of this SVF and then switch this
+to to six uh six
+um 60 dB per octave. What's What is it?
+Um
+yeah it's the steepness of of course.
+Yeah. So we can get rid of these uh
+bumps here by just using the six option
+here.
+Then we can make this narrow or wider.
+Um and also if you want to go down to
+let's say um
+0.08
+is 80 htz
+right? You can see here it's more or
+less like um yeah low cut but we want to
+have a dip. We want to have a notch. So
+we have to make the filter lower here.
+Yeah. Get this kind of dip here at
+exactly
+80 Hz. It's perfectly 80 Hz.
+Um so yeah this is also possibility. And
+of course uh we can add here certain
+macros
+um
+to change maybe the frequency. Maybe we
+want to go to 60 kHz. That's the highest
+frequency here. Then we use an amount or
+attenuate here after the constant
+and we modulate this. And now we can
+change the frequency.
+It's not perfect. We probably want to
+use also uh
+exponential maybe.
+Yeah, that's better.
+And then you probably want to use or
+change the constant here for lower
+frequencies differently to higher up
+frequencies. So we can use maybe a
+blend.
+So lower frequencies are here
+and higher frequencies
+are maybe not that
+not that narrow. So maybe something like
+this. Yeah. And then use the amount knob
+here for the blend. So we can change
+here the uh lowass filter frequency.
+Yeah. Cool. If you want to go lower here
+in volume or in notch like it goes only
+to minus 6 dB, it's probably because we
+are not hitting the frequency completely
+right. There's maybe an offset. Um, so
+what you can do here is use maybe a gain
+for that.
+Then increase it again a bit more and
+you get more notch, more gain reduction,
+right?
+Pretty cool, huh?
+It also kind of rocks here with this
+with the sound.
+[music]
+[music]
+Yeah, it's maybe not wide enough to hear
+it perfectly. It's always too It's too
+narrow.
+So, let's go down here and maybe make
+this a bit wider.
+Let's go here. Make it a bit wider.
+Okay, let's listen to this.
+[music]
+[music]
+Yeah, basically your own notch filter
+inside of the grid. Uh, and yeah, this
+changes the face sadly. So, you have
+some face options here. It's not It's
+more like an experiment. It's probably
+nothing you want want to use on an audio
+track. Maybe as an audio effect. Uh what
+you also can do is you can instead of
+subtracting here the signal from the
+audio signal, you can add it to the
+signal. So you get the bump. So it's
+more like an um yeah peak EQ. So you can
+push certain frequencies here by a
+certain amount.
+Uh let's try this.
+>> [music]
+>> And then you add an attenuate here.
+You can change. Oh, not that.
+Yeah. And you can make this to an amount
+knob.
+>> [music]
+>> Right. And then you can change how much
+you want to push certain frequencies
+here. So it's basically your own EQ
+[laughter]
+in a in a very complicated way. I mean
+that's that's the fun part of Pitwick.
+So this is also possible way here. And
+then you have to maybe bring here also
+an an envelope follower.
+And then you can analyze here the signal
+what's going in. And then you have to
+you know make some changes here for the
+ratio how much you want to reduce the
+frequency and then you can modulate it
+attenuate or the gain or whatever you
+want to do. I don't know. So this is
+just a way of creating a very narrow
+notch filter. Instead of using uh the
+the basic um notch filter of Bitwick
+Studio uh or an EQ, you can use
+basically this. So it's very narrow and
+it's very experimental and it's very
+fun. So this is my uh video on um
+resonance suppression
+or how you can do it in Bitwig with
+native native tools. I think the first
+first one is the best one because it's
+very easy, very straightforward, and it
+just it just works. Um, but this one is
+fun, too. Okay, let me know what you
+think in the comments down below. Uh,
+give me a like. Merry Christmas, and I
+hope to see you soon. Maybe I do a
+stream. I don't know. Probably not.
+Maybe. Okay, thanks for watching. See
+you next time. Bye.

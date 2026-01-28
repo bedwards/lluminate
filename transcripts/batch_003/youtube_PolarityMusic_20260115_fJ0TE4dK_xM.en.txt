@@ -1,0 +1,885 @@
+Okay, so I need a new video on my
+channel. That's the that's the mission
+for today. So I thought we just do some
+music in Bitic Studio 6. Currently beta
+12. It's still in beta. I think it still
+needs some time, but they also
+implemented some nice things in beta 12,
+which is the automation. It's a lot
+quicker now. They reduced kind of the
+smoothing and you can use now the
+automation for shaping sounds much much
+better. Maybe I show you show you this
+later. Anyway, so I want to do music in
+Bitwig Studio 6 and I want to create a
+lot of sounds from scratch. Maybe I use
+some sounds for the high hat sample or I
+use samples for high hats, I don't know.
+Um, so yeah, I want to start here maybe
+by recording my voice. And I use here my
+microphone that you can hear at the
+moment. This that's the microphone. And
+I want to record my voice. So, I'm using
+um let me see. I use the rolling sampler
+to record sounds and I want to use the
+loud split so I can reduce here or
+remove all the noise.
+And I want to use maybe
+um my autoleer so I can bring all the
+sounds to an equal level here. Right.
+You can see it's now much much louder uh
+with the threshold. Nice.
+Maybe a bit. Yeah. Not too much here.
+Something like this. Yeah, that's
+better. Um maybe I use here, what's the
+name? Auto pitch from Meldda.
+Uh this one maybe I use here C
+A minor or C major. It doesn't really
+matter.
+Uh maybe C minor.
+Yeah, that's better. Uh, and then we
+record some v vocals. Um, at least
+that's that's the idea. It's actually a
+bit distorted here. Maybe I go down.
+Hello. Hello. Hello. Test. One, two,
+three. Get to the chopper. [laughter]
+I mean, it's perfect, right? Um, so we
+just take this here and put this into
+the sampler.
+U maybe we use this later on here. So I
+disabled this
+um called recording or something like
+that. So we have this here in the
+sampler. Let's see how this sounds.
+Oh, I almost hit a note right there, but
+it's a little bit uh, you know, freaking
+out here, but it's okay. Let's detect
+the root key. It's G3 for some reason.
+Okay. Uh, on the master, we put your
+peak limiter so no one is going to kill
+me in the comments. Um, and then you put
+some reverb on it, right? Why not? super
+massive.
+I want to make it super massive. And
+maybe I use the band pass here with the
+key tracking on 100%.
+And this on the root frequency C3 and a
+bit of resonance.
+And you want to loop it probably
+the last part here. and a bit of uh
+fading.
+[music]
+Kind of cool.
+Maybe not super cool, but kind of cool.
+Bit of warping. Uh so maybe we create
+here
+a clip 85 BPM. We want to loop this.
+We start here on D# sharp.
+Actually, people get mad when I use
+something different than D# minor. Now,
+[laughter]
+it's quite the opposite. When I started
+this channel, everyone, hey, why do you
+use D# minor all the time? Now it's
+like, oh, you haven't used D# minor.
+What's going on? Are you sick? Polarity.
+Uh maybe go on to um onto the dominant
+here
+[music]
+just to have some some kind of pedal
+sound or pedal tone in the background.
+You can work with
+[music]
+[music]
+[music]
+want to filter this probably. Um, so use
+a Pro Q4.
+They released some kind of uh compressor
+today, right? I thought to make a video
+on it, but
+yeah, [music] I
+a lot of people making videos on this,
+so why should I do another video?
+[music]
+I don't need the views.
+[music]
+Uh, maybe I combine this.
+[music]
+Maybe I'll combine this here with the
+saw
+uh with the polymer.
+I need to have an ADSR here.
+And we need a bit of volume fluctuation.
+Let's use a randomizer here.
+also
+[music]
+kind of cool but not really cool.
+Uh maybe I can bring in some bit of
+texture here.
+Um
+I have my textures
+preset.
+Um,
+textures [music] 1.1. Okay,
+let's use this.
+Oh, no. It's not it's it's the wrong
+one. [music]
+Uh, textures.
+[music]
+Uh, no, it's probably this one here.
+Yeah.
+Okay. Okay. So, we can select just some
+kind of texture.
+>> [music]
+[music]
+[music]
+[music]
+>> Uh, what's the name? Slow machine.
+>> [music]
+>> Uh let's see how it sounds before uh in
+front of the reverb.
+>> [music]
+[music]
+[music]
+[music]
+[music]
+>> That's a bit too static.
+[music]
+LFO and we use LFO just to change the
+volume here.
+[music]
+>> [music]
+>> That's better. So on that we just use uh
+piano tech maybe the new version.
+[music]
+Um,
+[music]
+let's use felt too.
+And we want to have a nice reverb on
+that.
+[music]
+Let's see how this sounds.
+[music]
+Um,
+[music]
+[music]
+[music]
+maybe we do something like this.
+Uh, I record it here and then I use
+um the settings
+uh settings and post play and then we
+record for eight bars.
+Okay, so we record for eight bars here
+in the clip launcher and then it stops
+recording and then it just plays back
+what we just recorded. That's usually
+how I record my my melodies.
+So, I don't need to, you know, um have
+the perfect timing for stopping
+recording.
+>> [music]
+[music]
+>> Maybe something like this.
+Just make it very very simple.
+So maybe we increase here the
+velocity a bit. It's maxing out. And
+then we can change the velocity uh
+distribution.
+Something like this. Okay.
+Okay. Let's find some kind of bass. So I
+also do here a very simple one. Like
+simple sounds. I like to stack simple
+sounds and then you get a complex sound.
+At least that's the that's the idea
+tool. And we want to make it mono.
+You want to have an ATSR and you want to
+have this here uh monoponic.
+Uh or maybe I use unison completely out.
+Just take here
+uh a sawtooth and then I tune this one.
+See how this sounds and go down.
+Um
+uh what do I need?
+Maybe I use a transpose. Yeah, that's
+what's that's what was the idea. I can't
+reach my keyboard actually. It's it's a
+bit far further away from my desktop.
+That's the problem.
+[music]
+[music]
+Maybe I use an XP filter here with the
+notch.
+And then we use an low pass. Yeah. With
+the filter plus and a bit of saturation.
+Let me filter this away.
+[music]
+[music]
+But for the rhythm, maybe we should
+start with the drums first before we go
+into
+uh before we go into the rhythm of the
+bass. Maybe we should start and create
+some Yeah.
+drum sounds first. So, I use the poly
+grid here.
+That's maybe two.
+Use this for the pitch. Make it very
+um
+pitch we use um this one here.
+So we probably want to go for G0 or
+something like this. Zero. Then we want
+to add the pitch envelope here
+with the attenuate. So we can change how
+much we want to influence the pitch
+there. And we want an have an 80 here.
+Maybe exchange this for segments.
+Go for seconds.
+Uh reset or maybe we use here
+uh 16 note 8 note. We know exactly from
+one to from zero to one. It's actually
+exactly one uh eight note.
+Um,
+maybe a soft attack,
+something along those lines.
+And we want to re-trigger. Re-trigger
+here.
+Let's see how this sounds.
+Completely boring.
+Uh
+uh maybe I want to have here also
+segments.
+So we use this instead.
+Um
+this is also one eight note long maybe
+faster.
+So I want to have this here more
+uh kind of rounded shaped. So I use here
+a bend
+and here the second one
+Um, that's don't need this. We need
+this. Maybe
+Okay. So, we need to shape this here a
+bit more.
+And maybe we exchange this here for a
+pool.
+So, we get this. And we can use a filter
+low pass.
+Or maybe use um this one here.
+And a bit of distortion maybe at the
+end.
+Bit of saturation.
+Not sure if I like this click. in the in
+the beginning.
+Maybe one is enough.
+Go a bit lower.
+That's okay.
+>> [music]
+>> Yeah, let's settle for this one for for
+now.
+So maybe I can treat this a bit here
+with the Pro Cure
+with a lot of low end there.
+Um there is not much high end here what
+I can use to push it. Actually maybe I
+need some kind of noise layer on top but
+um I leave it I leave it for now.
+Okay. So
+use here a clap right in the middle.
+And here we use a sampler.
+And we want to use a noise texture.
+Um
+noise pearl noise.
+Start with this one.
+And we need some kind of filter. And I
+really like to use for this the XP
+filter here with the peak
+uh peak mode.
+See how this one sounds.
+And we don't need the pitch tracking
+here.
+Okay. P noise is not for us.
+White noise is better.
+And we use a very short envelope.
+Something like this.
+[music]
+And maybe we can use here a second one.
+And we blend these two together.
+This one has a different frequency.
+Maybe a bit longer and a bit quieter.
+[applause]
+>> [applause]
+>> Okay, maybe a third one higher
+and longer.
+Let's see how this sounds.
+Fantastic.
+A bit of EQing.
+Uh, ProQ.
+And here we go for
+we push this one here.
+[applause]
+I don't want to make a drum bass snare.
+Okay. So,
+I need to calm down.
+Okay. Let's stick with this for for a
+moment.
+Okay. We need to
+uh clip this.
+It's much better. Maybe we can also clip
+the kick drum here.
+Let's see how this sounds.
+[music]
+Or maybe we clip only the top end
+[music]
+and we use an EQ5.
+>> [music]
+>> Yeah, much better.
+Okay. So, we start here with some
+samples with some high hat samples
+and we use some
+we need to hear it. Okay. We use some
+random samples here.
+I'll probably exchange these later on.
+Oh, this actually cool here. This one
+here is something I can use on the maybe
+use another clap sample here.
+Something like this.
+Okay, let's play this back.
+Usually this that's not my resolution. I
+just blow it up just for the video so
+you can see it better. But usually I
+have it much smaller, right? So I'm
+always scrolling around here.
+So, I try to balance it already. I'm not
+in the mix down yet, but I really like
+to have my sounds roughly in the correct
+position so I can have a nice image of
+what I'm actually doing. [snorts] Uh, so
+that's that. And then we use here some
+high head sounds.
+>> [music]
+[music]
+[music]
+>> Is there no reverb here?
+>> [music]
+>> Oh, it's super quiet.
+[music]
+So, a bit of filtering here on this clap
+sound. Also want to make it a bit stereo
+here with a different pitch for the left
+and right channel.
+[music]
+I really hate here this this kind of
+overlay. It's really annoying that they
+made this. I have no idea if this is
+intentional or not.
+Always. Okay, it's gone for some reason.
+Oh, it's it's only showing when when
+it's playing. Okay. Yeah, this this one
+is really annoying.
+So, this is the kick.
+The snare.
+Okay. So, here we can um maybe put the
+filter on there.
+Oh, maybe a high pass
+[music]
+and the postive X. We use a super
+massive.
+Uh let's use note.
+[music]
+Maybe a bit longer.
+>> [music]
+>> And then a slow machine.
+A slow machine.
+[music]
+And then we blend this in to the try
+sound.
+And maybe we delay the whole channel
+here with the delay one.
+uh by one bar. Is this one bar? Four
+quarter notes. I guess it's one bar.
+[music]
+So we are on D sharp. So I guess we go
+here for D# note. Maybe D# 5 something.
+It's too low. D sharp six.
+D sharp 7.
+to put this in one group. Call this just
+drums.
+the heads here. We maybe need a bit of
+I have no idea if this is actually a
+good track in the end. I just playing
+around here.
+>> [music]
+>> Okay. So we start to play the bass here.
+So this is really like like I just want
+to
+try to create a vibe or you know an idea
+uh where I want to go. So now I need to
+figure out what kind of bass pattern I
+need to play. Uh and I do this by just
+playing around.
+Okay, the drums are missing for some
+reason. I guess I just use here the the
+arranger. Don't need to launcher stuff.
+Okay. Maybe do something like this.
+[music]
+>> [music]
+[music]
+>> Okay, back.
+>> [music]
+>> So, I have uh three, four different
+patterns. I think this one here
+uh was kind of the best. I'm not really
+sure. Maybe use the launcher to just
+store this.
+I think this one here was the best.
+Okay. Okay. So, I use maximum
+velocity, maximum warp.
+Um,
+maximum warp.
+Okay. a kind of um
+consolidators. Con consolidators
+and then
+[music]
+it's it's very simple.
+So maybe I use a lead sound on top.
+And we want to keep it simple again. Use
+a pools
+and the reverb.
+Damn, I like this track.
+[snorts]
+Probably not anymore in two days.
+>> [music]
+>> What? What do I play here? Okay.
+Super simple. Actually, it's too simple.
+>> [music]
+[music]
+[music]
+[music]
+[music]
+>> Okay, whatever.
+I use this one here.
+Let's play around here with the sounds.
+[music]
+Heat.
+Hey, heat. Hey, heat.
+>> [music]
+>> kind of loop this here for now.
+Heat. Heat.
+[music]
+[music]
+[music]
+>> [music]
+>> Hey, look, Mom. I'm the LFO.
+Uh, so then we need here a bit of
+wobbling.
+Wobbly wobble manual.
+>> [music]
+>> Maybe put the melody here. One octifier.
+[music]
+Make this a bit louder.
+[music]
+Okay. So, we do a bit here. Squash. I
+really like to use squash for some
+reason.
+It's basically an
+OTT for free.
+Just a tad, not too much. Um, then we
+use here
+a clipper.
+And maybe if I use a matcher
+>> [music]
+[music]
+>> And I want to make this exactly 10 dB uh
+10 First load.
+Uh then we have the bass. Uh the bass is
+also
+gets a bit of limiting.
+[music]
+And we also make this
+minus 10 looks loud.
+[music]
+I found out for me it's the best uh best
+way of bringing everything in roughly in
+this
+in a in a good spot.
+[music]
+And we need to duck this here. So I'm
+using spectral.
+What's the name? Spectral
+compressor.
+And we use the side chain from the bass
+drums master side chain input.
+[music]
+Um this one is very precise. It's very
+fast and I use here very short release
+times. Release times almost have have
+nothing to do with the uh with the
+reality. I need to have this here. It's
+I don't know 20 milliseconds to get
+actually 16 note um release time which
+is 80 milliseconds. So 80 milliseconds
+way too long for some reason. So I dial
+this in here to to my taste until it
+sounds right to me.
+You can see here the bass is stuck
+basically with the kick drum and with
+the snare with the high hats sometimes a
+little bit.
+Don't do not to try I don't try to
+overdo this all the time, but sometimes
+it clears up, you know, the the whole
+frequency distribution, frequency
+spectrum.
+Uh the bass sound doesn't have actually
+that many. Oh, it's it's okay.
+And maybe I get here
+a ProQ4 in there. And I clean up here
+basically this area because I want to
+have the bass there.
+And I really like sometimes to clean
+this up here a bit or reduce basically
+the volume just a tad so the the the
+mid-range of the bass has a bit more
+room.
+Right. This is too much.
+Heat. Heat.
+Okay, there's there's still some room
+where we can play some sounds in there.
+Just want to try it out. So, this is
+basically just a rough the basic idea of
+this track. It's it's nothing nothing is
+finished. It's just a rough idea. This
+is the melody. This is the bass pattern,
+right? This is the rhythm. This is the
+vibe.
+And uh everything that comes now is
+basically trying to
+uh accentuate everything in the right
+right ways. And usually this is where
+where I fail and I do all the wrong
+things [laughter]
+usually. Um so this is delete.
+So maybe this is cool for the intro.
+Let's get this away.
+This is your 1 minute 20. Oh, this way
+too late. Maybe I stop here.
+This is where I remove the melody here.
+[music]
+So yeah, I want to have something in the
+actually here the high hats. This is
+playing a pattern from this pattern
+sequencer. So we export this. Um let me
+drag this in here.
+Of course, we want to start the pattern
+here, not not in the intro.
+Maybe maybe I do something different in
+the intro. So we hit stop here. And now
+it's not playing anymore. Right? When I
+click play here, it's not playing, but
+it receives the notes here from the
+pattern.
+[music]
+So, we can use here velocity spread.
+We use a chain device.
+Chain. Hello. Chain
+uh chain.
+And we use here
+delay plus.
+Let's disable this for a moment here.
+Uh we switch this to fade
+use a step uh step mode here. We can
+change here basically delay times and
+because this is on fade we don't have
+all the pitch um yeah when you interfere
+with the buffer you get this pitch stuff
+uh happening in here with this we just
+prevent it
+randomize this
+and I don't use a randomizer because I
+want to have some kind of pattern so it
+repeats kind of the delay time settings
+here.
+Oh, it's so fun to play around with the
+music, I tell you.
+[snorts]
+We just use a soft thing here.
+Yeah, we make it very long.
+But we take the input, the feed signal,
+we take it out. Right. So
+that's actually a bit too long.
+It's still too long.
+So we can go here to 50%. Hello. 50%.
+And then we feed it in at random points
+in the in the track. So we just automate
+this.
+[music]
+A sounds so lovely.
+So that's enough enough torque. Uh pitch
+shifter.
+Maybe we can pitch this up here. Let's
+see how the sounds.
+Yeah.
+I just want to have some kind of texture
+in the background. That's that's the
+idea.
+So, we feed the pitch and all this
+stuff, all this crap here into the
+reverb.
+Sounds a bit better, I think. [music]
+Okay, nice. So, then we use an audio
+track and I don't use my vocals. Hello.
+Hello. Hello. I use my uh
+what do I use? I use my external
+synthesizer because it's it's much
+faster sometimes
+um to use
+uh noise. I just record noise through a
+filter.
+Uh, do I have here input? That's this
+one.
+Um,
+so I only want to have noise.
+Now all I do is basically I record it
+and then I play around with the filter.
+Let's see how this sounds.
+Of
+course, I put some kind of reverb then
+on top.
+Oh, it's already 1 hour recorded. Damn.
+We have this noise sample here
+And I use reverb on that.
+Um,
+and probably
+um high pass
+I want to fade this in slowly over time.
+Uh maybe I want to have this here.
+Could you not just take here some kind
+of line? Oh, it's here. Okay.
+Uh
+Uh
+going to not move this here.
+Yeah, I want to have this here, but then
+I fade this out there.
+And I reduce a bit of the reverb
+too much.
+Yeah. Maybe I use here automation.
+Bring the volume faster down.
+[music]
+>> [music]
+>> Okay, so we just bounced this so I never
+have to think about this again
+in place.
+Delete all of this crap.
+Um,
+So, we bring something new in here.
+Maybe a different tonality.
+I just used some synthesizers, but
+probably I want to use here some samples
+just to get something random, a
+different sound in there. Um,
+Heat.
+[music]
+Hey. Hey. Hey.
+Okay, done.
+Yeah, we record here the movement.
+Heat.
+Heat.
+Damn, nice.
+Another polymer.
+This here
+pools.
+Loads of reverb. It's just for the
+background. So, something happens in the
+background
+to distract the listener that actually
+nothing is going on at all in the track
+music wise. That's usually how modern
+music is made. You just throw a random,
+you know, FX in the song and
+at every corner something happens, but
+actually nothing is moving forward.
+That's the idea. Um
+[music]
+>> [music]
+>> Okay, I modulate this
+manual and then all both directions.
+Heat. Heat.
+[music]
+[music]
+[music]
+Oh yeah, some kind of pitch drop at some
+point maybe here.
+Heat. Heat.
+H. I need to go fur on the background
+with this.
+Yeah. And here we probably
+uh it's time for the
+it's time for the
+ARP.
+Uh we have this one here. Probably this
+one.
+Uh this one,
+but we want this one as the lowest, I
+guess.
+And these are four.
+>> [music]
+[music]
+>> and delay.
+>> [music]
+>> Maybe
+Get the lead out here.
+Replace it with a
+use a step mode for that.
+Six steps. Uh 16 notes.
+>> [music]
+>> Eight steps. Nine steps.
+[music]
+Another one.
+[music]
+Uh we are in minor.
+>> [music]
+>> Heat. [music]
+Hey, heat. Hey, heat.
+>> [music]
+>> That's what I know.
+Heat.
+[music]
+Heat.
+Heat. Heat.
+Okay, I I admit it. It's a bit cheesy,
+[laughter]
+but uh yeah, it's it's a nice um it's a
+nice switch for my usual jump base
+tracks. I like to do this stuff for some
+reason. It it really chills me out. Uh
+that's why I'm doing it. Um I don't
+know. I just recorded I I record already
+for 1 hour and 10 minutes. Um
+the the boring stuff comes now, right? I
+just play around or play this here over
+and over and then I try to notch things
+around, add some small little details
+here and there. It takes probably 4
+hours now. Um maybe I put something here
+on the master. I usually I use use at
+the moment
+I just use matcher most of the times
+have here some some target frequencies
+or some target um yeah frequency
+distributions or whatever you want to
+call it some target curves and I really
+like to use that and then I yeah
+just analyze it
+and go for something
+and I always just, you know, mix it in
+by 50% maximum. I don't go for 100%.
+It's just so I'm roughly roughly go to
+the same kind of, you know,
+distribution.
+Yeah, the interesting part about matcha
+is that it also matches here the side
+channel which is really interesting
+because you can really match also the
+stereo width of an record, right? So you
+hit always the same kind of wideness and
+loudness and frequency distributions. It
+really helps sometimes when you have
+multiple tracks on an EP or album and
+you want to go for the same sound. This
+really helps here.
+Uh so on the master, do we do actually
+that's actually it. Sometimes I just put
+a mastering limiter on there or maybe
+just another squash
+uh which is just an OTT, but just I just
+dial it in a tad, not too much.
+And then I measure here the loudness.
+And I probably want to have something
+around minus 8, probably lower.
+It's too loud here.
+[music]
+Hey. Hey. Hey.
+>> [music]
+[music]
+>> Yeah, it's probably way too loud, but
+can't hear it on my headphones. It all
+sounds kind of the same on my
+headphones. So, it's probably
+when I watch the re-watch this video,
+it's probably way too loud, but I don't
+care. I just upload this here for
+YouTube, so you can re-watch it or do
+whatever you want to do with this. And I
+also put this u uh project on my Patreon
+if you want to download this. I probably
+finish this here today, maybe tomorrow.
+Um, so like I said, all all I want to do
+now is just put in some details. FX
+sounds, transitioning sounds, bring out
+here the lead sound or the lead melody.
+Maybe in the intro with another syn. Um
+maybe I use the ar here and filter the
+ar a bit more and some, you know, some
+breakdowns of the drums, some details
+here and there. That's basically what I
+do now. Um boring stuff takes 2 hours, 3
+hours. The mixdown is I would say pretty
+much in already a good state. So I don't
+spend too much time on the mix down on
+the master. Like I said, I do don't do
+that much anymore these days on the
+master because I already do a lot of
+things here on the the buses. So I just
+use a matcher to go roughly in the same
+frequency distribution. Put some
+mastering limiter on there. Sometimes
+not even just that, just you know just
+the clipper here to clip the rest of the
+drums from the uh from the master. and
+then uh control my uh loudness here. So
+I go to a good level minus 8 loss. So
+it's not that loud actually for me. For
+most people it's super loud.
+Um yeah, that's usually how I do it. Uh
+maybe I could do more here on these
+tracks to filter out certain areas like
+the drone here, like the melody or the
+melody filters, you I use then here a
+spectral compressor and filter out some
+of the frequencies of the drone from the
+melody and stuff like this. But usually
+I don't do that much. I see a lot of
+people do tutorials and they put a lot
+of work into this kind of stuff. Um I
+did this myself too in the in the past,
+but I feel like it doesn't do that much.
+It just make makes everything
+complicated and you lose track of what
+you actually want to do. Um, so if if
+the melody is in, you know, in a good
+spot and the drums in are in a good spot
+or the bass is in a good spot, you
+actually can't do
+you can't do wrong with the mix down in
+my opinion. And yeah, maybe I should put
+here
+pro Q.
+Sometimes I just do that, right? I cut
+everything out here below the bass
+just to get this away. Yeah.
+>> [music]
+>> But that's all all I do on the master.
+Maybe an elevate plug in which is also
+just a multiband limiter. Uh but for for
+this ambient type of stuff here, I
+usually don't do much. Anyway, enough
+talk. Uh thanks for watching. Uh let me
+know what you think in the comments down
+below. Of course, leave a like, leave a
+subscription. Um and um
+uh yeah, give me feedback. Let me know
+what you think. Maybe I should do more
+of these videos or maybe I should finish
+this year in another video which I
+probably never do. But anyway, let me
+know. Okay, thanks for watching and bye.

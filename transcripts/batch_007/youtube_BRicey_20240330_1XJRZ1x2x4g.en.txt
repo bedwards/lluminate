@@ -1,0 +1,524 @@
+so we finished off last video with the
+ability to you know play stuff but
+there's some issues because there's
+unfettered access objects can be placed
+inside of each other place them outside
+your plot that's not good we need some
+validators so let's start making
+those okay so let's imagine that this
+thing right here this little box is our
+plot so in inside of the plot you know
+you can have any number of items I'm
+just going to draw like a random shape
+and every item can have like different
+sizes which is like not really that good
+we need to be able to tell like whether
+it's inside or out we don't really do
+any complex collisions like that's just
+too much what you can do is you can kind
+of Imagine a box around side around each
+part and this box is important because
+it Narrows down the amount of things
+that we actually have to check for from
+literally everything to just the four
+points at each of the corners
+so these are really all we need to check
+because if all of these four points are
+within the plot we're good if any one of
+them is out then we're bad so since this
+sort of like project like where we're
+trying to keep it within the plot
+doesn't necessarily have to be like 100%
+like dimensionally accurate this will
+work for all of our objects now maybe if
+your object is like rotated a weird way
+and like it technically fits within the
+plot but the bounding box doesn't like
+there there could be issues but most
+things like we kind of just placing
+things for aesthetic reasons aren't
+going to need that so this should work
+out fine so like let's take a situation
+where you're on like the
+corner it's like over here right so You'
+be able to check like two of these
+points are out and you'd be able to say
+no and you have to check all four points
+and like not just like the center point
+not just whatever
+because because like if you're on any
+one side it could lead to different
+issues now I guess you could check the
+center point but that would be less
+accurate and this algorithm is like
+pretty simple so it does not it's not
+that deep um so the first thing you have
+to do like in this whole idea is take
+the points all four points trans
+transform them from World space to local
+space and so that means that like you
+can kind of Imagine a
+grid on
+whoops I'm using a new drawing tool
+we're seeing how this is going um so you
+can kind of Imagine a grid here so you
+have like this is like the origin of
+our of our plot and now all we have to
+do is check if the absolute position on
+the x axis and the z-axis because
+remember this would be X and then this
+would be z um because Y is up in Roblox
+you have to check if if the x and z
+values like the absolute value since um
+our plot is is like symmetrical I guess
+um we have to check if those
+are within the plot and that actually
+turns out pretty simple the hardest part
+of getting this entire thing to work is
+just generating the corner points but I
+have a pretty good solution that I'll
+show you in a second so let's hop over
+to roblocks and actually implement this
+okay let's start by going into
+replicated storage and creating a new
+module script and we're doing this in
+replicated storage because that's a
+model not a module script whoops okay
+we're doing this in replicated storage
+because we want both the client and
+server to access it because the client
+is going to be using this for visual
+feedback and the server is going to be
+using this for actual validation and
+each of the functions are going to be
+pure meaning they like they take some
+input they produce some output so there
+shouldn't be any issues that both things
+are using it um so now we're going to
+name this placement validate
+door and we're going to go into it
+change the
+name there we go little typical Roblox
+module script action and there's really
+going to be nothing special about this
+there's just going to be a couple
+functions so let's start with function
+placement validator dot within bounds so
+we're going to be implementing the
+algorithm I talked about just a second
+ago and it'll take in a plot which is a
+model it it'll take in a object
+size which is a vector three and it'll
+take in a world C frame or World CF
+which is a C frame value so what we're
+doing here is first off we need to get
+our plot C frame and our plot size
+because we have to use that to check
+actually check the bounds and there's
+actually a really convenient function
+for this so we can do plot CF comma plot
+size equals plot get bounding box so
+that works out great so we have our
+bounding we have our bounding box which
+Returns the C frame and the
+size and so now all we have to do is
+convert our object C
+frame which is like provided in the
+world CF so this world CF is like the
+object C frame like in terms of the
+world and we need to convert that to
+local space so we're going to say local
+object CF equals plot
+CF to object space World CF so we're
+taking our world CF we're kind of
+localizing it to this plot so we get
+that like local grid that I talked about
+before so the center of the plot would
+be 0 0 even relative to the
+object and now we have to actually
+generate the corner points so you could
+just manually generate all four corner
+points but the code for that is just
+kind of it's kind of bulky and like it's
+a lot of repetition and although
+sometimes it's probably not a best
+practice to do what I'm about to do I
+think for this case like just visually
+it works better and it's also expandable
+to 3D if you ever need to do this in 3D
+you just have to add like one more
+parameter or one more full loop because
+this actually generates the corner
+points for us so we're say local Corner
+points equals a blank table and we could
+just manually say okay this first Corner
+point is just half the object size on
+the Z half the object size on the X and
+it's like the bottom left and we do
+bottom left bottom right like we just go
+through that manually but we can
+actually just do this using a nested for
+Loop and some lists so if we can say
+4core comma X in and we're going to use
+curly brackets here for this is is a
+like table we do 1 to one do so
+basically we're we're iterating through
+a table that we literally just create
+right here and we're going to do the
+same thing again for the Z so we're
+going to do
+for underscore Z in1 to one
+do so this for Loop is going to produce
+negative 1 negative 1 one one and then
+all of the other all four of the points
+because it's just going to be like the
+permutations of these so it's going 1 1
+then negative 1 1 then 1 negative 1 then
+1 one and it'll just do that and that
+gives us like kind of a starting point
+to offset our object CF to get all the
+corner points so we're going to do
+table. insert Corner points and we're
+going to insert the object
+CF point to World
+space and then whoops that's not what I
+want to do actually press enter
+Each corner in the corner
+points and we're going to do what are we
+going to do we're going to say if
+math.abs
+corner
+dox is greater than plot size. x /
+2 or math.abs
+corner
+doz is greater than plot size. Z /
+two then we're going to return false and
+then otherwise at the very end we're
+just going to return true so basically
+we're checking if any of the corners are
+outside of the bounds and we're taking
+the absolute value because it doesn't
+matter like the plot is symmetrical so
+we can go either side if its magnitude
+is greater than the actual size of the
+plot we just say nope can't place it
+there otherwise we say sure like you can
+do that so that is this whole algorithm
+done pretty neat let's go try it
+out so let's go into
+our client Placer there we go because
+although the most important part of this
+validation is for the server for testing
+it helps to have a client preview of it
+which is exactly what we're going to do
+so first off we need to get like the
+size of
+[Music]
+our object of our preview and so since
+the client really only cares about the
+preview we're just going to say local
+size equals oh and by the way this is is
+in render preview so we're going to
+render preview because each frame you
+want to change like the status and we're
+going to change the color of the Box
+outline thing so that we uh you know get
+nice colors on the outline and that's
+like a usually economical indicator of
+if things are okay or not so we're going
+to say local size equals self.
+preview get
+extense size there we go because we're
+dealing with a model and all we really
+care about is a size and we'll send in
+the other thing as well and
+now we have to get
+our
+placement validators module placement
+validators equals
+require replicated storage do placement
+validator well it's placement validator
+singular there we go okay so we have
+that and then we're going to go down
+here I'm going to
+say
+self. preview dot let's let me remember
+what we named it um is it box outline it
+is box Out self. preview dobox
+outline
+dot color
+3 equals and we're setting it equals
+because we're going to use like an if
+statement like if else expression that's
+what it's called and we're going to say
+if placement validator
+dot within bounds and we're going to
+send in the self. plot then we're going
+to send in the size which we got earlier
+and also the C frame which we defined up
+here and that will give us the result
+and we're going to do
+then color 3
+do
+new and we're just going to set this to
+let's just set this like a blue so let's
+just do like this blue here maybe yep
+that that looks about right else we're
+going to do other three do new we're do
+red so if you don't know what this
+statement is actually I'm going to make
+this on two lines this is really ugly um
+this is not an if like statement this is
+an if expression so it Returns the then
+block if like this condition is true
+otherwise it Returns the else block so
+we say
+if if this is true then we like return
+this otherwise we return this so we're
+just assigning it here and that just
+makes it better so we don't have to use
+any statement so if it's with within the
+bounds we give it like a blue if it's
+not within the bounds we give it like
+red so it should work let's try it
+out so we're here it's a nice little
+blue and we move it right outside it's
+red so you see that like we have our
+little indicator
+whether it's allowed to be placed or not
+and you'll notice since we're using the
+kind
+of Corners is like I can bring it up all
+the way up to the corner but anything
+else is bad anything else is bad like
+both
+sides so yeah that works perfectly okay
+so now let's move on to the next
+validator before we implement it on the
+server because the server is kind of
+trivial like the actual validators
+themselves are you know the hardest part
+the actual like checks are just like if
+this is true if this is true like really
+doesn't matter though so next validator
+and this one's going to be actually
+easier because all we're checking is for
+collisions we're going to do placement
+validator
+dot not
+intersecting objects now it is kind of
+counterintuitive that we're using a knot
+you could also do intersecting objects
+and just negate the output but this is
+just what I decided on because it's kind
+of it's kind of like we want it to not
+inter intersect objects and we also want
+it to be within bound so my philosophy
+behind naming these is that what we want
+is like what we're going to name it so
+we don't have to like negate it in the
+actual like statements because I want to
+do check if this and this and that and
+that's how we're going to check it so
+inside of here we're going to take the
+plot obviously which is going be the
+model and we're going to take in the
+object size again and that's going to be
+a vector 3 and can you guess the next
+parameter is going to be the world CF
+which is a C frame same exact parameters
+as the last one so we actually can do
+the same thing initially get to get the
+object CF so we do um local object CF
+equals plot get
+pivot to object space World
+CF um and now we're going to say local
+prams and this is going to be overlap
+Rams o overlap Rams we're actually doing
+rast like we know you've heard me say
+Ray cast prams a thousand times but now
+we're doing overlap prams pretty cool so
+we're going to do prams add to
+filter plot dot objects so
+basically we want to only check for
+intersections with the actual objects
+that like were allowed to place if you
+want to check for more objects you can
+also add other stuff to the filter so
+for example if you have like some
+default things in your plot that you you
+don't want be to be able to place
+objects with you can do that but like if
+one of your friends is just like
+standing in the corner like you can
+place a table on top of them like it
+doesn't matter like their their um body
+like Parts like their base Parts don't
+really they shouldn't really consider
+like be able to stop you from doing
+stuff especially if you like you have
+debris or like cars or Vehicles like
+that's fine I mean obviously this is a
+game by- game basis but for me right now
+we're going to set prams filter type
+equal to en. raycast filter type.
+include so basically we're only going to
+think about the plot. objects we can't
+collide with other objects you can
+collide with anything else obviously for
+you that might change but for me that
+works great so we're say local Parts
+equals
+workspace get parts Part bounds in box
+and we're going to send in the world CF
+the object size and the prams so
+basically we're just saying okay the C
+frame where we want to start is the
+world CF and then the object
+size
+is these actual like size of you know
+our object obviously and then frams we
+just committing that I don't know why I
+have this variable in my script kind of
+useless we don't use it but don't mind
+that um you get to sneak peek into my
+mistak making fallacies and now we're
+going to just return the number of Parts
+equals zero so if the number of Parts
+equals zero this returns true otherwise
+it returns false that's just a little
+shortcut here and yeah that's basically
+it so we're just checking a box based on
+the
+object
+size which should work out pretty well
+and since we're using C frame here the
+size like it'll actually rotate
+accordingly you always got to think
+about for these sorts of things if
+rotations will be covered because we
+will eventually Implement rotations and
+they are conveniently there's a nice
+convenient function that just checks if
+the part bounds are in box like no
+touched events or whatever like we don't
+need to deal with that this is simple
+and now all we got to do is go back to
+the client Placer add a and so if plac
+Val within balance and placement
+validator do not intersecting objects
+okay we're going to make this another
+line
+um and we're going to send in the s.
+plot
+the um the s dot oh wait no size I don't
+know why I'm thinking and we're going to
+do CF okay s check so size CF plot size
+CF you may be wondering why don't we
+like make an object Place some validator
+and just include these things honestly
+like whenever you can make functions
+pure meaning they just take return
+output it's probably better so even
+though we repeat our parameters here
+like it's fine it's it's not that deep
+um so yeah let's go test this
+out we're in the game place blocks and
+you can already see boom Collision boom
+Collision it collides no this is bad it
+doesn't let you place it well it does
+let you place it because we haven't done
+it on the server but there you go that
+is the actual local Collision stuff so
+now the only thing left to do is we go
+to the server and we go to
+the plot manager we go to the place
+method and so in the place
+method we can do this
+after the like initial parameter check
+we can say local object size
+equals object get extent size
+and
+then we
+can check down here if it would actually
+work so we literally just do the same
+thing like we can do if but this in this
+case since we're doing a guard Clause so
+since this is like above when like we
+return we got to negate it so on the
+client we do if this and this for here
+we're going to do if
+not
+placement
+validators well we actually have to get
+placement validators first whoops okay
+local go to the top of your script and
+do local placement validators equals
+require replicated storage. placement
+validator okay validator saying why do I
+keep on doing validators that's annoying
+okay so if not placement validators
+placement validator singular is within
+blowns I'm going to send in send in the
+plot and then the object size and the
+world CS or World C frame in this case
+is the target CF um and then we're going
+to say or not well actually let's do
+this on the other or that is not what I
+wanted bro okay then is going to go down
+I guess and we're do or
+not placement validator do not
+intersection
+objects plot object
+size gets
+CF we're going to return false okay so
+yes this is a double negative but it
+also means we can have a KN and a KN so
+basically if this if this is not
+satisfied or this is not satisfied we
+return false if either one of them is
+bad we don't want to place it like it's
+bad but otherwise we just continue
+normally with our happy so this should
+work great and again we use guard
+Clauses to save on indentation it makes
+it clear so after we deal with our eror
+stuff like this is like the real deal
+like this is where we actually can place
+it
+so this should be a pretty simple test
+like very simple okay place it here
+can't place it here want to place it
+here nope want to place it here yep so
+yeah we now have our security top
+maximum security again this is for my
+purposes if you want to do something
+else you can obviously change your
+overlap perams or whatever you want like
+if you have a circle plot you can
+actually just check like the radius
+probably like I don't think it matters
+that much it doesn't have to be that
+accurate but yeah this definitely works
+for my
+purposes so I hope you enjoyed the
+video and sorry it took so long I didn't
+schedule myself appropriately and I
+skipped a week I know I missed my other
+weekly upload schedule and I've been
+coding a lot in other languages like
+I've been making a really big react
+project so my Roblox brain is kind of
+like not on it right now but I hope
+you'll forgive me I'll probably show my
+side projects soon because they're
+pretty cool oh yeah so stay tuned for
+the next video I think the next one is
+um like making like actually
+serialization and object saving which is
+probably the most important part of the
+series so stay tuned for that I'll make
+sure that one's good but other than that
+I hope you have a nice day and
+[Music]
+goodbye

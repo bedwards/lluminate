@@ -1,0 +1,139 @@
+Title: Sweet Child O' Mine
+Source: theseedsofscience
+URL: https://www.theseedsofscience.pub/p/sweet-child-o-mine
+Date: Wed, 19 Nov 2025 18:03:24 GMT
+Word Count: 2838
+Estimated Read Time: 14 minutes
+
+================================================================================
+
+Roger’s Bacon is a
+writer
+, teacher, and co-founder of Seeds of Science.
+Recommended listening:
+Guns N’ Roses - Sweet Child O’ Mine
+I.
+Darwin was the first to point it out. In
+The Variation of Animals and Plants Under Domestication
+(1868), he observed that domesticated mammals (and some birds and some fish) possess a distinctive and unusual suite of traits not seen in their wild progenitors, a phenomenon we now refer to as Domestication syndrome. The full set of characteristics includes: increased docility and tameness, coat color changes, reductions in tooth size, changes in craniofacial morphology, alterations in ear and tail form (e.g. floppy ears), alterations in adreno-corticotropic hormone levels, more frequent and non-seasonal estrus cycles, prolongations in juvenile behavior, and reductions in both total brain size and of particular brain regions.
+The complexity of Domestication syndrome and its presence among distantly related groups suggests an elegant and far-reaching explanation. The explanation that has emerged in recent years is just that, but to truly appreciate it we must first understand something about the nature of evolution:
+she is not an engineer but a tinkerer
+.
+Natural selection has no analogy with any aspect of human behavior. However, if one wanted to
+play
+with a comparison, one would have to say that natural selection does not work as an engineer works. It works like a tinkerer—a tinkerer who does not know exactly what he is going to produce but uses whatever he finds around him whether it be pieces of string, fragments of wood, or old cardboards. For the engineer, the realization of his task depends on his having the raw materials and the tools that exactly fit his project. The tinkerer, in contrast, always manages with odds and ends. What he ultimately produces is generally related to no special project, and it results from a series of contingent events, of all the opportunities he had to enrich his stock with leftovers. (“Evolution and Tinkering”, François Jacob)
+The contingent, improvisatory nature of evolution is why
+metabolic pathways often look like Rube Goldberg machines
+, why whales and dolphins still breathe air despite their aquatic lifestyle, and why so many parts of the human body are
+poorly
+designed
+. But such inefficient or irrational design is only a problem to the eyes of an intelligent designer like ourselves—evolution simply plays around until it has something workable, no matter how inelegant or inefficient.
+So when Evolution was presented with the challenge of domestication—when it was “told” that it must quickly adapt a man-eating canine killing machine into man’s best friend—it did not start from scratch and fabricate bespoke parts as needed, but instead looked around its messy garage full of proteins, cells, structures, and mechanisms and threw something together from what it had laying around. Even with such a haphazard design process, what it came up with was ingenious.
+Bralt Bralds
+Across a wide variety of domesticated animals, the mechanistic basis for the tameness of domesticated animals appears to be a reduced size and functionality of the adrenal glands (the producers of adrenaline and other stress hormones), which in turn leads to a weaker fight-or-flight response (domesticated animals do not react as aggressively as their wild counterparts in large part because they are not as fearful when interacting with humans). But how does selection for diminished adrenal glands produce floppy ears, altered coat colors, shorter snouts, smaller teeth, and reduced brain size? There is no obvious way in which these relate to adrenal gland functionality.
+Enter the neural crest cell hypothesis:
+What all of these diverse traits, including the adrenals, share is that their development is closely linked to neural crest cells (NCCs). NCCs are the vertebrate-specific class of stem cells that first appear during early embryogenesis at the dorsal edge (“crest”) of the neural tube and then migrate ventrally throughout the body in both the cranium and the trunk, giving rise to the cellular precursors of many cell and tissue types and indirectly promoting the development of others (
+Carlson 1999
+;
+Hall 1999
+;
+Gilbert 2003
+;
+Trainor 2014
+). The NCC-derived tissues include much of the skull, the sympathetic ganglia, the adrenal medulla, pigment-related melanoblasts in both head and trunk, and tooth precursors (odontoblasts). In the head specifically, cranial neural crest cells (CNCCs) are crucial precursors of bony, cartilaginous, and nervous components of the craniofacial region, including the jaws, hyoid, larynx, and external and middle ears. (
+Wilkins et al., 2014
+)
+from “The “Domestication Syndrome” in Mammals: A Unified Explanation Based on Neural Crest Cell Behavior and Genetics” (2014)
+And so there we have it: the primary “lever” that Evolution pulled was neural crest hypofunction, and all of these morphological changes—in pigmentation, jaws, teeth, ears—just came along for the ride as unselected byproducts.
+II.
+There is another way to understand the evolutionary changes that occur during domestication. Nature always takes the path of least resistance and Evolution is no exception; the design specs of the domesticated animal—enhanced learning ability, capable of forming strong emotional bonds, decreased aggression—sound awfully similar to the traits of a child, so instead of wholesale remodeling, Evolution found it easiest to modify development and retain these juvenile features into adulthood. This is what is known as
+neoteny
+(a.k.a. paedomorphosis or fetalization).
+Red Wolf puppies, note the floppy ears commonly seen in adult dogs
+This domestication-as-neoteny can be seen clearly in our canine companions—the incredible playfulness and floppy ears of adult dogs are traits only seen in wolf puppies—but it’s readily apparent in humans as well once you know what to look for.
+Homo sapiens
+display a striking array of neotenous traits: larger skull/brain size relative to body, hairless face and body, large eyes, increased torso/limb length ratio, increased leg/arm length ratio, upright stance and bipedal gait (more common in juvenile chimps), absence of penis bone (the baculum), and reduced sexual dimorphism (i.e. increased similarity between sexes). Of greater interest for our purposes however are the myriad ways in which the adult human retains the psychological features of the child: reduced aggression, the ability to form deep emotional bonds, enhanced brain plasticity/learning abilities, and, most importantly, playfulness.
+You may have noticed something strange here. If humans also exhibit this neotenous domestication syndrome, who exactly did the domesticating? Perhaps it shouldn’t be surprising given how good we are domesticating other species, but it appears we did it to ourselves as well—i.e. we are
+self-domesticated
+.
+This begs another question: how exactly does a species domesticate itself? In other words, what selective pressures set humanity on this evolutionary trajectory towards self-domestication and neoteny? To make a very long story very short: we weren’t domesticated by ourselves
+per se
+, but by culture itself.
+“The haven all memes depend on reaching is the human mind, but a human mind is itself an artifact created when memes restructure a human brain in order to make it a better habitat for memes.” (Daniel Dennett)
+To make the story (known as
+the Cultural Drive
+or
+Cultural Brain
+hypothesis) slightly less short: what really sets humanity apart from our animal brethren is the fact that our culture (at first tools, foraging techniques, hunting strategies, etc.) compounds over time, what is known as
+cumulative cultural evolution
+(CCE). What hasn’t been appreciated until recently is that CCE requires very high fidelity cultural transmission—unless individuals can accurately and efficiently copy each other (i.e. social learning), even the most brilliant innovations will be forgotten within a few generations. But if you can cross this social learning threshold, a threshold which only humans have crossed so far, all memes will remain in the pool more or less indefinitely, giving them all the time they need to mix and match and create ever more complex memes. Then it’s only a matter of time before you are building skyscrapers, sequencing genomes, and “flying around in aluminum tubes while nibbling on roasted almonds.”
+1
+This is counterintuitive as most accounts of human origins tend to focus on our individual intelligence and creativity, or what we can call asocial learning. Well it turns out that asocial learning is relatively unimportant in the earliest stages of cultural evolution—if you can copy well enough to keep the game of telephone going then innovation will happen naturally over time through serendipitous copying errors and random recombination (i.e. play) without any individual brilliance,
+in much the same way that mutation and sexual reproduction function produce evolutionary innovation without any intelligent designer. This creates a runaway virtuous cycle: as the pool of valuable cultural knowledge becomes larger, the selective pressure to become better at social learning—monkey see, monkey do—becomes stronger; as the population becomes better at social learning, the fidelity of cultural transmission is enhanced, thereby allowing for an even larger pool of valuable cultural knowledge to be maintained, which inevitably leads to further innovation through recombination; this produces an even stronger selective pressure to become good at social learning which in turn creates…
+Fittingly, one of the first major studies supporting this model used a computer tournament to study the relative merits of social and asocial learning strategies (“
+Why Copy Others? Insights from the Social Learning Strategies Tournament
+”, 2010). Here is an excerpt from the abstract (you should be able to grok the gist of what they did and what they found, the details of the game are relatively unimportant for our purposes).
+…We organized a computer tournament in which entrants submitted strategies specifying how to use social learning and its asocial alternative (for example, trial-and-error learning) to acquire adaptive behavior in a complex environment. Most current theory predicts the emergence of mixed strategies that rely on some combination of the two types of learning. In the tournament, however,
+strategies that relied heavily on social learning were found to be remarkably successful
+, even when asocial information was no more costly than social information.
+Social learning proved advantageous because individuals frequently demonstrated the highest-payoff behavior in their repertoire, inadvertently filtering information for copiers.
+The winning strategy relied nearly exclusively on social learning and weighted information according to the time since acquisition.
+III.
+It is something of a mystery why Neanderthals went extinct and Sapiens didn’t, especially considering that Neanderthals had, “significantly larger bodies than humans, with wider shoulders, thicker bones and a more robust build overall” and a similar, if not slightly, larger brain size. Conventional wisdom points to our greater intelligence and cooperative abilities, however this explanation glosses over a deeper truth. The traits that enabled our superior intellect and enhanced sociality—reduced aggression, stronger emotional bonding, extended neuroplasticity—are precisely those that characterize juvenility. We outcompeted Neanderthals not because we were physically stronger or more cunning, but because we were more childly.
+2
+While it remains debated whether significant differences in the rate of maturation to adulthood were experienced between Neanderthals and modern humans it appears that patterns of Neanderthal biological and cognitive growth are subtly different from those of contemporary and later modern humans. It has even been debated whether Neanderthals had a ‘childhood’ at all.
+Specifically, analysis of teeth suggests that Neanderthals reached adulthood at around 15 years of age, which is somewhat faster than the age of biological adulthood assigned to modern humans. It appears that the Neanderthal brain also grew faster than that of a modern human child, beginning around 400 cm3 and tripling in volume by age three before reaching an adult volume of around 1500 cm3.
+— “
+Playing with language, creating complexity: Has play contributed to the evolution of complex language?
+” (2019)
+If we had better tools (i.e. toys) than Neanderthals, then it’s simply because we were better at playing around (throwing memes together in new combos) and sharing what we made with others (i.e. social learning). Whatever advantages we may or may not have had in intellectual horsepower and creativity were not because of our neural hardware, but because of our software: as Sapien culture blossomed, we developed various thinking tools (e.g. languages, counting systems, epistemological principles, rules of thumb, etc.) that began to make us smarter, first as a group but then as individuals too.
+The trajectory of hominid brain evolution lends further support to this account. At its peak, Neanderthal brains were slightly larger than Sapien brains in absolute terms, but slightly smaller relative to body size. This is not exactly what we would expect if
+the more complex culture of Sapiens were best explained by differences in raw intelligence. Equally counterintuitive is the fact that
+human brains have shrunk
+in the last 10,000 years. These trends make more sense however when we remember that dogs and other domesticated animals have smaller brains than their wild counter-parts, and that a similar reduction in brain size is
+found in some groups of ants
+as they transition to eusociality (strangely enough, eusocial ants may provide the best comparison to modern humans as we both form large complex kin-oriented societies featuring
+agricultural practices
+and full-time division of labor). But rather than the uniform reduction typical of domestication, the human brain underwent selective reorganization, with certain regions expanding and others contracting in ways that maintained a comparable overall size to Neanderthals.
+Neanderthal brain cases were elongated and not globular as in Homo sapiens. The noticeable morphological differences in skull shape between the two human species also have cognitive implications. These include the Neanderthals’ smaller parietal lobes and cerebellum, areas implicated in tool use, visuospatial integration, numeracy, creativity, and higher-order conceptualization. The differences, while slight, would have possibly been enough to affect natural selection and may underlie and explain the differences in social behaviors, technological innovation, and artistic output. (
+Wikipedia
+)
+Homo sapiens
+are to Neanderthals as dogs are to wolves.
+There are profound neural connections between the cerebellum and the parietal and frontal lobes, an interconnectivity that suggests the cerebellum may aid in the process of creative thinking, a cognitive prerequisite of fantasy play. (
+Nielsen et al., 2020
+)
+The most important evolutionary changes to
+Homo sapien
+brains
+were not size increases then, but structural modifications which made us
+better at language
+, visuospatial integration (“monkey see, monkey do”), creativity, and abstraction—in other words, modifications which enhanced our ability to play.
+IV.
+“I began to think of children not as immature adults, but adults as atrophied children. But when I said this to educationalists, they became angry.”
+(Keith Johnstone)
+A moral can be drawn from this story.
+Humanity has never been more adultly than it is today. Increased lifespans and declining birth rates have made us a geriatric species, and our gerontocratic culture further magnifies the effect of this genuinely epochal demographic shift. Children and adolescents are utterly oppressed in the modern techno-social regime, possessing less power and less freedom than ever before.
+This adultliness is unbecoming to us, untrue to how we became what we are. The way forward is not more rigid “maturity” and raw intelligence, but more playfulness, more imagination and innocence. The future belongs to the eternal child within, that portion of our spirit which is never completed, but always growing and learning, living and laughing and loving.
+Let everything come true
+Let them believe
+Let them laugh at their passions
+And above all let them be helpless like children
+Because weakness is a great thing
+And strength is nothing
+When a tree is growing
+It is tender and pliant
+But when it is dry and tough it dies
+Hardness and strength are death’s companions
+And what has hardened will never win.
+This Substack is reader-supported. To receive new posts and support my work, consider becoming a free or paid subscriber.
+1
+See “
+What Makes Us Smart
+” (Joseph Henrich and Michael Muthukrishna, 2023) for a good summary of the Cultural Brain Hypothesis with an emphasis on how cumulative cultural evolution made us individually intelligent.
+We review how larger, more diverse, and more optimally interconnected networks of minds give rise to faster innovation and how the cognitive products of this cumulative cultural evolutionary process feedback to make us individually “smarter”—in the sense of being better at meeting the challenges and problems posed by our societies and socioecologies. Here, we consider not only how cultural evolution supplies us with “thinking tools” (like counting systems and fractions) but also how it has shaped our ontologies (e.g., do germs and witches exist?) and epistemologies, including our notions of what constitutes a “good reason” or “good evidence” (e.g., are dreams a source of evidence?)
+2
+It appears that Neanderthals were not good enough at “monkey see, monkey do” to cross the cumulative cultural evolution threshold:
+“Generally small and widely dispersed fossil sites suggest that Neanderthals lived in less numerous and socially more isolated groups than contemporary Homo sapiens. Tools such as Mousterian flint stone flakes and Levallois points are remarkably sophisticated from the outset, yet they have a slow rate of variability and general technological inertia is noticeable during the entire fossil period. Artifacts are of utilitarian nature, and symbolic behavioral traits are undocumented before the arrival of modern humans in Europe around 40,000 to 35,000 years ago.” (
+wikipedia
+)

@@ -1,0 +1,143 @@
+Title: Digital Minds Are Most of What Matters
+Source: benthams
+URL: https://benthams.substack.com/p/digital-minds-are-most-of-what-matters
+Date: Sat, 24 Jan 2026 16:39:55 GMT
+Word Count: 2143
+Estimated Read Time: 10 minutes
+
+================================================================================
+
+Digital Minds Are Most of What Matters
+Bentham's Newsletter
+Subscribe
+Sign in
+Digital Minds Are Most of What Matters
+They matter even more than insects, shrimp, people, etc.
+Bentham's Bulldog
+Jan 24, 2026
+52
+99
+15
+Share
+It’s unlikely that there are any digital minds right now, but the class of entities that will matter most in history is digital minds.  Making sure their interests are taken seriously will be one of the main determinants of how well the future goes.  And you should think this even if you assign a low probability to there being any digital minds.  Compared to the welfare of expected digital minds, all other welfare is a rounding error.
+Why think this?  First, digital minds could be produced with amazing efficiency.  Computing has
+grown vastly more efficient
+.  If digital minds are possible, it should be cheap to create them in enormous numbers.
+Second, in the far future, we should expect access to lots of energy.  In the next many billions of years, we are likely to find ways of
+harnessing enormous amounts of energy
+. Nearly all the stuff in the universe that could be converted to value is outside of Earth.
+It is a lot easier to convert space resources into computing than into biological organisms.  Biological organisms need a stable habitat.  Probably we’d need to terraform other planets to make them habitable for biological organisms.  Yet this is costly and inefficient.  For this reason, it would be hard to sustain very large populations of biological organisms.  Not so for digital minds, which could be directly generated from space’s abundant resources.
+These two factors mean there could be lots of future digital minds.  One estimate
+put the number around 10^58
+, many orders of magnitude more than the number of humans, and there are reasons to think that estimate might be conservative.  Don’t take this number too literally, but the important takeaway is that even if you were pretty sure that there couldn’t be digital minds, still roughly all expected future minds would be digital.
+Earth is small compared to space (SOURCE???).  In total it looks like we’ll be able to reach between
+10^21 and 10^23 stars
+.  Most welfare will be had, therefore, by the organisms that will populate space, which can by and large only be digital minds.
+IMAGINE ALL THE UTILS, LIVING FOR TODAY. YOU MAY SAY I’M A DREAMER, BUT I’M NOT THE ONLY ONE.
+The third factor that makes nearly all expected welfare digital is that digital beings could have a lot more welfare than biological beings.  We’ll be in charge of designing digital minds—we won’t for biological beings.  For this reason,
+we’d be able to
+:
+Give digital minds vastly more intense experiences than humans have.
+Slow down their experiences, so that they subjectively experience them for longer.
+Give them very great quantities of all the goods that might make their lives go well.  Make them knowledgeable, wise, able to enter valuable relationships with each other, happy, and high-achieving.
+One final consideration is simply: the things we do matter a great deal to the welfare of digital minds.  In the future, it’s very likely that we’ll try to safeguard human interests.  In contrast, there are a range of future ways we might treat digital minds which range from slavery and torture to treating their welfare like our own.  Humans don’t have a great track record of taking seriously the welfare of beings very different from ourselves.  The stakes are very high.
+Together, these factors lead to the following very simple argument for digital beings being the primary beings that matter:
+If nearly all expected beings are of some type, and they will have vastly higher expected average welfare than other beings, then what happens to that type of being matters more than what happens to other beings.
+Nearly all expected beings are digital, and they will have vastly higher expected average welfare than other beings.
+So what happens to digital beings matters more than what happens to non-digital beings.
+This conclusion strikes me as very simple, straightforward, and even somewhat obvious.  And yet it’s routinely mocked by critics of effective altruism.
+@timnitGebru (@dair-community.social/bsky.social)
+@timnitGebru
+They're literally talking about "the moral status of future digital minds."
+I dunno about their talk about media dying y'all are killing it yourselves with this shit smh.
+11:57 PM · Oct 22, 2022
+6 Replies
+·
+6 Reposts
+·
+84 Likes
+Unsurprisingly, Gebru doesn’t bother to argue against this thesis, hoping that her audience will dismiss it because it sounds funny.  So what objection could one have?
+First, you might doubt it’s good to create digital minds.  You might think that there’s no proactive reason to bring someone into existence, and so we shouldn’t worry about filling space with happy digital minds.  But this isn’t an adequate response.
+First of all, I think there are many very strong philosophical arguments against such a view.  I’ve already laid them out
+here
+, so I won’t repeat them.  TLDR: the view that there’s no reason to create a happy person is plagued with structural problems, and conflicts with many obvious ethical judgments.
+Second, this judgment at best undermines the case for there being a strong reason to create happy digital minds.  But it wouldn’t undermine the claim that most of what matters in the future is what happens to digital minds.  If the future will likely have a lot of digital minds, then even if there’s no reason to create them, it’s important that the ones that we do create have good lives.
+Third, even if you’re unsure about population ethics, you should think there’s
+some chance
+it’s good to create a happy person.  Otherwise it’s probably neutral.  And yet if creating a bunch of happy digital minds might be good and might be neutral, then it’s very good in expectation.
+1
+A second objection you might have: perhaps digital minds don’t matter because they’re not human.  I don’t find this line of reply promising.  If there are beings that are smarter, more virtuous, and happier than us, the fact that they’re made out of silicon shouldn’t lead us to discount their interests.  If your mind got uploaded to a computer, assuming you retained consciousness, your welfare would still matter.
+Even if you think members of our species matter somewhat more than members of other species, given just how extreme the predominance of digital welfare could be, you should still mostly care about digital minds.  And the kind of extreme speciesism that says only biological humans matter is quite implausible; it would imply that Superman wouldn’t matter, nor would Lord of the Rings elves or dwarves.
+A third concern: you might doubt that digital minds are possible in principle.  Perhaps you think consciousness is substrate dependent, so that only certain kinds of material can give rise to it.  I’m pretty skeptical of this.
+First of all, I think there are a number of strong arguments for the
+possibility of digital sentience
+.  This is the view held by most philosophers, and it’s implied by leading views of philosophy of mind.
+Expert forecasters
+who specialized in fields related to the existence of digital minds estimated a 90% chance digital minds were possible in principle.  They estimated a 50% chance of digital minds existing by 2050.  If you’re not an expert, you should probably just defer.
+Second, even if you’re skeptical of substrate independence, you should still think digital minds are possible in principle.  Even if you need a pretty special recipe to get a mind, there’s no strong argument for thinking that recipe requires carbon.  This might make it harder to get digital minds, but it doesn’t affect the core argument.
+Third, even if you were pretty sure that digital minds couldn’t be conscious, they might be so numerous that nearly all expected sentient beings are digital.  Even just a 1% chance that there might be a population quintillions of times more numerous than people, that might either suffer or experience joy at incomprehensible levels, would be an enormous deal.  The difference in scale is so massive that it dominates any concerns about the possibility of digital sentience.
+You might be skeptical that digital minds are conscious or as morally important as people if you’re religious because you think they’re not made in the image of God.  But you shouldn’t be confident in this, just as you shouldn’t be confident that if you came across human-like aliens, they weren’t made in God’s image.  Catholic philosopher Brian Cutter elaborates on this argument
+here
+.  And even if you think there’s only a 1% chance sophisticated minds are made in God’s image, still nearly all expected people made in God’s image would be digital.  In addition, animals aren’t made in God’s image on standard views, but they still matter.
+If I’m right about this, then having an adequate legal system for handling AI welfare is hugely important.  More research should be done into which legal regimes could protect digital minds, without neglecting human interests.  If you want to donate somewhere to help protect the interests of digital minds,
+Eleos is the best place to give
+.  If you give at least 500 dollars straight up, or 30 a month to Eleos, in response to this article, you get a free paid subscription to the blog.
+(I should note: to think Eleos is doing good work, you don’t need to think digital minds are the beings that matter most in the aggregate, and that’s not a position that I’ve ever heard Eleos advocate.  All you have to think is that how we treat digital minds is important).
+When explaining why you should give to shrimp welfare, I’ve given the following thought experiment: imagine that you could prevent 15,000 shrimp from freezing and suffocating to death by spending a dollar.  Turns out that’s the effectiveness of a dollar given to the shrimp welfare project.  But given just how numerous future digital minds could be, and the potential staying power of early efforts, giving a dollar to Eleos might be like preventing millions or billions of digital minds from being tortured, in expectation.
+2
+This conclusion is a lot less weird than my views about shrimp and insects.  Intuitively, because of their cognitive simplicity, we don’t value their interests much.  But digital minds could be a lot more mentally complex than us.  It’s not radical or extreme to think that if we may be in the process of creating beings
+vastly more numerous than humans
+, with vastly more welfare than humans, it’s important to make sure their interests are taken seriously.
+1
+There are also reasons to think
+that if you had many digital successors, they would all be you in the sense relative to prudence.  Thus, creating lots of psychological digital successors of ourselves is very good even assuming the person-affecting view.
+2
+This estimate is quite conservative when you take into account:
+There are basically no people working on making the future go well for digital minds.
+~100% of expected beings are digital.
+Actions we take now
+could have ripple effects for a long time
+, as legal regimes often persist, and there’s some chance of near-term lock-in.
+Estimates put the number of digital minds on the order of 10^58.
+52
+99
+15
+Share
+Discussion about this post
+Comments
+Restacks
+Petrus
+4d
+Liked by Bentham's Bulldog
+One of my favorite things about this blog is just how open-minded you are. Even though I often disagree with your conclusions, I like how you never dismiss any idea -- whether it be a multiverse that contains all possible people, a world where miracles happen all the time, or a world where AI is conscious -- as inherently ridiculous and not worth engaging with, simply because it sounds weird. And although I don't agree with a lot of your weirder ideas, I will admit that I'm not really sure how to refute them, because you follow the evidence where it leads, instead of being led by pre-determined biases.
+Reply
+Share
+2 replies by Bentham's Bulldog and others
+Avi
+4d
+Liked by Bentham's Bulldog
+Shameless plug but if you're interesting in reading more about the case for and against digital minds (i.e. the risks of both underattributing and overattributing moral status and what science can presently disambiguate vs what is unclear) you might check out our quickstart guide where we group podcasts for a casual exploration, papers for a deeper dive, and map out the nascent landscape of the research field.
+https://open.substack.com/pub/aviparrack/p/digital-minds-a-quickstart-guide?r=4oely6&utm_campaign=post&utm_medium=web
+Reply
+Share
+97 more comments...
+Top
+Latest
+Discussions
+No posts
+Ready for more?
+Subscribe
+© 2026 Bentham's bulldog
+·
+Privacy
+∙
+Terms
+∙
+Collection notice
+Start your Substack
+Get the app
+Substack
+is the home for great culture
+This site requires JavaScript to run correctly. Please
+turn on JavaScript
+or unblock scripts

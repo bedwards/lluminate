@@ -1,0 +1,671 @@
+AI might be better at software
+architecture than humans. Not because AI
+is smarter, but because humans are
+structurally incapable of the kind of
+vigilance that good scaled technical
+architecture requires. That's a very
+strong claim and it cuts against
+everything we've been told typically. So
+the conventional wisdom for a couple of
+years now has been AI is bad at
+technical architecture because
+architecture requires holistic thinking,
+creative judgment, wisdom accumulated
+over the years. And architecture is
+supposedly one of the last bastions of
+human engineering, the domain where
+experience and intuition matter the
+most. But here's what I keep noticing.
+When engineers describe their
+architectural failures, the performance
+that degraded over months or caching
+layers that broke quietly or technical
+deck that kept accumulating despite
+everybody's best intentions, the root
+cause is almost never bad architectural
+judgment. It's almost always lost
+context. The information needed to
+prevent the problem did exist. It was
+just spread across too many files, too
+many people, too many moments in time.
+No single human mind could hold it all
+at once. The original architectures are
+often fine. The engineers are competent.
+The code reviews are typically thorough.
+But somewhere between the initial design
+and the daily reality of shipping
+features to production, systems rot. And
+every individual change can make sense
+and everything can pass review. And yet
+together we get into a position where we
+create messes that no single person saw
+coming. It's sort of a tragedy of the
+commons written in architectural
+failure. It's not a dramatic collapse.
+feels more like a slow rot and it
+doesn't mean that people are bad
+engineers. Good engineers operating
+under human cognitive constraints can
+still get into this situation. So I
+wanted to ask a provocative question.
+What if we've been thinking about all of
+this backwards? What if there are
+specific dimensions of architectural
+work where AI isn't just adequate but
+structurally superior to humans? Not
+because of intelligence, but because of
+attention span, memory, and the ability
+to hold an entire codebase sort of in
+mind while evaluating a single line
+change. And increasingly, as you get
+larger and larger context windows and
+searchable context, that becomes a more
+viable mental model to imagine for our
+AI agents. This is not a palemic about
+AI replacing architects. Architects
+still have key role as you'll see. It's
+actually an attempt to reason backwards
+from key principles that underly
+architecture and understand where
+cognitive advantages actually lie for
+humans and AI in the space and think
+about what that means for how we build
+software together as AI partners with us
+in 2026 and beyond. So step in with me
+let me start with a piece that's been
+circulating in engineering circles
+recently. Ding, who spent roughly 7
+years at Versel doing performance
+optimization work, has opened roughly
+400 poll requests focused on
+performance. And we know this because he
+wrote about it. And about one in every
+10 of the ones he's submitted is
+crystallizing a problem for him that
+I've seen across every large engineering
+organization I've worked with. And his
+thesis is that performance problems
+aren't technical problems. They're
+actually entropy problems. And I think
+that's a profound insight. The argument
+goes like this. Every engineer, no
+matter how experienced, can only hold so
+much in their head. Modern code bases
+grow exponentially. Dependencies, state
+machines, async flows, caching layers.
+So the codebase grows faster than a
+given individual can track. This is even
+more true in the age of AI. So engineers
+shift their focus between features.
+Context will fade. It'll fade even
+faster in the age of AI. And as the team
+scales, knowledge becomes distributed
+and diluted. And so his framing his
+framing just sticks in your head. So he
+wrote, "You cannot hold the design of
+the cathedral in your head while laying
+a single brick." I think that's really
+true. And it's going to be more true if
+we imagine a world where it's AI agents
+everywhere laying those bricks for the
+cathedral. And here's where it gets
+interesting. The same mistakes keep
+appearing across different organizations
+and code bases. We have faster
+frameworks now. We have better
+compilers. We have smarter llinters. We
+have AI agents. But entropy is not a
+technical problem that you can patch.
+It's a systemic problem that emerges
+from the mismatch between human
+cognitive architectures and the scale of
+modern software systems. And we tell
+ourselves if engineers can pay
+attention, if engineers can write better
+code, the application will just work.
+Good intentions do not scale. It's not
+because engineers are careless. It's
+because the system allows degradation.
+So entropy wins not through malice and
+not through incompetence, but through
+the accumulation of local reasonable
+decisions that nobody saw adding up to
+systemic problems. Let's let's make this
+tangible with examples from production
+code bases. Example one, abstraction
+conceals cost. So a reusable pop-up hook
+that looks perfectly clean and adds a
+global click listener to detect when
+users click on a popup on your website.
+It's a reasonable implementation, but
+the abstraction hides something
+critical. Every single instance adds a
+global listener. So if you have a 100
+popup instances across your application,
+and you do on complicated websites,
+that's a 100 callbacks firing on every
+single click anywhere in the website.
+The technical fix is easy. You just
+dduplicate the listeners. But the real
+problem is systemic. Nothing in the
+codebase prevents this pattern from
+spreading. Next time, the engineer
+reusing the hook has no way to know the
+cost until users complain about sluggish
+performance in production. The
+information needed to make a better
+decision does exist. It's just invisible
+at the point where decisions are made.
+Example number two, fragile
+abstractions. Let's say an engineer
+extends a cacheed function by adding an
+object parameter. Reasonable change, you
+add a parameter, you can extend the
+functionality. The code compiles and the
+test passes and everything looks good.
+But every call ends up creating a new
+object reference which means the cache
+never hits. It's completely broken
+silently. The technical knowledge to do
+this correctly exists in the
+documentation. The systemic problem is
+that nothing enforces that
+documentation. Type safety doesn't help.
+It won't get caught with a llinter. The
+cache just quietly stops working and
+nobody notices until someone profiles
+the app months later. Example three.
+Let's say an abstraction grows opaque or
+hard to see through. Say a coupon check
+gets added to a function that processes
+orders. The engineer is solving a local
+problem. I have to add coupon support.
+My product manager told me to. So they
+add an await for the coupon validation.
+It seems reasonable, but the function is
+a thousand lines long. It's built by
+multiple people. The coupon check now
+blocks everything below it, creating a
+waterfall where sequential operations
+could have run in parallel. The engineer
+adding the check isn't thinking about
+global asynchronous flows in checkout.
+They can't see how the that flow because
+it's spread across hundreds or thousands
+of lines of code written by people who
+no longer work there. The optimization
+is technically possible. But the
+information needed to see the
+opportunity exists only if you can hold
+the entire function of checkout in your
+head while understanding the performance
+implications. And because of the way
+human organizations work and the way
+code is built and distributed, and this
+is even more the case in the age of AI,
+nobody can hold all of that in there.
+Example four, optimization without
+proof. An engineer memorizes a property
+access wrapping condition. They've
+learned that memoization optimizes
+expensive work, but reading a particular
+property is instant. And so they create
+a memoization closure. Tracking
+dependencies and comparing on every
+render is actually more expensive than
+just reading them. Example four,
+optimization without proof. An engineer
+applies a performance optimization to a
+piece of code. They've learned that this
+technique, it's called memoization,
+speeds things up by remembering results
+instead of recalculating them. That's a
+great instinct, but the operation
+they're optimizing was already instant.
+It's like installing a complicated
+caching system to remember that 2 plus 2
+is four. The overhead of the system now
+takes longer than just doing the
+original calculation. The engineer
+applied a best practice and never
+checked whether it was needed. And the
+system allowed it because the
+improvement looked good on paper. These
+are not edge cases. They're the normal
+failure mode of software at scale. Each
+individual decision was defensible and
+each engineer was competent. The
+failures emerged from context gaps that
+an individual could not bridge. Now I
+want to introduce a frame that I think
+is underappreciated in the AI and
+architecture discourse. We humans have a
+fundamental cognitive constraint.
+Working memory. The research here is
+very well established. We can hold four
+to seven chunks of information in our
+heads. This is not a training problem.
+It's not something you can overcome with
+experience. It's a structural
+limitation. This matters enormously for
+architecture because good architectural
+reasoning requires holding multiple
+concerns simultaneously. Performance
+implications, security considerations,
+maintainability, the existing patterns
+in the codebase, the downstream effects
+on other teams, even a moderately
+complex architectural decision might
+involve a dozen relevant considerations.
+We don't hold them in our heads well at
+once. And so we tend to use abstractions
+to cycle through and build mental models
+and understand how to think. And we're
+actually very good at that. And good
+architects simplify and build
+abstractions to understand complex
+systems very very well. The problem is
+that we are all relying on our own
+mental hardware to do that. We're not
+all equally good at it. And abstractions
+only scale so far if you're doing them
+in your head. So when a human reviews
+code, they can either zoom in on the
+local change or zoom out, but they have
+trouble doing both with equal fidelity.
+And this is why code review will often
+catch bugs, but miss architectural
+regressions. Now, zoom way out. Look at
+what happens at the scale of a business.
+Large engineering teams are essentially
+distributed cognitive systems.
+Individual engineers hold fragments of
+the total system knowledge.
+Communication overhead grows
+quadratically with team size and context
+transfer between engineers is extremely
+lossy. So institutional knowledge decays
+as people leave and just decays
+inherently. The engineer who knew why
+the weird caching pattern exists moved
+on to another company a long time ago
+and the documentation if it ever existed
+is out of date. So this creates a very
+predictable failure mode. Architectural
+regressions that no single engineer
+could have seen because seeing them
+would have required synthesizing
+information that was distributed across
+the entire cognitive system. Research
+from factory.ai frames this as the
+context window problem for human
+organizations. A typical enterprise mono
+repo will span thousands of files and
+millions of lines of code. The context
+required to make good decisions about
+the architecture of that code also
+includes the historical context of how
+the code was built, the collaborative
+context like what are the team
+conventions and the environmental
+context. What are the deployment
+constraints? No human can hold all of
+this in their head. We cope by building
+mental models that are necessarily
+incomplete but that we hope are useful
+abstractions. Here is where we need to
+think carefully about what AI systems
+actually are. And rather than relying on
+intuition about what machines can and
+can't do, we should look seriously about
+at what modern large language models
+when deployed with sufficient context
+can do because they have a very
+different cognitive architecture than
+humans. They don't have the same working
+memory constraints. They can hold a
+200,000 token context window, maybe
+150,000 words in a form of attention
+that allows constant cross referencing
+across that entire input length. Some
+models now support context windows of a
+million tokens or more that are usable.
+This isn't intelligence in the human
+sense. It's something different.
+Comprehensive pattern matching across a
+very large context window with the
+ability to apply consistent rules
+without fatigue or forgetting. Now look
+at what that means for the entropy
+problem. The examples I described
+earlier, the hook adding global
+listeners, the cache that breaks
+silently, those are all cases where a
+human making a local change cannot see
+the global implications. An AI system
+with the entire codebase in context or
+retrievable on demand doesn't have the
+same constraint. It can check whether a
+hook pattern is being instantiated
+hundreds of times. It can trace the
+referential quality implications of
+cache usage. It can analyze asynchronous
+flows across an entire function. It can
+check whether the operation being
+memoized is actually expensive. More
+importantly, it can do this consistently
+every time without deadline pressure,
+without expertise validations, without
+the knowledge walking out the door when
+an engineer changes teams, without the
+cognitive fatigue of reviewing your 47th
+pull request of the week. Now, the
+Versel team has begun actioning on this.
+They they are distilling over a decade
+of React and Nex.js optimization
+knowledge into a structured repository.
+40 plus rules across eight categories
+ordered by impact from critical to
+incremental. Uh critical would be
+eliminating waterfalls. Incremental an
+example would be an advanced technical
+pattern. The repo is designed
+specifically to be queriable by AI
+agents. And when an agent reviews code,
+it can reference those patterns. And
+when it finds a violation, it can
+explain the rationale and show the fix.
+The observation matches what I've seen
+across other orgs. Most performance work
+fails because it starts too low in the
+stack. If a request waterfall adds over
+half a second of waiting time, it
+doesn't matter how optimized your calls
+are. If you ship an extra 300 kilobytes
+of JavaScript, shaving microsconds off
+the loop doesn't matter. You're
+essentially fighting uphill if you don't
+understand how optimizations actually
+work in a stack. The AI can enforce a
+priority ordering that's consistent and
+it will not get tired of reminding
+people about how leverage works in
+technical systems and how larger goals
+like faster page load can actually be
+accomplished inside a set of technical
+rules for how we construct our systems.
+So let me enumerate these categories
+more precisely because I think the
+specificity is helpful. First, AI has a
+structural advantage when we can apply
+consistent rules at scale. Humans are
+not going to check 10,000 files against
+a set of principles with the same
+attention they'd give 10. That's not
+true with AI. AI can apply identical
+scrutiny to every file. And this matters
+for ensuring consistent error handling
+patterns, checking that all API
+endpoints follow conventions, etc. AI
+has a structural advantage around global
+local reasoning, the cathedral and brick
+problem, right? AI can reference
+architectural documentation while
+simultaneously examining line by line
+changes, maintaining both levels of
+abstraction simultaneously in a way our
+brains don't do well. This is sort of
+like peripheral vision. It's like seeing
+the forest and the trees at once. And a
+human reviewer doesn't do that. They
+zoom in or zoom out. And AI can do both
+in the same pass. Pattern detection
+across time and space. AI systems with
+access to version history and the full
+codebase can identify patterns that span
+the organization's entire experience.
+Say this cache pattern has been misused
+in this codebase three times before.
+This type of waterfall was introduced
+and later fixed. Humans cannot maintain
+that degree of institutional memory. AI
+can if the systems are built to surface
+it. And that is a big question. It's a
+question for humans. AI can teach at the
+moment of need. This is perhaps the most
+underappreciated advantage. When someone
+writes a waterfall or a system, a good
+system doesn't just flag that as an
+architectural defect. It can explain why
+that is a problem and show you how to
+parallelize it so that you don't cause
+page load issues on checkout. When they
+break a cache, you can explain the
+referential equality issue in a way that
+a junior engineer can understand. This
+education can be embedded in workflow
+rather than relying on pre-existing
+knowledge that may or may not be
+current. And it's certainly more than
+would ever be covered in onboarding. AI
+has tireless vigilance. Humans under
+deadline pressure, we just skip stuff.
+Humans will context switch between
+features. Humans reviewing their teenth
+PR are going to be less sharp. Humans
+let things slide when they're tired and
+frustrated. So this is the larger
+insight that I think the industry is
+just on the edge of internalizing. There
+are specific categories of architectural
+reasoning where AI is not just helpful,
+it is structurally superior to human
+cognition because the task requirements
+exceed human cognitive constraints. It
+is not because the AI is smarter. It is
+because the task is pattern matching at
+scale and humans aren't built for that.
+Now, where does the AI still fall short?
+This is where we still need nuance. The
+same reasoning that reveals AI's
+advantages is going to expose its
+limitations. And these limitations are
+not temporary gaps. They're structural
+features of AI systems, novel
+architectural decisions. AI systems are
+fundamentally tuned on existing code and
+documentation. They excel at identifying
+when code deviates from established
+patterns. They are not good at inventing
+new patterns. And you see that when
+cutting edge engineers like Andre
+Carpathy talk about not being able to
+use AI to code net new things. AI
+assistance is often limited to reasoning
+from possibly relevant prior examples.
+And if there are no prior examples, it's
+going to be hard. Business context and
+trade-offs. Architecture is not just
+about what's technically optimal. It's
+about trade-offs between competing
+concerns around development velocity,
+maintainability, consistency, and
+flexibility. These trade-offs are
+contextual and uh tied to organizational
+constraints, tied to market pressure. An
+AI can tell you that a pattern creates
+technical debt, but it can't tell you
+whether that's the right call or not.
+Cross-system integration. Modern
+architectures involve multiple systems,
+often owned by different teams or or the
+integration points often are not fully
+documented in any single source the AI
+can access. The engineers who know that
+this service is maintained by X team
+that ships on a different cadence are
+going to have organizational context
+that no code analysis can provide. The
+person who remembers we tried this
+integration before and it caused issues
+during Black Friday has historical
+context that's probably not accessible
+to the AI. Judgment about good enough
+architecture involves knowing when to
+stop optimizing and technically superior
+solutions that take 6 months aren't
+necessarily better than adequate
+solutions that ship now. The perfectly
+clean architecture doesn't help if it
+just exists on paper. This kind of
+judgment requires understanding stakes
+and risks and humans remain very very
+good at it. the why behind existing
+decisions. Code bases are archaeological
+artifacts. They contain decisions made
+under constraints that no longer exist.
+An AI can see what the code does. It
+often cannot infer why the decision was
+made that way and can't distinguish
+between loadbearing decisions and
+historical accidents. Humans can't. So
+what does all of this mean for how we
+should actually think about deploying AI
+assisted development systems? First,
+please recognize that the value
+proposition is specific. I have taken
+time to go into the specifics of where
+AI excels in architectural problems and
+where it doesn't because I think that we
+have to be specific if we want to
+position AI as a useful tool in these
+conversations. If you want to position
+AI as a general purpose oracle, you're
+not going to get very far. Second, the
+patterns have to exist before AI can
+enforce them. And I note that Versell is
+taking the time to distill years of
+performance optimization experience into
+structured rules. They're not just
+depending on the AI to derive those
+rules from the codebase because they
+know they're not consistently applied.
+It takes preparatory work and commitment
+to live out these principles with AI.
+Third, the context problem is a hard
+challenge. Even with a million token
+context windows, enterprise code bases
+can be 10 or 100 times larger than that.
+And so the scaffolding required to
+surface the right context for a given
+decision is non-trivial. It requires
+semantic search, progressive disclosure,
+possibly a rag, possibly not, possibly
+structured repository overviews. This is
+where much of the engineering effort to
+get a system like this ready would go.
+Model intelligence is increasingly
+commoditized. Context engineering is the
+differentiator. And companies like
+factory.ai and augment are building
+entire products around the idea that you
+need to surface the right context at the
+right time in order to take full
+advantage of model capability. I would
+call out again that human judgment
+remains irreplaceable even in those
+systems. So novel decisions, business
+context, cross-system integration. AI
+can handle pattern matching. AI can
+handle consistency enforcement if we set
+it up to do so. Humans are still going
+to need to be involved to do what we're
+good at to make the judgment laden
+decisions we need to. Our goal is simply
+to put AI in the parts of the
+architecture where humans were going to
+lose to entropy. Anyway, fifth and
+finally, the organizational implications
+of all this are really interesting. If
+AI can enforce architectural patterns
+consistently, whose patterns are they?
+How do you govern the rule sets? How do
+you evolve them over time? How do you
+handle disagreements between teams with
+different architectural standards? Those
+have often written under the surface.
+Those have been implicit disagreements.
+this conversation talking about hey how
+AI can help us with enforcing
+architectural principles at scale to
+reduce entropy in our systems it's gonna
+force teams that traditionally didn't
+have to fight because their principles
+could just stay separate to have larger
+conversations and I think that's going
+to be a new area of organizational human
+alignment that we have to sort through
+the pattern I keep seeing in
+organizations is that we keep asking the
+wrong question we keep asking where can
+AI I autonomously and independently
+drive on development. Maybe AI should be
+shunted out of architecture altogether,
+etc. I think we should ask more specific
+questions about AI and technical
+development. I think a good example of
+that is what aspects of technical
+architecture can we put AI against
+because we notice as humans that we have
+consistent weaknesses in these spaces.
+That takes a lot of nuance, right? It
+takes a lot of thoughtfulness to
+understand AI is structurally superior
+at maintaining context at scale and
+humans are structurally superior at
+judgment under uncertainty. And then you
+have to think about where to apply that
+in these systems. This is not a story
+about replacement. This is a story about
+complimentarity and about getting that
+complimentarity right at scale and how
+that requires understanding our actual
+cognitive strengths as a species and
+understanding our actual limitations and
+designing AI systems that strengthen us
+by addressing our weaknesses. And I'm
+exposing that. I'm telling that story
+here today because I believe that this
+kind of conversation, this quality of
+thinking is what we need not just for
+engineers but for multiple different
+departments in 2026. We need to be
+thinking at this level in product, in
+marketing, in CS, where do we have
+cognitive blind spots? Where can AI
+patch those? Where do humans still play
+a role? That is the question of 2026.
+And I think digging in a little bit into
+an area where we have made some lazy
+assumptions about architecture and how
+AI works shows how rich the conversation
+can be. The future of software
+architecture is not human versus AI. It
+is AI helping us with things like
+entropy that humans were always going to
+lose at while humans focus on some of
+the creative and contextual work that AI
+just can't touch. Understanding that
+distinction and really deeply
+implementing it helps organizations to
+actually thrive in the age of AI instead
+of to make lazy assumptions and just
+struggle. There is no substitute for
+turning on our brains and thinking
+through issues at this level. And it is
+not just engineers. I know I do dove
+into the technical deep end here, but
+everybody's going to have to think at
+this level about how their systems work
+in order to build effective partnerships
+between AI and humans in 2026. X.

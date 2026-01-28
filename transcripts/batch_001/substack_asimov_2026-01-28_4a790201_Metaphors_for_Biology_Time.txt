@@ -1,0 +1,262 @@
+Title: Metaphors for Biology: Time
+Source: asimov
+URL: https://www.asimov.press/p/metaphors-time
+Date: Wed, 28 Jan 2026 14:14:38 GMT
+Word Count: 2921
+Estimated Read Time: 14 minutes
+
+================================================================================
+
+By Sam Clamons
+The interior of a cell is densely packed with millions of molecules vibrating, jostling, and moving about. Sugar molecules fly through a cell at 250 miles per hour, ricocheting off of ribosomes, organelles, cytoskeletal fibers, and enzymes. Indeed, every
+protein
+in the cell is hit by about 10
+13
+water molecules each second. This chaos makes biology seem hopelessly convoluted. With everything moving so quickly, how can we begin to understand biomolecules?
+As with other hard-to-intuit quantities in science, one could look up biological rates using resources like PubMed or
+BioNumbers
+, to discover facts like “water flows through aquaporin at 100 million molecules per second,” or “yeast transcribes RNA at 0.12 molecules per minute.” But knowing a number doesn’t necessarily give one a feel for it. Are those rates… fast? How do they compare to protein folding? Or enzymatic activity? Or squeezing a muscle?
+In short, how fast do things in a cell happen, from the perspective of the molecules it’s made from?
+We can answer this question with a quantitative metaphor, by visualizing the most important goings-on of a typical cell slowed down to speeds that are still accurate relative to one another, but matched to what we experience in the everyday world. The slowdown factor we pick should make it easy to understand the molecular machines that run our cells — proteins. Ideally, we would scale the fastest functionally important protein event to match the shortest unit of human perception.
+As a representative “fastest functionally important protein event,” I’ve picked the opening of a membrane-bound ion channel — specifically, a potassium-gated ion channel.
+1
+This protein channel opens and closes to allow potassium ions into the cell. This conformational change must happen very quickly. So, for the sake of our metaphors, let’s imagine
+slowing down the opening of this channel 10,000x, so it only takes as long as the blink of an eye
+. If this were the case, then…
+Molecular Events
+The fastest motions in chemistry are the
+internal vibrations of molecules.
+Hydrogen atoms in a water molecule, for example, constantly
+stretch, bend, rock, and twist
+. Even slowed 10,000x, such molecular bonds would still wiggle billions of times each second — a million times faster than the vibration of a piano’s middle-C string.
+2
+Molecular
+velocity
+is a different story. At our 10,000x slowed-down scale, an average room-temperature water molecule moves at a zippy 6 centimeters (about a finger-length) per second.
+3
+Finally, there is
+average displacement
+. Our zipping water molecules collide so frequently that they don’t appear to be traveling in one direction, but rather they mostly jiggle in place. They
+do
+diffuse around eventually, but that diffusion is much slower than 6 cm/s. Diffusion rate isn’t a speed,
+4
+but we can see how long it would take (on average) to diffuse some important cell-scale distances. At 10,000x time scale, water in the cytoplasm diffuses:
+The width of an
+E. coli
+(1 µm) in 8 seconds.
+The width of a typical skin cell
+(20 µm) in an hour.
+The width of a human hair
+(100 µm) in a day.
+Deep writing about biology. Subscribe!
+Protein Events
+The fundamental mechanical unit of biology is the protein — machines built out of chains of amino acids that do most of the work of life at the molecular scale. Before a protein can be used by a cell, though, it must be built. The sequence of the protein must first be read from DNA to messenger RNA (transcription) and then from the mRNA into a chain of amino acids (translation). Assembled amino acid sequences also need to fold into their proper shape, and sometimes require further processing before they’re fully functional.
+5
+At our 10,000x slowdown….
+During transcription,
+RNA polymerases add ribonucleic acids to growing mRNA at a rate of about one base every 3.5 minutes. This means that a typical bacterial gene will get transcribed in about 2.5 days. Human genes contain massive non-coding introns, so they take more like two months, and their mRNAs will need to be processed by further downstream steps before they can be passed to a ribosome.
+During translation,
+a
+ribosome adds an amino acid to the end of a growing protein about once every half hour. For a typical protein (bacterial or eukaryotic) of a few hundred amino acids, this means that translation
+takes about 6 days.
+A chain of amino acids needs to fold into its functional form to be useful
+. The time this takes is roughly exponential with the square root of the length of the protein, which adds a lot of variability to protein construction rates:
+The fastest-folding proteins
+, which are little more than a single helix or similar structure, fold in about 20 milliseconds, which is a fifth of an eyeblink.
+Proteins of more typical size
+(a few hundred amino acids) take more like an hour or a day to fold. Slow, but still faster than translation — these proteins likely fold as they’re being built, and may be ready to work shortly after they’re released from the ribosome.
+Proteins with complex or slow maturation processes
+(some of which require covalent modification, not just folding) can take much, much longer to mature than they take to be synthesized by a ribosome!
+GFP
+(green fluorescent protein) takes 5.5 days to translate but almost a
+year
+to become functional!
+What kind of time-scales do proteins
+act
+on, in our metaphor? Proteins do many different things over many different time-scales, so we’ll have to select some illustrative examples:
+When a
+voltage-gated potassium channel opens
+, the outside-the-membrane half of the gate first uncoils gradually over the course of about 1 second. After a delay averaging another second, the inner half of the channel will snap open as fast as an eyeblink (about 100 milliseconds), after which potassium will start flowing in a rapid stream.
+ATP synthase
+, in the process of producing ATP, rotates
+about once every 50 seconds. Each rotation assembles three ATP molecules.
+A distant cousin of ATP synthase,
+the swimming flagella of an
+E. coli
+bacteria
+, is a bit faster, rotating every 30 seconds. A similar flagellum used by
+Vibrio alginolyticus
+rotates five times faster, once every six seconds.
+Superoxide dismutase
+,
+which converts superoxide free radicals into less-toxic hydrogen peroxide, is one of the fastest enzymes, working at a
+maximum rate of ten reactions per second
+— about as fast as the action of a voltage-gated ion channel.
+6
+An average metabolic enzyme under saturating conditions
+, on the other hand, processes about one molecule every 16 minutes.
+A kinesin motor takes one (8 nanometer) step
+in about 30 seconds
+.
+How long do proteins persist within a cell? Again, answers vary substantially.
+Most proteins in growing yeasts
+have metaphor-scale half-lives between 50 days and 5 years
+, with a median of about 300 days. The shortest-lived yeast proteins last about 3 weeks; the longest-lived have half-lives of over 200 years.
+Most proteins in a non-growing human fibroblast cell
+7
+have half-lives between 20 and 80 years
+, with a median of about 65 years.
+Ornithine decarboxylase, among the most ephemeral human proteins
+, has a metaphorical half-life of about 75 days.
+On the other end of the spectrum,
+the longest-lived known human protein is collagen
+, which provides strength and elasticity to skin. In physiological conditions, the average collagen protein
+sticks around for about 1.2 million years
+— longer than the human in whose skin it is embedded!
+Cell and Organism Replication
+DNA can be copied
+by a reasonably fast
+DNA polymerase, like that of
+E. coli
+, at 1 base pair every 17 seconds. In
+E. coli
+, that polymerase sticks to the DNA for an average of 10 days before falling off, having replicated about 1 percent of the genome.
+A fast-growing
+E. coli
+strain growing in ideal conditions in a laboratory divides
+once every 7 months.
+A human fibroblast in growing tissue
+(in a well-kept flask of media) will divide every 22 years. Each cell cycle can be divided into four broad phases:
+G1
+: 7.5 years. This is when the cell produces RNA and proteins required for DNA replication.
+S
+: 10 years. This is when the chromosomes are replicated.
+G2
+: 3.5 years. This is additional protein production, growth, and preparation for mitosis.
+M
+: 1 year. Mitosis, during which time the cell actually divides.
+A fruit fly in the lab lives
+about 820 years. Since nobody has a sense for what 820 years feels like, this is probably farther than we should stretch this particular quantitative metaphor — we’ll need a different one to directly relate to animal lifespans.
+Brains and Neurons
+To get a sense of the timescales of brain operation, let’s trace out one stimulus-response cycle (specifically, how a stimulus triggers a nerve impulse, which then leads to a response) at metaphorical speed. Consider a typical (non-athlete) college student being given the
+ruler-drop reflex test
+, where they are asked to wait until a ruler is dropped, then catch it as quickly as possible. In our metaphorical time scale:
+Without intervention, a 1-foot ruler will fully pass through the student’s hand
+in 41.7 minutes.
+Light takes about 10 microseconds (one 100,000th of a second) to travel from the ruler to the student’s eye
+. This is the physical limit on how quickly any physical process could react to the drop. As we’ll see, it’s a trivial duration compared to the time it will actually take a brain to react.
+Photoreceptors start sending measurable voltage signals
+within 50 seconds
+of being struck by light. This process is known as phototransduction.
+Neurons in the retina start working in response to signals from photoreceptors
+within 1.5 minutes.
+After passing through a handful of layers of neurons in the retina,
+signals travel through the optic nerve to the visual processing system of the brain
+at somewhere between ⅓ and 1 millimeter per second. The optic nerve is about 8 cm long, so that translates to a 1–4 minute transit time from eye to brain.
+8
+The visual cortex
+collates raw contrast information into lines and textures, lines and textures into simple shapes, and simple shapes into complex shapes and moving objects. About 15 minutes after the first instant of the drop, the brain has processed the first photons coming off the ruler and can, at least in theory, start issuing a command to grab it.
+The brain acts on its awareness of the drop and decides to catch the ruler
+in about 6 minutes.
+9
+Once the brain decides it’s time to catch the ruler, it needs to
+get a signal from the skull to the fingers
+. The peripheral neurons that carry this kind of information typically move signals at 4-5 mm/s, which adds a delay of about 4 minutes between the decision and the hand’s response.
+Finally, it takes a bit of time for
+the finger’s muscles to actually move to catch the ruler
+.
+Fingertip muscles can accelerate
+at about 1.1 mm/s
+2
+, which translates to a travel time of 5 minutes over the 5mm or so required to pinch the ruler.
+From direct measurements, we know
+that this whole process for a typical young adult
+takes about 30 minutes
+. A mixed martial arts fighter
+can catch the ruler
+in about ¾ the time.
+In short, at our metaphorical time scale, a speed test that we normally perceive at about the speed of an eyeblink is instead a half-hour affair, of which about half is waiting for neural processing and a quarter is waiting for signals to move along nerve fibers.
+Human-Made Things
+Now that we’ve calibrated a timescale for molecular biology, we can apply our metaphor to human-created devices, like electronics. What does human technology look like from the perspective of biochemistry?
+Accessing one byte of memory from RAM
+takes around 10 milliseconds — ten times faster than opening/closing a voltage-gated ion channel.
+Accessing one byte of memory from a solid-state SATA hard drive
+takes about 5 seconds.
+A typical consumer car engine at cruising speed cycles through one combustion cycle
+every 5 minutes. The jet engine of an F-22 Raptor is moderately faster, at about 40 seconds per turbine rotation.
+An LED flat screen TV refreshes
+once every 1.4 or 2.8 minutes, depending on the refresh rate. Similarly,
+one frame of a 30FPS video game
+lasts about 5.5 minutes, and
+one frame of a Hollywood-standard movie
+lasts about 7 minutes.
+A one-second clock tick by an analog wrist watch
+takes about 3 hours.
+Human technology is pretty speedy, even compared to biochemistry. Processors act on timescales that make voltage-gated ion channels look positively sluggish, and, amazingly, modern jet engines can rotate a little bit faster than ATP synthase, even though they are tens of millions of times larger and more than 24 orders of magnitude more massive!
+10
+Humans and the Everyday
+As could be guessed from the last few biological examples, our time metaphor loses much of its usefulness when applied to entire organisms. If a metaphor describes events in terms of epochs longer than the subjects of most history books, it’s hard to argue that the metaphor helps ground intuitions in the everyday.
+This is a good place to step back and take stock of the temporal ground we’ve covered. From the vibrations of intramolecular bonds to the lifespans of simple invertebrates, we’ve spanned 24 orders of temporal magnitude — one order of magnitude more than the span covered in our
+spatial metaphor article
+.
+The shortest ten orders of magnitude of duration are the realm of molecular motion, with molecules vibrating, spinning, and crashing about without discernible biological function. The next nine orders of magnitude — from tenths of a second to months — cover most of the biological processes we think about in molecular biology, from enzymatic processing of small molecules to sophisticated neural signal processing up through division of a fast-growing bacteria. Going up another four orders of magnitude allows us to see eukaryotic cell division, turnover of the longest-lived proteins, and lifespans of long-lived animals like humans.
+Yet we still haven’t covered the time scales of ecology and evolution! Even for our metaphor, evolutionary time scales are geologically slow compared to chemical ones. To build intuitions about rates of evolution, then, we’ll need to use a different time metaphor entirely, as we’ll explain in the next essay in this series.
+Subscribe now
+Download as PDF.
+Samuel Clamons
+is a bioinformatics scientist at Illumina, Inc. with a PhD in Bioengineering and training in applied mathematics and computer science. Outside of his day job, he writes science fiction and researches theoretical questions in biology at
+Asimov Press
+.
+Cite:
+Clamons, S. “Metaphors for Biology: Time.”
+Asimov Press
+(2025). DOI: 10.62211/27qi-28hq
+Header image by Ella Watkins-Dulaney.
+1
+I have picked the K
+v
+1.2/K
+V
+2.1 potassium-gated ion channel as representative for our yardstick measure largely because I was able to find good, detailed
+kinetics
+for its opening and closing. The K
+v
+1.2/K
+V
+2.1 ion channel (PDB:
+2R9R
+) is made up of four subunits: two K
+v
+1.2 subunits, encoded by the Kcna2 gene; and two K
+v
+2.1 subunits, encoded by Kcnb1. It selectively lets potassium ions pass when (and only when) induced by a positive voltage gradient.
+2
+For those who read our
+previous article on spatial quantitative metaphors
+, you can imagine a water molecule as a soft, steady blur the size of a grain of sand. It vibrates, but too fast to perceive as anything but a haze at its surface.
+3
+For readers of our previous quantitative metaphor article, we can also scale this
+up
+to the water-molecule-as-sand-grain scale. At that scale, water travels more like
+60 kilometers per second
+. Six centimeters is a long way, for a water molecule.
+4
+Unlike something with a velocity, the average time it takes to diffuse a distance is related to the
+square
+of that distance. It takes a lot longer to diffuse farther than it takes to travel farther.
+5
+Many proteins, for example, need to attach to other proteins to make a functional structure. Many others get decorated with complex, branching trees of sugar molecules, or get chopped and spliced by proteases.
+6
+This maximum rate is only actually achievable at high concentrations of superoxide (hundreds of micromolar). Cells do
+not
+like superoxide — that’s why they have superoxide dismutase — so under physiological conditions, there’s almost nothing for superoxide dismutase to act on. Instead of thinking of superoxide dismutase as a speed freak churning out ten hydrogen peroxide molecules per second, it’s more accurate to think of superoxide molecules occasionally being created by the cell, and then being located and annihilated by a superoxide dismutase in an eyeblink.
+7
+Technically, I sourced these numbers from a survey of protein half-lives in immortalized cancer cells (HeLa) in lab dishes. Healthy fibroblasts in a living human should have similar protein dynamics, but they probably differ a bit.
+8
+The optic nerve contains different neurons specialized for different functions, with different speeds, so information from the eye probably comes in smeared out over this 1–4 minute window.
+9
+I haven’t found any sources directly measuring this decision time, but can get it indirectly by subtracting the other processing steps from the total ruler-catching time.
+10
+Though jets are still beaten out by almost an order of magnitude by the bacterial propellers of the mighty
+Vibrio alginolyticus
+.

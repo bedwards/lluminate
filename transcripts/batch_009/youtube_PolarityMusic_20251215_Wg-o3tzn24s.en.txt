@@ -1,0 +1,415 @@
+Yo folks, welcome back. Bitwig Studio 6
+is still in beta and we are at beta 9 at
+the moment and it's probably or it's
+definitely the longest running beta for
+Bitwick Studio so far. But we also have
+a lot of features they implemented a lot
+of new GUI stuff and from that we have
+of course a lot of bugs to fix or they
+have a lot of bugs to fix. So, it's no
+wonder. So, it's expected. And the
+biggest question is probably, will they
+release a stable, a final version before
+Christmas? And my guess is no. Uh my
+guess is they probably release this
+early next year. But maybe there's a
+chance, a small chance, a small window
+uh that they release
+on Christmas Day or maybe before
+Christmas, but I doubt it. It's probably
+early next year. It's It's my guess.
+Anyway, so um beta 7 was very long
+awaited. I think people waited for over
+two or 3 weeks before they released beta
+7. So then quickly after that, we had
+beta 8 and beta 9 and they implemented a
+lot of interesting things in my opinion.
+Also things I
+had problems with in beta 1. Let's let's
+put it this way. Not like bug fixes,
+more like um stuff I wanted to have
+different and I want to show you some of
+the things here. So um this is beta 9
+and what they implemented here I think
+it was in beta 7 or so. Um this mode
+here it's called flying automation lane.
+So back in beta 1 we only had this
+button here this global automation mode
+or I don't know how it's called global
+automation automation mode. There it's
+it's just called automation mode.
+So, um let's implement here some kind of
+clip and let's use here my melody maker
+to make a quick
+uh two octave sequence. Something like
+this in C minor.
+And we maybe want to use here a polymer
+synthesizer.
+And maybe a bit of convolution reverb
+and delay too. Okay.
+So, let's use this here as a bass so I
+can explain what's going on.
+Yeah. Nice.
+Okay. So, the global automation mode
+looks like this. We have the last touch
+parameter. You can see this on top. And
+we can draw in your automation for uh
+the cutoff because that's the last touch
+parameter. Right? When we touch here the
+decay, you can see now it's switching to
+another parameter.
+This is now decay.
+And I really didn't like this in beta 1
+or when I made the stream, the the first
+beta stream. Uh because the problem here
+is that you can only edit one parameter
+and you can't change the clip beneath
+the automation, right? You can't move it
+around or you can't cut it or something
+like this, right? It's what I do all the
+time when I'm editing editing uh
+automation and so on. So to that
+automation mode we have now here this
+button. It's called a flying automation
+lane and this is on by default. And what
+this means is uh when this is off we
+have here a plus button because there is
+no automation here on audio 2 and you
+can unfold this here because there is
+automation. But when this is on um here
+this is not a plus button anymore. You
+can see here basically the last touch
+touch parameter even though there is no
+automation here. It's always having here
+this unfold button which I kind of like.
+So so now it's not switching between
+here it's plus and here it's unfolding.
+And when there's automation here it's
+unfolding. When there's no automation
+there's a plus button. So right. So this
+is more consistent for me when this is
+on and this is on by default. And I
+really like it. And you can see now here
+the on the top more or less the last
+last touched parameter. So when I touch
+here out the output gain of this
+synthesizer. You can see this here on
+top or when I select this one here, it's
+now the voice level or this is velocity
+sensitivity and so on. So it kind of
+works like exactly how it worked in
+Bitwig Studio 5. And I really like this
+because now I can step in, select here
+my parameter, uh draw an automation,
+move on to something different. Let's
+let's automate this one.
+And below that, you have a history of
+what you changed uh recently. So it's a
+very nice overview. And when I'm done
+with automating here or drawing an
+automation, I can just close it and move
+on to another track or to something
+else. Right? So it's very nice for me to
+work in this kind of um way in Bitwig
+Studio 6 and they added this here or um
+yeah edit this kind of flying automation
+lane. I really like it that we have this
+here and also
+um recording works now. So I have here a
+keyboard shortcut for yeah recording
+automation. I switch this here to touch.
+That's at least how I like to do it. And
+then I can just automate your things
+while playing.
+[music]
+[music]
+So having this on touch here and then
+this automation recording here on my
+keyboard shortcut, it's so nice. I just
+let it play. I loop this uh I loop this
+loop [laughter]
+and I just record or fiddle around on
+certain knobs here to get some
+automation recorded and then I have more
+like a natural feel to the sound. It's
+not so, you know, fixed anymore. So, I
+really like to have this and here it's
+working now. Um, we had some problems in
+earlier beta versions where you couldn't
+record this automation and I think it
+also works perfectly now here in the
+clip launcher. Um, so yeah, they kind of
+fixed this and I'm very happy I can use
+Bitwig Studio 6 now without complaining.
+Um they also added here something in the
+last version which was my biggest
+complaint or the last biggest complaint
+after this automation stuff here. Um and
+this is here in preferences
+uh under settings
+uh behavior and then you can see your
+defaults and then this thing here called
+automatically open new clips in detail
+editor panel and this is on by default.
+And this means when you create a clip on
+the arranger or in the clip launcher and
+you double click to create it, it
+automatically opens up here this editor
+down in the bottom half, which is yeah,
+not something I want to do because I
+always want to edit uh my
+notes in this editor and then I want to
+see my instrument here or my synthesizer
+below that because I want to edit the
+notes. I want to edit the synthesizer. I
+want to edit here my automation
+and you know everything is inside. I
+never want to see the clips or the
+arranger and the notes down here. I
+think this is also how it works in
+Logic. I'm not sure. Maybe you can tell
+me in the comments down below. Uh but I
+yeah I always had to basically create a
+clip then I had to switch back to the um
+device view and then I had to go into
+the detail editor every time I create a
+new clip which is pretty annoying.
+[snorts] So now we can go here to the
+settings behavior and use then defaults
+and uncheck this here. And now look at
+this. You can create clips and it just
+stays where it is, right? It's just one
+action. Before it was two actions.
+Create a clip and then open up the
+editor and now it's just one action
+again like it was in Bitwig 5. You just
+you only create a clip and that's it.
+And if you want to go into this bottom
+editor, you have to double click on the
+existing clip. So yeah. Um so it works
+like exactly uh it worked before which
+I'm very very happy about. Okay.
+Then in automations uh or in automation
+lanes here we had this problem before
+that when we automate something like um
+this decay parameter here and we click
+once
+uh we had before I think this was by
+default in hold value or in hold mode
+here for this one thing and then when
+you click the second uh note in this
+automation the first one changes to yeah
+a normal note uh So this is was was how
+it was before but I think now we have
+basically let's me remove this here. Can
+we remove this actually?
+No, we can't delet can't delete it. You
+have to delete instrument track.
+No, that's not what I want.
+Let's go back. Looks like you can't
+uh remove here this anymore for some
+reason. So this this should be a bug,
+right? that you can't remove it. Uh
+before you could remove it in Bitwig 5.
+Now it's always something. Uh but we
+have now a new parameter here or new
+shortcut. We can uh select a note in the
+automation
+and then uh use H on the keyboard to uh
+switch between hold and a normal yeah a
+normal uh automation note. So what this
+means is you can just make multiple
+notes here, select everything and then
+press H and you have a stepped
+um yeah a stepped automation
+line which is yeah kind of neat to have
+this now but uh yeah it's it's pretty
+suspicious that now we can't delete
+actually the automation. So it looks
+like you have to have always one
+parameter. Oh you can delete all okay
+you can right click then on this. Yeah.
+Uh maybe it would be nice to have this
+also here on the lane itself.
+Right. When you draw something in then
+you click right and you can can't
+actually delete here this lane. You have
+to click here. Delete automation lane.
+Yeah. Okay. So it's still in there. It's
+just missing here on the right click um
+popup I guess. So this is what I mean.
+There are a lot of a lot of these small
+things missing or not working correctly.
+Uh but if you if you don't pay
+attention, Bitwig 6 works works fine.
+Um so yeah um that's that. There's also
+something they changed here with the uh
+track headers when you go to settings
+and let me see user interface
+uh view and then you have here arranger
+volume control. You can switch this one
+from numeric to slider. So now we have a
+slider back down here like it was in
+Bitwick 5. A lot of people complained
+also about this. Uh so yeah, now we have
+the slider back and I think you can also
+type in here. Yeah, the numbers works
+and if you don't like it, you can go
+back to numeric. Then the slider is gone
+and we have like this this number here.
+So yeah, you can you can decide what you
+prefer. Basically, there's also
+something with the meta clips, or at
+least that's how they call it when you
+put here multiple tracks into a group
+like this, and you have like here a clip
+and this is a meta clip. And the problem
+here is I don't know if it's a problem
+or it's in if if it's intended. Um, so
+let's say you have an clip here and you
+have some automation on this clip and
+you move this clip around. you also move
+all the automation below this clip
+around even though it's not inside of a
+automation clip. So we have new
+automation clips in Bitw bit 6. Uh so
+this kind of works right. But then if
+you have a group here and you have let's
+say some kind of device on there and you
+want to automate here this
+um this volume
+and then you move this meta clip around
+um the automation stays in place. I
+don't know if this is intended. Some
+people complain about this. A friend of
+mine skyans is you know raging about
+this all the time. Um, maybe it's
+intended, maybe this is uh still
+missing, but I guess it should work
+exactly like it is uh like like how it
+works on clips on normal MIDI clips,
+note clips here. Um, so yeah, it works
+differently on meta clips. It's it's
+it's they hopefully fix this, right?
+They also added here something to the
+clip launcher. So, uh, when you have
+like here this clip and you move it into
+the clip launcher with all the
+automations of course here, uh, we can
+hit play and maybe just remove here this
+automation for now.
+Um,
+yeah, you can see it's playing here,
+right? And we have here this button
+called um, back to arranger clip or
+something like this. So if you don't
+want to use this clip launcher here, you
+can always click this, right? And then
+it plays this kind of clip. And by the
+way, this is the most asked question
+here that people uh accidentally click
+on a clip launcher and then this is
+grayed out and they have this closed,
+right? And then they wonder, oh, why is
+not why is this clip not playing, right?
+And they miss out here on these kind of
+buttons. You can also see here there's a
+kind of a GUI bug here. It's uh not
+Yeah, it's not how it should be, I would
+say.
+Yeah, this is still a problem here. Um,
+so yeah, what I want to say is, uh, we
+have this clip playing here and we have
+this go back to arranger playback here
+and then when you hold down the alt key,
+it switches to this re-trigger thing
+here and you can re-trigger basically
+the clip because sometimes
+um, people complained in I think in the
+early beta beta versions that we had
+like the clip playing from certain
+positions inside of the clip. Now it
+re-triggers correctly. I think also when
+you push here the stop button and then
+hit play and then it plays from the
+beginning of the clip. But you can also
+use your alt key and then this switches
+to a re-trigger button and you can play
+it back from the start from the
+beginning. I think you can also um push
+this here of course on the group for all
+the clips inside.
+So if you have multiple clips you can
+re-trigger multiple clips at the same
+time of course. So yeah, you can see
+here it's still visual bug in there, but
+I hope they fix it. It's it's not a big
+deal. We get this.
+Uh, also before I forget it, um, when we
+switch here back to the arranger and we
+go here to the editor, um, to the detail
+editor, maybe I use here,
+maybe use another audio clip.
+Maybe let's bring in here
+some kind of drum loop. put this here
+uh and I select multiple selectors here
+with shift and then go into the detail
+editor. You can see that the the yeah
+the drum loop down here and you can also
+see the notes on top. So we have like a
+layered editor uh and we can change of
+course here the view. Let's say it's
+something to this or maybe we only want
+to see here the the drum loop. They
+added this kind of small little arrow
+key. Can you see it down here uh on the
+on the bottom left? And you can click
+this and you can go back to the previous
+states of the detail editor. Right? This
+is not uh an undo. We have the undo
+still here. It's more for the view when
+you change the view, right? You go here
+and here and you make some different
+settings, right? Or make some uh
+adjustments here to the layering. um
+something like this or you choose a
+different you know mode here you can
+always go back here to the last state
+and browse
+through the views so they added this
+here I think a bit six six or seven I
+don't know exactly and yeah there's a
+lot of small changes here and there um
+these are the biggest one at least for
+me there are probably more um it's so
+it's so many so many small little
+changes. It's It's hard to cover
+everything. Uh but I guess I do some
+kind of beginner tutorial for Bitfix
+Studio to go over everything. And this
+will be a probably a long long video. Um
+but yeah, I I just waited out until they
+release Bitwig Studio 6 before I go into
+that. Uh so I have the newest version
+for this kind of tutorial. Um, I just
+want to give you basically an update
+what's going on with Bitwig Studio 6.
+Um, so yeah, like I said in the
+beginning, early next year is my guess.
+Maybe there is an surprise release
+before Christmas. I doubt it. Uh, but we
+will see. But a lot of good changes in
+beta 9. It feels really good to um use
+Bitwig 6 for me now. Uh, automation and
+this uh clip thing was the biggest gripe
+for me so far. and they fixed it. Um,
+yeah, fun times. Let me know what you
+think in the comments down below. Uh, if
+you think Bitwig Studio releases before
+Christmas or exactly on Christmas Day.
+Um, or what you hope for the future or
+what you think about this video or if
+you like me or if you don't like me or
+whatever.
+Leave a like. See you in the next video.
+Bye.

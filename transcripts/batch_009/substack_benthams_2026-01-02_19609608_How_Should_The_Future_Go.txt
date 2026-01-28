@@ -1,0 +1,122 @@
+Title: How Should The Future Go?
+Source: benthams
+URL: https://benthams.substack.com/p/how-should-the-future-go
+Date: Fri, 02 Jan 2026 16:30:37 GMT
+Word Count: 2085
+Estimated Read Time: 10 minutes
+
+================================================================================
+
+How Should The Future Go?  - by Bentham's Bulldog
+Bentham's Newsletter
+Subscribe
+Sign in
+How Should The Future Go?
+Solving the easy problems, like the ultimate fate of the universe
+Bentham's Bulldog
+Jan 02, 2026
+17
+18
+Share
+Assuming we don’t all die, in the future we’ll have lots of resources.  What should we do with those resources?  This seems like a pretty important thing to get right given that it could, you know, affect how things go for
+billions of years
+.  Here, I’ll argue for two things:
+We should spend lots of time trying to think about how to optimize future resource use, while consulting AI trained to do moral philosophy.
+A decent default plan is simply: creating a ton of happy people.
+First: why should we spend time deliberating?  So that we find the best thing to do!  Spending resources on the best stuff could bring about way more value than even spending it on slightly optimal things.  If, for example, hedonism about well-being is true, but we aren’t optimizing for maximizing pleasure, then we’re likely to
+miss out on most future value
+.
+Most societies have erred seriously.  They’ve owned slaves, conquered and plundered, and deprived women of rights.  They’ve even mistreated shrimp.  We shouldn’t be surprised if we err too!  It would be especially surprising if the thing we planned to do by default was the very best thing to do.  This is why we need to spend lots of time deliberating about what the best use of resources is.
+Ideally we’d have AIs that did philosophy much better than people.  We could turn over the question of what to optimize for over to them and have them make the decision.  Otherwise there’s little guarantee we do what’s best.  Now, maybe you’re suspicious that AIs could do philosophy.  But it’s not clear what would prevent them from doing this in principle.  Even if AIs are just stochastic parrots, mimicking humans, they’d still be able to figure out what humans can figure out.
+Humans doing philosophy mostly involves some combination of:
+Coming up with clever new arguments.
+Applying our moral intuitions to those new arguments.
+Making various non-intuitionistic judgments about argument quality (about, say, whether an argument is valid or some empirical finding underpinning it is correct).
+It’s hard to see which of those AI wouldn’t be able to do.  If AI can generate novel chess moves, why couldn’t it generate novel arguments?  If you give an AI a new argument for something, it already has the ability to come up with considerations that haven’t been given before.  There’s no reason that in the limit AI can’t come up with new arguments the way humans can.  It’s worth spending lots of time deliberating because whichever plans we lock in will influence the use of staggeringly large amounts of resources for billions of years.
+Now, here’s a situation that might arise: it could be that the superintelligent AI gives some very weird moral recommendation.  In such a situation, lots of people would be hesitant about listening to it.  If the AI told use to created blissed out minds without any further goods in their life, lots of people would be hesitant to do so, as an example.  So should we listen?
+I think the answer is yes.  It wouldn’t be surprising if morality ended up looking weird.  Human moral intuitions are subject to lots of biases and errors.  For most of history, the idea that slavery is an abomination would have seemed odd.  Now everyone agrees with it.  For most of history the idea that a foreigner on the other side of the world matters as much as your neighbor would have seemed bizarre.
+For this reason, we should be willing to defer to the AI, even if its recommendation is weird.  Of course, this is only if we conclude that it really is good at philosophy.  If the AI is bad at philosophy then there’s no reason to trust it.  But if it’s able to reason cogently about morality, give accurate moral arguments, and understands other fields at a deep level, we should take that as strong evidence that its ethical judgment is sound.
+Note: I think you should buy this conclusion even if you don’t think morality is objective.  Even if morality is subjective, there might be things that we value now but wouldn’t upon reflection.  When we come to see more clearly, we might stop caring about what we previously cared about.  An AI, in ideal conditions, will ascertain something like what humans would value upon reflection.
+But insofar as you currently care about
+what you would care about
+if you thought more deeply, you should take seriously the AIs judgment.  The only case where you shouldn’t do that is if you think you have idiosyncratic judgment that differs from what most people would care about upon reflection.  But if that’s the case, then you should be doubtful that humans guiding the future would be any better.  There’s no reason humans would care about whatever idiosyncratic thing you happen to value.
+However, suppose that doesn’t work out for whatever reason.  What should be our default plan?  In my view, the best bet for what to do with the far future is: create a ton of happy people.
+We should refrain from doing anything that’s too risky.  So, for example, even though I think
+the repugnant conclusion
+is right, under uncertainty we should refrain from proliferating barely happy minds.  Similarly, even if you think hedonism is probably right, you should refrain from just creating minds in a state of pleasure with no other goods.  Ideally, then, we should try to create lots of people who are well-off on each view of well-being.  Thus they should:
+Be able to reason at a high level, have lots of knowledge, and have lots of relationships.
+Be very happy.
+Have their desires fulfilled.
+We’d also refrain from simply creating a single super happy mind.  Instead, we’d make lots of different minds that are all quite well-off on each theory of well-being.  The only reason this might not be good is if creating happy people is neutral.  But I think:
+Creating well-off people is
+very unlikely to be neutral
+.
+Under uncertainty it’s good to do.  Even if there’s some chance it’s neutral, it’s good to do things that might be extremely amazing and might be neutral.
+Even if it is neutral, creating happy people isn’t a bad thing to do.
+If digital minds are possible, then probably the most efficient way to create happy people is to proliferate loads of well-off digital minds.  If they’re not, then it’s best to use the digital minds to plan how to make lots of happy biological organisms who have lots of well-being on every theory of well-being.
+This is likely to be a very good thing.  Computation is getting increasingly efficient.  In the far future, we are likely to have absolutely insane amounts of energy and very efficient computation.  This is potentially a recipe for truly absurd amounts of welfare.  Every second of civilization might contain more joy than all the joy in human history so far.
+We should also refrain from doing things that are morally risky.  For this reason we should:
+Ensure digital minds have adequate autonomy, rather than having their will seriously constricted.  This is both
+good for their expected happiness
+and might have intrinsic value.
+Refrain from spreading nature, as it
+contains lots of suffering
+.  We shouldn’t risk doing something very bad absent intense deliberation as to its desirability.
+Ensure digital minds have other basic rights, like the right not to be killed, even if we could replace them with better-off digital minds.
+Ensure digital minds have adequate religious liberty, in case one of the religions is right and valuable to believe in.
+This isn’t meant to be an exhaustive list.
+I think a lot of people don’t really think about proliferating well-off people.  But insofar as it’s good to exist—good to be able to live, love, and see the stars—then bringing more well-off people into existence is quite a good thing.  This isn’t just something that weird utilitarians should care about.  As long as creating well-off people is good, if we can create tons of well-off people, that could be an amazingly good opportunity.  I think the philosophical case for it being good is
+very strong
+.
+If you’re concerned about the falling birth rate, then provided that’s not just because of status quo bias, you should be similarly concerned about humanity failing to create lots of well-off people.  The number of extra happy people that could be added to the world if space resources were used is much greater than the number that would be added if birth rates stopped falling.
+If we can allow people to live awesome lives, where they love every moment of existence, we should do that.  Living a great life is a good thing.  If we can create huge numbers of well-off people, that gives us the ability to realize incomprehensible quantities of value.  Doing so is a pretty good default for the future.
+If possible, we should also try to make the minds somewhat diverse.  This is because we should minimize controversial commitments, and lots of people think that diversity has intrinsic value.  They think that a world that contained many copies of the same mind wouldn’t have much value, because uniqueness is a key component of value.  I quite strongly reject this view—it implies that the marginal value of a mind depends on
+causally unrelated minds in distant parts of space
+. I find that hard to believe! But if we’re being conciliatory, then we should make sure the future is good according to every reasonably widespread moral view.  That includes making the future go well according to views I don’t think are correct.
+Overall, I think the key things to prioritize in making the future go well are: 1) trying to make sure things are good according to every not totally implausible value system and 2) trying to optimize for value so that things go spectacularly, mindbogglingly well, rather than just okay.
+17
+18
+Share
+Discussion about this post
+Comments
+Restacks
+In-Nate Ideas
+Jan 2
+Liked by Bentham's Bulldog
+I agree that diversity is the way to go for two reasons:
+1) I think the question of intrinsic value might be irreducibly uncertain, so we should favor robustness.
+2) Because of status quo bias, I think a lot of people (rightly or wrongly) think a good life looks something like our natural lives. I sort of share the intuition that being a euphoric computer is unappealing - though I think that is probably totally wrong. So to get people on board with whatever bliss-maximizing scheme you want to run, it probably makes sense to also let people keep living nice natural lives on earth (or at least simulate a few)
+Reply
+Share
+James
+Jan 2
+Edited
+Minor point and then a serious point:
+Minor point:
+"If AI can generate novel chess moves, why couldn’t it generate novel arguments?" -> I agree with you on the conclusion but think this isn't an amazing argument for it, because you might think there are infinite possible arguments (this is probably true in maths), but there are _definitely_ finitely many chess moves, so you can just search the tree. But whatever, your key point is correct that obviously AI is going to be able to come up with new arguments.
+Major point:
+I wish you were more convinced of the safety concerns, instead of about optimizing for this-future/that-future. I agree if everything goes well, this is a big concern. But the "if" really is huge. I mean, maybe you have inside-view arguments for why you think things will be fine (I have inside-view arguments for why I think things are pretty likely not to be fine), but if not then I think the outside-view should _really worry you_!! The people running the companies are saying there's a lot of danger (and no it isn't only to drum up hype, lots of people in AI sincerely believe this)!
+Reply
+Share
+2 replies by Bentham's Bulldog and others
+16 more comments...
+Top
+Latest
+Discussions
+No posts
+Ready for more?
+Subscribe
+© 2026 Bentham's bulldog
+·
+Privacy
+∙
+Terms
+∙
+Collection notice
+Start your Substack
+Get the app
+Substack
+is the home for great culture
+This site requires JavaScript to run correctly. Please
+turn on JavaScript
+or unblock scripts

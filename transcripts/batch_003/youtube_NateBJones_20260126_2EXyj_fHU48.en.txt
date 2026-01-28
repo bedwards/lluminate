@@ -1,0 +1,631 @@
+The pitch for multi- aent AI systems is
+seductive, but we're learning the wrong
+lessons about how to build them. Look, I
+get the pitch. What if you had 10 or 100
+AI agents working on a task instead of
+just one? Imagine how much more
+productive you could be. And we do see
+cases where that's true. It's not a
+hypothetical. Cursor is running hundreds
+of agents on tasks at a time. Steve
+Yaggi's Gas Town orchestrates 20 to 30
+agents simultaneously on sustained
+development work, and he's just one
+engineer. The technology does work, but
+what nobody is talking about is that the
+systems that scale don't often look like
+what the frameworks recommend. So
+industry consensus often compares agents
+to human teams. They share context. They
+coordinate dynamically. They operate
+continuously. You see this even in cases
+like the Google press release for the
+agent development kit. The frameworks
+provide a kind of elaborate
+infrastructure for interient
+communication. But almost all of it is
+unproductively incorrect or just wrong.
+But wrong in ways that only become
+apparent when you try to scale, which is
+obviously what really matters. And this
+is having real world implications,
+right? This is not just theoretical
+multi- aent problems. Gartner predicts
+40% of Agentic AI projects are going to
+be cancelled by next year, by 2027. I
+think they're right, and I think I know
+why. The teams that fail will be the
+ones who built just what they were told
+to build by looking at LinkedIn posts
+and X. And the strange thing is that the
+practitioners who've actually scaled
+have converged on a completely different
+architecture. For example, cursor and
+Yagi, right? They weren't comparing
+nodes. They were solving the same
+problem. How do you run many agents
+without drowning in coordination
+overhead? and they independently
+discovered the same counterintuitive
+solutions. So when smart people are
+working on the same problem without
+talking to each other and they arrive at
+the same answer, it's probably worth
+paying attention to, especially if the
+problem is one of the most highly
+leveraged problems in tech, which
+multi-agent architecture sure is. I've
+spent the last couple of weeks sorting
+through the disagreement between what
+the research claims, what the frameworks
+recommend, and what actually works in
+production. And what follows are
+principles that hold up, the ones where
+theory and practice point in the same
+direction. And more importantly, I want
+to give you a sense of why these
+principles work. Because 2026 is going
+to force us to look at problems
+underneath the surface that have similar
+underlying dynamics. This is the core
+insight to take with you. Simplicity
+scales because complexity creates serial
+dependencies and serial dependencies
+block the conversion of compute into
+capability. And the conversion of
+compute into capability is what multi-
+aent architecture is all about. So let's
+back up a second. In December of 2025, a
+study from Google and MIT found
+something that should worry anyone
+planning to scale agents this year.
+Adding more agents to a system can make
+it perform worse. Not diminishing
+returns, actual degradation of the
+system. More agents, worse outcomes. And
+the research called this a finding that
+contradicts the industry's prevailing
+assumption that adding additional
+compute actually improves outcomes. And
+the intuition that doesn't work is this.
+If one agent finishes a task in an hour,
+10 agents should be able to finish that
+same task in 10 times the speed in like
+six minutes. And this is how most
+computational resource allocation works.
+More GPUs, faster training, more
+servers, higher throughput. Intuitively,
+you would think agents would scale the
+same way. But what actually happens is
+different. When you add agents, you add
+entities that need to coordinate. Every
+coordination point is where agents wait
+for each other, duplicate work, create
+conflicts that need resolution. And as
+agent count grows, coordination overhead
+grows way faster than capability. Past a
+given threshold, 20 agents are going to
+produce less than three ever would. 17
+are effectively standing in line. That's
+what serial dependency means. And the
+Google MIT study quantified this. one
+single agent accuracy exceeds about 45%
+on a task. They found that adding more
+agents yields diminishing or negative
+returns. And in tool heavy environments
+worth 10 or more tools, multi- aent
+efficiency dropped by a factor of 2 to
+six compared to single agents. It was
+even more ineffective because of the
+multi-tool environment. In 2025, you
+could avoid this by not scaling. You
+could just say we won't touch it. But in
+2026, huge costs are going to make it
+not just economically attractive, but
+really a requirement to run hundreds of
+agents. The companies that give up on AI
+agents, as Gartner predicts, are going
+to be the losers. So if if you can
+figure out how to deploy agents
+correctly, you will have an architecture
+that can actually take advantage of the
+cheap compute that's coming online. Now,
+the Agentic AI community has converged
+on design principles that feel often
+times like settled wisdom. And I just
+want to name it here because I think
+it's useful. Number one, multiple
+specialized agents should collaborate
+and they should interact and delegate in
+patterns that mimic human teams. Agents
+should integrate tools at least as many
+as are useful for the task to extend
+their capabilities. They should operate
+continuously, accumulating context and
+learning the codebase. Now you're going
+to have memory and context window and
+there's a lot of conversation about
+that. But there's so much conversation
+about longunning agents that like it's
+just in the water now. They should be
+autonomous enough to set their own sub
+goals without needing explicit
+instructions. And you should be able to
+scale by just adding more of them. Now
+these principles, you know what's
+interesting? They do work at small
+scale. They fail at large scale in ways
+that frameworks don't warn you about. So
+the pattern across a failure mode is
+often the same. Intuitive
+implementations will create serial
+dependencies between agents. And a
+serial dependency is any point where one
+agent's work blocks another, like
+waiting for a lock on a tool or checking
+a shared state or coordinating on who
+handles what. And at a small scale, you
+don't care and you get the result you
+want and you see the vision realized and
+you think you've got it. But enough
+serial dependencies emerge at scale. The
+value of the parallelism that you
+created proves to be fragile. it
+collapses. You're paying for a 100
+agents, but you're getting the
+throughput of five. So, the rules that
+scale turn out to be different. They are
+the ones that eliminate serial
+dependencies, and they look almost too
+simple compared to the sophisticated
+architectures that seem like they should
+work better. But one of the big lessons
+of 2026 is that if you want to run
+hundreds of agents that you actually
+use, then you need to be philosophically
+committed to simplicity. and you arrive
+there because everything else doesn't
+work. So here are the rules of
+simplicity and scaled agents. The kind
+of scale that gets to hundreds of
+agents. Number one, two tiers, not
+teams. So often times there's an
+assumption that agents should
+collaborate like a human team. And
+cursor actually tested this directly.
+They gave agents equal status and let
+them coordinate through a shared file.
+Each agent could check what the others
+were doing and they could claim tasks
+and update status. It sounded wonderful,
+but it failed in ways that we need to
+pay attention to because agents would
+hold locks too long. They would forget
+to release locks on tasks and even when
+locking worked, it became a bottleneck
+because most time in the agentic system
+was simply spent waiting. And so 20
+agents ended up producing a 10% output,
+the output of two or three agents. And
+they tried a simpler concurrency
+control, but that didn't solve it
+either. Either the unexpected failure
+mode is behavioral. With no hierarchy, a
+flat team of agents becomes very risk
+averse. They gravitate towards small
+safe changes. That's what cursor found.
+Hard problems on that list sit unclaimed
+because claiming means tasking
+responsibility for potential failure
+while other agents racked up easy wins.
+If this sounds surprisingly human, it
+should. Work churned without progress.
+The diffused responsibility that was
+supposed to enable autonomy instead
+meant nobody took responsibility. Again,
+some human human connotations here. The
+team dynamics metaphor imports human
+coordination problems that we have had
+for centuries. Meetings are
+synchronization points where everyone
+waits for everyone else. Status updates
+create read after write dependencies.
+There are these technical analoges to
+all of our human rituals that we are
+sort of porting over to agents and
+discovering in real time don't work
+well. And so let's see what happens if
+you change that rule. If instead of
+assuming a flat team, you assume a
+strict two-tier hierarchy. Planners
+create tasks. Workers execute them. A
+judge evaluates results. Workers do not
+coordinate with each other. They don't
+even know the other workers exist. Each
+picks up a task. It executes it in
+isolation. It pushes a change and it
+terminates. And you can use a tool like
+Git to handle conflicts after the fact.
+funnily enough, Yaggi arrived at the
+same structure independently with his
+Gas Town blog post, which is very
+famous. His pole cats are ephemeral
+workers that spin up, execute a task,
+hand it into the merge queue, and get
+fully decommissioned. They do not
+coordinate with other workers. What he
+terms the mayor sits above them creating
+and assigning work. The architecture
+emerged from four different failed
+orchestration patterns. And ultimately,
+what he learned is that peer
+coordination does not scale. Same thing
+cursor learned. And so when we look at
+this as a larger pattern, research on
+multi- aent hierarchies backs up what
+cursor and Yggi are learning in
+practice. Two-level systems
+significantly outperform both flat
+architecture and interestingly enough
+deeper hierarchies as well because flat
+systems have maximum serial
+dependencies. And we've seen how that
+plays out in our example. But deep
+hierarchies like three or more levels of
+agents accumulate drift as objectives
+mutate through delegation layers.
+Essentially, you're playing telephone
+with more layers of agents, and that
+doesn't work well either. So, rule
+number one, two-tier systems. Rule
+number two, workers stay ignorant. The
+consensus says agents should understand
+context and adapt to overall goals and
+that smarter agents should produce
+better results. In fact, as we have seen
+hinted above, workers perform better
+when they're in a two-tier hierarchy and
+they are deliberately kept ignorant of
+the big picture. So when cursors workers
+understood the broader project context,
+they experience scope creep. They decide
+adjacent tasks need doing or reinterpret
+assignments based on their understanding
+of the goals and every decision
+potentially conflicted with other
+workers. Resolving conflicts required
+lots of coordination, serial
+dependencies, and just decreased agent
+productivity overall. A worker that only
+knows to implement one specific function
+cannot decide to refactor the whole code
+module. So the narrow scope you give
+that worker eliminates the coordination
+needs and enables parallel execution.
+Funnily enough, Yi came to the same
+conclusion. His worker agents work the
+same way. They receive a task, they
+execute it, and they terminate. No
+knowledge of others. So I think that one
+of the rules that we should have when
+you start to scale to a 100 level agents
+or above is think in terms of minimum
+viable context. Workers receive exactly
+enough to complete their assigned task
+and no more. Enforce this. Force it
+through information hiding. Do not give
+workers a chance to get context that
+could confuse them. Rule number three,
+also counterintuitive, no shared state.
+The consensus says that parallel agents
+should share state to stay coordinated.
+The Google MIT study found the opposite.
+In tool heavy environments with more
+than 10 tools, you saw a drop in
+multi-agent efficiency. Tools are shared
+state in multi-agent environments. If
+multiple agents are accessing the same
+resources, you have contention. And
+contention takes coordination. It's like
+fighting over the toolbox if you're in
+the carpenter shop. The same dynamic
+applies to context. funnily enough, the
+assumption that more tools mean more
+capability drives the entire MCP
+ecosystem where developers are
+connecting dozens of integration
+servers. But tool selection accuracy
+degrades as count increases regardless
+of context window size. If think about
+it like this, you're in the carpenter
+shop and you go from having 10 tools you
+can choose from to a thousand, what is
+your tool selection accuracy going to
+look like? Yeah, it's not going to be as
+good. Research shows degradation curves
+appearing past 30 to 50 tools even with
+unlimited context. And the problem is
+not context driven. It's not fitting the
+tools in the window. It's that selection
+accuracy drops when agents face too many
+choices. This is a serial dependency
+inside the tool catalog. Look, workers
+should operate in isolation and they
+should have no shared state and they
+should have tool sets that are small
+like three to five core tools that are
+always available and others that are
+discoverable on demand through
+progressive disclosure. Coordination
+happens through entirely external
+mechanisms that are designed for
+concurrent access. Git for code or task
+cues for a non-technical assignment. Now
+this does create a downstream problem,
+right? Isolated workers that push
+changes will need to merge their code.
+And so both Curser and Gas Town
+discovered you need dedicated
+infrastructure to do this. Well, Yagi's
+Gas Town framework has what it calls the
+refinery, an agent responsible for
+merging changes. And the refinery exists
+because workers do not coordinate.
+Regardless of how you handle it, the
+principle is clear. The complexity of
+merging should not belong to the worker
+and should go to a dedicated system that
+handles it as a cue. Rule four, plan for
+endings. The consensus says we should
+seek to increase the length of time that
+agents can operate continuously. Because
+you can accumulate context and sustain
+intent over time, it's such a big deal.
+We measure the performance of
+intelligence by how long we can run our
+agents. But what's interesting is
+context accumulation creates a serial
+dependency with the agents own past.
+Because as our histories grow, context
+fills with information that might not be
+relevant. This is part of why the viral
+Ralph framework for Claude code is such
+a big deal because the original
+implementation of Ralph wiped the
+context of the past conversation with
+Claude code and gave Claude code a fresh
+chance to attack that task. In other
+words, it eliminated the serial
+dependency on the agent's history. It
+enabled the agent to forget productively
+because otherwise the agent doesn't
+forget, does it? It just stops
+prioritizing correctly because signal
+dilutes noise. Researchers call this
+context pollution. It causes drift. It
+causes progressive degradation of
+behavior and decision quality. And it
+affects a surprisingly large fraction of
+longrunning agents. The problem is not
+just that context windows fill up. It's
+often that the agents attention gets
+diluted across the history. So even if
+it fits, you can get the lost
+inthe-middle phenomenon where models
+lose track of information lost somewhere
+in the middle of long contexts. An agent
+that has been running for hours and
+hours has probably accumulated so much
+context that it will struggle to
+prioritize what matters now, even if
+what matters now is simple. Cursor found
+drift unavoidable during continuous
+operation. quality degraded within hours
+regardless of the context window and
+specifications would mutate as agents
+misremembered or misinterpreted earlier
+choices and so the system would just
+start to experience entropy. It would
+start to lose coherence. Yaggi built
+this directly into Gas Town with Gup,
+the Gas Town universal propulsion
+principle. The guy must have like a
+writer's DNA. It's just so fun to read
+him. It exists because the biggest
+problem with clawed code is that it
+ends. The context window fills up and it
+runs out of steam and it stops. Yaggi's
+words. Rather than fighting this, Gas
+Town treats endings as a design
+parameter. Sessions are just ephemeral.
+Workers are expressed almost like
+molecules, quote unquote. They're just
+chains of tasks that are stored
+externally, and when an agent ends, the
+next session picks up reading the same
+molecular state that the worker wrote
+to. And if the workflow is captured as a
+single organic molecule state, it
+survives agent crashes, compactions,
+restarts, and interruptions. You could
+think of this as a tiny little external
+scaffold of memory for a particular
+workflow that a tiny little short-lived
+agent is writing to. It may not ever see
+the end of the task. It just knows it's
+supposed to do this particular job. And
+if it crashes or if it compacts or if
+anything happens, it wrote what it did
+down. And that is what Yaggi calls
+non-deterministic item potence, which is
+a really big word, but it means the path
+is unpredictable, but the outcome is
+guaranteed because workflow state lives
+outside any given agents context. And
+that is powerful because the agent can
+then crash and restart and make mistakes
+and correct them and it does not matter
+because the workflow state tracks
+progress and insists on starting the
+next session at the correct point. And
+that allows that's one of the big things
+that allows Yuggie to productively run
+dozens of agents because he's not
+individually assigning them tasks. He's
+using the workflow as an external
+trigger to instantiate an agent at the
+right. And so the rule looks like
+episodic operation, right? Every cycle
+runs for a period of time. It captures
+results to external storage and then you
+just wash it out and kill it. And the
+next cycle starts fresh with clean
+context. And the question is not whether
+agents will stop working at that point.
+It's whether your architecture will
+design for endings and design workflow
+to persist regardless. Rule number five,
+this is very interesting. The consensus
+says that coordination infrastructure is
+where a lot of the hard engineering
+happens in multi- aent system like how
+do you handle states? How do you handle
+errors? But cursor found that a
+surprising amount of behavior comes down
+to how we prompt our agents.
+Infrastructure of course does matter.
+You have to have it. But prompts matter
+more when it comes to an analysis of
+failure cases. So sophisticated
+coordination infrastructure often adds
+serial dependencies rather than removing
+them. I'll give you some examples here.
+Let's say you have a message cue that
+serializes access to shared tools. State
+synchronization requires agents to agree
+on what exists before proceeding. Good
+prompts and good isolation of agents
+reduces a lot of the coordination
+infrastructure you need to build. The
+whole system gets simpler because the
+agents are isolated. And an agent that
+clearly understands its role in an
+isolated way is simpler to prompt. It
+has clear boundaries. It has clear
+success criteria. It doesn't need to
+check with other agents. This is a
+simpler prompt to write. You're more
+likely to write it correctly. So, the
+agent can just go and execute. And
+research supports that 79%
+of multi- aent failures originate from
+spec and coordination issues, not
+technical bugs. And infrastructure
+problems account for only 16%.
+So systems fail because designs created
+serial dependencies or specs were
+ambiguous enough that agents did the
+wrong thing while functioning correctly.
+So, the rule is to treat your prompts
+like API contracts and make sure they're
+in settings that are simple enough where
+a clear spec can allow an agent to
+perform well. There's an apparent
+contradiction here. I keep saying
+simplicity scales, but Yagi's Gas Town
+that I'm describing is actually complex.
+It has seven different worker types. It
+has complicated words like patrols and
+convoys. I mean, it sounds like a
+science fiction novel. The resolution is
+this complexity can live in agents or in
+the orchestration layer that keeps
+simple agents running. And these have
+very different scaling properties. And
+that's the heart of what I'm talking
+about here because complexity in agents
+does work at a small scale, but it
+creates serial dependencies that break
+at larger scales. So an agent that gets
+entangled with other agents works when
+you have three to five in the system.
+But what Yggi found out is that you
+cannot do that if you get into dozens of
+agents, let alone the hundreds that
+Kurser was working on. Complexity and
+orchestration enables parallelism. So
+Gast Town has a separate role for an
+agent that just notices when worker
+agents get stuck because worker agents
+are that simple. It has separate agents
+that just focus on merging conflicts.
+The orchestration complexity exists
+because the agents are simple and simple
+agents do need external systems to keep
+them running and to feed them work and
+to merge their outputs and to track
+progress. This is the inverse of where a
+lot of teams are putting complexity in
+multi- aent systems and it's the heart
+of why so many multi- aent systems fail.
+The intuition is that if you make agents
+smarter and more capable and more
+autonomous, you're going to push
+intelligence down to the workers and
+scale the ability of compute to convert
+to capability. Remember that phrase?
+That's what we're after. But that just
+doesn't work. The architecture that
+scales keeps workers pretty dumb. The
+implication for 2026 is that the
+investment should go into orchestration
+and not into agent intelligence. Build
+systems that can feed and monitor and
+merge the outputs of hundreds of simple
+workers. Do not build super elaborate
+agents. The implications here are that
+teams that win the year will be the ones
+that can absorb the tremendous increase
+of compute we're on schedule for. Assume
+another 10x who can add agents and get
+proportional throughput gains instead of
+a coordination collapse. And so you need
+to think in tiers, two tiers
+specifically. You need to think about
+isolating your workers, about having
+external orchestration so that
+complexity lives at the systems layer,
+not the agent layer. You need to think
+about how agents end. You need to think
+about how you can have a system simple
+enough that your prompts can drive agent
+performance and you don't have to spend
+a tremendous amount on agent
+coordination with engineering and small
+tool sets. Guys, it is possible to get
+to hundreds of agents. It is possible to
+get to hundreds of thousands of codes of
+lines of code written autonomously. I've
+seen it over and over and over again.
+But the teams that succeed understand
+that the job is not to give the agent
+too much scope. The job is not to make
+one brilliant Jason Bourne agent running
+around for a week. It's actually 10,000
+dumb agents that are really well
+coordinated in the system running around
+for an hour at a time progressively
+getting work done against a very tight
+definition of the goal they're
+accomplishing. That is the transition we
+are living through. That is what multi-
+aent systems are going to look like in
+2026. And the teams who understand this
+are going to outproduce the teams that
+don't by a factor of 100. And that is
+not an exaggeration. That is why the
+stakes are so high. And so there you go.
+That is your multi- aent toolkit right
+there. That is how teams actually build
+multi- aent systems that scale. Good
+luck.

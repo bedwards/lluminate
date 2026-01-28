@@ -1,0 +1,382 @@
+So, I came across this video here on
+YouTube. It's a space station or an
+image of a space station. And in the
+background, you can hear some ambient
+music. It's just a drone sound with some
+musical pieces on top. And it has a lot
+of views. A lot of people love this kind
+of sound. And there are probably
+millions of these videos on YouTube. So,
+I thought it's maybe a good idea to give
+you some tips and tricks how to do this
+in Bitwig Studio very easily in the grid
+because it's not very hard. I give you
+here an idea how it sounds just to not
+get flagged.
+It's like this for 1 hour. So just a
+drone sound and then a lot of movement,
+a lot of musical bits on top just, you
+know, with a lot of reverb. So that's
+basically it. Um, so in Bitwick you can
+do this pretty easily. Here I have
+nothing in the project here, just a
+pulley grid and a spectrum analyzer. So
+you can see what I'm doing. And we start
+here with a sign oscillator and an
+amplitude envelope.
+And we don't need to go for a saw
+oscillator here because usually these
+pet sounds are made with um saw leads. I
+can show you this here what I mean.
+Go down here one octave. Um, this is how
+it looks like with a saw, right? A lot
+of overtones. And then you usually go
+for uh a low pass filter
+and filter everything away on top
+and then you play with the movement. But
+what I do is I go for a sign oscillator
+without the filter because the sign
+oscillator is just pure
+and then you can use the skew
+to make it to a saw with all the
+overtones. So it's basically just a saw
+with a filter just in one device for me
+at least. Okay, that's it. So what we
+want to do is we want to stack now a lot
+of these oscillators here just with root
+note or with the root note of our key.
+And I want to use the fourth and the
+fifth but in different octaves just in
+one octave multiple octaves. Okay. So
+you can do this pretty easily by just
+maybe cloning here the oscillators many
+many times. But we can also just use
+voice stacking. So that's that's what I
+do at least. And um yeah, so we start by
+using actually a pitch. So we want to
+use a pitch for our key and we use here
+EB minor. So instead of using the pitch
+module
+uh and dialing in here this manually we
+go for the root module looks like this
+which gives us basically what we dialed
+in here on the top the global selector
+right. So it's EB maybe E. You can see
+it switches to E or F sharp and so on.
+So we can just use this and as an input.
+Uh we also want to go lower
+in pitch because we're on D# 3. So we
+can select here on the left side when we
+select the module we can say here go to
+maybe one octave one. So we are in this
+kind of range. Then we want to stack
+actually multiple voices. So we go here
+maybe for six and we use
+a stack spread modulator and we go for
+value and then we can use here the ratio
+knobs. It sounds like this.
+But with this, the problem is we end up
+on all kinds of different um nodes and
+frequencies, but we only want to hit uh
+the root note, the fourth, and the
+fifth. Okay, so how do we do this now?
+Um we can just use
+a quantizer, right? And then use
+the root note, the fourth and the fifth
+of the scale. But the problem now is
+when we switch here this to E this it
+doesn't fit anymore. Yeah. Every time
+you basically switch here this we have
+to switch also um here these knobs or
+these uh buttons to fit actually your
+current scale which is a bit tedious. It
+works but it's tedious. We also have
+your by scale this kind of thing but it
+also targets all of the notes of the
+current scale. This is also not what we
+want. We only want to target uh three
+different notes from each scale and
+these are all always different in each
+scale. So we can do something very
+easy with this. We just uh unhook unhook
+this here.
+Disable this. Uh basically um so uh we
+use an ad
+and we want to add
+the pitch here.
+We actually do this here in one scale
+and this is the C major scale and we use
+a ratio
+uh in front like this and then we say oh
+this is C major now. So C major this is
+the root and then we have 1 2 3 4 5 6 7.
+So we have the fourth and the fifth here
+in the root and then we add this two
+uh to this uh yeah put these two
+together. Maybe this is better
+because C3 is always zero. Uh so we
+don't need an input here because the
+input is zero. So zero is uh C3. So you
+don't need to have an input. And then we
+get here all the
+um offsets offset values right so here
+this is zero. Then this is probably I
+don't know 0.03 or something like this.
+And then we use this root note here as
+an offset. So we move it up or down in
+on the keyboard on the scale, right? So
+we offset this. So we can change this
+here and we are still using um the
+pitches or the offsets here for the
+notes. I hope this makes sense in a way
+to you. I can show you this in a minute.
+Um so we use value slider here. So
+instead of modulating this, we modulate
+actually this here in the C major scale.
+Uh and it sounds like this.
+Then we can add some notes.
+And now you can see
+that all these overtones here are
+actually louder than the initial pitch,
+which is not what we want. We want want
+to have this the loudest and this is the
+quietest. So it's actually the opposite
+way around. So we can use the value
+slider here and say the more we go up in
+pitch,
+the more we go up in pitch, the more we
+go up in voices, the lower we want to go
+with the volume. So we bring in here um
+a db slider like this. And then we
+modulate this down, right? We use here
+this value. The higher we go in voice,
+the lower we go with the volume.
+I maybe use a different one. Maybe have
+this one.
+The range is much much higher.
+Okay. Maybe add some
+voice decks here.
+So we can tweak we can tweak this later
+on. Yeah, much better. So now that we
+have these stacks and all of these
+stacks are actually only the root the
+fifth and the fourth and we can now
+change here the initial root key and
+everything is on point.
+Perfect. So we can change the key and
+everything stays in place. It's exactly
+what we want. Uh, so now we can also add
+maybe here reverb. So I'm going for a
+super massive
+um
+all the way up density here. And it
+probably already sounds very ambientish.
+Let's tweak this a bit.
+So you can hear
+can already bring in some movement just
+by modulating here the volume. So what
+we do now is we want to modulate the
+volume of each voice. We want to have go
+this down and up and this up and down
+right. So very randomly.
+So we can do this easily by just adding
+here a random modulator and this random
+modulator is already in per voice mode
+as you can see on the left side. So on
+each voice we get a value and you want
+to smooth this. Yeah. So it's slowly
+moving and we want to maybe have this
+um moving over four bars very slowly.
+And we use this to go down in volume
+here.
+So now each partial is
+randomly moving slowly up and down in
+volume.
+So let's play around here with the ratio
+setting.
+Yeah, let's go actually here to
+three.
+So, this is the highest setting we want
+to go. And now we can use a macro button
+here
+and just modulate the amount of this of
+this uh maximum three.
+So with this now we can go from only use
+one partial to
+um yeah use a different um spreading.
+So we use random modulator here. Maybe
+we switch this to monophonic
+and we say bar and we say every four
+bars or maybe every five bars
+we switch to a different value. And this
+is then a different spread setting.
+And because it's very
+abruptly changing from one chord to the
+other, maybe we can bring in here a lag.
+So it's slowly moving the notes from one
+point to the other.
+Can you hear it?
+Are you a bit slower? I don't know.
+It depends on what you like.
+or maybe it's too slow.
+So, it all depends on taste on what you
+want to do. Okay. So, now that we have
+this, we can also clone here this random
+uh randomizer. And we go maybe for a bit
+slower, six bars.
+And then we go here for the skew.
+So now some of the voices get randomly
+morphed into a solid
+That's also nice. So, let's clone this
+randomizer here again and do it for the
+fault.
+Okay. So maybe we want to slightly
+d-tune each voice because it's very
+perfect on point. So we can maybe use
+the value again, detune everything a
+bit.
+Or we can do also another randomizer
+here
+and just randomize each voice slightly.
+Can also try and push this down one
+octave.
+That's better.
+Okay. So this is one thing you can do.
+We can also do something like um self
+resonance. We bring in here delay.
+Uh take the output of this oscillator
+and bring it back into the input here
+for phase modulation.
+And we do the same thing here with the
+randomizer.
+give some interesting sounds sometimes.
+Not too much.
+So maybe we also want to use a chorus
+here. Chorus plus
+just for extra movement.
+Maybe the output is a bit too high here.
+Yeah. And like I said, the best part is
+you can now change
+um get the root key and you get a
+different sound.
+Okay.
+So, I think I don't like here actually
+the switch. Um, so maybe I just remove
+that.
+Um,
+let's move this here. Remove that. And
+we go for
+three is maybe too much.
+That's okay.
+Yeah, two is okay.
+So now that we know the scale, which is
+EB minor, uh we can maybe play something
+on top. So I want to add here an EQ
+for now. Maybe filter out here the bass
+a bit.
+Yeah, we maybe could could use here my
+textures plugin again. Textures.
+Um
+uh it's this one here.
+Yeah, it's this one.
+Let's see.
+Maybe in front of the reverb.
+Yeah, it sounds a bit better.
+So now we can maybe use a sampler
+and I can use here my
+um
+my Triton keyboards patch.
+Um, it's just a bunch of samples from
+the Triton keyboard. Lot of different
+presets here as one sample.
+And we use a random modulator for that.
+And we select a random sample every time
+we press a key. And then we hold it.
+Let's see how this sounds.
+Yeah, we got different key.
+And you want to have a slow attack here.
+Maybe we go for textures mode, longer
+grain.
+And we use the same reverb setting on
+that.
+Maybe a longer.
+And then you play some random notes on
+top out of the key.
+I may record it.
+And because this is randomized, you get
+a different sound every time. Yeah.
+And we maybe use um
+50% chance on each note so it's not
+played all the time.
+Maybe delay.
+Also very nice is here the delay plus
+this one.
+And sometimes I like to
+randomize here the delay times.
+Uh let's say every
+six half note
+Let's put this here.
+So, we have the
+um Yeah, maybe an highp pass. More high
+passing
+EQ5 on that.
+Bam. Nice ambience.
+So all we need now is maybe a bass.
+So we can go for a polymer
+use maybe saw
+uh the tuned
+and we use here transpose.
+Go down two octaves
+a tool device here. Make it mono. Use
+ADSR here. It's the bass. So, we can go
+monophonic. Let's see how this sounds.
+That's way too way too high.
+And then you play a baseline. I don't
+know what.
+Or maybe it's start with the root.
+Yeah. And then you maybe use another
+reverb
+at the end. Maybe not too much.
+Then you bring everything into balance.
+Yeah, you can get creative with what
+kind of sounds you put on top or where
+you put it, right? You have a lot of
+options here in the drone generator. You
+can see it's very easy, very simple, but
+you can make it so uh complex if you
+want to.
+Um just stacking here fifth and fourth
+and also using here some random sounds
+on top some sample treat keyboard
+presets then a bass you know it's it's
+very very simple actually and there are
+so many options you can um
+push this into different directions
+right you can put the beat below that
+use some drums or leave it as it is
+uh maybe exchange change the sign
+oscillator here for a wavetable
+oscillator. Use some wave tables in
+there, get a different sound. Um,
+whatever you want to do, right? Um, so
+yeah, I just want to give you a quick
+idea how to do this and how to approach
+this. I maybe put this um whole project
+here on my dispenser or on my GitHub
+page, so you can download this for free
+if you want to. But actually, you can
+you just saw it. It's it's not that
+much. But this is a great starting point
+for ambient songs or if you want to
+create these kind of sounds or videos
+here on YouTube and get 80k views
+which you probably don't get. Uh but
+yeah, that's how you do it. Okay, I hope
+this helps in a way. Uh thanks for
+watching. Leave a like. Let me know what
+you think. Maybe uh you need some more
+uh stuff like this. Anyway, let me know.
+Let me know in the comments. Okay,
+thanks for watching. See you in next
+video and bye.
+I don't let this run for one hour. Bye.

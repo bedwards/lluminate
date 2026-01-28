@@ -1,0 +1,213 @@
+okay so it's been a long time coming but
+our goal for this video is to get a grid
+system working on our placement system
+because for right now you can kind of
+place things wherever so let's get right
+to
+it okay so picking off where we were
+last
+video what I want to do is have a button
+to where um like an actual like physical
+button on your keyboard so like let's
+say the user presses G I want that to
+turn on like grid snapping mode so you
+can actually snap to grid and then
+you'll be able to place stuff with a
+little bit more accuracy and I'm going
+to implement this in such a way to where
+you could easily change the grid size if
+you were to add the extra functionality
+but for this specific demo we're just
+going to be using a basic you know grid
+size so to start we first need to keep
+track of a grid size variable in the
+actual class here so in the set
+metatable block I'm going to add a grid
+size equal zero it's going to start out
+at zero and then we want to have an
+action when the user presses G for it to
+you know snap to grid so I'm going to
+create a new action Conant at the top
+called Snap action because this is going
+to be when the player wants to snap to
+grid so we're going to say snap and then
+we can we can do context Action Service
+bind action snap action and then we want
+a function passing in the variables and
+we haven't actually implemented the
+function yet we'll do that in a minute
+and we want to send the enum dokey code.
+G so when they press G it will trigger
+this
+function and we don't want to forget at
+the very bottom we need to unbind all
+our actions so I'm going to do context
+Action Service unbind action snap action
+even though it doesn't do anything it's
+always a good practice to make sure you
+unbind it when you create it just so
+whenever you go out of build mode it
+won't lead to any issues and so now
+let's go and Implement a new function
+I'm going to put it right above destroy
+say function client
+Placer toggle grid toggle grid so this
+will toggle the Grid on and off and then
+all we care about is the state so I'm
+just put underscores and all the other
+parameters so with this function it's
+going to be pretty simple so we're going
+to say if State equals enum do user
+input state.
+begin we want to say self. grid
+size equals if self. grid
+size equals z then one lse zero so this
+is the part of the script that's kind of
+like up to you to decide what you want
+to do so basically what this does is we
+uh look at the current grid size if it's
+zero then we set it to one if it's one
+then we set it to zero so it just
+toggles it from zero to one so when the
+grid size is zero it's not going to snap
+to grid when grid size is anything
+greater than zero it'll snap to
+whichever grid size that we have and so
+if you wanted to make this like a cycle
+grids like you know could do 0. 2551
+whatever you could do the same idea that
+we have cycle object up here and just
+kind of do that for the grid side so you
+like you spam G to get a bunch of
+different grid sizes but for now this is
+what we're going to
+do and then
+going forward we need to go to
+the render preview so in render preview
+we want to add a new local variable say
+local position equals if self. grid size
+is greater than zero then we want to
+snap to grid which is a function that we
+haven't implemented yet and we want to
+pass in the cast. position and then the
+self. grid size and then else we want to
+just send them the cast. position so
+this local position is just going to
+replace our cast. position inside the CF
+frame. new so it'll be cast stop
+position when grid snapping is off I.E
+grid size is zero otherwise we want to
+actually snap it to grid so let's go
+make that function and we're making this
+a local function just because it's a
+pure math function we're just doing some
+math to a vector you could obviously
+make it an actual class function if you
+really wanted to but it's up to you and
+so this will take in a position and then
+a grid side
+so what we basically want to do here is
+return a new Vector 3 so Vector 3. new
+and then ins size of here we want to I'm
+just going to put a new line to make
+some space we want to snap it to G so
+what does that mean so there's a bunch
+of different ways that you can do this
+but the way that I'm going to do this is
+using
+math.round with the pause. x divided by
+the grid size and then
+times the grid size so what we're
+basically doing here is let's say you
+have a position like 6.5 and then you
+have your grid size which is like two so
+um 6.5 divided two is like actually
+let's bring out a calculator I don't
+know this math off 6.5 divided by 2 is
+3.25 so 3.25 and then we round it so
+math out round 3.25 would be three so
+three is like the grid snapped position
+that we have but we divided it by the
+grid size so now we need to scale it up
+by the grid size once again which is two
+so it's going to be six so because it's
+2 * 3 so let's just do that again from
+the top so it would be 6.5 / 2 which is
+3 and we want to floor that so it's 3 *
+grid size which is two which is just six
+so 6.25 gets rounded down to six and
+then something like 7.5 so 7.5 divided
+by two would give us 3.25 3.75 which
+rounded up gives us 4 4 * 2 is 8 so it'd
+be anywhere from like 6 to 8 on the X so
+just by like playing with that you can
+see how it's a good grid snapping
+function and so for the Y we can just do
+pause. y because we don't want to
+actually change the Y position all we
+want to do is change the x and z
+position since we're dealing with a 2d
+plane where all of our like furniture
+and you know walls are going to be
+placed and then for these Z we do the
+same exact thing as X so pause. Z / grid
+size times grid size so we basically
+find like the grid increment so we
+basically make this pause. Z relative to
+the grid size and then we find like
+whether or not be like like zero or one
+basically relative to that grid size and
+then we scale it back up again we scale
+it down and we scale it up but in
+between we round it
+so now we can use this snap to grid
+function down here let's double check
+that it works yep and then one more
+thing that I forgot to do earlier is we
+need to actually call the snap to grid
+function or just toggle grid function
+with the parameters that we passed in in
+our bind action so now it should work
+let's play
+this well syntax error whoops
+where is
+it I put an extra comma here whoops so
+if we play it
+again press G we have grid snapping and
+this should work for every grid size so
+let's go try a different grid size where
+did I put it here we go let's try like
+four or something I don't know it's
+going to be a big grid size but it
+should still work so we have G and you
+can see it now snaps to a much larger
+grid so if we want to place place tables
+at like some defined increment there we
+go we can do that so there you have it
+that is your grid plot placement system
+in Roblox and um I don't live under a
+rock I'm well aware this video is like
+like six months late I'm sorry for that
+I didn't know there'd be such a demand
+for it but I I've had it in the works
+for a long time I just never got around
+to making it because I've been super
+busy recently and sorry about that I'm
+still alive I haven't died yet but um
+I've just been really really busy so my
+content is just like not like being
+published very quickly this is my
+mandatory fall video we might get more
+than one fall video this year I don't
+know we'll see we'll see how it goes but
+I hope you enjoyed this video make sure
+like And subscribe if you did the code
+and stuff will be in the description um
+yeah and I'll if you have any more ideas
+with this series just let me know don't
+know if I'll get to it don't know if
+I'll get to anything anytime soon but
+ideas are ideas I love ideas so um yeah
+so I hope you have a nice day and
+goodbye
+[Music]

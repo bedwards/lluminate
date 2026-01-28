@@ -1,0 +1,142 @@
+Title: A Top Scientist's Ideas as to NIH
+Source: goodscience
+URL: https://goodscience.substack.com/p/a-top-scientists-ideas-as-to-nih
+Date: Sat, 22 Nov 2025 23:53:14 GMT
+Word Count: 2036
+Estimated Read Time: 10 minutes
+
+================================================================================
+
+A Top Scientist's Ideas as to NIH - by Stuart Buck
+The Good Science Project
+Subscribe
+Sign in
+A Top Scientist's Ideas as to NIH
+An anonymous guest post
+Stuart Buck
+Nov 22, 2025
+27
+9
+7
+Share
+Editor’s note: The author is a senior NIH-funded scholar at a leading U.S. research university who has served as an investigator on more than ten NIH grants and has participated in numerous NIH study sections over many years. The author requested anonymity in order to speak candidly about NIH funding structures. The Good Science Project has verified the author’s identity and funding record.
+The Good Science Project doesn’t necessarily endorse any of the ideas below, but we think it is crucial to give scientists like this a voice to express potentially unpopular opinions.
+PS: If you’re a scientist with first-hand experience of science policy and funding issues, and want to publish your thoughts (anonymously or not) in a newsletter that is regularly read by all the top science policymakers in DC and academia, let me know.
+***
+Progress at developing new cures and fundamental discoveries appears to have slowed over the decades, with much funded research happening within established silos in often sclerotic fields (Bloom et al., 2020). This is arguably because the NIH currently underfunds transformative science conducted by innovative scientists. Transformative work typically occurs in underexplored areas that lack established communities, often between disciplines, and is frequently driven by atypical investigators: younger, cross-disciplinary, or otherwise unconventional (Uzzi et al., 2013). Therefore, NIH processes should be improved to find and fund such ideas wherever they arise, and there are many readily implementable improvements.
+The structure of NIH extramural funding makes it difficult to support such high-impact, unconventional research. Below, I outline key mechanisms that inhibit transformative science and propose changes that could make NIH systematically more innovative.
+These reflections stem from my own experience serving on study sections and from the published literature. While not based on formal bibliometric analyses, such analyses would be straightforward for NIH to perform. The principle is simple: reward rigor, speed, and audacity, rather than conformity.
+1. Reduce the insider advantage of the R01 formula
+NIH R01 grants have become highly formulaic. Adherence to a known “grant-writing formula” is rewarded in review scores. Senior scientists have mastered this format, partly in a good way through good storytelling, but partly in a bad way by simply writing according to the formulaic expectations.
+This gives them a major advantage over more junior scientists; incumbents enjoy a significant structural advantage, consistent with evidence that past funding success amplifies future funding (“Matthew effects”) in competitive science funding systems (Bol et al., 2018).
+Therefore, NIH should innovate as to the grant
+format
+. That is, NIH should regularly create new and alternative submission types: short concept notes, extended technical proposals, recorded presentations, or even “back-of-the-envelope” calculations and simulations. NIH should continuously refresh these formats on an unpredictable cadence to prevent ossification.
+Why so, you might ask? Each change resets the competition, reducing the incumbents’ advantage. In addition NIH should do more efforts to teach the formula to everyone. NIH’s Pioneer Award (DP1) offers a valuable precedent but it was on the small side.
+The reason to be careful here: Any given format will favor some applicants. Safeguards should prevent abuse by those submitting excessive numbers of proposals (e.g., submission caps and staggered deadlines).
+2. Incentivize intellectual mobility among established leaders
+Empirical work shows that senior field leaders can slow innovation (Azoulay et al., 2019). Fields thrive when leadership turns over and ideas migrate.
+Therefore, the NIH should try to create substantial “field-shift” grants that support established scientists in launching work in entirely new domains. The NIH should then couple these grants with temporary restrictions on writing, reviewing, or supervising grants within their former field to avoid double-counting influence. The NIH already has related mechanisms, e.g. the K18, but they are simply too small ($40k for scientists who often hold million dollar portfolios) to convince any established scientists to truly leave their field.
+The reason to be careful here: Some loss of deep expertise is inevitable. Review mechanisms should assess whether a field can withstand the transition before funding such moves and should include stakeholder letters on absorptive capacity.
+3. Counter typicality bias in study sections
+Transformative research often arises at disciplinary boundaries. Quoting the late Sydney Brenner: “The thing is to have no discipline at all. Biology got its main success by the importation of physicists that came into the field not knowing any biology and I think today that’s very important. . . .  I always work in fields of which I’m totally ignorant.”
+James W. Phillips' Newsletter
+S&T: 'A conversation with Sydney Brenner: How academia and publishing are destroying scientific innovation' - Elizabeth Dzeng's 2014 Interview
+One of my early heroes was Sydney Brenner. Brenner was one of the first to see the double helix, and quickly grasped its importance for unlocking the secrets of life. He went on to have one of the most remarkable careers in all of biology, being part of multiple Nobel prize-level discoveries including the genetic code, mRNA, the first complete map of th…
+Read more
+3 years ago · 2 likes · James W. Phillips
+And yet NIH study sections are organized by field. Reviewers naturally favor proposals close to their own expertise; randomized grant review experiments suggest that evaluators systematically give lower scores to proposals that are intellectually distant from their own knowledge base or that are highly novel (Boudreau et al., 2016). Atypical work thus receives systematically lower scores.
+Therefore, NIH should establish interdisciplinary and cross-cutting study sections by default. Authorize rapid, time-boxed panels around emerging approaches that dissolve once fields mature.
+The reason to be careful here: Recruiting appropriate reviewers may be more complex and will require buy-in from multiple subfields (set cross-field representation minimums and train reviewers on evaluating atypical work). Most potential reviewers may be quite weak outside of their home field.
+4. Adjust for uneven distribution of transformative proposals
+Some study sections routinely evaluate highly innovative proposals, while others review incremental work. The NIH Center for Scientific Review already evaluates study sections using output and bibliometric data through its ENQUIRE program, which periodically assesses whether panels are configured to “facilitate the identification of high impact science.”
+Therefore, NIH should broaden the ENQUIRE process to include a second-level review in which broad, accomplished scientists assess each section’s portfolio at arm’s length. For high-performing sections, NIH should then permit modestly higher effective funding rates; for low-performing sections, modestly lower ones.
+The reason to be careful here: These evaluations will be noisy. Their influence should be limited, perhaps adjusting funding rates by no more than 30 percent and using transparent, pre-specified metrics.
+5. Differentiate creation vs. use of transformative technologies
+Transformative advances come from both technology creators and idea originators. Yet funding often flows disproportionately to well-resourced labs that use new technologies suboptimally or test weak hypotheses rather than developing new ideas, even though empirical analyses of NIH funding suggest diminishing marginal returns as grant support to individual investigators increases (Lauer et al., 2017).
+Therefore, the NIH should establish distinct funding mechanisms for technology development (e.g., new microscopes, AI algorithms) and for conceptual innovation. Before scaling up technologies across patient groups or modalities, it should require clear, publicly documented demonstrations of value. The Brain Initiative was a step into the right direction, but it was small, its funding for ideas was limited, and it was cut down considerably on the engineering side.
+The reason to be careful here: Technology developers must remain responsive to end-user needs to ensure biological and medical relevance (mandate user-feedback milestones and interoperability checks).
+6. Speed up the experimentation cycle
+Transformative ideas are often wrong; the key is to test them rapidly. The current cycle from idea to experiment, grant writing, setup, data collection, is too slow.
+Therefore, the NIH should fund
+shared
+experimental resources (e.g. C. elegans perturbation) accessible to all labs, analogous to particle physics collaborations. Centralized testing facilities could dramatically shorten the idea-to-data cycle and lower barriers for unconventional investigators. This is starting to happen already, e.g., in the Allen Institute.
+The reason to be careful here: Some highly specialized research may not adapt easily to centralized experimentation. Transitions should be very gradual with periodic sunset and scale-up reviews.
+7. Make rigor and clarity prerequisites
+A lack of rigor (p-hacking, HARKing, and confusion between correlation and causation) continues to undermine scientific progress, and concerns about high rates of non-replicable findings in biomedical research have been widely documented (Ioannidis, 2005). False findings drown out true transformative ideas.
+Therefore, the NIH should fund the development of AI-based tools for scientific integrity: automated fraud detection, pipeline forensics, and planning assistance. Such tools could help enforce rigor without adding administrative burden if deployed with clear validation standards and red-team testing. NIH is already investing into rigor and it is mentioned everywhere. It is just that current interventions have not led to the culture change we need.
+The reason to be careful here: Premature deployment of these technologies could erode trust. Algorithms must be thoroughly validated before adoption and evaluated for error costs and appeals processes.
+Conclusion
+Transformative science is essential for biomedical progress, yet NIH’s structures inadvertently favor incrementalism. Therefore, by refreshing grant formats, incentivizing intellectual mobility, modernizing review structures, differentiating between creation and use of technology and ideas, and accelerating experimentation under conditions of rigor, NIH can systematically foster the kind of science that changes how we think and how we heal.
+References
+Bloom, N., Jones, C. I., Van Reenen, J., & Webb, M. (2020). Are ideas getting harder to find?
+American Economic Review
+, 110(4), 1104–1144.
+https://www.aeaweb.org/articles?id=10.1257/aer.20180338
+Bol, T., de Vaan, M., & van de Rijt, A. (2018). The Matthew effect in science funding.
+Proceedings of the National Academy of Sciences
+, 115(19), 4887–4890.
+https://www.pnas.org/doi/10.1073/pnas.1719557115
+Azoulay, P., Fons-Rosen, C., & Graff Zivin, J. S. (2019). Does science advance one funeral at a time?
+American Economic Review
+, 109(8), 2889–2920. Open-access version:
+https://dspace.mit.edu/handle/1721.1/129943
+Boudreau, K. J., Guinan, E. C., Lakhani, K. R., & Riedl, C. (2016). Looking across and looking beyond the knowledge frontier: Intellectual distance, novelty, and resource allocation in science.
+Management Science
+, 62(10), 2765–2783.
+https://doi.org/10.1287/mnsc.2015.2285
+Lauer, M. S., Roychowdhury, D., Patel, K., Walsh, R., & Pearson, K. (2017). Marginal returns and levels of research grant support among scientists supported by the National Institutes of Health.
+bioRxiv
+142554.
+https://doi.org/10.1101/142554
+Uzzi, B., Mukherjee, S., Stringer, M., & Jones, B. (2013). Atypical combinations and scientific impact.
+Science
+, 342(6157), 468–472.
+https://www.kellogg.northwestern.edu/faculty/uzzi/htm/papers/Science-2013-Uzzi-468-72.pdf
+Ioannidis, J. P. A. (2005). Why most published research findings are false.
+PLOS Medicine
+, 2(8), e124.
+https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124
+27
+9
+7
+Share
+Discussion about this post
+Comments
+Restacks
+Michael Frank Martin
+Nov 23
+Liked by Stuart Buck
+Many excellent ideas here. Worth underscoring that the problem raised in point 3 (although perhaps indirectly related to many of the points) is actually quite fundamental:
+"But people whose coalitional membership is constituted by their shared adherence to 'rational,' scientific propositions have a problem when—as is generally the case—new information arises which requires belief revision. To question or disagree with coalitional precepts, even for rational reasons, makes one a bad and immoral coalition member—at risk of losing job offers, one's friends, and one's cherished group identity."
+https://www.edge.org/conversation/john_tooby-coalitional-instincts?ref=thebrowser.com
+Scientists in theory are the coalition that embraces new hypotheses and evidence, but in practice remain human. This problem specifically may be one where AI agents can be useful in correcting for our own blindspots — at least for so long as those blindspots aren't incorporated into their own models.
+Reply
+Share
+EDichter
+Nov 24
+Much of these same ideas have been enunciated by the current head of NIH Dr. Jay Battacharya
+in an interview several months ago just after being appointed to head the NIH. The interview was with Jim Robinson of the Hoover Institution at Stanford and can be seen on their website.
+Reply
+Share
+7 more comments...
+Top
+Latest
+Discussions
+No posts
+Ready for more?
+Subscribe
+© 2026 Stuart Buck
+·
+Privacy
+∙
+Terms
+∙
+Collection notice
+Start your Substack
+Get the app
+Substack
+is the home for great culture
+This site requires JavaScript to run correctly. Please
+turn on JavaScript
+or unblock scripts

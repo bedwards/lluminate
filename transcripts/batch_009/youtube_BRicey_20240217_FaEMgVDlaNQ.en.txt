@@ -1,0 +1,656 @@
+Base building or plot building or just
+any type of building free building is a
+staple of Roblox whether it be games
+like bloxburg or the old style like you
+know build a base to fight against
+zombies or whatever game Base building
+is a you know really nice
+feature that can take a game and Elevate
+to the next level or it can be a game of
+itself so in this video series we're
+going to be making a plot system where a
+player owns a plot they're able to
+toggle like a little build tool they're
+able to cycle objects you can rotate
+objects around you can create a grid so
+things snap to a grid so you can like
+precisely Place furniture and other
+objects and player the player can
+obviously delete stuff I could delete
+that table over there delete that block
+and then one of the biggest features is
+that when you leave the game and then
+rejoin the things that you placed will
+actually persist so there's data saving
+of your plot so you see everything I
+just placed is actually saved so this
+series is going to be a pretty in-depth
+pretty long one but you will learn a lot
+you'll learn about C frames
+rasts data
+serialization good architecture because
+this is this is a game like let's be
+real like this entire plot system is a
+game of itself where the player owns
+plots so you learn how to like structure
+your game in such a way to make it
+expandable and easy to work with so I'm
+very excited to go through this series
+cover all of these topics this first
+video will be just on like basic setup
+which is kind of tedious but it shows
+you the architecture which is probably
+the most important part of any game even
+though it's often overlooked so I hope
+you enjoy that but make sure to like And
+subscribe if you enjoy this video enjoy
+this series and make sure to subscribe
+because this series will be a long one
+so you have to stay tuned and get
+notified when the next videos come up
+but without further Ado let's get
+straight into to the
+video so before we can actually do the
+flashy stuff of like placing blocks and
+you know dealing with your plot like
+that you first need a plot so we're
+going to start by doing that so first of
+all we're going to make a little part
+I'm going to make this uh Let's do let's
+say like 25 by 1 by
+25 so we can make it bigger let's do
+50 so we just have a little a little
+part here make it
+concrete nothing special okay here's our
+here's our little base part I'm going to
+rename this
+to base and we're going to make it
+anchored and then I'm going to use um
+group it so I'm going to hold on base
+click Control G to group it and this
+model is going to be called our plot so
+the primary plot primary part of the
+plot is the base and then we need to
+create a folder inside of our
+plot called objects so the way this is
+going to
+work is this plot will allow you to
+place objects like it could be Furniture
+it could be like stuff like walls I
+guess just anything basically objects
+they're going to be stored in this
+objects folder and they're going to be
+placed on top of the base and this plot
+will act kind of like a template for our
+entire thing which that should work out
+nicely so we're going to take this plot
+and we're going to shove it into server
+storage because this will be our little
+plot template and now we have to you
+know start scripting that so let's go
+into server script service and create a
+script and I'm going to call this script
+the server L just going be server and
+for right now what is this goodbye um
+right now we're just going to get
+players the player service local players
+equals game get service players so we're
+going to deal with this a little bit
+later but for now this is just a
+placeholder because we're going to
+create a module script called and we're
+going to call this the
+plot manager so we're making a module
+script now just at the get-go because
+when I develop this myself I realize we
+can't really put everything in the
+server script we kind of need to
+distribute it out and that's what we're
+going to do here so we're going to go
+and make a couple of functions just to
+start out do function plot manager.
+spawn plot and it'll take in a player
+and actually in this series we're going
+to add type definitions I've been
+beating around the bush too long so this
+player we're going to do a colon after
+that and then type in capital player so
+this is telling our our function that it
+takes a player uh parameter and the type
+of that is player this colon says okay
+what type is it it's a player type so
+basically if you don't know much about
+um type Lua or luau I guess this will
+just at the very least give you more
+autocomplete because this knows it's a
+player so we can type player Dot and it
+gives us all of the attributes of a
+player um so it just gives you more auto
+complete I guess it's it's very helpful
+in that regard it's very helpful in
+other regards too but if you don't know
+much that's just all you really need to
+know so we're going to create a plot so
+we're going to say local plot well we
+need the plot template that we made so
+we're say local plot template equals
+game get service server
+storage. plot there we go so that's our
+plot template and we're going to say
+local plot equals plot template loan so
+we're going to clone our plot template
+and then we're going to set the plot
+template. name equal to we're going to
+use back Texs here not um apostrophes or
+quotation marks because we're going to
+we're going to say it's going to be
+where did my cursor go it's going to be
+we're going to put a cly bracket we say
+player. name and notice how it
+highlights it differently that's because
+we're using string interpolation here so
+we're able to put the string that we
+want inside of the other string very
+very very useful we have to use a little
+bit different syntax this is similar to
+how JavaScript does it and this will
+just rename the plot to like my name is
+BC so it'll be BC's plot pretty cool
+good for debugging purposes not good for
+much else but might as well do it say
+plot. parent equals workspace dot well
+we could parent at work space but or I'm
+going to make a folder in our workspace
+called plots so
+folder and we're going to name
+this plots there we go so we have a
+folder called plots so we're going to
+say workspace do plots so we make our
+plot we name it and then we shove it
+into the world and then when we make a
+plot we want to keep track of it because
+we're eventually we're going to need to
+grab plots for a player and do stuff
+like that so we're going to define
+a a list we say local plots colon it's
+going to be a list of models so this
+syntax here just means it's a list of
+models an array of models so it's just
+going to have like Z 0 1 2 3 4 5 and
+it's going to have models um in this
+case we're not going to use like normal
+array indices the index of our plot is
+going to be the player. user ID so plots
+player. user ID is going to be equal to
+plot so for every plot and plots they're
+going to have a unique ID of that player
+and it's going to be set to the actual
+plot model so we're later so we're able
+to retrieve it later and then we want to
+just return the plot because later down
+the line we'll have to actually use this
+plot and just to flesh out our plot
+manager kind of its purpose in life
+because you know it's it manages the
+plots we got to it's like the owner of
+all the plots let's make another
+function called plot manager. gplot
+which will also take in a player which
+is of type player and then we
+will return plots player. user ID so um
+and both of these I guess we're going to
+do another colon at the end and we're
+going to do colon model because it means
+it returns a model so it takes in a
+player which is of type player and
+returns a model and then this is like
+not guaranteed to actually exist I so I
+guess it should be model or nil but
+whatever it's fine like this is good
+enough um so yeah plot manager done and
+then we can go back to our server and
+the server you know it's kind of dumb
+we're going to get the plot manager but
+it's not actually going to do any logic
+which is good because it's good to have
+the one single um server script that
+doesn't really do much and have a bunch
+of modules where all the functionality
+abstracted it makes it really easy to
+read so we're going to say local plot
+manager equals require script. parent.
+plot manager I added a space in the name
+that is abhorent okay we're going to
+change the name never never be like me
+don't add spaces in your your name there
+you go plot
+manager no spaces normal normal Pascal
+case and we're going to say players.
+player added connect a function which in
+this case is going to be plot manager.
+spawn plot because the connection sends
+a player and the plot manager takes a
+player so if we play the game we should
+get a
+plot we do in fact get a plot
+excellent but you'll notice if more than
+one player joins the plot is just going
+to spawn in the same spot they're going
+to spawn on top of each other which is
+not good so you could make some
+algorithms you know to like place the
+cloths in different spots but personally
+I find it easier just to make a folder
+I'm going to make a folder call this
+call this folder plot spawns and then
+we're going to add a sphere to this this
+will be like a little marker part well
+part to it this part will I'm going to
+change it to like a sphere be like a
+little transparent just so it's like a
+little debug debug
+sphere and um we're g to make the size
+one one
+just so it's nice and contained yep
+there we go and then I'm going to just
+make it a different color and make it
+neon just because it's debug like we
+don't need need it that much this is all
+just athetic doesn't matter the only
+thing you really need is to turn can
+Collide off or turn actually all of the
+the can things off and then make it
+anchored and so this will be a like plot
+spawn so you can take this this is one
+plot spawn duplicate it you have another
+plot spawn so forth and so
+on there we go so um um for now I'm just
+going to leave it at like two just so
+it's like easy to test but we need a way
+to manage these plot spawns and for that
+we're going to make another module
+script because again it's a new purpose
+the new purpose of this script will be
+to manage the plot spawns and this will
+be a spawn pool so like a plot plot
+spawn pool so we're going to name this
+plot spawn pool there we go and it'll be
+responsible for Distributing the plot
+spawns making sure we know which ones
+are taken which ones are available and
+it may sound complicated it's way
+simpler than you would think all we got
+to do is we got to keep a list of
+available
+available there we go did I spell that I
+did spell that right nice we're going to
+say available is going to be equal
+to something but we first need to get
+plot spawns be workspace do plot spawns
+so we have our spot plot spawns and I'm
+going to say available equals plot
+spawns get children there we go so get
+children returns a list
+of parts in this case which would be all
+of the available plot spawns and then we
+want to say used locally used is going
+to be a list of Base part and it'll be
+empty because when you start the game
+there should be none all of them should
+be available none of them should be used
+so in here we're going to say
+function plot spawn pool. getet and
+we're going to take in a player which is
+a player and then we're going to return
+the plot spawn so this G to be base part
+um and here we're going to say local
+plot spawn equals table. remove
+available so one interesting thing about
+table. remove is when we call table.
+remove with just a table it just removes
+like the last element but it also
+Returns the element so it gives you a
+really concise syntax to both remove the
+thing from the back of the list and give
+it back to you so that's why we're
+setting it equal to plot spawn and then
+we're going to say used player. user ID
+equals plot spawn so we're basically
+like borrowing the plot spawn so when
+the player joins they're going to
+reserve their plot spawn it's going to
+remove it from the available list add it
+to the use list but we know it's that
+player who uses it because we put it
+using their ID this is the same strategy
+we use for the plots list but we're
+using this just for the plot spawns and
+we're going to return plot spawn here
+there you go and we're also going to say
+function plot spawn pool. return and
+this will take in a player
+and it will return nothing and what we
+have to do here is check first of all if
+the plot spawn exists like if they
+actually like rented the plot in the
+first place you can never be sure we're
+going to be a defensive programmer we're
+going to like check so we're going say
+if used well I guess we can do this in a
+guard CLA St so let's do that so if not
+used player. user ID then return so
+basically if the player never actually
+rented out a plot spawn we're going to
+just abort but otherwise we're going to
+do table do in insert available and I'm
+we're going to do used player. user ID
+so that'll take the base part and return
+it back to the available list and then
+we also need to clear the used list
+used. player ID equals Neil so we're
+basically saying okay get rid of you out
+of Ed we're going back to available now
+you could manage this entire system
+using tags or attributes I think I did
+that in my Tycoon series I don't know
+can't really remember I did it using
+tags in the past but this way is just
+it's like it's literally 23 lines of
+code and it's it's pretty simple and it
+should work just fine for our purposes
+it's just another flavor um I'm trying
+this out now because I think it's a
+little more elegant than using
+attributes and
+stuff but I don't know pros and cons so
+now in our spawn plot instead of
+actually just you know leaving it here
+we can get we can get
+our we can say sorry we can get say plot
+pivot 2 so we're using pivot 2 because
+you know that's the way to move models
+these days
+I guess um kind of add a date this yeah
+this is the way you move models and we
+need to Pivot to a spawn that we get so
+we obviously need to get our plot spawn
+pool so local plot spawn pool at the top
+is going to be equal to requir script.
+parent. plot spawn pool there we go so
+we have we need to Pivot to our plot
+spawn pool. getet player so since the
+get method also like does all of the you
+know filing away of our you know spawn
+whatever all we need to do at as a
+consumer of this is just get it and
+shove it into our pivot 2 and not worry
+about it because the functionality is
+handled in a different file but when we
+get it we get a part so we need to do
+that cframe to Pivot it to that parts
+cframe so let us test this out it should
+work the exact
+same yippe we have our we have our part
+so if I were to move this I think it
+spawned on this this one so if I were to
+move this well it'll move as
+well or it might or it might pick the
+other one no it did move Okay cool so it
+did move because like this is our plot
+spawn now so cool so now in your game
+you can just plant these around make
+sure make sure very very very important
+this plot spawn pool assumes that there
+will be more of the little dots than
+there will be players there has to be
+more otherwise there will be issues uh
+players will not get plots there will be
+errors or players will get plots but the
+plots will just spawn in a default
+location people will get errors please
+please please just make sure you have at
+least like four more plot spawns than
+you have max players because sometimes
+Roblox can like reallocate players and
+more spawn in like you want to be safe
+you want to add more than you need just
+please keep that in mind so I did make
+one minor mistake we should swap the
+pivot 2 with the plot. parent because um
+it's more performing to actually change
+the C frame before you put it in the
+workspace so it doesn't have to like
+reender whatever very minor thing but
+now we can go to the client okay first
+of all we need to create a remote
+function uh called oh this is a remote
+event not a remote function remote
+function and we're going to name this
+get plot so I tried to get the entire
+system to work without the client
+actually needing to know what plot they
+were owned by and it didn't really work
+out so just from the get-go we're going
+to have to get the plot from the server
+and then then we're going to have to go
+into um start or starter player and then
+starter player scripts and then we need
+to create a new local script I'm just
+going to call this client just a basic
+name and inside
+here we're going to want to just set up
+some scaffolding to get everything set
+up so let's delete the Hello World stuff
+first we're going to need to get
+replicated storage equals game get
+service replicated storage we're going
+to say local context Action
+Service this game get service context
+action service and then we're going to
+need to say get
+plot equals replicate storage wait for
+child important use wait for child we
+don't know when it'll actually exist for
+the client I'm going to say get plot
+okay so first of all we need to get like
+we need to have an object so the way the
+way I'm thinking this is whenever the
+player clicks a button they'll go into
+build mode and the build mode will you
+know create a new object and that like
+control how the player builds and then
+when they unclick the button
+then it will you know turn off build
+mode
+so so we have to create like that object
+so I'm going to go into Ser player
+scripts and create a module script this
+module script is going to be our client
+Placer this will be responsible for
+placing the objects pretty pretty
+straightforward and the client um local
+script will just handle the life cycle
+so say local client
+Placer is a blank thing or say client
+Placer yeah yada so this is going to be
+a traditional
+objectoriented class say client Placer
+uncore index equals client Placer so
+we're setting the index meta method say
+function Cent Placer do new we'll say
+local self equals set meta table a blank
+table and then client Placer and then
+we're going to say return self so this
+is basically just the bare bones for a
+objectoriented class and I have a video
+on it well I guess I probably format a
+different way back then but I do have
+videos on object oriented programming if
+you want to check them out and then
+we're also going to make another
+function called uh client Placer colon
+destroy which will this is a stub now
+but we'll use it later because there is
+stuff that we'll have to unhook and like
+clean up once we're done and we'll have
+to like destroy it after you know you uh
+you press a button again so you could
+make all this stuff using goys but for
+this tutorial since it's about the
+placement not the UI design or we're
+just going to be using key presses
+that's why we have um context Action
+Service in our local script so we're
+going to say local function set
+placement active and this will take take
+a a name which we don't need it'll take
+a um user input state which we do need
+and it'll take in a user input object
+which we don't need that's why I'm using
+underscores to tell you hey we don't
+need it we don't really care what that
+is going say if State equals enum or if
+state is not equal
+to enum do user input state. begin then
+we're going to return so if it's any
+other state then begin like when you
+press the key that's when begin fires
+you we don't care is you're going to
+press the button you're going to create
+the Placer you're going to PR the button
+you're going to destroy the Placer so
+I'm going to say if not Placer then well
+we need to First Define a variable up
+here called Placer so local Placer
+equals nil and this will be our Placer
+object so we're going to say if not
+Placer then we're going to say local
+plot equals get
+plot invoke server and we don't need to
+send anything because all we need all
+the server needs to know is whose player
+who who wants to plot like the player
+who sends it and that's automatically
+sent and we going say local play Placer
+or say Placer equals client Placer do
+new but obviously we don't have it
+required so we need to go to the top of
+our script and say local
+client local
+client I can spell Placer client Placer
+equals requir script. parent wait for
+child client Placer there you go not
+really sure if you need the wait for
+child but could be safe and then we're
+going to create our new client Placer we
+will need to send in the the plot um um
+yeah let's do that now so we can send it
+the plot here because the client Placer
+will need the plot eventually down the
+line say client Placer new we plot which
+is a model and
+then in here in our in our set medit
+table we can set plot equal to there go
+cool so our client Placer is now aware
+of its plot and it's all ready to cook
+and otherwise if the client Placer does
+exist like if it's around now because
+you'll be able to like um go into build
+mode go out of build mode like many
+times during your session so otherwise
+we're going to just destroy the Placer
+and that will clean up all of the stuff
+that we create and give us a fresh start
+each time you unclick or each time you
+press and the build button again and
+we're also going to set Placer equal to
+nil so this line will run down the line
+so this function is meant to be hooked
+into a context Action Service bed action
+that's why we have those specific
+parameters so so to actually hook it up
+we're going to say context Action
+Service bind action and we take a name
+which I'm going to say activate
+placement and then it doesn't really
+matter um and then we're going to take a
+a function which is the one that we made
+say set placement active so this is a
+function that will take the stuff and
+then what do we want to create a touch
+button for more purposes I'm be using
+computer so no it's going to be false
+and then now we need to send in the key
+code so for me I'm just going to say B
+so you're going to press the b key on
+your keyboard to activate the CL place
+your stuff and then before we run this
+we want to we want to do or write the
+gplot um hook on the server so in the
+server we're going to say
+local first we're going to get
+replicated storage local replicated
+storage
+equals game get service replicated
+storage and then we're going to say
+local get plot equals replicated
+storage. gplot so the reason we're using
+a remote function here as opposed to
+remote event is that the client wants a
+value and the server will return a value
+you could obviously send a remote event
+to the server and the server could send
+something back but that's kind of dumb
+like you want to get the value so you're
+just going to return it so we're going
+to say get plot on server invoke so when
+the client invokes us we're going to set
+on server invoke equal to a function
+which is going to be plot manager get
+plot again get plot takes in a player
+parameter this on server invoke takes in
+a player parameter so we can just slot
+it right in there and it'll just return
+the blot so just to verify everything
+works we can write inside of our new
+we're going to say print self. plot.
+name and then just double check that
+everything's good yep we should be able
+to play
+this and when we get in and we Press B
+it prints B Rice's plot we press B again
+it turns off and we Press B again and it
+does it again so every time we enter
+build mode we're going to be creating a
+new object like this and again the
+reason I know this is because I tried
+making this in different ways this is
+the way that turned best it abstracts
+the functionality out of this Bas script
+this base script is only responsible for
+sponding within this thing takes the
+plot does the rest handles the rest
+we're going to be writing a lot of code
+in here so I know this was a little
+tedious you don't really know what
+you're doing because I set up all this
+architecture ahead of time when I was
+writing the script for this video but
+trust me you'll understand why
+everything the way it is as we move on
+just remember we're making these module
+scripts that each have their own
+specific purpose they're going to be
+short they're going to be concise and
+they're going to do what we tell them to
+do and most if not all actually we have
+like one more you need to make down the
+line but most things are already set up
+so in the future videos we actually be
+able to code the functionality of the
+block placement so stay tuned for those
+I really hope you enjoyed this video but
+with that
+I hope you have a nice day and
+[Music]
+goodbye

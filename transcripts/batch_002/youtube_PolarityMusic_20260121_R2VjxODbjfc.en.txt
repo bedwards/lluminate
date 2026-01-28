@@ -1,0 +1,718 @@
+This is the best EQ matcher that you can
+get at the moment. Matcher by Meldda.
+And I haven't made a video about this
+yet, but someone asked me under the last
+video if I can do some kind of deep dive
+into this plugin and show you how I use
+it, why I use it, and how it works. And
+the first reason why I like this plugin
+is that you have on the left side here a
+big browser where you can select your
+reference curve. And you already get
+here a lot of presets, some factory
+presets with the plugin. Uh, guitar
+preamps, headphones, correction curves,
+and uh, master target curves for all
+kinds of genres and music pieces. And to
+be honest, I don't use any of these. I
+use my own target curves or reference
+curves. And I also want to show you how
+I create these kind of curves here uh,
+later on the video, of course. Um, so
+the second reason why I like this
+plug-in is that you EQ not only the mid
+channel, you also EQ and match the side
+channel or the side information, right?
+And it's really important for me because
+um you can control your stereo field
+with this pretty nicely. So the big
+question is now why do I use a matchup
+plugin in the first place? uh why not
+just manually EQ your master? And that's
+exactly what I did for many many years.
+Uh but the problem is not that I'm lazy
+or anything like this. It's more like
+consistency. I like consistency. So, if
+you have multiple tracks, you release
+stuff on Band Camp or you have an album
+or an EP or whatever, and you want to
+keep the same frequency distribution
+across all tracks, the same kind of
+loudness, dynamics, stereo field, and so
+on. It sounds really weird if you have
+you come you listen to one track and
+then you listen to the other track and
+it sounds completely different. the
+completely different stereo field, the
+completely different frequency
+distribution. Right? So, this is why I
+use this. I want to have consistencies
+or consistency between my music pieces
+in general. I really like to have this
+and uh that's why I use it. And the
+second reason why I use matching EQs is
+that it allows me to see big mistakes,
+big errors pretty fast. If you apply
+something like this here on the master
+and you um analyze your input and then
+it tries to apply some kind of
+correction curve, you can see a big bump
+in the middle or down here or here,
+right? You know instantly, oh, something
+is wrong. Maybe the bass is actually
+highpassed or the drums are not cutting
+through or something like this, right?
+Or the pets are too quiet or you know
+some big mistake. You can see it
+instantaneously here on this graph when
+it tries to compensate in certain
+frequencies area in certain frequency
+areas. So this is why I use it
+consistency and just safety and allowing
+me to have some kind of um information
+about what's going on on my master.
+What's going on with my music? What's
+going on? That's the the big question I
+have. So let's put it to use. In the
+background here, you can see a track
+already. And on the master, I have here
+this M matcher plug-in instance. Nothing
+is happening. I just selected here some
+kind of uh reference curve. And I want
+to go here for German bass deep roller
+hour average uh preset. It's my own
+preset here uh compiled from multiple
+tracks. It's not just one single track.
+Um, usually I back in the days I just
+use one track, but it's actually not
+really helping because you have this one
+track and this one track is in a certain
+key and the bass is on a certain key
+like F or G and your track is like in D
+sharp of course and you have a different
+bump here, right? So F is probably here
+and D sharp is down here or something
+like this, right? And it tries to push
+the wrong frequencies for the for your
+track because you're on a different
+scale. So what I do usually is I use a
+lot of smoothness here. So I smooth out
+the EQ curve, right? So you have a rough
+guidance for the right direction. So
+it's not really trying to push one note
+at a time in the bass for instance. And
+uh I use uh multiple tracks for
+reference, not just one track. And um in
+an idial v world you use maybe
+different tracks with different scales,
+different bass notes and so on and then
+you get better better results. Okay, so
+let's put this here to use. I have a
+track in the background. Nothing is
+going on at the moment. No processing is
+applied. So hit play.
+Let's analyze this here.
+And you can see it collects a lot of
+information here from the side channel
+and also from the mid channel. Very
+important.
+And you can do this here for the whole
+track if you want to, but most of the
+times it's just okay to go to a certain
+area in your track where you have like
+the bass, the drums, and the pet sounds
+playing and then just record this and
+call it a day. When you're done, you
+just hit here the analyze button again
+and then it already applies here in
+correction curve because we selected
+here this reference curve, the drum bass
+deep roller preset and we analyze the
+input. So now it applies here a
+correction curve. You can see it tries
+to push here the frequencies on the side
+channel around 30 Hz a lot. And on the
+mid channel nothing not so much is going
+on. Maybe here around 200 Hz there's a
+push 1k there's a small push and also
+here at 20k to bring out here the the
+high end a bit more. So that's what this
+EQ tries to do. Um, we can also open up
+here the uh advanced settings. And you
+can see there's a button called keep
+level. If we use this, it kind of
+compensates here for the loudness. When
+you apply an EQ and you push a lot of
+frequencies, of course, the output is
+much higher than the input. And here you
+can compensate for this. Uh with this we
+have a much better um kind of yeah
+insight of what's going on with the EQ.
+So we can use the dry wet knob which is
+actually not a dry wet knob. It's
+actually an amount knob um because it
+scales the correction curve here from
+zero so no processing to 100%. So let's
+listen to this.
+Okay. So, you can see it wants to, you
+know, EQ a lot of stuff out here around
+700 hertz. It pushes a lot of
+frequencies here around uh what's this
+40 htz uh 43 hertz F1. Uh it's probably
+the bass frequency. Um so yeah, you can
+see what's going on and then maybe go to
+the different channels and boost certain
+frequencies uh with the manual EQ for
+yourself. So let's say you have here a
+boost around 200 htz and you listen to
+your tune and you think oh well actually
+the bass is actually not warm enough or
+it's not you know not prominent enough
+in the mix. So you have options here.
+You can say, "Oh, I actually have some
+room here. Maybe let's boost only on the
+bass 200 Hz instead of on the master um
+where you push 200 Hz then on every
+sound on the drums, on the bass, on the
+pad sounds equally. So you can go here
+then to the bass bus and just boost
+something around 200 Hz and then you
+analyze your master again and then maybe
+it's not boosting that much anymore here
+around this area. So you can use this
+more like an analyzer for your mixdown
+or for your um bus tracks, right? So we
+can act then on the bus track instead of
+uh applying a big heavy uh EQ EQ
+correction curve on the master itself.
+Uh so yeah so this is how I use it. We
+can also now here apply different other
+curves but most of the times here the
+drum bass deep roller is my that's how I
+like to have my mix down right. Um and
+most of the times I also don't dial in
+100%. They also only go for 50% maybe
+here on the dry wet knob or on the
+amount knob. Um then we have your
+smoothness is also important. Um I
+showed you this earlier. It just goes
+from very individual frequencies. That's
+that's maybe more interesting. your
+smoothness. 0% is more interesting for
+if you want to clone, let's say,
+amplifiers where you have like really
+specific small little frequencies you
+want to correct or you want to apply.
+Uh, but for the master, you want to go
+at least for 10% maybe more just to have
+a rough estimation of where you want to
+correct stuff. And then there's this
+here called average versus max. So when
+you analyze the reference curve and also
+the uh your track uh for the analyze
+part here for the input part um you
+measure the average. So it's a time
+window maybe 300 milliseconds where you
+measure the loudness there. uh so you
+don't get every peak of frequency in the
+uh calculation
+versus max uh which is the maximum
+probably the maximum uh value the
+maximum level of a certain frequency. So
+you can balance this out between the two
+and you probably more want to go to
+average than to max. Maybe max is
+interesting for uh club tunes where you
+want to really peak with the frequencies
+at a certain level. Um so yeah, you can
+balance this out. And by the way,
+there's also a really nice help menu
+here that you can use. Uh wait a minute.
+Uh so can't resize this. Okay. Uh so
+here in there, there's a lot of stuff
+you can read how this actually work. And
+I really uh recommend to do this here.
+average versus max controls the ratio
+between two analyzed spectrums infinite
+average and maximum from temporal
+average. Uh they respond differently
+when the audio material is changing the
+spectral properties. So you have to
+figure out what's right for your music
+and then settle down to a certain knop
+here that or a certain knob position uh
+that you want to apply then to all your
+tracks. It's not like you want to have
+this changing on all tracks because then
+you uh throw basically the consistency
+out of the window I would say. Um yeah,
+I have this on all my tracks on the same
+position. Smoothness is 10%, I think.
+This is by default. This is the default
+value. Average versus max is 50%, output
+is zero. Dry wet is most of the time
+50%. Then we have uh advanced settings.
+uh key pedal. I showed you this. It just
+matches the output signal to the input
+signal. There's also here on the
+toolbar, there's an uh automatic gain
+control that you can set. When you hit
+here set, it analyzes the input signal
+and then matches the output to the
+input. Also really helpful. Uh we can uh
+switch off your midside. We also can use
+keep level. We can switch your minimum
+phase to linear phase probably. As we
+can see here, the matcher at the moment
+uh changes the face which is not the big
+problem. It's not a problem at all. A
+lot of people make videos about it why
+it's a problem, but for me it's a non
+problem. Um you can see here on the left
+side in Bitwig the processing latency is
+zero. Uh but when we switch this here to
+this different mode, you can see now we
+have here processing of uh
+170 milliseconds of latency just for the
+matcher alone. Uh here the benefit is
+that you don't touch the face if if it's
+really important for you. But I would
+say you don't need it at all. Uh then
+you can change here if you want to um
+use individual channels for reference
+like the side channel and the mid
+channel separately. That's what I
+explained to you earlier. I really like
+this because no other matching EQ does
+this. Um so far as far I know um and
+also here for input. And then we have
+here some range knobs. So you can say uh
+or you want to cut out certain
+frequencies. So you match basically the
+whole spectrum the whole frequency
+spectrum from 20 to 20k and you can say
+h just keep the bass out right. So make
+an highp pass here by uh at 140 hertz
+for instance and also keep the top end
+out right so you can only EQ stuff
+between between 146 htz and 2,580
+htz. Uh so you can uh remove certain
+frequencies from the equation. Really
+nice quality sliders on four most of the
+times. And um yeah, you can also change
+it to smoothing. I don't know why they
+have so many options in these plugins. I
+have no idea. Most of the times you
+don't need it, but if you want to dive
+into this, you can change everything.
+It's really nice to have. So the M
+matcher plugin is here on the master at
+the moment uh on this master. Um, and
+that's okay. But you can also use this
+on buses, on the drums bus or on the
+bass bus. So, let's remove this here
+from the master for a moment and only go
+to the bass or to the drums here uh that
+sound like this. And we can here just
+apply an M matcher uh plugin. We can do
+we can do the same things to the drums.
+We just analyze here the drums
+uh a little bit, but there's not much
+happening here with the drums. So we can
+just stop it. And you can see here it's
+already trying to apply a curve for a
+track. And for the track it's not going
+to work because with the track we have
+pet sounds and we have bass sounds,
+right? So it applies here um yeah a
+curve that's not helping at all. Uh but
+we have here some reference curves for
+drums that I made myself. Right. So here
+drum bass drums GS median here I
+analyzed a lot of drums from some sample
+libraries I like uh just to have the
+same kind of consistency. Okay I've also
+here let's say uh a pink noise curve
+uh stereo uh 70 Hz cut. So there's a low
+cut at 70 Hz. That's mostly where most
+of my drums cut anyway. So there's
+nothing below 70 Hz for me with most
+drums. Uh, so I can EQ the strum bus
+here to a pink noise curve.
+And again, I don't want to use 100%. I
+don't want to have pink noise, a real
+pink noise curve for my drums. I just
+want to go roughly in this direction.
+Okay, that's the idea. And most of the
+times when I do this mixing tutorials or
+I did a mixing tutorial uh a few years
+ago about pink noise and a lot of people
+are so uh you know you don't need to use
+pink noise and pink noise is not ideal
+and it's you know it's not uh the best
+curve to use it. It's just it's just a
+reference. You want to go slightly or
+roughly in this direction. You don't
+want to go there 100%. it's not, you
+know, so you don't take it too seriously
+what I say. Okay. So, here you can use
+pink noise as a reference, but most of
+times I just use my drums here. Uh, and
+again, it's not like that I could not EQ
+this by myself. It's more like for
+consistency. So, I have roughly the same
+kind of sound or frequency distribution
+for the drums. Also, I have this here
+for the bass. It doesn't work in this
+case here, but yeah. And I show you then
+in a minute here how I do these kind of
+things because it's also very
+interesting how this tool approaches
+this. So this is basically here the drum
+bus.
+Yeah, it takes stuff out. And you can
+combine this then with the master,
+right? So if you have for instance uh a
+track that you like, what you can do
+then is use a stem separation tool with
+AI. So you separate the drums from the
+bass from the pet sounds and then you
+have three different stems for each
+different track and then you can analyze
+each stem each track on the master and
+then you combine everything. So you have
+like an a master target and um also um
+the targets for the buses for the bass
+bus and for the drums pass and for the
+pets bus. And then you can combine
+everything here on the on the on these
+individual buses. And then on the master
+you're already set more or less because
+this is everything of this is contained
+in this already.
+So you don't need to make a science out
+of this. Um, I try basically everything
+I can just to see what's coming out. So,
+I'm exploring this kind of idea. How far
+can I push this? If this is is this is
+actually helpful. But you don't need to
+do this. If you just use matcha on the
+master and you use a preset target,
+you're good. Okay. This is just my kind
+of fetish to go into this and try all
+kinds of possible ways and try out some
+um weird ideas.
+So, you don't need to do this. It's not
+something you need to do. Okay. Anyway,
+so these are the drums. You can also do
+this here on the bass bus. Uh let's
+listen to the bus to to the bass bus
+here. Um
+let's call matcha
+analyze it.
+And it also depends of course what kind
+of bass you have as a reference, right?
+So if you have a subbase and you
+reference some kind of mid-rangey neuro
+funk bass, it's also not going to work.
+But you can work around this.
+Okay, so we have this. We compare this
+here to our base preset. You can see
+there's a lot of stuff going on here.
+So, it wants to push a lot of top end,
+which is not what I want to do because
+it's a very muffled bass. It's a just a
+subbase. So, we can go here to the
+advanced settings and just, you know,
+remove this here from the equation again
+and just call it a day.
+Keep level. You can see there's nothing
+left here. Actually, it wants to eque
+some stuff here around 50 Hz, but it's
+probably because of the input material.
+Maybe use a bit of smoothing here
+just to have some refs. And here it
+tries to EQ out stuff for uh the mids or
+the low mids of the kick drum probably
+so you can see what's happening. So,
+it's also interesting for learning for
+learn how to EQ certain things if you
+analyze a lot of different music, right?
+Um so yeah so this is now your drums in
+the bass and then you go back to the
+master and um put another matcher on
+that and then you analyze here again
+the whole thing.
+So this is what you can do with this and
+I show you in a minute how I actually um
+created these reference curves because
+it's very easy. You can do this multiple
+ways. Um let's apply here the correction
+curve for a moment.
+Yeah, it sounds a bit more defined.
+Okay, so the reference curves. So, I
+have some presets here already, but you
+can just hit the analyze part. So, you
+put this maybe on um a different track.
+So, you import maybe a track you like on
+a different channel here, and then you
+hit analyze. And it does the same thing
+as before, but now it uses here this as
+a reference curve, as a target curve.
+Here it doesn't really work because
+analyze uh the uh the reference is the
+same as the input. So, it doesn't make
+any sense. But you can just hit this
+button and analyze whatever comes into
+this plugin. And as I said before, you
+just import the track you really like.
+And then you have a new reference curve.
+But in my opinion, it's uh it's okay to
+do this. It's maybe more helpful for
+cloning amplifiers or single sound
+sources or stuff like this. Uh what I do
+most of the time is I use this drop-own
+menu here. I can see there is here
+analyze folder or average analyze loads
+all analyzes in selected folder and
+produces an average right so what you
+can do is you can just u use here on
+folder and you can see I have a lot of
+different folders with reference AB
+compare stuff so for instance here I
+have um 2025 drum and bass drums right
+so I have this folder and there's a lot
+of different sounds in there maybe and
+look into this here. Uh, looks like
+this. So, it's actually just um drum
+loops from a sample pack or from
+multiple sample tracks. I really like um
+so we just analyze this here and we get
+some kind of curve from this. Uh wait a
+minute here. It's actually
+analyze folder drum bass drums. Hit
+okay. And then we can say output folder
+for the analyzis stuff. Right. So, you
+just make some kind of folder. I don't
+know. Um, maybe do something here.
+Tutorial.
+Tutorial.
+Hit okay.
+And we choose this. Hit okay. And then
+just brings in all the different samples
+or drum loops as you can see here. And
+it creates individual
+curves from that only for the drums.
+Uh, and you can do this with every kind
+of song or stems or whatever you want to
+use for that. It takes a while.
+So, now that we have this
+uh we have now individual curves for
+each of these drum loops, which is okay,
+but we want to have all of them
+combined. We want to have an average
+from all of these samples. So what we
+can do now is we can go here to the
+drop-down uh from the reference and say
+uh average analysis loads all analysis
+in selected folder and produces an
+average. This is okay. But there's
+another one here called average median.
+And the only difference you want to know
+for this for these two is that you want
+to use this average here for when you
+have below 10 tracks or 10 sound sources
+you want to compare. And you want to use
+uh average analysis median you want to
+use when you have a lot of different uh
+tracks or stems you want to compare. In
+our case here we have a lot of different
+stems at least 20. And median just
+calculates the average in a different
+way. I I don't want to go deeper into
+this math because I don't understand it
+really, but it takes kind of a different
+approach. And when you use here the
+normal average value, it's just taking
+all the values. Let's say you have 20
+values and then it just adds all these
+values together and then it divides it
+by the quantity. Let's say 20 and then
+you get a value out of this. The problem
+with this is when you have like one
+source in there that has
+that kind of have a a big difference in
+there or has some weird frequency shapes
+in there. It um kind of influences the
+whole average a lot. And with this here,
+it's not the case. It just takes every
+time the middle value. So each
+individual sound source doesn't have
+that much influence over the whole
+outcome. Uh okay, I don't will go deeper
+into this, but just use this if you have
+multiple or a lot of sources above 10
+and use this if you have below 10
+sources. So here we use median. I really
+like this. And it takes all of these
+things together, right? And it uses this
+to calculate the curve that we have here
+now at the moment. Uh and then we can uh
+save this as a preset saves current
+thing uh tutorial.
+Bam.
+Want to rewrite all the files.
+I don't know.
+Oh, I selected here something. Okay,
+that's that's a problem. Tutorial.
+Yeah. Okay. So, now we have a preset
+here um that basically combines all the
+drums from this folder as an average.
+So, it's not like one single source. You
+have multiple sources. It's much better.
+And you can do this not only with drums.
+You can do this with complete songs.
+That's what you usually do. But I do it
+also for drums. And sometimes you can
+also do this for bass sounds. Okay. And
+if you don't have bass sources,
+um you can do something like this here.
+Here, this is uh more or less an EP from
+an artist, right? M multiple tracks as
+wave files. I bought this from Band
+Camp. And then I use a tool like
+Ultimate Vocal Remover. Um I show you
+this here. So this is more like a stem
+separation tool. Um I think it's open
+source. It's completely free. But the
+big benefit of this tool is that it has
+a lot a lot of models you can use for
+separate uh certain stems. It's not just
+one big model for everything. You can
+use different uh methods here to
+separate stuff. And you select basically
+an input folder here which is here um my
+um yeah EP I downloaded from Band Camp.
+And then I select an output folder which
+is then bass or drums. And you select
+all the stems you want. And what I use
+sometimes or most of the times is using
+this here sample mode uh 30 seconds. So
+it's not processing the whole track stem
+separating the whole track. It's just
+separating 30 seconds. But the the big
+part is it's not using the beginning of
+the track. It's using the middle part
+where the meat is. So it's kind of
+intelligent in a way. So it's separating
+the meat of the track instead of the
+beginning. So you get like drums and
+bass from your uh music that we bought
+from Band Camp, right? And you have some
+bass sounds here. Uh maybe I hit play.
+So, it's not really correct. There's
+also some some uh top end sounds in
+there. Um, the drums sound like this.
+Also, a problem here. Sometimes the kick
+drum is uh not really recognized. It's
+combined with the sub sometimes, but you
+get an kind of feel for where all these
+sounds need to be on the buses
+and how loud they need to be and what
+kind of frequency distributions they
+have. So, you can analyze everything
+with these stem separation tools and
+then see uh where your stuff is, right?
+Where your drum bus is, what's happening
+on your bass bus, what's happening on
+the master. And then you combine
+everything and you can use this then in
+the uh matcher plugin and just analyze
+and compare learn maybe apply the curve.
+Uh sometimes you just want to see what's
+going on where's the difference and then
+apply a manual EQ on the on the bus uh
+in a certain place on snares. You also
+can compare single sounds like snare
+sounds. Where is the snare sound hitting
+for this track? I really like what's
+going on there. Just analyze it, compare
+it to your snare sound, and then you can
+see where it's lacking. Uh, one thing,
+one big piece is missing with these EQ
+matching plugins all the time, and I
+don't know why it's not solved yet on
+the plug-in market, and that's dynamics.
+Uh, if you have a snare sound and the
+snare sound is completely dynamic, it
+has a a big dynamic range. You can apply
+as many EQ curves you want. It it will
+never sound like the original snare
+sound that is clipped out of your mind.
+You know, it's it's clipped to the max.
+Um, so you need to keep in mind that the
+dynamic range uh is a big part of all of
+that. If you want to match tracks, if
+you want to match drum buses or buses or
+uh single sounds, um the dynamic range,
+the saturation uh plays a big part in
+this. So yeah, this is how I use matcher
+here. I use it for the for the master. I
+use it for the buses. I use it for
+sounds. I use it for um applying
+um resonator curves or you know
+amplifier curves or uh cloning sound
+characteristics stuff like this.
+Sometimes you can also apply the
+inversed thing right you want to uh
+subtract something you can also do this
+here. I can I think there's something
+like um
+uh
+reset where is it something there's some
+kind of feature here we where you can
+exchange basically the reference for the
+input and then the input is the
+reference uh but I can't find it invert
+yeah it's invert inverts the analysis so
+it's it's doing the exact opposite
+sometimes this is really helpful uh just
+to subtract something from something
+else. So let's say you analyze the drums
+and then you analyze the bass and then
+you can subtract basically the drums
+from the bass and then you EQ everything
+on the bass out that's happening in the
+drums or vice versa instead of using
+something like sooth or spectral
+compressor which is also cool but it
+does it live so you have like always
+this dynamic place and sometimes you
+won't have a static EQ eqing stuff out
+you can also do this here but most of
+the times I do this not matcher. I use
+uh Spectrum Thief which I also still
+use.
+Uh this one here is completely free and
+I think it's also open source if I'm not
+wrong. So here you can do the same
+thing. Uh but it's it lacks basically
+here the side or the mid processing and
+the separate side processing part. Uh
+besides that, this is also a cool thing
+and also the the presets are missing. So
+this is why I don't use this all the
+time. But sometimes or most of the times
+I want to have a static EQ stuff like
+sooth or what's the name Gulforce
+um or this EQ applies all the stuff live
+uh with a dynamic uh response which I
+don't really want sometimes. Sometimes
+it's okay but not all the time. Anyway,
+enough talk. Uh thanks for watching. I
+hope you get some nice information out
+of this video. Leave a like if you like
+the video. Subscribe to the channel. Let
+me know what you think. And I see you in
+the next video. Thanks for watching.
+Bye.

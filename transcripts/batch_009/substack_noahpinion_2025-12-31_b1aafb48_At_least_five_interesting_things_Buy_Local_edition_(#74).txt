@@ -1,0 +1,184 @@
+Title: At least five interesting things: Buy Local edition (#74)
+Source: noahpinion
+URL: https://www.noahpinion.blog/p/at-least-five-interesting-things-304
+Date: Wed, 31 Dec 2025 04:16:59 GMT
+Word Count: 3105
+Estimated Read Time: 15 minutes
+
+================================================================================
+
+Photo by
+Tim Mossholder
+on
+Unsplash
+2025 is drawing to a close, so here’s one last roundup of interesting econ-related items from around the web. I don’t have any podcasts for you this week, but an episode of “Doom Debates” with Liron Shapira will be coming out soon.
+1. Why Abundance is good for small business
+It always seemed a bit silly
+that some of the antitrust people decided to start a rhetorical fight with the Abundance people. After all, market power decreases abundance (since there’s a deadweight loss from monopoly). So theoretically these folks should be on the same side.
+But for whatever reason, some folks still insist on seeing a contradiction here. For example,
+Austin Ahlman asks
+how the Abundance movement will help a small businessperson trying to revitalize his hometown:
+And
+Zephyr Teachout asks
+what Abundance can offer to small pharmacists struggling in the face of competition from big chains:
+I don’t sneer at questions like these; they are good and important questions. I’m
+a big supporter of small business
+, which I view as a pillar of the middle class, a provider of variety, and a positive force in urban politics. So I definitely want policies that support it.
+In fact, the Abundance idea has a
+huge
+amount to offer small businesses. For example, let’s answer Teachout’s question first. Pharmacies face a huge number of regulatory barriers. It’s expensive, difficult, and time-consuming to get a permit to open a pharmacy. Renovating a space costs a lot of money and requires more onerous approvals and permits. There’s plenty of laborious labor regulation that raises the cost of hiring workers. And so on.
+These costs function as
+barriers to entry
+for businesses. Big chain pharmacies like CVS and Walgreens can easily pay those costs and take the required time; in fact, they’ve already budgeted the costs in. But for small independent pharmacies, these regulatory costs and delays are a huge burden. This puts a thumb on the scale for the big chains, making it a lot easier for them to drive the mom-and-pops out of business.
+Abundance isn’t purely a deregulatory project — there’s a lot of other stuff involved — but it definitely wants to reduce these sorts of regulatory overhead costs. That will make it much easier for small businesses to compete.
+This also helps answer Austin Ahlman’s question about the businessman trying to revitalize his hometown; reducing regulation will help speed him on his quest. But for a small business in a declining town,
+demand
+is more important than regulation. Where will the small businessman get customers?
+Abundance can help here too. Building
+infrastructure
+— roads, sewers, and electrical grids — will help people move to the declining town and revitalize it. Easy permitting for solar power and transmission will not only give the businessman cheap electricity, but will also lure industry to the area, bringing in workers who will then become the businessman’s customers. And so on.
+Abundance is, at its core, an idea that will make it much easier to run a small business. Fortunately, local politicians from Zohran Mamadani to Daniel Lurie are
+embracing that idea
+, promising to reduce regulatory costs in their cities in order to help their small businesspeople. “Antimonopoly” intellectuals should pay attention.
+2. “Luxury” houses reduce rents for people who live in “affordable” houses
+Speaking of abundance, the quest to lower rents by building more housing is starting to bear a little fruit. Emily Flitter and Nadja Popovich
+report
+that a few big American cities have built a bunch of housing, and that almost all of these cities have seen big drops in rent. Meanwhile, the cities that build less housing have seen much less of a drop:
+Source:
+Bloomberg
+Now, correlation isn’t causation, as we all know. But reverse causation is probably not happening here — it makes absolutely no sense that falling rents would spark a building boom. And what other thing could be causing cities like Austin, Raleigh, Phoenix and Denver to both build more housing
+and
+have lower rents at the same time? If rents were falling because demand for housing in these cities were falling, we would probably not see housing booms there (and we can just look and see that all of these cities have growing populations anyway).
+So unless this pattern is purely random chance, or there’s some other factor that’s hard to imagine, it means that building more housing lowers rents. Which is exactly what the simple, “Econ 101” theory of supply and demand would predict. And which is exactly what careful studies of natural experiments have
+shown again and again
+.
+Note that as Flitter and Popovich report, the housing being built in these increasingly affordable boom-towns is almost entirely
+market-rate
+housing, or what anti-housing activists often pejoratively refer to as “luxury” housing. The activists have trouble understanding how building housing for high-income yuppie types could possibly lower rents. But it’s very simple — if you build places for high-earning yuppies to live, they don’t go bidding on older housing and sparking a price war that pushes middle-class and working-class people out of their homes.
+Essentially, high-end housing acts as a “yuppie fishtank” that prevents an influx of high earners from raising rents for everyone else:
+You can call this a “trickle-down” effect all you want, but a nasty-sounding label doesn’t change the basic economics of the situation. Building more market-rate housing lowers rents.
+3. Why tariffs haven’t crushed the U.S. economy
+A lot of people are asking why the U.S. economy has been so resilient in the face of Trump’s tariffs. The effects of the tariffs are evident —
+import prices are rising
+, the
+manufacturing industry is suffering
+from more expensive inputs, and this may be behind a gradual
+rise in unemployment
+. But overall, even though American consumers are incredibly pessimistic on surveys, growth remains solid and employment remains high. What’s going on here?
+Were economists wrong
+to warn about the dangers of tariffs? And if not, where is the economic calamity we were promised?
+A big piece of the puzzle is that actual tariffs are not nearly as high as the official rates that the Trump administration has announced (to say nothing of the rates Trump was threatening back in April). The statutory tariff rate, calculated using the pre-tariff export mix, was 27.5% in September, but the actual rate U.S. importers were paying was only 14%:
+Source:
+Gopinath and Neiman (2025)
+That chart is from
+Gopinath and Neiman (2025)
+, who explain that the Trump administration has used a large number of carve-outs and exceptions to reduce the economic pain from its own policy:
+Specific products or even specific companies (that commit to build manufacturing plants in the United States, say) have been offered exemptions from the tariffs. For example, various semiconductors were granted exemptions from the reciprocal tariffs announced by the United States in early April 2025. As a result…semiconductors have an actual tariff rate of only 9 percent despite a much larger statutory tariff of 24 percent. This same exemption also drives the gap between Taiwan’s 28 percent statutory rate and its 8 percent actual rate…
+[Another] key driver of the gap is compliance with USMCA, the trade agreement between the United States, Mexico, and Canada that replaced the North American Free Trade Agreement in 2020. If a sufficient share of a shipment’s value was added inside the three economies, rather than imported into the bloc, the importer can typically declare the goods USMCA compliant and largely avoid tariffs.
+A 14% tax is not an incredibly high rate. It’s
+a very inefficient tax
+, since it taxes intermediate goods instead of final goods. But it’s not that high of a rate. And imports themselves are not that big of a percent of the U.S. economy — only
+about 14%
+in 2024. 14% of 14% is only about 2%.
+Raising taxes on the U.S. economy by 2 percentage points, even using an extremely inefficient tax, is unlikely to crush the economy — even when Americans are suffering most of the burden of the tax, as Gopinath and Neiman argue. And the U.S. economy is also getting lucky with the data center boom, which is
+probably canceling out
+a significant portion of the demand destruction from tariff-induced pessimism.
+That having been said, the pain from tariffs may simply take a while to arrive. Via
+Marginal Revolution
+, I see that
+Besten and Känzig have a new paper
+studying the historical macroeconomic impact of U.S. tariffs. The authors look at historical tariff policy announcements, and feed these “shocks” into a model of the economy. This is a very imperfect way of studying the impact of tariffs, since the model might be wrong, and the “shocks” might be responding to economic conditions in ways the authors overlook. But the main upshot of the exercise is that most of the impact of tariffs on things like GDP happens after one or two years have passed:
+Source:
+Besten and Känzig (2025)
+It has only been eight months since “Liberation day”, so we will probably be revisiting this topic a year from now.
+4. The U.S. government gets defrauded too often
+A lot of ink is being (justifiably) spilled over the
+Minnesota welfare fraud
+, in which Somali communities defrauded the Medicaid system out of at least $250 million, and
+as much as $18 billion
+. But this is only the biggest and most audacious case of government fraud that has cropped up in recent years.
+For example, few people noticed the $1.3 billion Medicare fraud perpetrated by
+Philip Esformes
+, who was pardoned by Donald Trump during his first term in office. California was recently found to be suffering from an epidemic of
+fake community college applications
+that siphoned millions in educational funds from the state. The food stamp (SNAP) system is defrauded of
+hundreds of millions every year
+. Florida’s school voucher system
+reportedly has no idea
+where thirty thousand “students” are. Much of this fraud occurs at the state level, where billions of dollars are spent each year with
+minimal to no oversight
+.
+Unless it gets much worse, the defrauding of the U.S. government is unlikely to impose a significant economic cost on the country — even a few tens of billions of dollars over a decade won’t be missed in an economy that creates tens of
+trillions
+of dollars of value each year. (Note: A few investigators believe that Medicare and Medicaid fraud totals
+up to $100 billion per year
+. This
+would
+be economically significant.) But high-profile cases like these reduce trust in America’s institutions, so preventing them is very important.
+Those who believe that the key is to simply elect Republicans will be sorely disappointed. The school voucher fraud shows how schemes designed to outsource government services are inherently vulnerable to fraud. Lots of this fraud could have been caught by having the government hire a lot more auditors, but the GOP tends to slash civil service positions and decrease state capacity. Right-wing schemes like DOGE have notably failed to find significant amounts of waste or fraud; it was the Biden administration that caught the Somali fraudsters in Minnesota. And of course, Donald Trump, who now presides over
+by far the most corrupt administration
+in American history, is willing to pardon notorious fraudsters like Esformes. In fact, one of the loudest voices calling for increased oversight of state spending programs is
+Democrat Ro Khanna
+.
+Tighter auditing of state spending is just one example of how America needs a “trust offensive” — a comprehensive program to increase trust in U.S. institutions.
+5. How to get rid of math anxiety (hint: teach people math)
+In 2013, my PhD advisor Miles Kimball and I co-wrote a post called “
+The Myth of ‘I’m Bad at Math
+’”, in which we argued that de-emphasizing natural talent and emphasizing hard work would lead to improved math education. It remains one of the most popular things I’ve ever written.
+I recently happened to see a paper that provides some concrete support for our argument.
+Ng et al. (2022)
+find that six weeks of intensive “remediation” — i.e., math tutoring — reduced math anxiety among Taiwanese kids by a considerable amount. The best way to make kids less anxious about math was simply to
+teach them math and have them do math
+.
+It’s always risky cherry-picking a single paper that supports your priors. And it’s worth noting that the authors find that intensive training improves performance even for students who
+don’t
+report high initial math anxiety, which suggests that a lack of time spent on education, rather than anxiety, is probably responsible for a lot of American students’ shortfall in mathematics. But
+meta-analyses
+of math anxiety
+remediation programs
+find generally positive effects, so I still have confidence that Miles and my article from 2013 was on the money.
+This is one more reason to believe that the progressive approach to math education is fundamentally wrong. Progressives have
+consistently focused
+on
+dumbing down
+math
+education
+in order to produce more “equitable” outcomes, resulting in worse education quality across the board. The success of various intervention programs in combatting math anxiety supports the notion that kids
+are
+educable, that math is
+not
+simply an IQ test, and that what’s needed instead is a culture of hard work and a willingness to invest in education.
+6. China, land of robots
+China is really big — about four times the size of the United States — which is why it now has the world’s biggest economy by many measures.
+1
+But having the biggest economy and being at the forefront of economic development are two very different things; China is still much poorer than developed nations. That gap won’t be closed for quite a while, if ever.
+But despite the country’s lagging living standards, an increasing number of people now see China as the world’s most advanced nation. It may not have big houses and plentiful services, but China has the world’s most impressive infrastructure, and a tech industry that’s leading the world in many areas.
+Central to China’s bid to be the “country of the future” is its mastery of an integrated suite of technologies that I call
+the Electric Tech Stack
+. The fundamental upstream technologies here are batteries, electric motors, and power electronics — the first two of which China utterly dominates. But we’re now starting to see what that mastery means in terms of downstream applications. The New York Times’ Keith Bradsher recently took a trip to China and
+wrote a bit
+about how electric technology is transforming life there:
+[China is] rolling out fleets of autonomous delivery trucks, experimenting with flying cars and installing parking lot robots that can swap out your E.V.’s dying battery in just minutes. There are drones that deliver lunch by lowering it from the sky on a cable…
+Hefei is one of the first Chinese cities to issue permits for what are basically flying cars. So I booked a ride…The two-seater is piloted remotely, not by someone sitting next to you…They can travel 25 minutes on a charge and go about 80 miles per hour…
+Electric vehicles (including models with a tiny gasoline engine for extra range) have accounted for more than half of new-car sales in China every month since March. A subcompact can cost as little as $9,000…New models can charge in as little as five minutes…Essentially, China has turned cars into sophisticated rolling smartphones. Some have built-in karaoke apps so you can entertain yourself while your car does the driving…
+We decided to eat in a city park…[W]e used a drone-delivery app to order a fried pork cutlet and a small omelet on fried rice…We returned to the park the next day and ordered soup…[T]he soup stayed warm despite its journey…
+While a
+few U.S. cities
+have experimented with driverless cars, China leads in the number on the road and where they can operate…Wuhan is one of a dozen or more Chinese cities with driverless taxis. Hundreds
+now roam
+most of the city, serving the airport and other major sites…
+We had enjoyed Hefei’s airborne lunches, but there’s a lot more autonomous delivery in that city than just food. China still has many intercity truck drivers, but is starting to replace them with robot trucks for the last mile to stores and homes…The trucks look strangely faceless. With no driver compartment in front, they resemble steel boxes on wheels…The trucks go to neighborhood street corners where packages are distributed to apartments by delivery people on electric scooters or a committee of local residents. Larger trucks serve stores.
+Much of this story is about China’s regulatory climate. Undeterred by worries over job loss (especially in the face of an anticipated demographic decline starting in the 2030s), China is willing to approve things like drone delivery, driverless cars and trucks, and remote-operated air taxis that Americans and Europeans balk at.
+Part of this is also a story about bank loans. Since 2022, China has tried to compensate for the bust in its real estate industry by pouring a flood of cheap loans into any tech industry deemed strategically important — and electric technology and autonomy are at the top of that list. So a lot of these companies doing drone delivery or self-driving trucks are playing with a huge amount of essentially free capital, like when Uber and Lyft were nearly free for Americans back in the mid-2010s.
+But a lot of this is a pure technology story. China bet on batteries and electric motors in a way the rest of the world didn’t, and that bet is bearing fruit. Batteries and electric motors make energy fundamentally more portable, in more finely divisible quantities. Thus, a world of batteries and electric motors — coupled with rapid progress in AI, of course — is a world in which much of the “dumb matter” of the world around us starts to get up and walk around on its own.
+China is eagerly rushing toward that robotic future while America and Europe
+quake in fear of the unknown
+and
+revile the scientific and technological institutions
+that once made our societies the envy of the world. There are many ways in which modern China is
+not a society to be emulated
+, but the country’s embrace of electric technology is a key way in which that country is now leading the rest of the world.
+Subscribe now
+Share
+1
+The reason China does not have the world’s largest economy at market exchange rates is that its currency is undervalued.

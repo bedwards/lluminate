@@ -1,0 +1,282 @@
+Yo, the last video of the year and I
+want to show you something special on
+this channel. I have never shown before
+for some reason. We all know the sampler
+of Bitwick Studio is not, you know,
+featurerich. It needs some work. But the
+sampler itself is integrated in Bitwick
+Studio, which in my opinion is the most
+powerful door on the market right now
+for sound design. So, we can fill in the
+gaps with some ideas, and that's what I
+want to do today. So, let's head over to
+Bitwig here. Um, so this is the sampler
+and we all know we can just load in here
+a random sample. I'm just using here
+this uh kind of AI generate pet sound.
+[music]
+So we can play it back and the sample
+itself has a textures mode which is a
+granular uh playback mode. Uh with this
+we can actually say we want to play from
+here we want to have a playback speed of
+0%. We can change the grain size and the
+grain position.
+So with motion we basically randomize
+the u the grain playback speed I guess.
+Uh because without motion it sounds like
+this
+very repetitive. Um but this leads me to
+an interesting um discovery.
+uh we can actually fake this textures
+mode with some uh devices of Bitwick
+Studio which uh allows us to have more
+control because here we can just only
+change the playback speed, the grain
+size and the grain position modulation
+and that's basically it. You don't have
+control over the shape uh of the of the
+you know of the envelope of the grain
+itself. You can't change the pitch for
+each grain and stuff like this. But we
+can reimplement this here in Bitwig
+uh with just with the repitch mode.
+[music]
+All we have to do is we go to the note
+of Xbox here and we use the note repeats
+device. It looks like this. And all it
+does is it just takes in a MIDI note and
+it's [music]
+playing it over and over. And here we're
+using 16 note repetitions.
+So this is basically the textures mode
+without the motion knob turned on.
+But now we can change here the ADSR and
+change the shape the volume shape of the
+grain itself.
+Yeah, it depends on how big the
+repetition timing is here. Maybe we go
+to milliseconds. So, we can see here
+it's sub 1 millisecond and the first one
+is already 4 milliseconds as an attack.
+So, it doesn't make any sense because
+the attack is not getting anywhere
+before we repeat the sound. Um, but we
+can do this here. We can change it.
+[music]
+So now we can bring in here randomizer
+and say we want to randomize the
+playback speed here just slowly or maybe
+faster. Something like this. Let's see
+how this sounds.
+[music]
+Okay. So, we need to we need to find the
+sweet spot for the grain size and the
+volume shape of course. And if you use
+the textures mode, everything is taken
+care of for you. Of course, this is the
+easy mode. Uh but here with three pitch,
+we can reimplement it. And then we can
+put some features on top to have more
+control if you want to do that. So now
+with this here we have a pretty solid
+crane playback. And the benefit of this
+already is that we can change the offset
+here while we are holding down a key.
+Without this we just play back the sound
+here one time and then we can't change
+the offset.
+Right? It doesn't do anything. We have
+to re-trigger the sound.
+Okay. But with this on, we re-trigger
+actually a real note and we re-trigger
+the whole sampler each time. So we can
+move around inside of the sample.
+[music]
+On top of that, we we can see here with
+this white line each grain where it is,
+how long it plays.
+So you can use your um release setting
+and make it ring out longer.
+That's a very long grain.
+[music]
+So this is also a nice idea here to use
+the randomizer to change the position
+slightly over time.
+maybe uh hold rate and note. So each
+time we re-trigger with each crane, we
+get a different position, a slightly
+different position. Let's see.
+[music]
+[music]
+[music]
+We can also add here randomize
+and instead of using this here on the
+left side per voice, we use it um
+globally for all the voices together.
+And then we
+uh we use smoothing here and we use a a
+very slow modulation for the playback
+position.
+[music]
+>> [music]
+>> Okay. So, already interesting and it's
+probably sounding exactly like the
+textures mode. Maybe a bit different,
+but that's how it is. Um, and because we
+are using note repeats here, we actually
+are in the domain of the node FX
+devices. So we can just add note FX to
+that to tweak the sound. So after that
+we can for instance go to randomize
+module here and say we want to randomize
+the panning. So each grain is then
+randomized in the stereo field.
+[music]
+>> [music]
+>> We can also say we want to randomize the
+velocity here. Uh for that we have to
+use here the velocity sensitivity. Of
+course we can change how much the volume
+is actually fluctuating.
+[music]
+[music]
+Oh, it's actually a chord in here. It's
+not a It's not a single sound. Anyway,
+doesn't matter. So, we can influence
+here the notes of course with note FX.
+So, we can also randomize here the
+pitch, which sounds probably very
+chaotic,
+right? But then we can say um let's use
+here
+um a key a key filter.
+Let's go for C minor for instance. It
+probably doesn't sound good because this
+is here chord. It's not a single sound.
+But we can kind of um
+yeah constrain it to a certain pitch or
+to a certain scale with this. Uh we can
+also use all the other um note FX tools.
+We can use humanize here to bring in
+timing uh fluctuations, velocity again
+or chance. So some grains are not played
+at all.
+[music]
+So we bring down the chance of the notes
+getting through the device. Um yeah,
+stuff like this. Um I want to also show
+you here that you can not only use
+single samples like this. We can also
+use um
+multi- samples. And I have here a Triton
+package.
+It's basically
+just a bunch of samples here. So each
+sample is a preset of the Triton
+keyboard, a key, some kind of piano
+sample or something like this. Um, you
+know, you know, just some lead sounds,
+some keyboard sounds
+[music]
+here. The problem with the select knob
+on the sampler is that you can't change
+the layer while you're holding down a
+key, right? So, you also have to
+re-trigger. So, when I play a sound and
+I change this, nothing happens.
+I need to re-trigger,
+which is, you know, sometimes I wish we
+can just morph gain morph through the
+layers, but it's not possible. Um but
+here when we use the re-trigger trick uh
+we can actually do this.
+[music]
+So we can use for each grain a different
+sample or a different layer
+um in here. Right? So this is one grain,
+this is one grain. We could do this by
+just using here a step modulator steps
+modulator and then say note advance. So
+every time we receive a no trigger which
+is in fact just the grain in this case
+uh we go to a different value and this
+different value brings in here a
+different layer. Does it make sense?
+Something like this.
+[music]
+[music]
+[music]
+Uh, by the way, we can also use an
+quantise module here, quantum uh
+quantize device and say we only want to
+play uh 16 notes with the grains or 32
+notes.
+So, you can quantize it to your BPM uh
+of your track. [music]
+also possible. You don't need to do it,
+but you can do it. Um, so yeah, with
+this step modulator, we advance through
+the whole multis sample here and have on
+each grain a different sound, which
+makes it maybe interesting
+uh for ambient or some
+other stuff. Uh, let me use here reverb.
+>> [music]
+[music]
+[music]
+>> Maybe we can also O bring in here a low
+pass filter for that and then we use
+let's say
+here we randomize the pressure
+and then on the device itself we use an
+expressions modulator and then we use
+pressure for the cutff. So each grain
+has a different filter setting. Now I
+think we need to per voice is active.
+Okay. Okay. So pressure modulates the
+cut off position.
+We can also put this note repeater into
+a note FX layer. Duplicate it and say
+this one has maybe different settings
+here.
+And we transpose everything down one
+octave,
+for example.
+And we do the same thing. And one octave
+higher.
+>> [music]
+[music]
+[music]
+>> It's it's very fun to play around with
+this and find the sweet spots and find
+something that works. And maybe if you
+are happy with something, save it as a
+preset so next time you don't have to
+fiddle around another two hours.
+[laughter] Yeah, but I just did this
+here with multi samples and I found it
+very interesting. I want to share it.
+Um, so maybe it's better to use this or
+to do this in the grid because you have
+better envelopes there and you can have
+more influence um uh
+over everything. Not only what I showed
+you here, but you can do it in the grid
+in a in a better visual way. I would say
+it in this way. So you can do it here in
+the in the chain pretty easily like I
+showed you, but in the grid it's
+probably a bit better because you have
+more control. Anyway, I want to show you
+this here. Um, you can lay out this also
+then with voice stacking. You can use
+multiple note repeats and Bitwick
+handles it pretty okayish I would say.
+Um, and you have more control than just
+using the textures mode here or cycles
+mode. I think that's it. I would just
+want to give you an inspiration more or
+less. Um, that's it. I see you next year
+and um, yeah, stay
+stay safe. Okay, see you next time. Bye.

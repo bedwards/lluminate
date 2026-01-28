@@ -1,0 +1,139 @@
+so this is going to be a little bit
+different of video because what I have
+here is a sunlight alarm that I've been
+working on it uses this little little
+microcontroller here see it blinking
+connected to a
+Servo right
+here which is going to push this lever
+or switch at exactly 8:45 so should be
+in a couple of seconds actually I don't
+know how accurate this watch is I have a
+computer here but you'll see
+it yeah and there you go
+so
+now this window
+opens so what this is meant to do
+is be a like sunlight alarm meaning that
+like they should wake me up with the sun
+because my bed is right behind me over
+there
+so as for this actually working I
+haven't really tried it yet but the
+concept's pretty cool and this was
+pretty
+cheap and it was a really fun
+engineering challenge and you'll see
+this like rig to get it to actually
+trigger
+is really really scuffed but it actually
+works and I'm in another country right
+now because I'm studying abroad for
+school but I still found a way to do
+some stuff also you can see this it the
+code still kind of messed up because it
+triggers like
+every uh 10 seconds and just keeps on
+triggering like while it's during that
+minute but like whatever it should be
+fine so yeah so now let's go check out
+the code okay so if we take a look at
+the code how this is actually working
+it's actually very simple this is my
+first time ever using
+Arduino and or not I guess this isn't
+technically Arduino it's a different
+board but nonetheless it's the same I'm
+using the Arduino IDE to program it so
+this is a C++ C like adjacent language
+it's not the same but it has very
+similar syntax and very similar way of
+working and the code I have running here
+is quite simple so I guess let's just do
+a brief overview so the main things that
+we have to get working here is the servo
+itself and then
+the time zone or the the actual time
+that I need for my alarm because what I
+want to do with this is I want to pull
+the some the internet time source and
+whenever it reaches a certain time which
+I have it rise hour and Rise minute the
+alarm should trigger
+so I have a couple like constants
+defined here and then all I do in the
+setup is simply
+just attach everything together do some
+configuration connect to the Wi-Fi oh
+and I have to have my password here too
+so don't connect to my Wi-Fi guys um but
+and then we also have this little quick
+swi quick click switch function here
+which basically just triggers the servo
+so Arduino has this hand handy Servo
+library that literally just does the
+servo stuff so I have I write a angle to
+the servo I wait a little bit I write it
+back so it gives you that like clicking
+uh Servo I want to say animation I mean
+I guess it is sort of an anime but yeah
+and then down here we have the HTTP
+request and note that I'm using HT HTTP
+and not
+https because https requires like
+certificates andu stuff like that which
+I could not be bothered to deal with so
+I went the simpler but more unsecure
+route but I don't really care and all
+this is doing is sending a get
+request to the
+[Music]
+server and we have to parse it with a
+Json distalization Library if it's a
+successful code and then I basically
+just yoink the date like the hour and
+the
+minute because this comes back in like a
+standard date format where it's like
+2024 and then like like May whatever and
+then it has like T and then it has the
+time so I just yoink those characters
+cast them to an in display them out to
+the debug log and then if the hour is
+like the hour that I need the alarm to
+trigger and if the minute is the minute
+I need to trigger we just click the
+Switch it's that simple there's a couple
+error handling codes and then I blink
+the LED here just for funsies so it
+blinks every 10 seconds and this code
+delays for 1,000 milliseconds then
+delays for another 9,000 so every 10
+seconds we pull the internet for the
+time so that's basically how it works
+very very simple code will be on GitHub
+if you want to check it out but like
+this is kind of fun like doing the
+microcontroller code is pretty enjoyable
+I might have to do this more often so
+overall this was a really cool
+experience because I even got to check
+out a maker space in Berlin because when
+the parts came the servo out of the the
+board actually had to be soldered I had
+to go find a soldering station and I got
+to check out like the local makers base
+pretty cool community and the lesson to
+learn here is no matter where you are no
+matter what you're doing there's always
+going to be time for those dumb side
+projects that take way too much of your
+time for zero actual use but they're
+really fun and really cool so I
+encourage you to make something cool
+maybe like send send it to me or send it
+on Discord if I'll be active I don't
+know how active I'll be but but yeah I
+hope you enjoyed really random video I
+probably won't do well but I don't care
+this was cool so see you next time
